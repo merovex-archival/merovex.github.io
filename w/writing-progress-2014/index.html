@@ -1,0 +1,304 @@
+---
+layout: page
+title: "writing progress 2014"
+date: 2014-01-6 14:01
+comments: false
+sharing: false
+sidebar: true
+footer: true
+---
+
+<p>This page helps to track my writing progress. I committed to 150,000 words in 2014. This page tracks my progress with the hope that it will help me be accountable. The data that drives the graphs is generated automatically each morning. I then have a couple manual scripts I have to run to pull that data and publish updates to this page.</p>
+
+<p><strong>Update August 2014:</strong> I set a goal of 150,000 words in 2014. However, the further I get through the year the more I realize the purpose of the goal was to finish two novels: <em>Luctation</em> and <em>Imbroglio</em>. Since I have good data from the beginning of the year, to finish both novels I needed to write 124,000 words. I was going to ignore the year objective, but now that I have momentum I wanted to use its gentle prod to continue forward. The caveat is that I've reset the goal to the 124,000 words necessary to meet the goal.</p>
+
+<h2>Charts</h2>
+<div class='row'>
+    <div class='col-md-12'>
+        <h3>Daily Progress</h3>
+        <p>This chart shows the daily progress (bars) and the running daily average</p>
+    </div>
+</div>
+<div class='row'>
+    <div id="chart-daily" style="height: 500px;" class='col-md-12'>
+    </div>
+</div>
+
+<div class='row'>
+    <h3>Cumulative progress</h3>
+    <div id='chart-cumulative' style='height: 500px' class='col-md-12'>
+    </div>
+</div>
+
+<div class='row'>
+    <h3>Words per Hour</h3>
+    <div id="chart-wpd" style="height: 500px;" class='col-md-12'>
+    </div>
+</div>
+
+
+ <script type="text/javascript">
+    var wpdChart;
+    var chart;
+    var chartData;
+    var arrow;
+    var axis;
+    $.getJSON("/writing-progress-2014/data.json", function(data) {
+        chartData = data["data"];
+        today = data["today"];
+        average = data["average"];
+        makeup = data["makeup"]
+    });
+    function zoomChart()  {chart.zoomToIndexes(chartData.length - 40, chartData.length - 1) }
+    function pZoomChart() {wpdChart.zoomToIndexes(chartData.length - 40, chartData.length - 1) }
+    function category_axis(c) {
+        var b = c.categoryAxis;
+        b.labelRotation = 45;
+        b.gridPosition = "start";
+        b.parseDates = true;
+        b.minPeriod = 'DD'
+        // b.maximum = 4000;
+        b.minorTickInterval = 250;
+    }
+    AmCharts.ready(function () {
+
+        var words_color = "#6495ed"; // Lite Blue
+        words_color = "#BFD3F7"; // Lite Blue
+        var ave_color   = "#0C751B"; // Green
+        var delta_color = "#000099"; // Dark Blue
+        var goal_color  = "#D28E18"; // Yellow
+
+        // SERIAL CHART
+        chart = new AmCharts.AmSerialChart();
+        chart.dataProvider = chartData;
+        chart.categoryField = "date";
+        chart.startDuration = 1;
+        chart.addTitle("Daily Writing Progress:  01/06/2014 - " + today)
+        chart.pathToImages = "/amcharts/images/";
+        chart.dataDateFormat = "YYYY-MM-DD";
+        chart.backgroundColor = "#FFFFFF"
+        chart.addListener("dataUpdated",zoomChart)
+
+        var legend = new AmCharts.AmLegend();
+        legend.switchable = true;
+        legend.data = [
+            {title:"EOY Goal", color: goal_color},
+            {title:"7-Day Average", color: ave_color},
+            {title:"Daily Count", color: words_color}
+        ]
+        chart.addLegend(legend);
+        category_axis(chart);
+
+        // value
+        var ave = new AmCharts.AmGraph();
+        ave.type = 'line'
+        ave.valueField = 'average'
+        ave.lineThickness = 2;
+        ave.lineColor = ave_color;
+        ave.title = 'Average'
+        ave.balloonText = "<span>Moving Ave.:<b>[[value]]</b> words</span>";
+        ave.columnWidth = 1;
+        ave.fillAlphas = 0.2;
+
+        var words = new AmCharts.AmGraph();
+        words.type = 'column'
+        words.fillAlphas = 0.7
+        words.valueField = 'words'
+        words.lineThickness = 2;
+        words.lineColor = words_color
+        
+        words.bullet = 'none'
+        words.bulletSize = 8
+        words.bulletBorderColor = '#FFFFFF'
+        words.bulletBorderThickness = 2
+        words.bulletBorderAlpha = 1
+        words.balloonText = "Words on [[category]]: <b>[[value]]</b>";
+
+        var delta = new AmCharts.AmGraph()
+        delta.type = 'line'
+        delta.valueField = 'delta'
+        delta.lineColor = "#000099"
+        delta.negativeLineColor = "#990000"
+        delta.balloonText = "Goal Delta on [[category]]: <b>[[value]]</b>";
+        delta.lineThickness = 2;
+        delta.bullet = 'none'
+        delta.bulletSize = 8
+        delta.bulletBorderColor = '#FFFFFF'
+        delta.bulletBorderThickness = 2
+        delta.bulletBorderAlpha = 1
+
+        var d_goal = new AmCharts.AmGraph()
+        d_goal.type = 'line'
+        d_goal.valueField = 'd_goal'
+        d_goal.lineColor = goal_color
+        d_goal.balloonText = "EOY Goal [[category]]: <b>[[value]]</b>";
+        d_goal.lineThickness = 2;
+        d_goal.bullet = 'none'
+        d_goal.bulletSize = 8
+        d_goal.bulletBorderColor = '#FFFFFF'
+        d_goal.bulletBorderThickness = 2
+        d_goal.bulletBorderAlpha = 1
+
+        // var s_goal = new AmCharts.AmGraph()
+        // s_goal.type = 'line'
+        // s_goal.valueField = 's_goal'
+        // s_goal.lineColor = '#FFDEAD'
+        // s_goal.balloonText = "60-Day Recovery Goal [[category]]: <b>[[value]]</b>";
+        // s_goal.lineThickness = 2;
+        // s_goal.bullet = 'none'
+        // s_goal.bulletSize = 8
+        // s_goal.bulletBorderColor = '#FFFFFF'
+        // s_goal.bulletBorderThickness = 2
+        // s_goal.bulletBorderAlpha = 1
+        // chart.addGraph(s_goal);
+
+        chart.addGraph(words);
+        chart.addGraph(ave);
+        chart.addGraph(d_goal);
+
+        // chart.addGraph(delta);
+        // Set Y Axis
+        var valueAxis = new AmCharts.ValueAxis();
+        valueAxis.inside = true;
+        valueAxis.tickLength = 0;
+        valueAxis.axisAlpha = 0;
+        // valueAxis.minimum = 0
+        valueAxis.maximum = 3000;
+        chart.addValueAxis(valueAxis);
+
+        // CURSOR
+        var chartCursor = new AmCharts.ChartCursor();
+        chartCursor.cursorPosition = "mouse";
+        chart.addChartCursor(chartCursor);
+
+        var chartScrollbar = new AmCharts.ChartScrollbar();
+        chartScrollbar.graph = ave;
+        chartScrollbar.scrollbarHeight = 60;
+        chartScrollbar.color = '#666666'
+        chartScrollbar.autoGridCount = true;
+        chart.addChartScrollbar(chartScrollbar);
+
+        chart.creditsPosition = "top-right";
+
+        chart.write("chart-daily");
+
+        // Total Progress
+        var progressChart = new AmCharts.AmSerialChart();
+        progressChart.dataProvider = chartData;
+        progressChart.categoryField = "date";
+        progressChart.startDuration = 1;
+        progressChart.addTitle("Cumulative Progress:  01/06/2014 - " + today)
+        progressChart.pathToImages = "/amcharts/images/";
+        progressChart.dataDateFormat = "YYYY-MM-DD";
+        progressChart.backgroundColor = "#FFFFFF";
+        // progressChart.addListener("dataUpdated",zoomChart)
+
+        var pLegend = new AmCharts.AmLegend();
+        pLegend.switchable = true;
+        pLegend.data = [
+            {title:"Goal", color: goal_color},
+            {title:"Progress", color: ave_color}
+        ]
+        progressChart.addLegend(pLegend);
+
+        var cGoal = new AmCharts.AmGraph();
+        cGoal.type = 'line'
+        cGoal.valueField = 'goal'
+        cGoal.lineThickness = 2;
+        cGoal.lineColor = goal_color;
+        cGoal.title = 'Average'
+        cGoal.balloonText = "<span>Goal on [[category]]: <b>[[value]]</b> words</span>";
+        cGoal.columnWidth = 1;
+        progressChart.addGraph(cGoal);
+        category_axis(progressChart)
+
+        // CURSOR
+        var pChartCursor = new AmCharts.ChartCursor();
+        pChartCursor.cursorPosition = "mouse";
+        progressChart.addChartCursor(pChartCursor);
+
+
+        var cumulative = new AmCharts.AmGraph();
+        cumulative.type = 'line'
+        cumulative.valueField = 'total'
+        cumulative.lineThickness = 2;
+        cumulative.lineColor = ave_color;
+        cumulative.title = 'Average'
+        cumulative.balloonText = "<span>Words on [[category]]: <b>[[value]]</b> words (Delta: [[delta]])</span>";
+        cumulative.columnWidth = 1;
+        progressChart.addGraph(cumulative);
+        progressChart.write("chart-cumulative");
+
+
+        // Total Progress
+        wpdChart = new AmCharts.AmSerialChart();
+        wpdChart.dataProvider = chartData;
+        wpdChart.categoryField = "date";
+        wpdChart.startDuration = 1;
+        wpdChart.addTitle("Words per Hour:  01/06/2014 - " + today)
+        wpdChart.pathToImages = "/amcharts/images/";
+        wpdChart.dataDateFormat = "YYYY-MM-DD";
+        wpdChart.backgroundColor = "#FFFFFF";
+
+        var h_axis = new AmCharts.ValueAxis();
+        h_axis.id = 'hours'
+        h_axis.inside = false;
+        h_axis.tickLength = 0;
+        h_axis.axisAlpha = 0;
+        // h_axis.minimum = 0
+        h_axis.maximum = 6;
+        h_axis.position = 'right';
+        h_axis.lineColor = '#003300'
+        wpdChart.addValueAxis(h_axis);
+
+        var wpd_axis = new AmCharts.ValueAxis();
+        wpd_axis.id = 'wpd'
+        wpd_axis.inside = false;
+        wpd_axis.tickLength = 0;
+        wpd_axis.axisAlpha = 0;
+        wpd_axis.minimum = 0
+        wpd_axis.maximum = 3000;
+        wpd_axis.position = 'left';
+        wpdChart.addValueAxis(wpd_axis);
+
+        var wpd = new AmCharts.AmGraph();
+        wpd.type = 'column'
+        wpd.valueField = 'wph'
+        wpd.lineThickness = 2;
+        wpd.lineColor = ave_color;
+        wpd.title = 'Average'
+        wpd.balloonText = "<span>Words on [[category]]: <b>[[value]]</b> words (Delta: [[delta]])</span>";
+        wpd.columnWidth = 1;
+        wpd.fillAlphas = 0.7
+        wpd.lineThickness = 2;
+        wpd.valueAxis = 'wpd';
+        wpdChart.addGraph(wpd);
+
+        var hours = new AmCharts.AmGraph();
+        hours.valueAxis = 'hours';
+        hours.type = 'line'
+        hours.valueField = 'hours'
+        hours.lineThickness = 2;
+        hours.lineColor = '#990000';
+        hours.title = 'Average';
+        hours.fillAlphas = 0.2;
+        hours.balloonText = "<span>Words on [[category]]: <b>[[value]]</b> words (Delta: [[delta]])</span>";
+        wpdChart.addGraph(hours);
+        
+        // SCROLLBAR
+        var pChartScrollbar = new AmCharts.ChartScrollbar();
+        pChartScrollbar.graph = wpd;
+        pChartScrollbar.scrollbarHeight = 60;
+        pChartScrollbar.color = '#666666'
+        pChartScrollbar.autoGridCount = true;
+        // wpdChart.addChartScrollbar(pChartScrollbar);
+
+wpdChart.addListener("pDataUpdated",pZoomChart())
+
+        // CURSOR
+        var pChartCursor = new AmCharts.ChartCursor();
+        pChartCursor.cursorPosition = "mouse";
+        wpdChart.addChartCursor(pChartCursor);
+        wpdChart.write("chart-wpd");
+    });
+</script>
