@@ -1,0 +1,15 @@
+---
+layout: page
+title: Welcome to the Ombrio Worldbuilding Project
+---
+
+The <strong>Ombrio Worldbuilding Project</strong> (hereafter, OWP or Project) is an effort to develop a slipstream genre milieu via community. It was founded by Benjamin Wilson as a way to help flesh out the milieu. He saw this as a chance to encourage other writers to share a milieu. Delusions of grandeur assert that a project like this could yield a universe as rich as Star Wars, Star Trek and other cult-followed. All it lacks is content...and a cult.
+
+<h2>Blog Articles</h2>
+
+{% for post in site.posts %}
+<div>{% assign fred = post %}
+  <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+  {% include post_meta.html %}
+{% if post.content contains "<!-- more -->" %}        {{ post.content | split:"<!-- more -->" | first |markdownify }} {% else %}        {{ post.content | strip_html | truncatewords:50|markdownify }}{% endif %}
+</div>{% endfor %}

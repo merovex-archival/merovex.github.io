@@ -1,0 +1,13 @@
+---
+layout: two_column
+---
+{% assign fred = page %}
+{% include post_meta.html %}
+{{ post.content | split:"<!-- more -->" | first |markdownify }}
+
+<div class="photo">
+  <img src="https://s3.amazonaws.com/dausha/images/articles/{{post.photo['image']}}" alt="{{post.photo['caption']}}" />
+  <p class="caption">{{post.photo['caption']}} (Photo: <a href="{{post.photo['url']}}">{{post.photo['creator']}}</a> {{post.photo['license']}}.)</p>
+ </div>
+
+{{ post.content | split:"<!-- more -->" | last |markdownify }}

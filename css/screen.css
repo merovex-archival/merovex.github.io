@@ -1,0 +1,321 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 5, ../_sass/screen.scss */
+html, body {
+  height: 100%;
+  font-size: 16px;
+}
+
+/* line 48, ../_sass/2015/_color.scss */
+.btn-success {
+  border-color: #859900;
+  background-color: #9bb300 !important;
+  text-decoration: none !important;
+}
+/* line 40, ../_sass/2015/_color.scss */
+.btn-success:hover {
+  background-color: #7c8f00 !important;
+}
+
+/* line 49, ../_sass/2015/_color.scss */
+.btn-danger {
+  border-color: #cb4b16;
+  background-color: #e25418 !important;
+  text-decoration: none !important;
+}
+/* line 40, ../_sass/2015/_color.scss */
+.btn-danger:hover {
+  background-color: #c24815 !important;
+}
+
+/* line 50, ../_sass/2015/_color.scss */
+.btn-primary {
+  border-color: #268bd2;
+  background-color: #3797db !important;
+  text-decoration: none !important;
+}
+/* line 40, ../_sass/2015/_color.scss */
+.btn-primary:hover {
+  background-color: #2485c9 !important;
+}
+
+/* line 51, ../_sass/2015/_color.scss */
+.btn-info {
+  border-color: #99A;
+  background-color: #a7a7b6 !important;
+  text-decoration: none !important;
+}
+/* line 40, ../_sass/2015/_color.scss */
+.btn-info:hover {
+  background-color: #9393a5 !important;
+}
+
+/* line 52, ../_sass/2015/_color.scss */
+.alert-info {
+  border-color: #a3cfee;
+  background-color: #cee6f6 !important;
+  color: #16527c !important;
+}
+
+/* line 53, ../_sass/2015/_color.scss */
+.alert-danger {
+  border-color: #f2a788;
+  background-color: #f7c9b6 !important;
+  color: #6f290c !important;
+}
+
+/* line 1, ../_sass/2015/_headers.scss */
+h1, h2, h3, .footnotes:before {
+  color: #036;
+  text-shadow: 2px 1px 2px #999;
+}
+
+/* line 6, ../_sass/2015/_headers.scss */
+h1, h2, h3, h4, .progress, .footnotes:before {
+  font-family: Montserrat, "Droid Sans", Sans-serif;
+  font-weight: 400 !important;
+}
+
+/* line 10, ../_sass/2015/_headers.scss */
+.progress {
+  font-weight: bold;
+  text-shadow: 1px 1px 2px #333;
+}
+
+/* line 12, ../_sass/2015/_headers.scss */
+h1 {
+  font-size: 3em;
+  line-height: 1.05em;
+}
+
+/* line 13, ../_sass/2015/_headers.scss */
+h2, .footnotes:before {
+  font-size: 2.25em;
+  line-height: 1.25em;
+}
+
+/* line 14, ../_sass/2015/_headers.scss */
+h3 {
+  font-size: 1.75em;
+  line-height: 1.25em;
+}
+
+/* line 16, ../_sass/2015/_headers.scss */
+.footnotes:before {
+  content: "Footnotes";
+  display: block;
+  margin-bottom: 0.5em;
+}
+
+/* line 1, ../_sass/2015/_footer.scss */
+.footer {
+  background: #002b36 url(https://s3.amazonaws.com/dausha/images/footer.jpg) no-repeat !important;
+  min-height: 250px;
+  color: #eee8d5;
+  font-size: 0.9em;
+  font-family: "Helvetica Neue", Geneva, Verdana, sans-serif !important;
+  padding-top: 1em;
+}
+/* line 8, ../_sass/2015/_footer.scss */
+.footer .footer-col {
+  height: 250px;
+}
+/* line 11, ../_sass/2015/_footer.scss */
+.footer h3 {
+  font-size: 1.1em;
+  color: #eee8d5;
+}
+/* line 14, ../_sass/2015/_footer.scss */
+.footer h3.title {
+  border-bottom: 1px solid #AAA;
+}
+/* line 16, ../_sass/2015/_footer.scss */
+.footer i.fa {
+  width: 1.5em;
+  text-align: center;
+}
+/* line 20, ../_sass/2015/_footer.scss */
+.footer a {
+  color: #cee6f6;
+}
+
+/* line 24, ../_sass/2015/_footer.scss */
+.copyright {
+  background: #000203;
+  color: #657b83;
+  font-size: 0.9em;
+  padding: 0.5em 0;
+}
+
+/* line 30, ../_sass/2015/_footer.scss */
+#wrapper {
+  min-height: 100%;
+  position: relative;
+}
+
+/* line 34, ../_sass/2015/_footer.scss */
+footer {
+  width: 100%;
+  height: 180px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+/* line 2, ../_sass/2015/_frontpage.scss */
+.jumbotron {
+  height: 94vh;
+  text-align: center;
+  margin: 0;
+  background: #f0ebe7 url(https://s3.amazonaws.com/dausha/images/pbg.jpg) no-repeat top left fixed;
+  -webkit-font-smoothing: antialiased;
+}
+/* line 8, ../_sass/2015/_frontpage.scss */
+.jumbotron h1 {
+  margin-top: 15%;
+  font-size: 3em;
+}
+/* line 11, ../_sass/2015/_frontpage.scss */
+.jumbotron h1 span {
+  display: block;
+  font-size: 70%;
+  margin-top: 2%;
+}
+/* line 17, ../_sass/2015/_frontpage.scss */
+.jumbotron ul {
+  margin-top: 10%;
+}
+
+/* line 21, ../_sass/2015/_frontpage.scss */
+.dark {
+  color: #f8f8f8;
+  background: url(https://s3.amazonaws.com/dausha/images/esback.jpg) no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+/* line 26, ../_sass/2015/_frontpage.scss */
+.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
+  color: #b58900 !important;
+  text-shadow: 2px 1px 2px #000 !important;
+}
+
+/* line 1, ../_sass/2015/_navbar.scss */
+header.navbar {
+  background: #002b36 url(https://s3.amazonaws.com/dausha/images/footer.jpg) no-repeat !important;
+}
+/* line 2, ../_sass/2015/_navbar.scss */
+header.navbar a.nav-link {
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+/* line 4, ../_sass/2015/_navbar.scss */
+header.navbar a.nav-link:focus, header.navbar a.nav-link:hover {
+  color: #b58900 !important;
+  text-decoration: underline;
+}
+/* line 9, ../_sass/2015/_navbar.scss */
+header.navbar a.navbar-brand {
+  font-family: Syncopate, "Helvetica Neue",Helvetica,Arial,cursive;
+  color: #b58900;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+/* line 14, ../_sass/2015/_navbar.scss */
+header.navbar a.navbar-brand .sub {
+  color: #e8b000;
+  padding-left: 0.1em;
+}
+/* line 15, ../_sass/2015/_navbar.scss */
+header.navbar a.navbar-brand:hover, header.navbar a.navbar-brand:focus, header.navbar a.navbar-brand:active, header.navbar a.navbar-brand .active {
+  color: #ffd44f;
+}
+/* line 17, ../_sass/2015/_navbar.scss */
+header.navbar .navbar-toggler {
+  color: #f7f1ec;
+  border: 1px solid #f7f1ec;
+}
+
+/* line 23, ../_sass/2015/_navbar.scss */
+#skiptocontent a {
+  padding: 6px;
+  position: absolute;
+  top: -90px;
+  left: 0px;
+  color: white;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
+  border-bottom-right-radius: 8px;
+  background: transparent;
+  -webkit-transition: top 1s ease-out, background 1s linear;
+  transition: top 1s ease-out, background 1s linear;
+  z-index: 8000;
+}
+/* line 36, ../_sass/2015/_navbar.scss */
+#skiptocontent a:focus {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 8000;
+  background: #BF1722;
+  outline: 0;
+  -webkit-transition: top .1s ease-in, background .5s linear;
+  transition: top .1s ease-in, background .5s linear;
+}
+
+/* line 1, ../_sass/2015/_blog.scss */
+.photo {
+  text-align: center;
+}
+/* line 3, ../_sass/2015/_blog.scss */
+.photo img {
+  width: 80%;
+  display: inline-block;
+  height: auto;
+  margin: 10px auto;
+  max-width: 100%;
+  padding: 4px;
+  line-height: 1.42857;
+  background-color: #ffffff;
+  border: 3px solid #fff;
+  border-radius: 4px;
+  -moz-box-shadow: #666 2px 2px 10px;
+  -webkit-box-shadow: #666 2px 2px 10px;
+  box-shadow: #666 2px 2px 10px;
+}
+/* line 16, ../_sass/2015/_blog.scss */
+.photo p {
+  font-size: 0.875rem;
+  font-style: italic;
+  color: #706f72;
+}
+
+/* line 8, ../_sass/2015/_style.scss */
+body {
+  font-size: 1.0rem !important;
+  font-family: "Alegreya Sans", "Droid Sans", Heuristica, 'Libre Baskerville',  Vollkorn, Serif !Important;
+  background: #f0ebe7 url(https://s3.amazonaws.com/dausha/images/pbg.jpg) no-repeat top left fixed;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* line 7, ../_sass/screen.scss */
+.dev {
+  border: 1px solid red;
+}
+
+/* line 10, ../_sass/screen.scss */
+#content {
+  padding-top: 54px;
+  padding-bottom: 250px;
+}
+/* line 13, ../_sass/screen.scss */
+#content h1 {
+  margin-top: 1em;
+}
+
+/* line 18, ../_sass/screen.scss */
+h2, h3 {
+  margin-top: 1em;
+}

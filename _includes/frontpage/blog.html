@@ -1,0 +1,10 @@
+<section id='blog' class='container base'>
+  <hr>
+  <h2>Latest News</h2>
+
+  <div class='row'>
+    {% assign post = paginator.posts[0] %}{% include frontpage/post.html %}
+    {% assign post = paginator.posts[1] %}{% include frontpage/post.html %}
+    {% assign post = paginator.posts[2] %}{% include frontpage/post.html %}
+  </div>
+</section>

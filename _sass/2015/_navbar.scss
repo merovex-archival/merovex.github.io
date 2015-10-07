@@ -1,0 +1,46 @@
+header.navbar {
+    a.nav-link {
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        &:focus, &:hover {
+          color: $gold !important;
+          text-decoration: underline;
+        }
+    }
+    a.navbar-brand {
+      font-family: Syncopate, "Helvetica Neue",Helvetica,Arial,cursive;
+      color: $gold;
+      font-size: 1.2em;
+      font-weight: bold;
+      .sub { color: lighten($gold, 10%); padding-left: 0.1em;}
+      &:hover, &:focus, &:active, .active {color: lighten($gold, 30%); }
+  }
+  .navbar-toggler {
+    color: $white;
+    border: 1px solid $white;
+  }
+  background: $base03 url(https://s3.amazonaws.com/dausha/images/footer.jpg) no-repeat !important;
+}
+#skiptocontent a {
+  padding:6px;
+  position: absolute;
+  top:-90px;
+  left:0px;
+  color:white;
+  border-right:1px solid white;
+  border-bottom:1px solid white;
+  border-bottom-right-radius:8px;
+  background:transparent;
+  -webkit-transition: top 1s ease-out, background 1s linear;
+  transition: top 1s ease-out, background 1s linear;
+  z-index: 8000;
+  &:focus {
+    position:absolute;
+    left:0px;
+    top:0px;
+    z-index: 8000;
+    background:#BF1722;
+    outline:0;  
+    -webkit-transition: top .1s ease-in, background .5s linear;
+    transition: top .1s ease-in, background .5s linear;
+  }
+}

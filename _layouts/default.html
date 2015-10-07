@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div id='wrapper'>
+    {% include header.html %}
+    <div id='content'>
+{{ content }}
+    </div>
+    {% include footer.html %}
+    </div>
+  </body>
+  <script src='https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/js/bootstrap.js'></script>
+  <script src='https://s3.amazonaws.com/dausha/js/craftmap.js' type='text/javascript'></script>
+  <script src='https://s3.amazonaws.com/dausha/js/merovex.js'></script>
+  <script type='text/javascript'>
+  $(document).ready(function(){       
+   var scroll_start = 0;
+   var startchange = $('#about');
+   var offset = startchange.offset();
+   if (startchange.length){
+     $(document).scroll(function() { 
+        scroll_start = $(this).scrollTop();
+        if(scroll_start > offset.top) {
+            $(".navbar-dark").css('background-color', '#f0f0f0');
+         } else {
+            $('.navbar-dark').css('background', 'transparent');
+         }
+     });
+    }
+});
+  </script>
+</html>

@@ -1,0 +1,53 @@
+$gold: #ECD500;
+$white: #f7f1ec;
+
+$red: #860008;
+$blue: #004F86;
+$green: #00863A;
+
+$base03: #002b36;
+$base02: #073642;
+$base01: #586e75;
+$base00: #657b83;
+$base0:  #839496;
+$base1:  #93a1a1;
+$base2:  #eee8d5;
+$base3:  #fdf6e3;
+
+$yellow: #b58900;
+$orange: #cb4b16;
+$red:    #dc322f;
+$magenta:#d33682;
+$violet: #6c71c4;
+$blue:   #268bd2;
+$cyan:   #2aa198;
+$green:  #859900;
+
+$gold: $yellow;
+
+$background-color: #f0ebe7;
+
+$navbar-background: #172734;
+$navbar-darken: darken($navbar-background, 10);
+$navbar-lighten: lighten($navbar-background, 15);
+$link-color: $blue;
+$link-color-hover: lighten($blue, 5%);
+
+@mixin btn-color($trans) {
+	border-color: $trans;
+	background-color: lighten($trans, 5%) !important;
+	text-decoration: none !important;
+	&:hover {background-color: darken($trans, 2%) !important; }
+}
+@mixin alert-color($trans) {
+	border-color: lighten($trans, 30%);
+	background-color: lighten($trans,40%) !important;
+	color: darken($trans, 20%) !important;
+}
+
+.btn-success {@include btn-color($green); }
+.btn-danger  {@include btn-color($orange); }
+.btn-primary {@include btn-color($blue); }
+.btn-info {@include btn-color(#99A); }
+.alert-info { @include alert-color($blue); }
+.alert-danger { @include alert-color($orange); }

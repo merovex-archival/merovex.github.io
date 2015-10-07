@@ -1,0 +1,21 @@
+.photo {
+  text-align: center;
+  img {
+    width: 80%;
+    display: inline-block;
+    height: auto;
+    margin: 10px auto;
+    max-width: 100%;
+    padding: 4px;
+    line-height: 1.42857;
+    background-color: #ffffff;
+    border: 3px solid #fff;
+    border-radius: 4px;
+    @include box-shadow(#666 2px 2px 10px);
+  }
+  p {
+    font-size: 0.875rem;
+    font-style: italic;
+    color: #706f72;
+  }
+}
