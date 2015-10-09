@@ -170,7 +170,7 @@ footer {
   text-align: center;
   margin: 0;
   background: #f0ebe7 url(https://s3.amazonaws.com/dausha/images/pbg.jpg) no-repeat top left fixed;
-  -webkit-font-smoothing: antialiased;
+  background-size: cover;
 }
 /* line 8, ../_sass/2015/_frontpage.scss */
 .jumbotron h1 {
@@ -191,9 +191,9 @@ footer {
 /* line 21, ../_sass/2015/_frontpage.scss */
 .dark {
   color: #f8f8f8;
-  background: url(https://s3.amazonaws.com/dausha/images/esback.jpg) no-repeat center center;
+  xbackground: url(https://s3.amazonaws.com/dausha/images/esback.jpg) no-repeat center center;
+  background: #002b36 url(https://s3.amazonaws.com/dausha/images/footer.jpg) no-repeat top left fixed;
   background-size: cover;
-  background-attachment: fixed;
   border-top: 1px solid #000;
   border-bottom: 1px solid #000;
 }
@@ -205,7 +205,8 @@ footer {
 
 /* line 1, ../_sass/2015/_navbar.scss */
 header.navbar {
-  background: #002b36 url(https://s3.amazonaws.com/dausha/images/footer.jpg) no-repeat !important;
+  background: #002b36 url(https://s3.amazonaws.com/dausha/images/footer.jpg) no-repeat top left fixed;
+  background-size: cover;
 }
 /* line 2, ../_sass/2015/_navbar.scss */
 header.navbar a.nav-link {
@@ -238,7 +239,7 @@ header.navbar .navbar-toggler {
   border: 1px solid #f7f1ec;
 }
 
-/* line 23, ../_sass/2015/_navbar.scss */
+/* line 24, ../_sass/2015/_navbar.scss */
 #skiptocontent a {
   padding: 6px;
   position: absolute;
@@ -253,7 +254,7 @@ header.navbar .navbar-toggler {
   transition: top 1s ease-out, background 1s linear;
   z-index: 8000;
 }
-/* line 36, ../_sass/2015/_navbar.scss */
+/* line 37, ../_sass/2015/_navbar.scss */
 #skiptocontent a:focus {
   position: absolute;
   left: 0px;
@@ -295,9 +296,10 @@ header.navbar .navbar-toggler {
 /* line 8, ../_sass/2015/_style.scss */
 body {
   font-size: 1.0rem !important;
-  font-family: "Alegreya Sans", "Droid Sans", Heuristica, 'Libre Baskerville',  Vollkorn, Serif !Important;
-  background: #f0ebe7 url(https://s3.amazonaws.com/dausha/images/pbg.jpg) no-repeat top left fixed;
+  font-family: 'Alegreya Sans', 'Droid Sans', Heuristica, 'Libre Baskerville',  Vollkorn, Serif !Important;
   -webkit-font-smoothing: antialiased;
+  background: #f0ebe7 url(https://s3.amazonaws.com/dausha/images/pbg.jpg) no-repeat top left fixed;
+  background-size: cover;
 }
 
 /* line 7, ../_sass/screen.scss */

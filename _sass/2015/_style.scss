@@ -1,13 +1,14 @@
-@import "compass/css3/box-shadow";
-@import "2015/color";
-@import "2015/headers";
-@import "2015/footer";
-@import "2015/frontpage";
-@import "2015/navbar";
-@import "2015/blog";
+@import 'compass/css3/box-shadow';
+@import '2015/color';
+@import '2015/headers';
+@import '2015/footer';
+@import '2015/frontpage';
+@import '2015/navbar';
+@import '2015/blog';
 body {
   font-size: 1.0rem !important;
-  font-family: "Alegreya Sans", "Droid Sans", Heuristica, 'Libre Baskerville',  Vollkorn, Serif !Important;
-  background: $background-color url(https://s3.amazonaws.com/dausha/images/pbg.jpg) no-repeat top left fixed;
+  font-family: 'Alegreya Sans', 'Droid Sans', Heuristica, 'Libre Baskerville',  Vollkorn, Serif !Important;
   -webkit-font-smoothing: antialiased;
+  background: $background-color url(https://s3.amazonaws.com/dausha/images/pbg.jpg) no-repeat top left fixed;
+  background-size: cover;
 }

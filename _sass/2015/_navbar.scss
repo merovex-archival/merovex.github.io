@@ -18,7 +18,8 @@ header.navbar {
     color: $white;
     border: 1px solid $white;
   }
-  background: $base03 url(https://s3.amazonaws.com/dausha/images/footer.jpg) no-repeat !important;
+  background: $base03 url(https://s3.amazonaws.com/dausha/images/footer.jpg) no-repeat top left fixed;
+  background-size: cover;
 }
 #skiptocontent a {
   padding:6px;
