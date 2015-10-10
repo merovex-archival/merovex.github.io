@@ -44,7 +44,7 @@ title: Classic VW Bug Engine Calculator
     <label class="col-sm-3 control-label" for="stroke">Crank / Stroke</label>
     <div class="col-sm-5">
       <div class="input-group">
-        <select class="form-control" aria-describedby="" id="stroke">
+        <select class="form-control" aria-describedby="help-block" id="stroke">
           <option value="64">64</option>
           <option value="69" selected="">69 - Beetle Standard</option>
           <option value="74">74</option>
@@ -57,21 +57,16 @@ title: Classic VW Bug Engine Calculator
       <p class="help-block">Crank / Stroke length in millimeters.</p>
     </div>
   </div>
-  
-        <div class="form-group">
-          <label class="col-sm-3 control-label" for="size">Engine Displacement</label>
-          <div class="col-sm-3">
-            <div class="input-group">
-                <input type="text" class="form-control text-right" aria-describedby="size-help" id="size" value="" disabled="" />
-                <div class="input-group-addon">cc</div>
-            </div>
-          </div>
-          <p class="col-sm-6 help-block small">Bore<sub>dia.</sub><sup>2</sup> &times; Stroke<sub>len.</sub> &times; 0.0031415</p>
-        </div>
-        <div class="row">
-          <div id="size-help" class="col-sm-9 col-sm-offset-3 help-block">            
-</div>
-        </div>
+  <div class="form-group">
+    <label class="col-sm-3 control-label" for="size">Engine Displacement</label>
+    <div class="col-sm-3">
+      <div class="input-group">
+          <input type="text" class="form-control text-right" aria-describedby="size-help" id="size" value="" disabled="" />
+          <div class="input-group-addon">cc</div>
+      </div>
+    </div>
+    <p class="col-sm-6 help-block small">Bore<sub>dia.</sub><sup>2</sup> &times; Stroke<sub>len.</sub> &times; 0.0031415</p>                                
+  </div>
 
   
   <h3 id="rod-ratio">Rod Ratio</h3>
