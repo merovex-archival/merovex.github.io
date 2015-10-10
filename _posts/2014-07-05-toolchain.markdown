@@ -6,11 +6,11 @@ photo:
   license: under CC BY 2.0
   caption: Rusty chain
 layout: post
-title: "My Toolchain Using Bookmaker"
+title: My Toolchain Using Bookmaker
 created_at: 2014-07-05 10:29
 modified_at: 2014-07-05 10:29
 published_at: 2014-07-05 10:29
-date: 2014-07-05 10:29:21 -0400
+date: 2014-07-05 10:29:21.000000000 -04:00
 comments: true
 sharing: true
 footer: true
@@ -20,9 +20,13 @@ categories:
 - Publishing
 - Technique
 - Writing
-keywords: "LaTeX, Markdown, Ruby, publishing, Bookmaker, tool pr0n"
-description: "Ben Wilson, author, discusses how he writes, edits and publishes a novel."
+keywords: LaTeX, Markdown, Ruby, publishing, Bookmaker, tool pr0n
+description: Ben Wilson, author, discusses how he writes, edits and publishes a novel.
 author: Ben Wilson
+tags:
+- Publishing
+- Technique
+- Writing
 ---
 
 Now that I'm drafing my fourth novel, I wanted to share a bit about my toolchain. That is, the process by which I document the novel and publish it.

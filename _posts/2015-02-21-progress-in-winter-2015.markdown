@@ -8,7 +8,8 @@ photo:
 layout: post
 title: Progress in Winter 2015
 author: Ben Wilson
-description: A friend asked me this week about my writing. So, I figured it was time to report slow going.
+description: A friend asked me this week about my writing. So, I figured it was time
+  to report slow going.
 image: 8387491968_cd9707ebbb_b-Snowbird.jpg
 categories:
 - Diary
@@ -19,6 +20,8 @@ sidebar: true
 date: 2015-02-21 22:07
 modified_at: 2015-02-21 22:07
 created_at: 2015-02-21 20:53
+tags:
+- Diary
 ---
 <!--Lead Paragraph-->
 

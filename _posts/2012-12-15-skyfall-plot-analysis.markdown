@@ -6,7 +6,7 @@ photo:
   license: Rights Reserved
   caption: Skyfall Movie Poster
 layout: post
-title: "Skyfall Plot Analysis"
+title: Skyfall Plot Analysis
 created_at: 2012-12-15 18:49
 modified_at: 2012-12-15 18:49
 published_at: 2012-12-15 18:49
@@ -17,9 +17,12 @@ footer: true
 sidebar: true
 image: skyfall.jpg
 categories:
- - Writing
-keywords: "writing, plan, goals"
-description: "Ben Wilson shows how understanding story structure helps enjoy a movie like Skyfall that much more."
+- Writing
+keywords: writing, plan, goals
+description: Ben Wilson shows how understanding story structure helps enjoy a movie
+  like Skyfall that much more.
+tags:
+- Writing
 ---
 <!--Lead Paragraph-->
 I saw Skyfall not long after it opened. Then I read some reviews. One reviewer commented that the villain did not show up until the mid-point in the story, "which was a gutsy move." Having studied a fair-amount of story plotting, I think the reviewer got it wrong because he wasn't paying attention to the story. In fiction, the character who undergoes the most change is the hero, the one who causes the change is the antagonist. The plot is the main aspect of the work, the "story" is the emotional part of the work, which is the area where the change happens. (Warning, Plot Spoiler Below.)
@@ -27,12 +30,12 @@ I saw Skyfall not long after it opened. Then I read some reviews. One reviewer c
 <!-- more -->
 
 M is Skyfall's Protagonist
---------------------------
+-----------------------
 
 This movie completed a trilogy between the Judy Dench-"M" and Craig-Bond. Casino Royale started with a too trusting and too sentimental Bond, "M" plays the true antagonist. I agree with those who say that Bond was the Bond girl in Casino, with Vesper being the aloof character we expected Bond to be. In Quantum of Solace, Bond tries to throw away his sentiment, only to find he must retain it to temper his hard-won distrust, again "M" is the antagonist. In Skyfall, M is the protagonist with Bond the antagonist.
 
 Four Plot Points Show M's Growth
-----------------------------------
+-------------------------------
 
 The question in Skyfall was whether pragmatic "M" was still able to make sound decisions given her age and sentimentality toward Bond. The question arose at the point where she had to decide between Bond or the list. She made the pragmatic choice, ignoring sentiment. This resulted in Bond being shot. He returns a man betrayed by her lack of sentiment.
 

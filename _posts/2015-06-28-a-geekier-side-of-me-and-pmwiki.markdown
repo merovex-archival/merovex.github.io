@@ -6,7 +6,7 @@ photo:
   license: CC BY 2.0
   caption: Screenshot of PmWiki.org
 layout: post
-title: "A Geekier Side of Me and PmWiki"
+title: A Geekier Side of Me and PmWiki
 created_at: 2015-01-19 06:11
 modified_at: 2015-06-28 06:58
 date: 2015-06-28 06:58
@@ -17,9 +17,13 @@ sidebar: true
 image: 288389345_pmwiki_o.png
 categories:
 - Diary
-keywords: "writing, plan, goals"
-description: "The developer side of me keeps tweaking my writing toolchain. I keep coming back to PmWiki, and wrote a Sublime Text plugin to help me do it the way I want to."
+keywords: writing, plan, goals
+description: The developer side of me keeps tweaking my writing toolchain. I keep
+  coming back to PmWiki, and wrote a Sublime Text plugin to help me do it the way
+  I want to.
 author: Ben Wilson
+tags:
+- Diary
 ---
 <!--Lead Paragraph-->
 I started programming in 1982 as a pre-teen, and keep going back to those skills at the best times. Or, when I should be writing, I'm playing with my writing [toolchain](http://en.wikipedia.org/wiki/Toolchain). Late in December 2014, I wrote a plugin for Sublime Text for PmWiki.

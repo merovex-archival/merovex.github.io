@@ -6,11 +6,11 @@ photo:
   license: under CC BY 2.0
   caption: ALT TEXT
 layout: post
-title: "Machines Like Us"
+title: Machines Like Us
 created_at: 2014-11-02 12:30
 modified_at: 2014-11-02 12:30
 published_at: 2014-11-02 12:30
-date: 2014-11-02 12:30:06 -0500
+date: 2014-11-02 12:30:06.000000000 -05:00
 comments: true
 sharing: true
 footer: true
@@ -18,9 +18,11 @@ sidebar: true
 image: 3318600273_3ef4c48d0a_b-Machine.jpg
 categories:
 - Postal Marines Series
-keywords: "writing, plan, goals"
-description: "Description for front page & Third-party."
+keywords: writing, plan, goals
+description: Description for front page & Third-party.
 author: Ben Wilson
+tags:
+- Postal Marines Series
 ---
 <!--Lead Paragraph-->
 Computers will soon become more intelligent than us. Some of the best brains in Silicon Valley are now trying to work out what happens next.

@@ -4,11 +4,12 @@ photo:
   creator: WotC
   url: http://www.amazon.com/Guide-Writing-Fantasy-Science-Fiction/dp/1440501459
   license: Rights Reserved
-  caption: "Cover: Guide to Writing Fantasy & Science Fiction"
+  caption: 'Cover: Guide to Writing Fantasy & Science Fiction'
 layout: post
 title: 'Review: Guide to Writing Fantasy and Science Fiction'
 author: Ben Wilson
-description: After reading Guide to Writing Fantasy and Science Fiction, I thought it was worth a review.
+description: After reading Guide to Writing Fantasy and Science Fiction, I thought
+  it was worth a review.
 image: guide-to-writing.jpg
 categories:
 - Publishing
@@ -18,6 +19,8 @@ sidebar: true
 date: 2015-09-01 08:59
 modified_at: 2015-09-01 08:59
 created_at: 2015-09-01 07:41
+tags:
+- Publishing
 ---
 <!--Lead Paragraph-->
 

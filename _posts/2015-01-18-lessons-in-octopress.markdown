@@ -20,6 +20,8 @@ created_at: 2015-01-18 16:27
 modified_at: 2015-01-18 16:27
 published_at: 2015-01-18 16:27
 date: 2015-01-18 16:27
+tags:
+- Diary
 ---
 <!--Lead Paragraph-->
 

@@ -6,11 +6,11 @@ photo:
   license: under CC BY 2.0
   caption: puppet holding desk microphone.
 layout: post
-title: "Here Be Dragons, Dictating"
+title: Here Be Dragons, Dictating
 created_at: 2014-08-17 08:28
 modified_at: 2014-08-17 08:28
 published_at: 2014-08-17 08:28
-date: 2014-08-17 08:28:39 -0400
+date: 2014-08-17 08:28:39.000000000 -04:00
 comments: true
 sharing: true
 footer: true
@@ -19,9 +19,12 @@ image: 164361902_cae775b4c7_z-microphone.jpg
 categories:
 - Diary
 - Technique
-keywords: "writing, plan, goals"
-description: "To clear a plot issue, I used Dragon Dictate."
+keywords: writing, plan, goals
+description: To clear a plot issue, I used Dragon Dictate.
 author: Ben Wilson
+tags:
+- Diary
+- Technique
 ---
 <!--Lead Paragraph-->
 <!--http://www.url-encode-decode.com/-->

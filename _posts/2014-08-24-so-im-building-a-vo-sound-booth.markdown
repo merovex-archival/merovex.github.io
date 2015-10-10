@@ -6,11 +6,11 @@ photo:
   license: CC BY 2.0
   caption: Image of a Failed Iso Booth Design
 layout: post
-title: "So I'm Building a VO Sound Booth"
+title: So I'm Building a VO Sound Booth
 created_at: 2014-08-24 08:47
 modified_at: 2014-08-24 08:47
 published_at: 2014-08-24 08:47
-date: 2014-08-24 08:47:43 -0400
+date: 2014-08-24 08:47:43.000000000 -04:00
 comments: true
 sharing: true
 footer: true
@@ -20,9 +20,14 @@ categories:
 - Diary
 - Writing
 - VO
-keywords: "vo, voice over, sound booth, iso booth, audio book"
-description: "Ben discusses the intricate steps in preparing for a voice-over career as an author."
+keywords: vo, voice over, sound booth, iso booth, audio book
+description: Ben discusses the intricate steps in preparing for a voice-over career
+  as an author.
 author: Ben Wilson
+tags:
+- Diary
+- Writing
+- VO
 ---
 In looking at voice-over, perhaps I've jumped the shark. But, as a self-published author, I think being able to make my books available as audiobooks is a niche to explore. As an author, it's not an insignificant outlay of funds. I'm going to focus today on the why and the plan.
 

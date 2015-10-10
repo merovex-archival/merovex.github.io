@@ -6,11 +6,11 @@ photo:
   license: under CC BY-SA 2.0
   caption: The Sun has Risen
 layout: post
-title: "Looking Back on 2014"
+title: Looking Back on 2014
 created_at: 2014-12-20 13:05
 modified_at: 2014-12-20 13:05
 published_at: 2014-12-20 13:05
-date: 2014-12-20 13:05:05 -0500
+date: 2014-12-20 13:05:05.000000000 -05:00
 comments: true
 sharing: true
 footer: true
@@ -18,9 +18,11 @@ sidebar: true
 image: 6222335233_351df8ec41_b.jpg
 categories:
 - Diary
-keywords: "writing, plan, goals"
-description: "Description for front page & Third-party."
+keywords: writing, plan, goals
+description: Description for front page & Third-party.
 author: Ben Wilson
+tags:
+- Diary
 ---
 <!--Lead Paragraph-->
 When the day is at its shortest, it's time to look back at last year's progress. I accomplished more than I thought, but less than I had hoped.

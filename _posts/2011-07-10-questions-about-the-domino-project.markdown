@@ -4,9 +4,9 @@ photo:
   creator: Malkav/Flickr
   url: http://www.flickr.com/photos/67025584@N00/2391828247/
   license: under CC BY 2.0
-  caption: "Dominos ready to fall."
+  caption: Dominos ready to fall.
 layout: post
-title: "Questions About the Domino Project"
+title: Questions About the Domino Project
 created_at: 2011-07-10 15:01
 modified_at: 2011-07-10 15:01
 published_at: 2011-07-10 15:01
@@ -15,8 +15,10 @@ comments: true
 sidebar: true
 image: 2391828247_7016a8a66f-dominos.jpg
 author: Ben Wilson
-categories: 
- - Writing
+categories:
+- Writing
+tags:
+- Writing
 ---
 
 Yesterday I [brought up](blog/2011/07/09/adopt-the-domino-project-for-your- novels/) the [Domino Project](http://www.thedominoproject.com/). Today, I'll

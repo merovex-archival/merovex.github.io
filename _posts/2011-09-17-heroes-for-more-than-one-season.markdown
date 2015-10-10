@@ -6,7 +6,7 @@ photo:
   license: under CC BY 2.0
   caption: Heroes Mask
 layout: post
-title: "Heroes for More than One Season"
+title: Heroes for More than One Season
 created_at: 2011-09-17 14:51
 modified_at: 2011-09-17 14:51
 published_at: 2011-09-17 14:51
@@ -16,10 +16,14 @@ sidebar: true
 image: 5705122218_550e9d5f83-Heroes.jpg
 author: Ben Wilson
 categories:
- - Writing
- - Technique
-keywords: "writing, plan, goals"
-description: "Ben Wilson explains why authors should plan to write series, and suggests that Snowflake Method will help."
+- Writing
+- Technique
+keywords: writing, plan, goals
+description: Ben Wilson explains why authors should plan to write series, and suggests
+  that Snowflake Method will help.
+tags:
+- Writing
+- Technique
 ---
 The age of writing solo novels has passed. Authors should write novel series.
 

@@ -6,11 +6,11 @@ photo:
   license: CC BY 4.0
   caption: Screenshot of Graph
 layout: post
-title: "Additional Progress Tracking"
+title: Additional Progress Tracking
 created_at: 2014-02-12 16:50
 modified_at: 2014-02-12 16:50
 published_at: 2014-02-12 16:50
-date: 2014-02-12 16:50:30 -0500
+date: 2014-02-12 16:50:30.000000000 -05:00
 comments: true
 sharing: true
 footer: true
@@ -19,9 +19,12 @@ image: january-2014.png
 categories:
 - Diary
 - Writing
-keywords: "writing, plan, goals"
-description: "I added a third progress chart to build confidence in my writing."
+keywords: writing, plan, goals
+description: I added a third progress chart to build confidence in my writing.
 author: Ben Wilson
+tags:
+- Diary
+- Writing
 ---
 <!--Lead Paragraph-->
 

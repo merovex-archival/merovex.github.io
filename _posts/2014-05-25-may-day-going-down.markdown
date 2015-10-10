@@ -6,11 +6,11 @@ photo:
   license: CC BY 2.0
   caption: paper mache dolls pointing to ship
 layout: post
-title: "May: May Day! Going Down!"
+title: 'May: May Day! Going Down!'
 created_at: 2014-05-25 20:20
 modified_at: 2014-05-25 20:20
 published_at: 2014-05-25 20:20
-date: 2014-05-25 20:20:02 -0400
+date: 2014-05-25 20:20:02.000000000 -04:00
 comments: true
 sharing: true
 footer: true
@@ -19,9 +19,12 @@ image: 2781511209_fdd2f7ee27_z.jpg
 categories:
 - Diary
 - Writing
-keywords: "writing, plan, goals"
-description: "May was a rough month, but hope remains."
+keywords: writing, plan, goals
+description: May was a rough month, but hope remains.
 author: Ben Wilson
+tags:
+- Diary
+- Writing
 ---
 The promise of finishing a novel before me, May was not the month I hoped it would be.
 <!-- more -->

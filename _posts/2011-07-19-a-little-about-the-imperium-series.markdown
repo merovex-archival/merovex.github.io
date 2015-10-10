@@ -6,17 +6,19 @@ photo:
   license: Rights Reserved
   caption: Scintilla Cover
 layout: post
-title: "A Little About the Imperium Series"
+title: A Little About the Imperium Series
 created_at: 2011-07-19 15:00
 modified_at: 2011-07-19 15:00
 published_at: 2011-07-19 15:00
 date: 2011-07-19 15:00
 comments: true
 sidebar: true
-image: "scintilla-wallpaper.jpg"
+image: scintilla-wallpaper.jpg
 author: Ben Wilson
 categories:
- - Postal Marines Series
+- Postal Marines Series
+tags:
+- Postal Marines Series
 ---
 It took me a while to regain my momentum, but *Scintilla* has gone through its revision. Scintilla is a Sci-Fi novel about three cultures in collision. On one hand, you have the *mighty* Imperium. You also have the backwater world of Copa, with its aristocrats and peasants. Its fundamental question is about freedom.
 

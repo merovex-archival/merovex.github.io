@@ -6,11 +6,11 @@ photo:
   license: under CC BY 2.0
   caption: Self-Publishers, Up in Flames?
 layout: post
-title: "Problem for Self-Publishers?"
+title: Problem for Self-Publishers?
 created_at: 2015-01-11 16:50
 modified_at: 2015-01-11 16:50
 published_at: 2015-01-11 16:50
-date: 2015-01-11 16:50:23 -0500
+date: 2015-01-11 16:50:23.000000000 -05:00
 comments: true
 sharing: true
 footer: true
@@ -18,9 +18,13 @@ sidebar: true
 image: 3210361541_c2d900c0ac_o.jpg
 categories:
 - Publishing
-keywords: "kindle unlimited, self-publisher, quitters"
-description: "Earlier this week, a fellow self-publisher complained about the negative impact of Kindle Unlimited. I disagreed with her. Either way, the market is not driving me out."
+keywords: kindle unlimited, self-publisher, quitters
+description: Earlier this week, a fellow self-publisher complained about the negative
+  impact of Kindle Unlimited. I disagreed with her. Either way, the market is not
+  driving me out.
 author: Ben Wilson
+tags:
+- Publishing
 ---
 <!--Lead Paragraph-->
 Earlier this week, a fellow self-publisher complained about the negative impact of Kindle Unlimited. I disagreed with her. Either way, the market is not driving me out.

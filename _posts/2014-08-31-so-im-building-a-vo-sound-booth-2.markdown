@@ -1,28 +1,33 @@
 ---
 photo:
-  image:  7871348700_3af6a3d944_z-guitar.jpg
+  image: 7871348700_3af6a3d944_z-guitar.jpg
   creator: Martin Fisch/Flickr
   url: https://www.flickr.com/photos/marfis75/
   license: under CC BY-SA 2.0
   caption: Gritty Guitar Soloist
 layout: post
-title: "So I'm building a VO sound booth, Pt 2"
+title: So I'm building a VO sound booth, Pt 2
 created_at: 2014-08-31 11:12
 modified_at: 2014-08-31 11:12
 published_at: 2014-08-31 11:12
-date: 2014-08-31 11:12:58 -0400
+date: 2014-08-31 11:12:58.000000000 -04:00
 comments: true
 sharing: true
 footer: true
 sidebar: true
-image:  7871348700_3af6a3d944_z-guitar.jpg
+image: 7871348700_3af6a3d944_z-guitar.jpg
 categories:
 - Diary
 - Publishing
 - VO
-keywords: "vo, voice over, sound booth, iso booth, audio book"
-description: "Ben continues to discuss evil malchinations of an aspiring voice-over author."
+keywords: vo, voice over, sound booth, iso booth, audio book
+description: Ben continues to discuss evil malchinations of an aspiring voice-over
+  author.
 author: Ben Wilson
+tags:
+- Diary
+- Publishing
+- VO
 ---
 
 <!--Lead Paragraph-->

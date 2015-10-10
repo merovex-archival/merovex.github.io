@@ -6,7 +6,7 @@ photo:
   license: CC BY 2.0
   caption: Yellow paper with handwriting
 layout: post
-title: "A Writing Standard?"
+title: A Writing Standard?
 created_at: 2012-03-10 14:14
 modified_at: 2012-03-10 14:14
 published_at: 2012-03-10 14:14
@@ -16,9 +16,11 @@ sidebar: true
 image: writing.jpg
 author: Ben Wilson
 categories:
- - Writing
-keywords: "writing, plan, goals"
-description: "Ben Wilson asks whether writing should meet a standard."
+- Writing
+keywords: writing, plan, goals
+description: Ben Wilson asks whether writing should meet a standard.
+tags:
+- Writing
 ---
 What does your writing stand for? I rather like the phrase "[i]f you stand for nothing, you will fall for anything." This [unattributed quote](http://wiki.answers.com/Q/Who_wrote_this_quote_'If_you_don't_stand_for_something_you'll_fall_for_anything') suggests either that an individual is gullible, or that they have wavering beliefs. I, for one, would like my writing to stand for something, not anything.
 <!-- more -->

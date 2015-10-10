@@ -19,6 +19,8 @@ sidebar: true
 date: 2015-04-18 21:04
 modified_at: 2015-04-18 21:04
 created_at: 2015-04-18 19:40
+tags:
+- Diary
 ---
 <!--Lead Paragraph-->
 

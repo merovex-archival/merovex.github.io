@@ -6,7 +6,7 @@ photo:
   license: under CC-License
   caption: 10,000 ways that did not work.
 layout: post
-title: "A Gutsy Year for 2014"
+title: A Gutsy Year for 2014
 created_at: 2013-12-31 20:40
 modified_at: 2013-12-31 20:40
 published_at: 2013-12-31 20:40
@@ -17,10 +17,13 @@ footer: true
 sidebar: true
 image: 5366637592_perseverance.jpg
 categories:
- - Diary
-keywords: "writing, plan, goals"
-description: "Ben Wilson thinks he's going to write 150,000 words in 2014. Read more so you can openly mock him when he fails."
+- Diary
+keywords: writing, plan, goals
+description: Ben Wilson thinks he's going to write 150,000 words in 2014. Read more
+  so you can openly mock him when he fails.
 author: Ben Wilson
+tags:
+- Diary
 ---
 
 <!--Lead Paragraph-->

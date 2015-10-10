@@ -8,7 +8,9 @@ photo:
 layout: post
 title: Starting on the Chassis (Beetle Pt-3)
 author: Ben Wilson
-description: After about six weeks of owning the Super Beetle, I'm finally coming to terms with the totality of this project. And, I will get back into editing novels soon.
+description: After about six weeks of owning the Super Beetle, I'm finally coming
+  to terms with the totality of this project. And, I will get back into editing novels
+  soon.
 image: 1361002.jpg
 categories:
 - Beetle
@@ -19,6 +21,8 @@ sidebar: true
 date: 2015-06-20 07:32
 modified_at: 2015-06-20 07:32
 created_at: 2015-06-19 20:00
+tags:
+- Beetle
 ---
 It has been a little over a month since my last update. Over this month, I've emotionally been all over the map. One day I'm excited about the challenge. The next few days I'm humbled and overwhelmed. Largely, I fret about the amount of money it may take, that the cost and effort may not ultimately be worth it. Then there are days like today where everything is balanced.
 

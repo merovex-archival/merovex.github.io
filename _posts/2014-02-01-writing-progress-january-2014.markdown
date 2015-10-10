@@ -6,16 +6,20 @@ photo:
   license: Rigths Reserved
   caption: Screenshot of January Progress
 layout: post
-title: "Writing Progress January 2014"
+title: Writing Progress January 2014
 created_at: 2014-02-01 09:04
 modified_at: 2014-02-01 09:04
 published_at: 2014-02-01 09:04
-date: 2014-02-01 09:04:48 -0500
+date: 2014-02-01 09:04:48.000000000 -05:00
 comments: true
-categories: [Diary]
+categories:
+- Diary
 keywords: dairy, writing progress
-description: Ben offers a retrospective on his first month of writing with a goal and visual analytics.
+description: Ben offers a retrospective on his first month of writing with a goal
+  and visual analytics.
 image: january-2014.png
+tags:
+- Diary
 ---
 
 <!--Lead Paragraph-->

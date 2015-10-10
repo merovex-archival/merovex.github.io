@@ -6,11 +6,11 @@ photo:
   license: under CC BY-N
   caption: Man with dog rowing across a still lake.
 layout: post
-title: "July Progress: Lessons in Transition"
+title: 'July Progress: Lessons in Transition'
 created_at: 2014-08-02 08:10
 modified_at: 2014-08-02 08:10
 published_at: 2014-08-02 08:10
-date: 2014-08-02 08:10:15 -0400
+date: 2014-08-02 08:10:15.000000000 -04:00
 comments: true
 sharing: true
 footer: true
@@ -19,9 +19,12 @@ image: 4738792692_0af05c986e_o.jpg
 categories:
 - Diary
 - Writing
-keywords: "writing, diary, goals"
-description: "July has been a curious month of transition."
+keywords: writing, diary, goals
+description: July has been a curious month of transition.
 author: Ben Wilson
+tags:
+- Diary
+- Writing
 ---
 <!--Lead Paragraph-->
 <!--http://www.url-encode-decode.com/-->

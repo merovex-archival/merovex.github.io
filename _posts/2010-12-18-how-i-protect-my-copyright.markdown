@@ -2,11 +2,11 @@
 photo:
   image: shutterstock_200353601-copyright.jpg
   creator: sergign/Shutterstock
-  url: '#'
+  url: "#"
   license: UNK
   caption: Gavel and Keyboard
 layout: post
-title: "How I Protect My Copyright"
+title: How I Protect My Copyright
 created_at: 2010-12-18 17:47
 modified_at: 2010-12-18 17:47
 published_at: 2010-12-18 17:47
@@ -18,8 +18,11 @@ author: Ben Wilson
 categories:
 - Writing
 - Legal
-keywords: "writing, plan, goals"
-description: "Ben Wilson offers more bad advice on copyright."
+keywords: writing, plan, goals
+description: Ben Wilson offers more bad advice on copyright.
+tags:
+- Writing
+- Legal
 ---
 Last week I offered my perspective on [when you should copyright your work](/articles/when-should-you-register-your-work/). After being asked several times how I protect my pre-publication works, I thought I'd offer my approach for your consideration. I defend my works by demonstrating an evolving work.
 
@@ -34,14 +37,14 @@ Advice is usually given to seal a copy and send it to yourself. This is called a
 Which stage of the project are you in? Draft? First revision? Proof? Are you prepared to do this at every step? As you'll see in a couple paragraphs, I mention a variant on this that I've read seems to have held up against legal scrutiny.
 
 Your Options
-------------
+---------
 
 **Register.** The best way is to register the copyright. This should only be done for finished works, and would involve sending two copies to the Library of Congress. Unfortunately, their policy is to destroy those books after validating ownership--so don't think that you can later cruise to the Library and pull a copy off the shelf. Regardless, the registration is legal proof of copyright. You see above that some publishers (or agents) will not take a registered work.
 
 **Demonstrate an Evolving Work.** This approach occurred to me while watching the *SCO v. IBM* lawsuit. In that case, SCO claimed Linux was a derivation of their Unix. They accused Linus Torvalds of plagiarism. In response, Torvalds was able to show version history going back to the very first release of Linux. He can demonstrate not only how the kernel evolved, but how he got better with time---he made some bad coding errors in the beginning. This would not have been possible to prove if the work were plagiarized. *A plagiarist has insufficient evidence of creation.*
 
 Demonstrating Evolution
------------------------
+--------------------
 
 I'm a plotter, but this process should work for pantsers, too. In a nutshell, maintain a file of everything you did to create your work, from as early in the process as possible. This builds a body of evidence that shows you had an idea and put your own sweat-equity into it. Ancient views of property were just that: take something raw (un-developed land, or an idea), and mix your own effort into it (build a building, or write a book) to make it yours.
 

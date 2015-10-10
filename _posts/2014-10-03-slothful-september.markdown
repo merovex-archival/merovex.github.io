@@ -6,11 +6,11 @@ photo:
   license: under CC BY 2.0
   caption: Face Palm
 layout: post
-title: "Slothful September"
+title: Slothful September
 created_at: 2014-10-03 10:44
 modified_at: 2014-10-03 10:44
 published_at: 2014-10-03 10:44
-date: 2014-10-03 10:44:56 -0400
+date: 2014-10-03 10:44:56.000000000 -04:00
 comments: true
 sharing: true
 footer: true
@@ -19,9 +19,12 @@ image: 8151888421_4c6e74887c_z-facepalm.jpg
 categories:
 - Diary
 - Writing
-keywords: "writing, plan, goals"
-description: "Ben explains his activites over September...Slothful."
+keywords: writing, plan, goals
+description: Ben explains his activites over September...Slothful.
 author: Ben Wilson
+tags:
+- Diary
+- Writing
 ---
 <!--Lead Paragraph-->
 <!--http://www.url-encode-decode.com/-->

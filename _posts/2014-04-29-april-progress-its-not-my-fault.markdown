@@ -6,11 +6,11 @@ photo:
   license: under CC BY 2.0
   caption: US Capitol Building
 layout: post
-title: "April Progress: It's Not My Fault"
+title: 'April Progress: It''s Not My Fault'
 created_at: 2014-04-29 19:18
 modified_at: 2014-04-29 19:18
 published_at: 2014-04-29 19:18
-date: 2014-04-29 19:18:59 -0400
+date: 2014-04-29 19:18:59.000000000 -04:00
 comments: true
 sharing: true
 footer: true
@@ -18,9 +18,12 @@ sidebar: true
 image: 7770199719-USCapitol.jpg
 categories:
 - Diary
-keywords: "writing, plan, goals"
-description: "April was a very slow month of writing. I jokingly say it's not my fault, but it is."
+keywords: writing, plan, goals
+description: April was a very slow month of writing. I jokingly say it's not my fault,
+  but it is.
 author: Ben Wilson
+tags:
+- Diary
 ---
 <!--Lead Paragraph-->
 

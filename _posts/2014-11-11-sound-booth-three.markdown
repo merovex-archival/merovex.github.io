@@ -6,11 +6,11 @@ photo:
   license: under CC BY 2.0
   caption: Snail reaches her limits.
 layout: post
-title: "So I'm Building a VO Sound Booth, Pt 3"
+title: So I'm Building a VO Sound Booth, Pt 3
 created_at: 2014-11-11 17:12
 modified_at: 2014-11-11 17:12
 published_at: 2014-11-11 17:12
-date: 2014-11-11 17:12:54 -0500
+date: 2014-11-11 17:12:54.000000000 -05:00
 comments: true
 sharing: true
 footer: true
@@ -20,9 +20,14 @@ categories:
 - Diary
 - Publishing
 - VO
-keywords: "writing, plan, goals"
-description: "The final story in the saga of a privately owned Voice Over Booth. After much research and analysis, I'm finally ready to press the button."
+keywords: writing, plan, goals
+description: The final story in the saga of a privately owned Voice Over Booth. After
+  much research and analysis, I'm finally ready to press the button.
 author: Ben Wilson
+tags:
+- Diary
+- Publishing
+- VO
 ---
 <!--Lead Paragraph-->
 

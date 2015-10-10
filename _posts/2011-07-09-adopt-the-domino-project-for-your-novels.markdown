@@ -6,7 +6,7 @@ photo:
   license: under CC BY 2.0
   caption: Dominos ready to fall.
 layout: post
-title: "Adopt the Domino Project for Your Novels"
+title: Adopt the Domino Project for Your Novels
 created_at: 2011-07-09 15:03
 modified_at: 2011-07-09 15:03
 published_at: 2011-07-09 15:03
@@ -16,6 +16,8 @@ sidebar: true
 image: 2391828247_7016a8a66f-dominos.jpg
 author: Ben Wilson
 categories:
+- Writing
+tags:
 - Writing
 ---
 

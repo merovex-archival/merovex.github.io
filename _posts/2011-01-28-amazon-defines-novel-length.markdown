@@ -6,7 +6,7 @@ photo:
   license: under CC BY 2.0
   caption: Balancing a Kindle
 layout: post
-title: "Amazon Defines Novel Length"
+title: Amazon Defines Novel Length
 created_at: 2011-01-28 15:21
 modified_at: 2011-01-28 15:21
 published_at: 2011-01-28 15:21
@@ -16,6 +16,8 @@ sidebar: true
 image: amazon-kindle.jpg
 author: Ben Wilson
 categories:
+- Writing
+tags:
 - Writing
 ---
 

@@ -6,7 +6,7 @@ photo:
   license: Rights Reserved
   caption: Bellicose Novel Cover
 layout: post
-title: "Work in Progress: Bellicose"
+title: 'Work in Progress: Bellicose'
 created_at: 2012-07-15 15:26
 modified_at: 2012-07-15 15:26
 published_at: 2012-07-15 15:26
@@ -17,12 +17,16 @@ footer: true
 sidebar: true
 image: bellicose_redo_wallpaper.jpg
 categories:
- - Writing
- - Diary
- - Postal Marines Series
-keywords: "writing, plan, goals"
-description: "Ben Wilson is glad that Bellicose is in pre-production."
+- Writing
+- Diary
+- Postal Marines Series
+keywords: writing, plan, goals
+description: Ben Wilson is glad that Bellicose is in pre-production.
 author: Ben Wilson
+tags:
+- Writing
+- Diary
+- Postal Marines Series
 ---
 I'm finally in pre-production for *Bellicose*, the first of the Postal Marine Series. Last Fall, I published *[Scintilla](/novels)*, which was always meant to be the fourth of a series of five novels. I quickly plotted the second novel *[Luctation](/novels)*, a novel portraying Jonaldy, *Scintilla*'s villain as the hero. After grinding out 20,000 words, I felt that something wasn't quite right. Since then, I've been wrestling over how to proceed.
 

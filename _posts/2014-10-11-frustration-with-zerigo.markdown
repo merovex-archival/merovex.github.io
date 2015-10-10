@@ -6,11 +6,11 @@ photo:
   license: CC BY 4.0
   caption: Screenshot of my desktop with Zerigo.
 layout: post
-title: "Frustration with Zerigo"
+title: Frustration with Zerigo
 created_at: 2014-10-11 12:05
 modified_at: 2014-10-11 12:05
 published_at: 2014-10-11 12:05
-date: 2014-10-11 12:05:14 -0400
+date: 2014-10-11 12:05:14.000000000 -04:00
 comments: true
 sharing: true
 footer: true
@@ -18,9 +18,11 @@ sidebar: true
 image: zerigo-desktop.jpg
 categories:
 - Diary
-keywords: "writing, plan, goals"
-description: "I've not had a fun Saturday fixing my DNS with Zerigo."
+keywords: writing, plan, goals
+description: I've not had a fun Saturday fixing my DNS with Zerigo.
 author: Ben Wilson
+tags:
+- Diary
 ---
 This morning, I woke up looking forward to spending time preparing for my next novel series. Instead, I spent the past two hours trying to fix a problem with my domain name hosting. While I would like to shake my fist at the provider, Zerigo, this was an opportunity to read look at how I host.
 

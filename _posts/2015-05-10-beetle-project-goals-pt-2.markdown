@@ -8,7 +8,8 @@ photo:
 layout: post
 title: Project Goals & Death Foam (Beetle Pt-2)
 author: Ben Wilson
-description: A week in, I finally have project goals for restoring the Beetle, and the first issue to address.
+description: A week in, I finally have project goals for restoring the Beetle, and
+  the first issue to address.
 image: death-rust-right.JPG
 categories:
 - Beetle
@@ -16,6 +17,8 @@ sidebar: true
 date: 2015-05-10 11:19
 modified_at: 2015-05-10 11:19
 created_at: 2015-05-07 20:12
+tags:
+- Beetle
 ---
 One thing you have to do with impulse is learn how to manage it. I have a note on my monitor at work to remind me to do a retrospective when I say or do something impulsive that has negative consequences. When the blush is off, the question is whether a Super Beetle restoration project is an impulse.
 

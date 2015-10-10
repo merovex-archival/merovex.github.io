@@ -6,11 +6,11 @@ photo:
   license: under CC BY 2.0
   caption: Navy Seal candidates all sandy and happy
 layout: post
-title: "March: Slouching to Publication"
+title: 'March: Slouching to Publication'
 created_at: 2014-03-31 05:20
 modified_at: 2014-03-31 05:20
 published_at: 2014-03-31 05:20
-date: 2014-03-31 05:20:20 -0400
+date: 2014-03-31 05:20:20.000000000 -04:00
 comments: true
 sharing: true
 footer: true
@@ -18,9 +18,12 @@ sidebar: true
 image: 2704534525-seals-and-endurance.jpg
 categories:
 - Diary
-keywords: "writing, plan, goals"
-description: "March 2014 has been a difficult month for writing, but I managed to stay on course."
+keywords: writing, plan, goals
+description: March 2014 has been a difficult month for writing, but I managed to stay
+  on course.
 author: Ben Wilson
+tags:
+- Diary
 ---
 <!--Lead Paragraph-->
 If there's a time in any marathon where there's a lull that could lead to defeat, a flag in energy, a desire to give up, then that would be March 2014.

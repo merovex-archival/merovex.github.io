@@ -6,11 +6,11 @@ photo:
   license: under CC BY 2.0
   caption: Graphiti of a Naughty Boy.
 layout: post
-title: "June: A Naughty Boy"
+title: 'June: A Naughty Boy'
 created_at: 2014-06-21 07:50
 modified_at: 2014-06-21 07:50
 published_at: 2014-06-21 07:50
-date: 2014-06-21 07:50:14 -0400
+date: 2014-06-21 07:50:14.000000000 -04:00
 comments: true
 sharing: true
 footer: true
@@ -19,9 +19,12 @@ image: 477374180_war-naughty-boy.jpg
 categories:
 - Diary
 - Writing
-keywords: "writing, plan, goals"
-description: "Ben Wilson's Progress in June is dismal."
+keywords: writing, plan, goals
+description: Ben Wilson's Progress in June is dismal.
 author: Ben Wilson
+tags:
+- Diary
+- Writing
 ---
 <!--Lead Paragraph-->
 So in the past I've been able to cite technical difficulties for why my production is down. I've throughly lost momentum, but I shall soldier on.

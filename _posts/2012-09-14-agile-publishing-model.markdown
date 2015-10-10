@@ -6,7 +6,7 @@ photo:
   license: under CC-License
   caption: Agile Board
 layout: post
-title: "Agile Publishing Model"
+title: Agile Publishing Model
 created_at: 2012-09-14 11:09
 modified_at: 2012-09-14 11:09
 published_at: 2012-09-14 11:09
@@ -17,10 +17,13 @@ footer: true
 sidebar: true
 image: 1574931134-AgileBoard.jpg
 categories:
- - Writing
- - Publishing
-keywords: "writing, publishing"
-description: "Ben Wilson Discusses the Agile Publishing Model."
+- Writing
+- Publishing
+keywords: writing, publishing
+description: Ben Wilson Discusses the Agile Publishing Model.
+tags:
+- Writing
+- Publishing
 ---
 <!--Lead Paragraph-->
 If you haven't realized by now, I am a self-publishing author. That means I think I've got good ideas and decent talent to spend hundreds of hours writing books. I currently prefer to be primarily involved throughout the creating, publishing and distributing cycles. [Pragmatic Bookshelf](http://pragprog.com/) uses what [Sourcebook](http://www.sourcebooks.com/next-business-models/1938-sourcebooks-announces-agile-publishing-model.html) calls the [Agile Publishing Model](http://www.sourcebooks.com/next/agile-publishing/entering-the-shift-age/1941-sourcebooks-agile-publishing.html) for producing its non-fiction technical books. [Publisher's Weekly](http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/53426-is-publishing-ready-for-agile-.html) recently asked whether the publishing industry was read for agile. I think it is, but would it work in Fiction?

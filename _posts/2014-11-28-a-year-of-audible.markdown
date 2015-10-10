@@ -6,11 +6,11 @@ photo:
   license: under CC BY-SA 2.0
   caption: Listening
 layout: post
-title: "A Year of Audible, 2014"
+title: A Year of Audible, 2014
 created_at: 2014-11-28 17:32
 modified_at: 2014-11-28 17:32
 published_at: 2014-11-28 17:32
-date: 2014-11-28 17:32:01 -0500
+date: 2014-11-28 17:32:01.000000000 -05:00
 comments: true
 sharing: true
 footer: true
@@ -18,9 +18,11 @@ sidebar: true
 image: 2843144877_fd9593fdca_b.jpg
 categories:
 - Diary
-keywords: "audible, listening, experience"
-description: "I'd like to share what I've learned from a year of using Audible."
+keywords: audible, listening, experience
+description: I'd like to share what I've learned from a year of using Audible.
 author: Ben Wilson
+tags:
+- Diary
 ---
 <!--Lead Paragraph-->
 I love to read, but I never have the time and energy to read nearly as much as I would like. Last year I broke down and started using Audible. Here's the result.

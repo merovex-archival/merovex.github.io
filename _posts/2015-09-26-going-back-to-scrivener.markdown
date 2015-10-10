@@ -1,5 +1,8 @@
 ---
-tags: [github, github-pages, jekyll]
+tags:
+- Diary
+- Publishing
+- Technique
 photo:
   image: going-back-to-scrivener.png
   creator: Ben Wilson
@@ -9,7 +12,8 @@ photo:
 layout: post
 title: Going Back to Scrivener
 author: Ben Wilson
-description: Ben, the eternal tool geek, is turning back toward Scrivener for novel writing.
+description: Ben, the eternal tool geek, is turning back toward Scrivener for novel
+  writing.
 image: going-back-to-scrivener.png
 categories:
 - Diary

@@ -8,7 +8,8 @@ photo:
 layout: post
 title: Memories of a VW Bug Roadtrip
 author: Ben Wilson
-description: I always wanted my first car to be a Bug. I eventually owned two. This is a story of one road trip.
+description: I always wanted my first car to be a Bug. I eventually owned two. This
+  is a story of one road trip.
 image: 10311138444_c61af6d054.jpg
 categories:
 - Diary
@@ -19,6 +20,8 @@ sidebar: true
 created_at: 2015-01-18 22:03
 modified_at: 2015-02-15 09:03
 date: 2015-02-15 09:03
+tags:
+- Diary
 ---
 <!--Lead Paragraph-->
 

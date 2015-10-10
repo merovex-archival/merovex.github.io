@@ -6,7 +6,7 @@ photo:
   license: Rights Reserved
   caption: Scintilla Cover
 layout: post
-title: "A Retrospective on Scintilla's First Draft"
+title: A Retrospective on Scintilla's First Draft
 created_at: 2010-12-21 15:24
 modified_at: 2010-12-21 15:24
 published_at: 2010-12-21 15:24
@@ -19,8 +19,12 @@ categories:
 - Writing
 - Technique
 - Postal Marines Series
-keywords: "writing, plan, goals"
-description: "Ben Wilson offers his retrospective on writing Scintilla."
+keywords: writing, plan, goals
+description: Ben Wilson offers his retrospective on writing Scintilla.
+tags:
+- Writing
+- Technique
+- Postal Marines Series
 ---
 Just about every writer's resources says to take time away from your writing project after the first draft. It's like spending an intense amount of time with a loved one, then abstaining for a while to make sure you're objective about the relationship. Or, whatever. How long is open to interpretation, but I figure four to six weeks for myself.
 
@@ -34,7 +38,7 @@ A quick rundown, before I get into the meat of it. In July, my wife approved a w
 I mixed MarshallPlan with SnowflakeMethod, with a word target of 95 kwords. Scintilla has four viewpoint characters, with the lessor three having roughly ten sections each. The hero gets 46, the draft has him with only 43, which trimmed about 4,500 words off the length.
 
 What is a Retrospective
------------------------
+--------------------
 
 Not sure if you know what a Retrospective is, so pardon me if I insult your intelligence. In a nutshell, a Retrospective is a process where participant(s) looks back on a recent event to determine what could be done to improve the process going forward. It is used in many different contexts.
 
@@ -43,7 +47,7 @@ In the software development world, this is typically seen in groups that adhere 
 Writing a novel is a project, not too dissimilar from software. I come from the software world, so I'll apply that discipline here. A proper retrospective looks at what went right, what went wrong, and what can be done to improve things.
 
 What Went Right
--------------
+----------
 
 **Keeping characters focused to keep them distinct.** One piece of advice I picked up through the years was to make sure that each viewpoint character thinks *he's* the main character. Do make this work, I plotted each plot line separately---starting with the least important character, then plotting the Villain, then the Confidant, finally the Hero. I did this partly because I know the least character best because of our time together in earlier drafting of Imbroglio.
 
@@ -62,7 +66,7 @@ The first thing I realized was how little of that chosen city I really knew. It 
 Scintilla sat there for months and flew off my fingers. But, finishing the draft is doing a lot to bolster my confidence. I am starting to think in terms of novels, not just one.
 
 What Went Wrong
----------------
+------------
 
 **Focusing too much on the flaws.** Yes, I did just say I did well be not caring about mistakes. A flaw is not a mistake. A mistake is when I forget the name of a bit character, or forget that the Imperium uses Beats to tell time instead of Cycles, used on Copa.
 
@@ -79,11 +83,11 @@ Looking back, I should have done seven. One for each of the co-stars, and four f
 **Too Much Tech.** As with Imbroglio, I was able to geek out when I hit a rough patch---rather than push through. I like my tools, and don't mind tweaking them. I did so throughout this draft. The good thing is I got pretty close to a smooth set of tools when I finish. All I have to do is resolve the issue above.
 
 What to Change?
------------
+--------
 
 **Divide the Hero's Plot.** First, I'll plot the Hero in four parts. The subplot will interweave in the Hero's plot. Or, maybe I'll try to plot the Hero in five, and sprinkle the sub-plot in appropriately. I think I can manage that well enough.
 
 Conclusion
-----------
+-------
 
 It's too early to tell where I really messed things up. I think the revision will say more. And, I may end up commenting on this entry to give more as I recognize them. As I said, I'm pretty close to the story right now, so I'm not objective enough yet.

@@ -2,11 +2,11 @@
 photo:
   image: shutterstock_200353601-copyright.jpg
   creator: sergign/Shutterstock
-  url: '#'
+  url: "#"
   license: UNK
   caption: Gavel and Keyboard
 layout: post
-title: "When to Register Your Work"
+title: When to Register Your Work
 created_at: 2010-12-12 17:47
 modified_at: 2010-12-12 17:47
 published_at: 2010-12-12 17:47
@@ -18,8 +18,12 @@ author: Ben Wilson
 categories:
 - Writing
 - Legal
-keywords: "writing, plan, goals"
-description: "Ben Wilson suggests there's too much bad advice on copyrighting, and proceeds to offer more bad advice."
+keywords: writing, plan, goals
+description: Ben Wilson suggests there's too much bad advice on copyrighting, and
+  proceeds to offer more bad advice.
+tags:
+- Writing
+- Legal
 ---
 There's a lot of bad copyright advice out there. I recently read a blog (that is no longer published as of 2012) that offered what I considered questionable copyright advice. I've read a lot of advice on copyright and writing over the past 25 years, and the article rehashed most of it. While I am not a lawyer, I did earn a Juris Doctorate, and focused on Intellectual property law. So, I have a different perspective.
 

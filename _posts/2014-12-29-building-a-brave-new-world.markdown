@@ -6,11 +6,11 @@ photo:
   license: under CC BY 2.0
   caption: A Brave New World
 layout: post
-title: "Building a Brave New World"
+title: Building a Brave New World
 created_at: 2014-12-29 09:48
 modified_at: 2014-12-29 09:48
 published_at: 2014-12-29 09:48
-date: 2014-12-29 09:48:45 -0500 
+date: 2014-12-29 09:48:45.000000000 -05:00
 comments: true
 sharing: true
 footer: true
@@ -20,9 +20,13 @@ categories:
 - Ombrio
 - Technique
 - Writing
-keywords: "writing, plan, goals"
-description: "I'd like to share with you a curious approach to world-building geography."
+keywords: writing, plan, goals
+description: I'd like to share with you a curious approach to world-building geography.
 author: Ben Wilson
+tags:
+- Ombrio
+- Technique
+- Writing
 ---
 <!--Lead Paragraph-->
 As the year draws to a close, I've been tinkering with my next writing project. This is a fantasy, which requires world-building. So, I thought I'd share a bit about my process.

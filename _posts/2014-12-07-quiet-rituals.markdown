@@ -6,11 +6,11 @@ photo:
   license: under CC BY 2.0
   caption: Serenity Now
 layout: post
-title: "Quiet Rituals of a Negligibly Successful Writer"
+title: Quiet Rituals of a Negligibly Successful Writer
 created_at: 2014-12-07 08:08
 modified_at: 2014-12-07 08:08
 published_at: 2014-12-07 08:08
-date: 2014-12-07 08:08:06 -0500
+date: 2014-12-07 08:08:06.000000000 -05:00
 comments: true
 sharing: true
 footer: true
@@ -18,9 +18,12 @@ sidebar: true
 image: 288389345_f31156f5d6_o.jpg
 categories:
 - Diary
-keywords: "writing, plan, goals, quiet, rituals, successful, people"
-description: "After recently reading an article of rituals of successful people, I wanted to share some thoughts on how those rituals apply to me."
+keywords: writing, plan, goals, quiet, rituals, successful, people
+description: After recently reading an article of rituals of successful people, I
+  wanted to share some thoughts on how those rituals apply to me.
 author: Ben Wilson
+tags:
+- Diary
 ---
 <!--Lead Paragraph-->
 An article on [quiet rituals of successful people](http://www.marcandangel.com/2014/07/06/12-quiet-rituals-of-enormously-successful-humans/) made me think of my own efforts at successful writing.

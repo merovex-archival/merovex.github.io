@@ -6,11 +6,11 @@ photo:
   license: CC BY 4.0
   caption: Screenshot of graph
 layout: post
-title: "Summary of February 2014"
+title: Summary of February 2014
 created_at: 2014-03-02 15:26
 modified_at: 2014-03-02 15:26
 published_at: 2014-03-02 15:26
-date: 2014-03-02 15:26:14 -0500
+date: 2014-03-02 15:26:14.000000000 -05:00
 comments: true
 sharing: true
 footer: true
@@ -18,9 +18,11 @@ sidebar: true
 image: progress-2014-02.jpg
 categories:
 - Diary
-keywords: "writing, plan, goals"
-description: "Ben discusses what he's been up to the past month as far as writing goes."
+keywords: writing, plan, goals
+description: Ben discusses what he's been up to the past month as far as writing goes.
 author: Ben Wilson
+tags:
+- Diary
 ---
 <!--Lead Paragraph-->
 February, 2014 has been one of those busy months where I felt like I got nothing done. Yet,

@@ -6,7 +6,7 @@ photo:
   license: under BY-ND
   caption: Three Mongeese
 layout: post
-title: "It's Not Really Three Acts"
+title: It's Not Really Three Acts
 created_at: 2012-07-03 15:36
 modified_at: 2012-07-03 15:36
 published_at: 2012-07-03 15:36
@@ -16,9 +16,11 @@ sidebar: true
 image: 8401726003_e980bab730.jpg
 author: Ben Wilson
 categories:
- - Writing
-keywords: "writing, plan, goals"
-description: "Ben Wilson describes why it's a four-act structure."
+- Writing
+keywords: writing, plan, goals
+description: Ben Wilson describes why it's a four-act structure.
+tags:
+- Writing
 ---
 <!-- Opening -->
 Authors are told in countless novel writing books that there are three acts. They are told to add the midpoint to avoid the sagging middle of Act 2, because the act is twice as bit as others. In reality, it's not really three acts in the first place.

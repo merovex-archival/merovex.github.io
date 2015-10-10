@@ -6,11 +6,11 @@ photo:
   license: under CC BY 2.0
   caption: A Smith Corona typewriter.
 layout: post
-title: "Considering Kickstarter"
+title: Considering Kickstarter
 created_at: 2014-10-05 07:42
 modified_at: 2014-10-05 07:42
 published_at: 2014-10-05 07:42
-date: 2014-10-05 07:42:18 -0400
+date: 2014-10-05 07:42:18.000000000 -04:00
 comments: true
 sharing: true
 footer: true
@@ -20,9 +20,14 @@ categories:
 - Diary
 - Publishing
 - Writing
-keywords: "writing, plan, goals"
-description: "With nearly four novels written and two published, now is the time to take a step back and have them professionally edited."
+keywords: writing, plan, goals
+description: With nearly four novels written and two published, now is the time to
+  take a step back and have them professionally edited.
 author: Ben Wilson
+tags:
+- Diary
+- Publishing
+- Writing
 ---
 <!--Lead Paragraph-->
 <!--http://www.url-encode-decode.com/-->
