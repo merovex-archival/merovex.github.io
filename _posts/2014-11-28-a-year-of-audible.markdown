@@ -17,7 +17,10 @@ footer: true
 sidebar: true
 image: 2843144877_fd9593fdca_b.jpg
 category: diary
-keywords: audible, listening, experience
+tags: 
+  - audible
+  - listening
+  - experience
 description: I'd like to share what I've learned from a year of using Audible.
 author: Ben Wilson
 category: diary

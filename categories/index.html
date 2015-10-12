@@ -1,0 +1,24 @@
+---
+layout: wide
+title: Categories
+header: Posts By Category
+group: navigation
+---
+
+<div class='row'>
+  <main class='col-sm-7 col-sm-offset-1'>
+{% for category in site.categories %} 
+  <h2 id="{{ category[0] | cgi_escape }}-ref">{{ category[0] | join: "/" }}</h2>
+  <ul>
+    {% assign pages_list = category[1] %}  
+    {% include pages_list.html %}
+  </ul>
+{% endfor %}
+  </main>
+  <aside class='col-sm-4' role='complimentary'>
+    <h3>Category Index</h3>
+    <ul class="list-group">{% assign categories_list = site.categories | sort %}
+	  {% include categories_list.html %}
+	</ul>
+  </aside>
+</div>

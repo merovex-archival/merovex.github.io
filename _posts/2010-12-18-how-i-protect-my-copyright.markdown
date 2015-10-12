@@ -19,7 +19,6 @@ category: writing
 keywords: writing, plan, goals
 description: "Ben continues his short series on addressing copyright issues."
 tags:
-- Writing
 - Legal
 ---
 Last week I offered my perspective on [when you should copyright your work](/articles/when-should-you-register-your-work/). After being asked several times how I protect my pre-publication works, I thought I'd offer my approach for your consideration. I defend my works by demonstrating an evolving work.

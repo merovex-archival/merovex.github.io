@@ -1,6 +1,12 @@
-{% assign post = fred %}{% if post.tags.size > 0 %}{% capture tags_content %}{% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}{% for post_tag in post.tags %}{% assign tag = site.data.tags[post_tag] %}{% if tag %}{% capture tags_content_temp %}{{ tags_content }}<a href="/blog/tag/{{ tag.slug }}/">{{ tag.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}{% assign tags_content = tags_content_temp %}{% endif %}{% endfor %}{% else %}{% assign tags_content = '' %}{% endif %}<p class='post-meta'>
-    	<span class='fa fa-clock-o'></span> {{ fred.date | date: '%-d %B %Y' }}{% if fred.author %}
-    	<span class='fa fa-user'></span> {{ fred.author }}{% endif %}
-    	{{ tags_content }}
-    	<span class="fb-share-button" data-href="{{site.url}}{{page.url}}" data-layout="button"></span>
-        </p>
+{% assign post = fred %}
+{% if post.tags.size > 0 %}
+{% capture tag_label %}
+{% if post.tags.size == 1 %}<i aria-hidden='true' class="fa fa-tag"></i>{% else %}<i aria-hidden='true' class="fa fa-tags"></i>{% endif %} {% endcapture %}
+{% endif %}
+<p class='post-meta'>
+  <span aria-hidden='true' class='fa fa-clock-o'></span><i class='sr-only'>Published on</i> {{ fred.date | date: '%-d %B %Y' }}
+  {% if fred.author %}<span aria-hidden='true' class='fa fa-user'></span><i class='sr-only'>Written by</i> {{ fred.author }}{% endif %}
+  {{tag_label}}
+  {% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}
+  <span class="fb-share-button" data-href="{{site.url}}{{page.url}}" data-layout="button"></span>
+</p>

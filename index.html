@@ -5,11 +5,12 @@ sidebar: true
 title: ""
 subtitle: Blog
 ---
-
+{% if page.url == '/index.html' %}
 {% include frontpage/about.html %}
+{% endif %}
 <section class='post container' id='latest'>
   <div class='row'>
-    <h2>Latest News</h2>
+    <h2 class='text-center'>Latest News</h2>
     {%for post in paginator.posts offset:1 %}{% assign content = post.content %}{% assign fred = post %}
       <article class='col-lg-4 col-md-6 col-xs-12'>
         <hr aria-hidden='true'>
@@ -28,5 +29,5 @@ subtitle: Blog
   <div class='text-center'>
     {% include paginator.html %}
   </div>
-
 </section>
+{% include books.html %}

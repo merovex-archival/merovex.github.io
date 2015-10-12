@@ -1,6 +1,6 @@
 <div class='btn-toolbar'>
   <div class='btn-group'>
-<a class='btn btn-danger btn-large' href='http://www.amazon.com/dp/{{book['print']}}/?tag=dausha-20' onClick="ga('send', 'event', 'Button', 'Click', 'Amazon: {{book['title']}} Paperback');" target='_blank' ><i class='fa fa-book'></i><span class='sr-only'>Buy {{book['title']}} as </span>&nbsp;Paperback</a>
-<a class='btn btn-primary btn-large' href='http://www.amazon.com/dp/{{book['ebook']}}/?tag=dausha-20' onClick="ga('send', 'event', 'Button', 'Click', 'Amazon: {{book['title']}} Kindle');" target='_blank' ><i class='fa fa-mobile'></i><span class='sr-only'>Buy {{book['title']}} as </span>&nbsp;Kindle</a>
+<a class='btn btn-danger btn-large' href='{{book['print']}}' onClick="ga('send', 'event', 'Button', 'Click', 'Amazon: {{book['title']}} Paperback');" target='_blank' ><i class='fa fa-book'></i><span class='sr-only'>Buy {{book['title']}} as </span>&nbsp;Paperback</a>
+<a class='btn btn-primary btn-large' href='{{book['ebook']}}' onClick="ga('send', 'event', 'Button', 'Click', 'Amazon: {{book['title']}} Kindle');" target='_blank' ><i class='fa fa-mobile'></i><span class='sr-only'>Buy {{book['title']}} as </span>&nbsp;Kindle</a>
   </div>
 </div>

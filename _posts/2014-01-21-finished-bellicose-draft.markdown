@@ -13,7 +13,10 @@ published_at: 2014-01-21 19:21
 date: 2014-01-21 19:21:07.000000000 -05:00
 comments: true
 image: bellicose_redo_wallpaper.jpg
-keywords: bellicose, postal marine series, writing
+tags: 
+  - bellicose
+  - postal marine series
+  - writing
 description: I finished the Bellicose revision. Moving forward.
 category: postal marine series
 ---

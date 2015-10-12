@@ -1,9 +1,15 @@
-github:
-  slug: github
-  name: GitHub
-github-pages:
-  slug: github-pages
-  name: GitHub Pages
-jekyll:
-  slug: jekyll
-  name: Jekyll
+---
+writing: Writing
+legal: Legal
+technique: Technique
+postal marines series: Postal Marines Series
+diary: Diary
+publishing: Publishing
+bellicose: Bellicose
+postal marine series: Postal Marine Series
+vo: Vo
+audible: Audible
+listening: Listening
+experience: Experience
+ombrio: Ombrio
+beetle: Beetle

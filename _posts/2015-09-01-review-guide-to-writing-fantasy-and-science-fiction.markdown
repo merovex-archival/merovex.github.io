@@ -8,8 +8,7 @@ photo:
 layout: post
 title: 'Review: Guide to Writing Fantasy and Science Fiction'
 author: Ben Wilson
-description: After reading Guide to Writing Fantasy and Science Fiction, I thought
-  it was worth a review.
+description: After reading Guide to Writing Fantasy and Science Fiction, I thought it was worth a review.
 image: guide-to-writing.jpg
 category: writing
 sharing: true
