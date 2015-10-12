@@ -8,7 +8,7 @@ photo:
 layout: post
 title: A Buggy Summer
 author: Ben Wilson
-description: Ben provides a summary of summer activities.
+description: "I've made a fair amount of progress over the summer on the Beetle, but I have a way to go to finish the chassis."
 image: beetle-2015-may-01.jpg
 category: vw beetle
 comments: true
