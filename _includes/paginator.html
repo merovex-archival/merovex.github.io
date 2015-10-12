@@ -1,7 +1,7 @@
 <nav role='pagination'>{% if paginator.total_pages > 1 %}
 	<h3 class='sr-only'>Article Pagination</h3>
-	<ul class='pagination pagination-lg'>{% if paginator.previous_page %}<li><a class='prev' href='/p/{{{paginator.previous_page}}'>&larr; Prev</a></li>{% endif %}{% for page in (1..paginator.total_pages) %}{% capture url %}/p/{{page}}{% endcapture %}{% if page == 1 %}{% assign url = '/' %}{% endif %}
+	<ul class='pagination pagination-lg'>{% if paginator.previous_page %}<li><a class='prev' href='/page{{{paginator.previous_page}}'>&larr; Prev</a></li>{% endif %}{% for page in (1..paginator.total_pages) %}{% capture url %}/page{{page}}{% endcapture %}{% if page == 1 %}{% assign url = '/' %}{% endif %}
 		{% if page != paginator.page %}<li><a href='{{{url}}'>{{page}}</a></li>{% else %}<li><span>{{page}}</span></li>{% endif %}{% endfor %}
-		{% if paginator.next_page %}<li><a class='next' href='/p/{{{paginator.next_page}}/#articles'>Next &rarr;</a></li>{% endif %}
+		{% if paginator.next_page %}<li><a class='next' href='/page{{{paginator.next_page}}/#articles'>Next &rarr;</a></li>{% endif %}
 	</ul>{% endif %}
 </nav>

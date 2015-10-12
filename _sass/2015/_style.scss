@@ -12,3 +12,8 @@ body {
   background: $background-color url(https://s3.amazonaws.com/dausha/images/pbg.jpg) no-repeat top left fixed;
   background-size: cover;
 }
+#sidebar {
+	h3 {
+		font-size: 24px;
+	}
+}

@@ -1,8 +1,32 @@
 ---
 layout: default
-title: Ben Wilson, Author
+index: true
+sidebar: true
+title: ""
+subtitle: Blog
 ---
-{% include frontpage/intro.html %}
+
 {% include frontpage/about.html %}
-{% include frontpage/bophendze.html %}
-{% include frontpage/pms.html %}
+<section class='post container' id='latest'>
+  <div class='row'>
+    <h2>Latest News</h2>
+    {%for post in paginator.posts offset:1 %}{% assign content = post.content %}{% assign fred = post %}
+      <article class='col-lg-4 col-md-6 col-xs-12'>
+        <hr>
+        <p class='category'>{{post.categories.first | titlecase}}</p>
+        <figure class='thumb'>
+          <img src='{{ site.cdn_url }}/images/articles/thumbnails/{{post.image}}' alt=''>
+        </figure>
+        <header>
+          <h3><a href='{{ root_url }}{{ post.url }}'>{{post.title | titlecase}}</a></h3>
+        </header>
+        <p>{{ post.description }}</p>
+      </article>
+    {% endfor %}
+  </div>
+
+  <div class='text-center'>
+    {% include paginator.html %}
+  </div>
+
+</section>

@@ -7,5 +7,6 @@ group :development do
 	gem 'rb-inotify'
 	gem 'compass'
 end
+gem 'stringex'
 gem 'sinatra'
 gem 'rack-rewrite'

@@ -302,6 +302,11 @@ body {
   background-size: cover;
 }
 
+/* line 16, ../_sass/2015/_style.scss */
+#sidebar h3 {
+  font-size: 24px;
+}
+
 /* line 7, ../_sass/screen.scss */
 .dev {
   border: 1px solid red;
