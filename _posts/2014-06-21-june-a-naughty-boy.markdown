@@ -16,9 +16,7 @@ sharing: true
 footer: true
 sidebar: true
 image: 477374180_war-naughty-boy.jpg
-categories:
-- Diary
-- Writing
+category: diary
 keywords: writing, plan, goals
 description: Ben Wilson's Progress in June is dismal.
 author: Ben Wilson
@@ -26,7 +24,6 @@ tags:
 - Diary
 - Writing
 ---
-<!--Lead Paragraph-->
 So in the past I've been able to cite technical difficulties for why my production is down. I've throughly lost momentum, but I shall soldier on.
 
 <!-- more -->

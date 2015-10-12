@@ -16,10 +16,7 @@ sharing: true
 footer: true
 sidebar: true
 image: 5060103696_625ba60116_z-chain.jpg
-categories:
-- Publishing
-- Technique
-- Writing
+category: technology
 keywords: LaTeX, Markdown, Ruby, publishing, Bookmaker, tool pr0n
 description: Ben Wilson, author, discusses how he writes, edits and publishes a novel.
 author: Ben Wilson

@@ -16,8 +16,7 @@ sharing: true
 footer: true
 sidebar: true
 image: zerigo-desktop.jpg
-categories:
-- Diary
+category: technology
 keywords: writing, plan, goals
 description: I've not had a fun Saturday fixing my DNS with Zerigo.
 author: Ben Wilson

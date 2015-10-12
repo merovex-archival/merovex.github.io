@@ -12,8 +12,7 @@ modified_at: 2014-02-01 09:04
 published_at: 2014-02-01 09:04
 date: 2014-02-01 09:04:48.000000000 -05:00
 comments: true
-categories:
-- Diary
+category: diary
 keywords: dairy, writing progress
 description: Ben offers a retrospective on his first month of writing with a goal
   and visual analytics.

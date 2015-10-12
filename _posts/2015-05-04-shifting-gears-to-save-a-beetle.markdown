@@ -10,9 +10,7 @@ title: Shifting Gears to Save a Beetle (Beetle Pt-1)
 author: Ben Wilson
 description: I'm splitting my time from editing to save a Super Beetle
 image: beetle-2015-may-01.jpg
-categories:
-- Diary
-- Beetle
+category: vw beetle
 comments: true
 sharing: true
 footer: true

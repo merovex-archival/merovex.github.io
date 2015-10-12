@@ -11,8 +11,7 @@ author: Ben Wilson
 description: After reading Guide to Writing Fantasy and Science Fiction, I thought
   it was worth a review.
 image: guide-to-writing.jpg
-categories:
-- Publishing
+category: writing
 sharing: true
 footer: true
 sidebar: true

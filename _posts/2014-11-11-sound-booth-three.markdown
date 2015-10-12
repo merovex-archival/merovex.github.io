@@ -16,10 +16,7 @@ sharing: true
 footer: true
 sidebar: true
 image: 2541312543_303697aae8_b-Snails.jpg
-categories:
-- Diary
-- Publishing
-- VO
+category: technology
 keywords: writing, plan, goals
 description: The final story in the saga of a privately owned Voice Over Booth. After
   much research and analysis, I'm finally ready to press the button.
@@ -29,8 +26,6 @@ tags:
 - Publishing
 - VO
 ---
-<!--Lead Paragraph-->
-
 A few months back I talked about building a Voice-Over booth. After much research and analysis, I'm finally ready to press the button.
 
 <!-- more -->

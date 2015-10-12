@@ -16,8 +16,7 @@ sharing: true
 footer: true
 sidebar: true
 image: 7770199719-USCapitol.jpg
-categories:
-- Diary
+category: diary
 keywords: writing, plan, goals
 description: April was a very slow month of writing. I jokingly say it's not my fault,
   but it is.

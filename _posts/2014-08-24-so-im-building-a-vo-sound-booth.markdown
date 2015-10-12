@@ -16,10 +16,7 @@ sharing: true
 footer: true
 sidebar: true
 image: IMG_20140824_084337.jpg
-categories:
-- Diary
-- Writing
-- VO
+category: technology
 keywords: vo, voice over, sound booth, iso booth, audio book
 description: Ben discusses the intricate steps in preparing for a voice-over career
   as an author.

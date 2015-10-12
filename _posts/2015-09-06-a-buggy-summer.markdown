@@ -10,9 +10,7 @@ title: A Buggy Summer
 author: Ben Wilson
 description: Ben provides a summary of summer activities.
 image: beetle-2015-may-01.jpg
-categories:
-- Diary
-- Beetle
+category: vw beetle
 comments: true
 sharing: true
 footer: true

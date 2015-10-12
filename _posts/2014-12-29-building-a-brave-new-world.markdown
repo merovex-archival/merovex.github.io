@@ -16,10 +16,7 @@ sharing: true
 footer: true
 sidebar: true
 image: 15020291797_c93308380b_z-worldbuilding.jpg
-categories:
-- Ombrio
-- Technique
-- Writing
+category: ombre
 keywords: writing, plan, goals
 description: I'd like to share with you a curious approach to world-building geography.
 author: Ben Wilson
@@ -28,7 +25,6 @@ tags:
 - Technique
 - Writing
 ---
-<!--Lead Paragraph-->
 As the year draws to a close, I've been tinkering with my next writing project. This is a fantasy, which requires world-building. So, I thought I'd share a bit about my process.
 
 <!-- more -->

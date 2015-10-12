@@ -16,9 +16,7 @@ sharing: true
 footer: true
 sidebar: true
 image: january-2014.png
-categories:
-- Diary
-- Writing
+category: diary
 keywords: writing, plan, goals
 description: I added a third progress chart to build confidence in my writing.
 author: Ben Wilson

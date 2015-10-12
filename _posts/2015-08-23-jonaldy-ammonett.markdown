@@ -12,8 +12,7 @@ description: 'As I am editing Luctation, I wanted to chat a bit about the main c
   Jonaldy Ammonett. He starts lowly and insecure, but we see eventually that he rises
   to be a real power in and of himself.'
 image: Luctation.jpg
-categories:
-- Postal Marines Series
+category: postal marine series
 comments: true
 sharing: true
 footer: true

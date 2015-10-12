@@ -16,18 +16,14 @@ sharing: true
 footer: true
 sidebar: true
 image: 164361902_cae775b4c7_z-microphone.jpg
-categories:
-- Diary
-- Technique
+category: technology
 keywords: writing, plan, goals
-description: To clear a plot issue, I used Dragon Dictate.
+description: "With this being National Disability Awareness Month, I wanted to chat about how I used Dragon with a plot problem."
 author: Ben Wilson
 tags:
 - Diary
 - Technique
 ---
-<!--Lead Paragraph-->
-<!--http://www.url-encode-decode.com/-->
 October is [National Disability Awareness Month](http://www.dol.gov/odep/topics/ndeam/index-2014.htm), so I'm a little early with this article. But I wanted to share a bit about how I was able to use an assistive technology to fix a decade-old plot problem.
 
 <!-- more -->

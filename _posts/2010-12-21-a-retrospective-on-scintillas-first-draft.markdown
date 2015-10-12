@@ -11,16 +11,10 @@ created_at: 2010-12-21 15:24
 modified_at: 2010-12-21 15:24
 published_at: 2010-12-21 15:24
 date: 2010-12-21 15:24
-comments: true
-sidebar: true
-image: scintilla-wallpaper.jpg
 author: Ben Wilson
-categories:
-- Writing
-- Technique
-- Postal Marines Series
+category: postal marine series
 keywords: writing, plan, goals
-description: Ben Wilson offers his retrospective on writing Scintilla.
+description: Ben Wilson offers his retrospective on writing and publishing his first finished novel--Scintilla.
 tags:
 - Writing
 - Technique

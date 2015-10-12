@@ -16,9 +16,7 @@ sharing: true
 footer: true
 sidebar: true
 image: 4738792692_0af05c986e_o.jpg
-categories:
-- Diary
-- Writing
+category: diary
 keywords: writing, diary, goals
 description: July has been a curious month of transition.
 author: Ben Wilson
@@ -26,9 +24,6 @@ tags:
 - Diary
 - Writing
 ---
-<!--Lead Paragraph-->
-<!--http://www.url-encode-decode.com/-->
-
 There's an odd feeling seven months into a goal. I'm obviously behind, but there's still a chance that I could redouble my efforts. So perhaps I'm a little deluded. Yet, my underlying objective is still in reach.
 
 <!-- more -->

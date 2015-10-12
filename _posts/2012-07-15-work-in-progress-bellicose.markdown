@@ -16,10 +16,7 @@ sharing: true
 footer: true
 sidebar: true
 image: bellicose_redo_wallpaper.jpg
-categories:
-- Writing
-- Diary
-- Postal Marines Series
+category: postal marine series
 keywords: writing, plan, goals
 description: Ben Wilson is glad that Bellicose is in pre-production.
 author: Ben Wilson

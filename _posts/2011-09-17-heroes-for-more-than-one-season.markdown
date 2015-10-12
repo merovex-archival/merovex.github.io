@@ -15,12 +15,9 @@ comments: true
 sidebar: true
 image: 5705122218_550e9d5f83-Heroes.jpg
 author: Ben Wilson
-categories:
-- Writing
-- Technique
+category: writing
 keywords: writing, plan, goals
-description: Ben Wilson explains why authors should plan to write series, and suggests
-  that Snowflake Method will help.
+description: Ben Wilson explains why authors should plan to write series, and suggests that Snowflake Method will help.
 tags:
 - Writing
 - Technique

@@ -16,8 +16,7 @@ sharing: true
 footer: true
 sidebar: true
 image: 2704534525-seals-and-endurance.jpg
-categories:
-- Diary
+category: diary
 keywords: writing, plan, goals
 description: March 2014 has been a difficult month for writing, but I managed to stay
   on course.

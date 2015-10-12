@@ -11,8 +11,7 @@ author: Ben Wilson
 description: A week in, I finally have project goals for restoring the Beetle, and
   the first issue to address.
 image: death-rust-right.JPG
-categories:
-- Beetle
+category: vw beetle
 sidebar: true
 date: 2015-05-10 11:19
 modified_at: 2015-05-10 11:19

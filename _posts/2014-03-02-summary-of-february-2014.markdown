@@ -16,8 +16,7 @@ sharing: true
 footer: true
 sidebar: true
 image: progress-2014-02.jpg
-categories:
-- Diary
+category: diary
 keywords: writing, plan, goals
 description: Ben discusses what he's been up to the past month as far as writing goes.
 author: Ben Wilson

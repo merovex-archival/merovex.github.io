@@ -15,12 +15,9 @@ comments: true
 sidebar: true
 image: shutterstock_200353601-copyright.jpg
 author: Ben Wilson
-categories:
-- Writing
-- Legal
+category: writing
 keywords: writing, plan, goals
-description: Ben Wilson suggests there's too much bad advice on copyrighting, and
-  proceeds to offer more bad advice.
+description: "Ben Wilson suggests there's too much bad advice on copyrighting, and proceeds to offer more bad advice."
 tags:
 - Writing
 - Legal

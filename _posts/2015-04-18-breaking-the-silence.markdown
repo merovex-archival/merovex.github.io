@@ -1,7 +1,7 @@
 ---
 photo:
   image: 3400504522_dcc68458ce-silence.jpg
-  creator: swimfinfan
+  creator: swimfinfan/Flickr
   url: https://www.flickr.com/photos/12842055@N03/3400504522/
   license: under CC BY-SA 2.0
   caption: Guardian of Silence
@@ -10,8 +10,7 @@ title: Breaking the Silence
 author: Ben Wilson
 description: After a few hard months, I'm back in business.
 image: 3400504522_dcc68458ce-silence.jpg
-categories:
-- Diary
+category: diary
 comments: true
 sharing: true
 footer: true
@@ -22,7 +21,6 @@ created_at: 2015-04-18 19:40
 tags:
 - Diary
 ---
-<!--Lead Paragraph-->
 
 After a few hard months, I'm back in business. I thought it would be appropriate for me to break the silence a bit.
 

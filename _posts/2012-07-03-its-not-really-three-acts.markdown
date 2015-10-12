@@ -15,8 +15,7 @@ comments: true
 sidebar: true
 image: 8401726003_e980bab730.jpg
 author: Ben Wilson
-categories:
-- Writing
+category: writing
 keywords: writing, plan, goals
 description: Ben Wilson describes why it's a four-act structure.
 tags:

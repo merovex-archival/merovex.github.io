@@ -16,15 +16,12 @@ sharing: true
 footer: true
 sidebar: true
 image: 2843144877_fd9593fdca_b.jpg
-categories:
-- Diary
+category: diary
 keywords: audible, listening, experience
 description: I'd like to share what I've learned from a year of using Audible.
 author: Ben Wilson
-tags:
-- Diary
+category: diary
 ---
-<!--Lead Paragraph-->
 I love to read, but I never have the time and energy to read nearly as much as I would like. Last year I broke down and started using Audible. Here's the result.
 
 <!-- more -->

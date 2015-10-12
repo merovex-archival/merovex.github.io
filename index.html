@@ -12,13 +12,13 @@ subtitle: Blog
     <h2>Latest News</h2>
     {%for post in paginator.posts offset:1 %}{% assign content = post.content %}{% assign fred = post %}
       <article class='col-lg-4 col-md-6 col-xs-12'>
-        <hr>
-        <p class='category'>{{post.categories.first | titlecase}}</p>
+        <hr aria-hidden='true'>
+        <p class='category'><span class='sr-only'>Article Category:</span>{{post.categories.first | titlecase}}</p>
         <figure class='thumb'>
-          <img src='{{ site.cdn_url }}/images/articles/thumbnails/{{post.image}}' alt=''>
+          <img src='{{ site.cdn_url }}/images/articles/thumbnails/{{post.photo['image']}}' alt=''>
         </figure>
         <header>
-          <h3><a href='{{ root_url }}{{ post.url }}'>{{post.title | titlecase}}</a></h3>
+          <h3><a href='{{ root_url }}{{ post.url }}'>{{post.title | titlecase |truncate: 25}}</a></h3>
         </header>
         <p>{{ post.description }}</p>
       </article>

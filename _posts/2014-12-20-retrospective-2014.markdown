@@ -16,15 +16,13 @@ sharing: true
 footer: true
 sidebar: true
 image: 6222335233_351df8ec41_b.jpg
-categories:
-- Diary
+category: diary
 keywords: writing, plan, goals
 description: Description for front page & Third-party.
 author: Ben Wilson
 tags:
 - Diary
 ---
-<!--Lead Paragraph-->
 When the day is at its shortest, it's time to look back at last year's progress. I accomplished more than I thought, but less than I had hoped.
 
 <!-- more -->

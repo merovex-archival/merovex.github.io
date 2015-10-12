@@ -1,4 +1,4 @@
-<aside id='sidebar' class='col-xs-12 col-sm-4'>
+<aside id='sidebar' class='col-xs-12 col-sm-4' role='complementary'>
 <section aria-labelled-by='mcSidebar'>
   <h3 id='mcSidebar'>Get News in Your Inbox</h3>
   {% include forms/mailchimp.html %}
@@ -6,16 +6,26 @@
 </section>
 <section aria-labelled-by='recent'>
   <h3 id='recent'>Recent Posts</h3>
+  <div class='list-group'>{% for post in site.posts limit:7 %}
+    <a class='list-group-item{%if post.url == page.url%} active{%endif%}' href='{{ site.baseurl }}{{post.url}}'>{{ post.title }}</a>
+{% endfor %}</div>
 </section>
-<h3>Taxonomy</h3>
-<ul class="meta">
-{% for category in site.iterable.categories %}
-	{% unless category.name == '' %}
-		<li>
-			<a href="{{ site.baseurl }}/{{ category.name | xml_id }}" class="category">{{ category.name | taxonomy_name }}</a>
-			<span class="metadata">({{ category.posts.size }})</span>
-		</li>
-	{% endunless %}
-{% endfor %}
-</ul>
+<section aria-labelled-by='taxonomy'>
+<h3 id='taxonomy'>Blog Categories</h3>
+  <div class='list-group'>
+  {% if site.categories.first[0] == null %}
+    {% for category in site.categories %}
+     <a class='list-group-item' href="{{ site.baseurl }}/categories.html#{{ category }}-ref">
+     {{ category | join: "/" }} <span>{{ site.categories[category].size }}</span>
+     </a>
+    {% endfor %}
+  {% else %}
+    {% for category in site.categories %}
+     <a class='list-group-item' href="{{ site.baseurl }}/categories.html#{{ category[0] }}-ref">
+     {{ category[0] | join: "/" }}</span>
+     </a>
+    {% endfor %}
+  {% endif %}
+</div>
+</section>
 </aside>

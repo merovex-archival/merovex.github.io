@@ -1,31 +1,29 @@
 ---
 photo:
-  image: 
-  creator: 
+  image: snl_39_cents.png
+  creator: NBC
   url: 
-  license: 
-  caption: 
+  license: RR
+  caption: "SNL 39 Cents Video"
+  hidden: true
 layout: post
-title: 'BROKEN: 39 Cents a Day'
+title: '39 Cents a Day'
 created_at: 2014-10-15 17:36
 modified_at: 2014-10-15 17:36
 published_at: 2014-10-15 17:36
-date: 2014-10-15 17:36:38.000000000 -04:00
+date: 2014-10-15 17:36:00 -04:00
 comments: true
 sharing: true
 footer: true
 sidebar: true
 image: snl_39_cents.png
-categories:
-- Diary
-keywords: Humor. Generocity. Africa.
-description: Thirty-nine cents is all it takes to meet the basic needs of these poor
-  villages.
+category: diary
+keywords: Humor. Generosity. Africa.
+description: Thirty-nine cents is all it takes to meet the basic needs of these poor villagers.
 author: Ben Wilson
 tags:
 - Diary
 ---
-<!--Lead Paragraph-->
 Perhaps I shouldn't find this specific video so funny, but I do. It speaks to the hubris that we know what is better for somebody else. "Don't even know what country you're in."
 
 <!-- more -->

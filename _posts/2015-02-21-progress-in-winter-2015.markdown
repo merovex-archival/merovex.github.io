@@ -1,7 +1,7 @@
 ---
 photo:
   image: 8387491968_cd9707ebbb_b-Snowbird.jpg
-  creator: pixelshoot
+  creator: pixelshoot/Flickr
   url: https://www.flickr.com/photos/69070275@N03/8387491968/
   license: under CC BY 2.0
   caption: Snowbird
@@ -11,8 +11,7 @@ author: Ben Wilson
 description: A friend asked me this week about my writing. So, I figured it was time
   to report slow going.
 image: 8387491968_cd9707ebbb_b-Snowbird.jpg
-categories:
-- Diary
+category: diary
 comments: true
 sharing: true
 footer: true

@@ -11,12 +11,9 @@ created_at: 2011-01-28 15:21
 modified_at: 2011-01-28 15:21
 published_at: 2011-01-28 15:21
 date: 2011-01-28 15:21
-comments: true
-sidebar: true
-image: amazon-kindle.jpg
+description: "Amazon customers represent a market force we as authors should listen to. And they are talking about the modern length of a novel."
 author: Ben Wilson
-categories:
-- Writing
+category: writing
 tags:
 - Writing
 ---

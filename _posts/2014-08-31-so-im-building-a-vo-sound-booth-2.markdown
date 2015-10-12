@@ -16,10 +16,7 @@ sharing: true
 footer: true
 sidebar: true
 image: 7871348700_3af6a3d944_z-guitar.jpg
-categories:
-- Diary
-- Publishing
-- VO
+category: technology
 keywords: vo, voice over, sound booth, iso booth, audio book
 description: Ben continues to discuss evil malchinations of an aspiring voice-over
   author.
@@ -29,9 +26,6 @@ tags:
 - Publishing
 - VO
 ---
-
-<!--Lead Paragraph-->
-<!--http://www.url-encode-decode.com/-->
 Last week, I discussed [building a sound booth](/articles/so-im-building-a-vo-sound-booth/). In that conversation were elaborate plans and schemes. The Bible says "We can make our plans, but the LORD determines our steps." So it is with me. I thought a quick update was in order.
 
 <!-- more -->

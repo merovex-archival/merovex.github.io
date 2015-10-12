@@ -10,8 +10,7 @@ title: Lessons in Octopress
 author: Ben Wilson
 description: Ben chats about use of Octopress.
 image: octopress-logo.jpg
-categories:
-- Diary
+category: diary
 comments: true
 sharing: true
 footer: true

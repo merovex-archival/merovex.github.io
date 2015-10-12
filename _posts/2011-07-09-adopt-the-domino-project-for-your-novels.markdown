@@ -7,6 +7,7 @@ photo:
   caption: Dominos ready to fall.
 layout: post
 title: Adopt the Domino Project for Your Novels
+description: "The Domino Project offers a way of encouraging readers to try you out as a new writer."
 created_at: 2011-07-09 15:03
 modified_at: 2011-07-09 15:03
 published_at: 2011-07-09 15:03
@@ -15,8 +16,7 @@ comments: true
 sidebar: true
 image: 2391828247_7016a8a66f-dominos.jpg
 author: Ben Wilson
-categories:
-- Writing
+category: writing
 tags:
 - Writing
 ---

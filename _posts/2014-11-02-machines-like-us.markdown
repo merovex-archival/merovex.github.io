@@ -16,15 +16,13 @@ sharing: true
 footer: true
 sidebar: true
 image: 3318600273_3ef4c48d0a_b-Machine.jpg
-categories:
-- Postal Marines Series
+category: postal marine series
 keywords: writing, plan, goals
 description: Description for front page & Third-party.
 author: Ben Wilson
 tags:
 - Postal Marines Series
 ---
-<!--Lead Paragraph-->
 Computers will soon become more intelligent than us. Some of the best brains in Silicon Valley are now trying to work out what happens next.
 
 <!-- more -->

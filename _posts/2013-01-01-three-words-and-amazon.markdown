@@ -16,8 +16,7 @@ sharing: true
 footer: true
 sidebar: true
 image: 5291096057_el-cid-silhouetted.jpg
-categories:
-- Diary
+category: diary
 keywords: writing, plan, goals
 description: Ben Wilson gives the three words he thinks will defined 2013.
 tags:

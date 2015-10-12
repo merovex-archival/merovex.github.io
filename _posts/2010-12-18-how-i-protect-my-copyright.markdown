@@ -15,11 +15,9 @@ comments: true
 sidebar: true
 image: shutterstock_200353601-copyright.jpg
 author: Ben Wilson
-categories:
-- Writing
-- Legal
+category: writing
 keywords: writing, plan, goals
-description: Ben Wilson offers more bad advice on copyright.
+description: "Ben continues his short series on addressing copyright issues."
 tags:
 - Writing
 - Legal

@@ -16,9 +16,7 @@ sharing: true
 footer: true
 sidebar: true
 image: 2781511209_fdd2f7ee27_z.jpg
-categories:
-- Diary
-- Writing
+category: diary
 keywords: writing, plan, goals
 description: May was a rough month, but hope remains.
 author: Ben Wilson

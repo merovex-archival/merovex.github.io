@@ -12,8 +12,7 @@ description: After about six weeks of owning the Super Beetle, I'm finally comin
   to terms with the totality of this project. And, I will get back into editing novels
   soon.
 image: 1361002.jpg
-categories:
-- Beetle
+category: vw beetle
 comments: true
 sharing: true
 footer: true

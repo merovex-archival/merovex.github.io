@@ -17,15 +17,13 @@ footer: true
 published: true
 sidebar: true
 image: 3129752446-judge.jpg
-categories:
-- Legal
+category: writing
 keywords: writing, plan, goals
 description: Sherlock Holmes and Tarzan now in the public domain?
 author: Ben Wilson
 tags:
 - Legal
 ---
-<!--Lead Paragraph-->
 Sherlock Holmes the character is now in the public domain per the [US Courts](http://www.theguardian.com/books/2014/jun/16/sherlock-public-domain-court-doyle-estate-copyright). So what does that mean?
 
 <!-- more -->

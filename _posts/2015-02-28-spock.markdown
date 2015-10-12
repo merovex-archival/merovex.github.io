@@ -11,8 +11,7 @@ author: Ben Wilson
 description: There's a lot of mourning on the Internet over the loss of Nimoy. I wanted
   to add my thanks.
 image: spock.jpg
-categories:
-- Diary
+category: diary
 comments: true
 sharing: true
 footer: true

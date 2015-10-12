@@ -16,17 +16,13 @@ sharing: true
 footer: true
 sidebar: true
 image: 3210361541_c2d900c0ac_o.jpg
-categories:
-- Publishing
+category: writing
 keywords: kindle unlimited, self-publisher, quitters
-description: Earlier this week, a fellow self-publisher complained about the negative
-  impact of Kindle Unlimited. I disagreed with her. Either way, the market is not
-  driving me out.
+description: Earlier this week, a fellow self-publisher complained about the negative impact of Kindle Unlimited. I disagreed with her. Either way, the market is not driving me out.
 author: Ben Wilson
 tags:
 - Publishing
 ---
-<!--Lead Paragraph-->
 Earlier this week, a fellow self-publisher complained about the negative impact of Kindle Unlimited. I disagreed with her. Either way, the market is not driving me out.
 
 <!-- more -->

@@ -38,36 +38,23 @@
   <script type='text/javascript'>
       $(function(){ $('.demo1').craftmap({ image: { width: 1940, height: 2806 }});});
       $('.carousel').carousel({interval: 10000 })
-      $('#stoc').toc({
-          'container': '#main',
-          'selectors': 'h2,h3',
-          'offset': '200',
-      });
-      $(function(){
-          $('#xtoc').stoc({
-              search: '#main'
-          });
-      });
+      $('#stoc').toc({'container': '#main', 'selectors': 'h2,h3', 'offset': '200', });
+      $(function(){$('#xtoc').stoc({search: '#main'}); });
       // On dropdown open
       $(document).on('shown.bs.dropdown', function(event) {
           var dropdown = $(event.target);
-          
           // Set aria-expanded to true
           dropdown.find('.dropdown-menu').attr('aria-expanded', true);
-          
           // Set focus on the first link in the dropdown
           setTimeout(function() {
               dropdown.find('.dropdown-menu li:first-child a').focus();
           }, 10);
       });
-
       // On dropdown close
       $(document).on('hidden.bs.dropdown', function(event) {
           var dropdown = $(event.target);
-          
           // Set aria-expanded to false        
           dropdown.find('.dropdown-menu').attr('aria-expanded', false);
-          
           // Set focus back to dropdown toggle
           dropdown.find('.dropdown-toggle').focus();
       });

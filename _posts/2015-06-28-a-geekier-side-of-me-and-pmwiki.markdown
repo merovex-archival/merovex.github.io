@@ -15,8 +15,7 @@ sharing: true
 footer: true
 sidebar: true
 image: 288389345_pmwiki_o.png
-categories:
-- Diary
+category: diary
 keywords: writing, plan, goals
 description: The developer side of me keeps tweaking my writing toolchain. I keep
   coming back to PmWiki, and wrote a Sublime Text plugin to help me do it the way

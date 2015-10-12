@@ -5,8 +5,8 @@ layout: two_column
 
 {% include post_meta.html %}
 {{ post.content | split:"<!-- more -->" | first |markdownify }}
-<figure class="photo">
+{% unless post.photo['hidden'] %}<figure class="photo">
   <img src="https://s3.amazonaws.com/dausha/images/articles/{{post.photo['image']}}" alt="{{post.photo['caption']}}" />
   <p class="caption">{{post.photo['caption']}} (Photo: <a href="{{post.photo['url']}}">{{post.photo['creator']}}</a> {{post.photo['license']}}.)</p>
-</figure>
+</figure>{% endunless %}
 {{ post.content | split:"<!-- more -->" | last |markdownify }}

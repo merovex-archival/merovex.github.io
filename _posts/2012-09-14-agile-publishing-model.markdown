@@ -16,11 +16,9 @@ sharing: true
 footer: true
 sidebar: true
 image: 1574931134-AgileBoard.jpg
-categories:
-- Writing
-- Publishing
+category: writing
 keywords: writing, publishing
-description: Ben Wilson Discusses the Agile Publishing Model.
+description: "Since he's a self-publisher, Ben Wilson discusses the Agile Publishing Model as a way to progressively improve a novel."
 tags:
 - Writing
 - Publishing
