@@ -11,15 +11,15 @@ subtitle: Blog
 <section class='post container' id='latest'>
   <div class='row'>
     <h2 class='text-center'>Latest News</h2>
-    {%for post in paginator.posts offset:1 %}{% assign content = post.content %}{% assign fred = post %}
+    {%for post in paginator.posts offset:0 %}{% assign content = post.content %}{% assign fred = post %}
       <article class='col-lg-4 col-md-6 col-xs-12'>
         <hr aria-hidden='true'>
-        <p class='category'><span class='sr-only'>Article Category:</span>{{post.categories.first | titlecase}}</p>
+        <p class='category'><span class='sr-only'>Article Category:</span>{{post.category}}</p>
         <figure class='thumb'>
           <img src='{{ site.cdn_url }}/images/articles/thumbnails/{{post.photo['image']}}' alt=''>
         </figure>
         <header>
-          <h3><a href='{{ root_url }}{{ post.url }}'>{{post.title | titlecase |truncate: 25}}</a></h3>
+          <h3><a href='{{ root_url }}{{ post.url }}'>{{post.title |truncate: 25}}</a></h3>
         </header>
         <p>{{ post.description }}</p>
       </article>

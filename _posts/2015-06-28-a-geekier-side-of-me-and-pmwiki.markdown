@@ -15,14 +15,15 @@ sharing: true
 footer: true
 sidebar: true
 image: 288389345_pmwiki_o.png
-category: diary
-keywords: writing, plan, goals
+category: Technology
 description: The developer side of me keeps tweaking my writing toolchain. I keep
   coming back to PmWiki, and wrote a Sublime Text plugin to help me do it the way
   I want to.
 author: Ben Wilson
 tags:
-- Diary
+- PmWiki
+- Website
+- Series Bible
 ---
 <!--Lead Paragraph-->
 I started programming in 1982 as a pre-teen, and keep going back to those skills at the best times. Or, when I should be writing, I'm playing with my writing [toolchain](http://en.wikipedia.org/wiki/Toolchain). Late in December 2014, I wrote a plugin for Sublime Text for PmWiki.
