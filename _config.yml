@@ -5,6 +5,7 @@ description: "Dausha Publishing is the website for Ben Wilson, author of the Pos
 baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://dausha.net" # the base hostname & protocol for your site
 url: http://www.dausha.net
+author: Ben Wilson
 twitter_username: merovex
 github_username:  merovex
 category_dir: /
