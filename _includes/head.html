@@ -20,9 +20,7 @@
   <link rel="stylesheet" href="{{ "/css/print.css" | prepend: site.baseurl }}" media="print">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-  
-  <link href='{{ site.subscribe_rss }}' rel='alternate' title='{{site.title}}' type='application/atom+xml'></link>
+  <link href='/atom.xml' rel='alternate' title='{{site.title}}' type='application/atom+xml'></link>
 
   <script src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js'></script>
 </head>

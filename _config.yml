@@ -10,7 +10,7 @@ github_username:  merovex
 category_dir: /
 # permalink: /p/:title
 permalink: /:categories/:title
-
+subscribe_rss: /atom.xml
 # Build settings
 markdown: kramdown
 kramdown:
