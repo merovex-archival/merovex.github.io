@@ -10,3 +10,8 @@ end
 gem 'stringex'
 gem 'sinatra'
 gem 'rack-rewrite'
+gem 'fastimage'
+gem 'asin'
+gem 'aws-sdk'
+gem 'coderay'
+gem 'kramdown'

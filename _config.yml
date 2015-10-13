@@ -13,6 +13,8 @@ permalink: /:categories/:title
 
 # Build settings
 markdown: kramdown
+kramdown:
+  use_coderay: true
 
 paginate: 6          # Posts per page on the blog index
 # paginate_path: "p/:num"
@@ -22,6 +24,7 @@ popular_posts_count: 6
 
 gems:
   - jekyll-sitemap
+  - coderay
 
 exclude:
   - Gemfile

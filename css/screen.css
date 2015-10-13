@@ -285,7 +285,456 @@ h3 {
   margin-bottom: 0.5em;
 }
 
-/* line 8, ../_sass/2015/_style.scss */
+/* line 18, ../_sass/2015/_coderay-solarized.scss */
+span.CodeRay {
+  white-space: pre;
+  border: 0px;
+  padding: 2px;
+}
+
+/* line 24, ../_sass/2015/_coderay-solarized.scss */
+table.CodeRay {
+  border-collapse: collapse;
+  width: 100%;
+  padding: 2px;
+}
+/* line 29, ../_sass/2015/_coderay-solarized.scss */
+table.CodeRay td {
+  padding: 2px 4px;
+  vertical-align: top;
+}
+
+/* line 35, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay {
+  background-color: #fdf6e3;
+  border: 1px solid #657b83;
+  color: #657b83;
+}
+/* line 40, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay pre {
+  margin: 0px;
+}
+/* line 44, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .line-numbers {
+  background-color: #eee8d5;
+  color: #93a1a1;
+  text-align: right;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+/* line 52, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .line-numbers a {
+  background-color: #eee8d5 !important;
+  color: #93a1a1 !important;
+  text-decoration: none !important;
+}
+/* line 57, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .line-numbers a:target {
+  color: #268bd2 !important;
+}
+/* line 62, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .line-numbers pre {
+  word-break: normal;
+}
+/* line 66, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .line-numbers .highlighted {
+  color: #dc322f !important;
+}
+/* line 69, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .line-numbers .highlighted a {
+  color: #dc322f !important;
+}
+/* line 74, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay span.line-numbers {
+  padding: 0px 4px;
+}
+/* line 78, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .line {
+  display: block;
+  float: left;
+  width: 100%;
+}
+/* line 83, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .code {
+  width: 100%;
+}
+/* line 86, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .debug {
+  color: #fdf6e3 !important;
+  background: #268bd2 !important;
+}
+/* line 90, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .annotation {
+  color: #268bd2;
+}
+/* line 93, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .attribute-name {
+  color: #d33682;
+}
+/* line 96, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .attribute-value {
+  color: #dc322f;
+}
+/* line 99, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .binary {
+  color: #6c71c4;
+}
+/* line 101, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .binary .char {
+  color: #6c71c4;
+}
+/* line 104, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .binary .delimiter {
+  color: #6c71c4;
+}
+/* line 109, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .char {
+  color: #dc322f;
+}
+/* line 111, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .char .content {
+  color: #dc322f;
+}
+/* line 114, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .char .delimiter {
+  color: #dc322f;
+}
+/* line 119, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .class {
+  color: #d33682;
+  font-weight: bold;
+}
+/* line 122, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .class-variable {
+  color: #268bd2;
+}
+/* line 127, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .color {
+  color: #859900;
+}
+/* line 131, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .comment {
+  color: #93a1a1;
+}
+/* line 133, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .comment .char {
+  color: #657b83;
+}
+/* line 136, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .comment .delimiter {
+  color: #657b83;
+}
+/* line 141, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .constant {
+  color: #268bd2;
+  font-weight: bold;
+}
+/* line 146, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .decorator {
+  color: #d33682;
+}
+/* line 150, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .definition {
+  color: #2aa198;
+  font-weight: bold;
+}
+/* line 155, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .delimiter {
+  color: #586e75;
+}
+/* line 159, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .directive {
+  color: #2aa198;
+  font-weight: bold;
+}
+/* line 164, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .docstring {
+  color: #cb4b16;
+}
+/* line 168, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .doctype {
+  color: #268bd2;
+}
+/* line 172, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .done {
+  text-decoration: line-through;
+  color: #586e75;
+}
+/* line 177, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .entity {
+  color: #dc322f;
+  font-weight: bold;
+}
+/* line 182, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .error {
+  color: #fdf6e3;
+  background-color: #dc322f;
+}
+/* line 187, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .escape {
+  color: #93a1a1;
+}
+/* line 191, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .exception {
+  color: #dc322f;
+  font-weight: bold;
+}
+/* line 196, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .float {
+  color: #6c71c4;
+}
+/* line 200, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .function {
+  color: #268bd2;
+  font-weight: bold;
+}
+/* line 203, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .function .delimiter {
+  color: #268bd2;
+  font-weight: bold;
+}
+/* line 209, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .global-variable {
+  color: #cb4b16;
+}
+/* line 213, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .hex {
+  color: #268bd2;
+}
+/* line 217, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .id {
+  color: #268bd2;
+  font-weight: bold;
+}
+/* line 222, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .include {
+  color: #d33682;
+  font-weight: bold;
+}
+/* line 227, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .inline {
+  background-color: rgba(0, 0, 0, 0.07);
+  color: #586e75;
+}
+/* line 230, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .inline-delimiter {
+  font-weight: bold;
+  color: #93a1a1;
+}
+/* line 236, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .instance-variable {
+  color: #268bd2;
+}
+/* line 240, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .integer {
+  color: #2aa198;
+}
+/* line 244, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .imaginary {
+  color: #dc322f;
+}
+/* line 248, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .important {
+  color: #dc322f;
+}
+/* line 252, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .key {
+  color: #6c71c4;
+}
+/* line 254, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .key .char {
+  color: #6c71c4;
+}
+/* line 257, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .key .delimiter {
+  color: #6c71c4;
+}
+/* line 262, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .keyword {
+  color: #859900;
+  font-weight: bold;
+}
+/* line 267, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .label {
+  color: #b58900;
+  font-weight: bold;
+}
+/* line 272, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .local-variable {
+  color: #cb4b16;
+}
+/* line 277, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .map .content {
+  color: #6c71c4;
+}
+/* line 280, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .map .delimiter {
+  color: #6c71c4;
+}
+/* line 285, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .namespace {
+  color: #6c71c4;
+  font-weight: bold;
+}
+/* line 290, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .octal {
+  color: #6c71c4;
+}
+/* line 297, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .predefined {
+  color: #268bd2;
+  font-weight: bold;
+}
+/* line 300, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .predefined-constant {
+  color: #268bd2;
+}
+/* line 303, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .predefined-type {
+  color: #859900;
+  font-weight: bold;
+}
+/* line 309, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .preprocessor {
+  color: #6c71c4;
+}
+/* line 313, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .pseudo-class {
+  color: #268bd2;
+  font-weight: bold;
+}
+/* line 319, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .regexp .content {
+  color: #6c71c4;
+}
+/* line 322, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .regexp .delimiter {
+  color: #6c71c4;
+}
+/* line 325, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .regexp .modifier {
+  color: #6c71c4;
+}
+/* line 330, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .reserved {
+  color: #859900;
+  font-weight: bold;
+}
+/* line 336, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .shell .content {
+  color: #859900;
+}
+/* line 339, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .shell .delimiter {
+  color: #859900;
+}
+/* line 345, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .string .char {
+  color: #d33682;
+}
+/* line 348, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .string .content {
+  color: #dc322f;
+}
+/* line 351, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .string .delimiter {
+  color: #dc322f;
+}
+/* line 354, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .string .modifier {
+  color: #cb4b16;
+}
+/* line 359, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .symbol {
+  color: #cb4b16;
+}
+/* line 361, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .symbol .content {
+  color: #cb4b16;
+}
+/* line 364, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .symbol .delimiter {
+  color: #cb4b16;
+}
+/* line 369, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .tag {
+  color: #859900;
+  font-weight: bold;
+}
+/* line 374, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .type {
+  color: #6c71c4;
+  font-weight: bold;
+}
+/* line 379, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .value {
+  color: #2aa198;
+}
+/* line 383, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .variable {
+  color: #268bd2;
+}
+/* line 387, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .insert {
+  background-color: rgba(0, 255, 0, 0.2);
+}
+/* line 389, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .insert .insert {
+  color: #859900;
+  font-weight: bold;
+}
+/* line 393, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .insert .eyecatcher {
+  background-color: rgba(0, 255, 0, 0.2);
+  border: 1px solid rgba(0, 128, 0, 0.5);
+  margin: -1px;
+  border-top: none;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+/* line 403, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .delete {
+  background: rgba(255, 0, 0, 0.12);
+}
+/* line 405, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .delete .delete {
+  color: #dc322f;
+  background: transparent;
+  font-weight: bold;
+}
+/* line 410, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .delete .eyecatcher {
+  background-color: rgba(255, 0, 0, 0.2);
+  border: 1px solid rgba(230, 0, 0, 0.5);
+  margin: -1px;
+  border-bottom: none;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+/* line 420, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .change {
+  color: #6c71c4;
+  background: #268bd2;
+}
+/* line 423, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .change .change {
+  color: #6c71c4;
+}
+/* line 428, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .head {
+  color: #6c71c4;
+}
+/* line 430, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .head .head {
+  color: #6c71c4;
+}
+/* line 433, ../_sass/2015/_coderay-solarized.scss */
+.CodeRay .head .filename {
+  color: #6c71c4;
+}
+
+/* line 9, ../_sass/2015/_style.scss */
 body {
   font-size: 1.0rem !important;
   font-family: 'Alegreya Sans', 'Droid Sans', Heuristica, 'Libre Baskerville',  Vollkorn, Serif !Important;
@@ -294,17 +743,17 @@ body {
   background-size: cover;
 }
 
-/* line 16, ../_sass/2015/_style.scss */
+/* line 17, ../_sass/2015/_style.scss */
 #sidebar h3 {
   font-size: 24px;
 }
 
-/* line 22, ../_sass/2015/_style.scss */
+/* line 23, ../_sass/2015/_style.scss */
 #books-band .row img {
   width: 80% !important;
 }
 
-/* line 28, ../_sass/2015/_style.scss */
+/* line 29, ../_sass/2015/_style.scss */
 .nailthumb-portrait img {
   width: 80%;
 }
