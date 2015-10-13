@@ -6,7 +6,7 @@ photo:
   license: Rights Reserved
   caption: Bellicose Cover
 layout: post
-title: 'BROKEN: Finished Bellicose Draft'
+title: 'Finished Bellicose Draft'
 created_at: 2014-01-21 19:21
 modified_at: 2014-01-21 19:21
 published_at: 2014-01-21 19:21
