@@ -12,7 +12,7 @@ photo:
 layout: post
 title: Going Back to Scrivener
 author: Ben Wilson
-description: Ben, the eternal tool geek, is turning back toward Scrivener for novel writing.
+description: Ben, the eternal tool geek, is turning back toward Scrivener for novel writing. Could this be the last change?
 image: going-back-to-scrivener.png
 category: diary
 comments: true
