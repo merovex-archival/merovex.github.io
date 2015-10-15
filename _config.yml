@@ -10,8 +10,8 @@ twitter_username: merovex
 github_username:  merovex
 category_dir: /
 # permalink: /p/:title
-#permalink: /:categories/:title
-permalink: /articles/:title
+permalink: /:categories/:title
+# permalink: /articles/:title
 subscribe_rss: /atom.xml
 # Build settings
 markdown: kramdown
