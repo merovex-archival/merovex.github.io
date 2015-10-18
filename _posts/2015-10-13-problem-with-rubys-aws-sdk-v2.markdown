@@ -30,7 +30,7 @@ I figure I just have to show the code. Naturally, there is some omitted content.
 
 ## Code Before
 
-~~~ruby
+<pre><code class="ruby hljs">
   task :cdn do
     require 'aws-sdk'
     ENV['AWS_ACCESS_KEY_ID'] = s3_access
@@ -51,11 +51,11 @@ I figure I just have to show the code. Naturally, there is some omitted content.
         ) if (!obj.exists? || obj.last_modified < fd.mtime)
       end
     end
-~~~
+</code></pre>
 
 ## Code After
 
-~~~ruby
+<pre><code class="ruby hljs">
 task :cdn do
     require 'aws-sdk'
     ENV['AWS_ACCESS_KEY_ID'] = s3_access
@@ -77,5 +77,5 @@ task :cdn do
         }) if (!obj.exists? || obj.last_modified < fd.mtime)
     end
   end
-~~~
+</code></pre>
 

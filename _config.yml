@@ -24,6 +24,15 @@ paginate: 6          # Posts per page on the blog index
 recent_posts: 6       # Posts in the sidebar Recent Posts section
 popular_posts_count: 6
 
+# jekyll-archives: 
+#   enabled: 
+#     - categories
+#     - tags
+#   layout: 'archive'
+#   permalinks:
+#     category: '/category/:name/'
+#     tag: '/tag/:name/'
+
 gems:
   - jekyll-sitemap
   - coderay
