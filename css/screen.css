@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* Welcome to Compass.
  * In this file you should write your main styles. (or centralize your imports)
  * Import this file using the following HTML or equivalent:
@@ -67,7 +68,7 @@ html, body {
 }
 
 /* line 1, ../_sass/2015/_footer.scss */
-footer {
+#footer {
   background: #002b36 url(https://s3.amazonaws.com/dausha/images/footer.jpg) no-repeat !important;
   min-height: 250px;
   color: #eee8d5;
@@ -76,25 +77,25 @@ footer {
   padding-top: 1em;
 }
 /* line 8, ../_sass/2015/_footer.scss */
-footer .footer-col {
+#footer .footer-col {
   height: 250px;
 }
 /* line 11, ../_sass/2015/_footer.scss */
-footer h3 {
+#footer h3 {
   font-size: 1.1em;
   color: #eee8d5;
 }
 /* line 14, ../_sass/2015/_footer.scss */
-footer h3.title {
+#footer h3.title {
   border-bottom: 1px solid #AAA;
 }
 /* line 16, ../_sass/2015/_footer.scss */
-footer i.fa {
+#footer i.fa {
   width: 1.5em;
   text-align: center;
 }
 /* line 20, ../_sass/2015/_footer.scss */
-footer a {
+#footer a {
   color: #cee6f6;
 }
 
@@ -756,6 +757,35 @@ body {
 /* line 29, ../_sass/2015/_style.scss */
 .nailthumb-portrait img {
   width: 80%;
+}
+
+/* line 31, ../_sass/2015/_style.scss */
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "“" "”" "‘" "’";
+}
+/* line 37, ../_sass/2015/_style.scss */
+blockquote p {
+  display: inline;
+}
+/* line 38, ../_sass/2015/_style.scss */
+blockquote footer {
+  display: block;
+  font-size: 80%;
+  line-height: 1.4;
+  color: #777;
+}
+/* line 39, ../_sass/2015/_style.scss */
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
 }
 
 /* line 7, ../_sass/screen.scss */
