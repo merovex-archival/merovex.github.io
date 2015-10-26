@@ -8,5 +8,6 @@
   {% if fred.author %}<span aria-hidden='true' class='fa fa-user'></span><i class='sr-only'>Written by</i> {{ fred.author }}{% endif %}
   {{tag_label}}
   {% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}
-  <span class="fb-share-button" data-href="{{site.url}}{{page.url}}" data-layout="button"></span>
+
 </p>
+<div class="fb-share-button" data-href="{{site.url}}{{page.url}}/" data-layout="button"></div>

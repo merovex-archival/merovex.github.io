@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=120807331401670";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <div class='post container'>
   <div class='row' aria-hidden='true'>
     <p  class='col-xs-12 col-sm-11  col-sm-offset-1 category'><a href='{{ site.baseurl }}/categories.html#{{ page.category | url_escape}}-ref'>{{page.category}}</a></p>
@@ -10,6 +19,7 @@ layout: default
     <main class='col-xs-12 col-sm-8 col-md-7 col-md-offset-1'>
       <h1 class='sr-only'>{{page.title}}</h1>
       <p  class='sr-only'>Category: {{page.category | titlecase}}</p>
+      
       {% assign fred = page %}{% include post_meta.html %}
       {{ post.content | split:"<!-- more -->" | first |markdownify }}
       {% unless post.photo['hidden'] %}<figure class="photo">

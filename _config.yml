@@ -60,6 +60,7 @@ social_feed: http://bit.ly/1Lrbjf0
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
     fb_image: "https://s3.amazonaws.com/dausha/images/apple-touch-icon-120x120.png"
+    fb_app_id: "974042092652489"
     fb_image_width: 300
     fb_image_height: 300
     fb_image_type: "image/jpg"
