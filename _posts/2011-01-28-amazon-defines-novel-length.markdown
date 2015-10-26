@@ -13,7 +13,7 @@ published_at: 2011-01-28 15:21
 date: 2011-01-28 15:21
 description: "Amazon customers represent a market force we as authors should listen to. And they are talking about the modern length of a novel."
 author: Ben Wilson
-category: writing
+category: Writing
 tags:
 - Writing
 ---

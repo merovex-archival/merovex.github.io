@@ -11,12 +11,8 @@ created_at: 2014-12-29 09:48
 modified_at: 2014-12-29 09:48
 published_at: 2014-12-29 09:48
 date: 2014-12-29 09:48:45.000000000 -05:00
-comments: true
-sharing: true
-footer: true
-sidebar: true
 image: 15020291797_c93308380b_z-worldbuilding.jpg
-category: ombre
+category: Ombre
 keywords: writing, plan, goals
 description: I'd like to share with you a curious approach to world-building geography.
 author: Ben Wilson

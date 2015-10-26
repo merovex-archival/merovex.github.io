@@ -11,12 +11,8 @@ created_at: 2014-10-05 07:42
 modified_at: 2014-10-05 07:42
 published_at: 2014-10-05 07:42
 date: 2014-10-05 07:42:18.000000000 -04:00
-comments: true
-sharing: true
-footer: true
-sidebar: true
 image: 2692469539_bdcea8c064-typewriter.jpg
-category: diary
+category: Diary
 keywords: writing, plan, goals
 description: With nearly four novels written and two published, now is the time to
   take a step back and have them professionally edited.

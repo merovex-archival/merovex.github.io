@@ -14,11 +14,7 @@ title: Going Back to Scrivener
 author: Ben Wilson
 description: Ben, the eternal tool geek, is turning back toward Scrivener for novel writing. Could this be the last change?
 image: going-back-to-scrivener.png
-category: diary
-comments: true
-sharing: true
-footer: true
-sidebar: true
+category: Diary
 date: 2015-09-26 11:58
 modified_at: 2015-09-26 11:58
 created_at: 2015-09-26 11:21

@@ -11,12 +11,8 @@ created_at: 2014-08-02 08:10
 modified_at: 2014-08-02 08:10
 published_at: 2014-08-02 08:10
 date: 2014-08-02 08:10:15.000000000 -04:00
-comments: true
-sharing: true
-footer: true
-sidebar: true
 image: 4738792692_0af05c986e_o.jpg
-category: diary
+category: Diary
 keywords: writing, diary, goals
 description: July has been a curious month of transition.
 author: Ben Wilson

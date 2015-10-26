@@ -11,12 +11,8 @@ created_at: 2014-04-29 19:18
 modified_at: 2014-04-29 19:18
 published_at: 2014-04-29 19:18
 date: 2014-04-29 19:18:59.000000000 -04:00
-comments: true
-sharing: true
-footer: true
-sidebar: true
 image: 7770199719-USCapitol.jpg
-category: diary
+category: Diary
 keywords: writing, plan, goals
 description: April was a very slow month of writing. I jokingly say it's not my fault,
   but it is.

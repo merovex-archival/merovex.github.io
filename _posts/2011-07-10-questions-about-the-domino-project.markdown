@@ -14,7 +14,7 @@ date: 2011-07-10 15:01
 description: "Having previously discussed the Domino Project, I would like to have a hypothetical question and answer session."
 image: 2391828247_7016a8a66f-dominos.jpg
 author: Ben Wilson
-category: writing
+category: Writing
 tags:
 - Writing
 ---

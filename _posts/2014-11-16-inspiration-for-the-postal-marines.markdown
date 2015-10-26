@@ -11,12 +11,8 @@ created_at: 2014-11-16 10:11
 modified_at: 2014-11-16 10:11
 published_at: 2014-11-16 10:11
 date: 2014-11-16 10:11:39.000000000 -05:00
-comments: true
-sharing: true
-footer: true
-sidebar: true
 image: bellicose_redo_wallpaper.jpg
-category: postal marine series
+category: "Postal Marine Series"
 keywords: writing, plan, goals
 description: It's time to share some backstory on how Danel Bophendze was able to join the Postal Marines at sixteen.
 author: Ben Wilson

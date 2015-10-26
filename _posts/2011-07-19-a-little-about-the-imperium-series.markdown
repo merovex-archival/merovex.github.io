@@ -14,7 +14,7 @@ date: 2011-07-19 15:00
 description: "Not that anybody's reading at this point, but I wanted to give a bit of news about progress in writing the novel Scintilla."
 image: scintilla-wallpaper.jpg
 author: Ben Wilson
-category: postal marine series
+category: "Postal Marine Series"
 tags:
 - Postal Marines Series
 ---

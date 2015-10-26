@@ -16,7 +16,7 @@ sharing: true
 footer: true
 sidebar: true
 image: skyfall.jpg
-category: writing
+category: Writing
 keywords: writing, plan, goals
 description: Ben Wilson shows how understanding story structure helps enjoy a movie
   like Skyfall that much more.

@@ -11,12 +11,8 @@ created_at: 2014-10-11 12:05
 modified_at: 2014-10-11 12:05
 published_at: 2014-10-11 12:05
 date: 2014-10-11 12:05:14.000000000 -04:00
-comments: true
-sharing: true
-footer: true
-sidebar: true
 image: zerigo-desktop.jpg
-category: technology
+category: Technology
 keywords: writing, plan, goals
 description: I've not had a fun Saturday fixing my DNS with Zerigo.
 author: Ben Wilson

@@ -10,10 +10,6 @@ title: A Geekier Side of Me and PmWiki
 created_at: 2015-01-19 06:11
 modified_at: 2015-06-28 06:58
 date: 2015-06-28 06:58
-comments: true
-sharing: true
-footer: true
-sidebar: true
 image: 288389345_pmwiki_o.png
 category: Technology
 description: The developer side of me keeps tweaking my writing toolchain. I keep

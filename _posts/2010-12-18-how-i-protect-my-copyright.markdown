@@ -15,7 +15,7 @@ comments: true
 sidebar: true
 image: shutterstock_200353601-copyright.jpg
 author: Ben Wilson
-category: writing
+category: Writing
 keywords: writing, plan, goals
 description: "Ben continues his short series on addressing copyright issues."
 tags:

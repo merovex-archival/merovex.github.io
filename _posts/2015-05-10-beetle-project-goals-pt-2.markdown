@@ -8,11 +8,9 @@ photo:
 layout: post
 title: Project Goals & Death Foam (Beetle Pt-2)
 author: Ben Wilson
-description: A week in, I finally have project goals for restoring the Beetle, and
-  the first issue to address.
+description: "A week in, I finally have project goals for restoring the Beetle, and the first issue to address."
 image: death-rust-right.JPG
-category: vw beetle
-sidebar: true
+category: VW Beetle
 date: 2015-05-10 11:19
 modified_at: 2015-05-10 11:19
 created_at: 2015-05-07 20:12

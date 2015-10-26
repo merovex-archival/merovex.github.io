@@ -11,12 +11,8 @@ created_at: 2014-11-28 17:32
 modified_at: 2014-11-28 17:32
 published_at: 2014-11-28 17:32
 date: 2014-11-28 17:32:01.000000000 -05:00
-comments: true
-sharing: true
-footer: true
-sidebar: true
 image: 2843144877_fd9593fdca_b.jpg
-category: diary
+category: Diary
 tags: 
   - audible
   - listening

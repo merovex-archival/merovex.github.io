@@ -11,13 +11,8 @@ created_at: 2014-11-05 18:38
 modified_at: 2014-11-05 18:38
 published_at: 2014-11-05 18:38
 date: 2014-11-05 18:38:22.000000000 -05:00
-comments: true
-sharing: true
-footer: true
-published: true
-sidebar: true
 image: 3129752446-judge.jpg
-category: writing
+category: Writing
 keywords: writing, plan, goals
 description: Sherlock Holmes and Tarzan now in the public domain?
 author: Ben Wilson

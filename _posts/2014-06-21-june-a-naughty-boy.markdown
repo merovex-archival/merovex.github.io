@@ -11,12 +11,8 @@ created_at: 2014-06-21 07:50
 modified_at: 2014-06-21 07:50
 published_at: 2014-06-21 07:50
 date: 2014-06-21 07:50:14.000000000 -04:00
-comments: true
-sharing: true
-footer: true
-sidebar: true
 image: 477374180_war-naughty-boy.jpg
-category: diary
+category: Diary
 keywords: writing, plan, goals
 description: Ben Wilson's Progress in June is dismal.
 author: Ben Wilson

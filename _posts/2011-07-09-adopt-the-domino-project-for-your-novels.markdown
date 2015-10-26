@@ -16,7 +16,7 @@ comments: true
 sidebar: true
 image: 2391828247_7016a8a66f-dominos.jpg
 author: Ben Wilson
-category: writing
+category: Writing
 tags:
 - Writing
 ---

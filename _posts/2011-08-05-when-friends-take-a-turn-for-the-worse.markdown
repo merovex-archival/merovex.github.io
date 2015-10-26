@@ -15,7 +15,7 @@ comments: true
 sidebar: true
 image: 503020765_dd1efcf5fc-Friends.jpg
 author: Ben Wilson
-category: postal marine series
+category: "Postal Marine Series"
 keywords: writing, plan, goals
 description: Ben Wilson describes a shady deal.
 tags:

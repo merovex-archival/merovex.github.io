@@ -11,12 +11,8 @@ created_at: 2014-12-07 08:08
 modified_at: 2014-12-07 08:08
 published_at: 2014-12-07 08:08
 date: 2014-12-07 08:08:06.000000000 -05:00
-comments: true
-sharing: true
-footer: true
-sidebar: true
 image: 288389345_f31156f5d6_o.jpg
-category: diary
+category: Diary
 keywords: writing, plan, goals, quiet, rituals, successful, people
 description: After recently reading an article of rituals of successful people, I
   wanted to share some thoughts on how those rituals apply to me.

@@ -11,12 +11,8 @@ created_at: 2014-08-31 11:12
 modified_at: 2014-08-31 11:12
 published_at: 2014-08-31 11:12
 date: 2014-08-31 11:12:58.000000000 -04:00
-comments: true
-sharing: true
-footer: true
-sidebar: true
 image: 7871348700_3af6a3d944_z-guitar.jpg
-category: technology
+category: Technology
 keywords: vo, voice over, sound booth, iso booth, audio book
 description: Ben continues to discuss evil malchinations of an aspiring voice-over
   author.

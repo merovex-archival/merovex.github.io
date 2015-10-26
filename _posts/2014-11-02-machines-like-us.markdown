@@ -11,12 +11,8 @@ created_at: 2014-11-02 12:30
 modified_at: 2014-11-02 12:30
 published_at: 2014-11-02 12:30
 date: 2014-11-02 12:30:06.000000000 -05:00
-comments: true
-sharing: true
-footer: true
-sidebar: true
 image: 3318600273_3ef4c48d0a_b-Machine.jpg
-category: postal marine series
+category: "Postal Marine Series"
 keywords: writing, plan, goals
 description: Description for front page & Third-party.
 author: Ben Wilson

@@ -11,12 +11,8 @@ created_at: 2014-08-17 08:28
 modified_at: 2014-08-17 08:28
 published_at: 2014-08-17 08:28
 date: 2014-08-17 08:28:39.000000000 -04:00
-comments: true
-sharing: true
-footer: true
-sidebar: true
 image: 164361902_cae775b4c7_z-microphone.jpg
-category: technology
+category: Technology
 keywords: writing, plan, goals
 description: "With this being National Disability Awareness Month, I wanted to chat about how I used Dragon with a plot problem."
 author: Ben Wilson

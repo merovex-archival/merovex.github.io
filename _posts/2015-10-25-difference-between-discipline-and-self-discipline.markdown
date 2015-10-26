@@ -11,10 +11,6 @@ photo:
   url: https://www.flickr.com/photos/42096237@N00/11384364343/
   license: under CC BY-SA 2.0
   caption: Men like war because women like warriors
-comments: true
-sharing: true
-footer: true
-sidebar: true
 date: 2015-10-25 19:24
 modified_at: 2015-10-25 19:24
 created_at: 2015-10-25 18:28

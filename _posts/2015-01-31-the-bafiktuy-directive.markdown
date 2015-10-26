@@ -11,11 +11,7 @@ author: Ben Wilson
 description: In Bellicose you meet Admiral Bence, an individual who seems completely
   out of his element. That's because he is not an admiral, but a member of the Bafiktuy.
 image: bellicose_redo_wallpaper.jpg
-category: postal marine series
-comments: true
-sharing: true
-footer: true
-sidebar: true
+category: "Postal Marine Series"
 published_at: 2015-01-31 11:22
 date: 2015-01-31 11:22
 created_at: 2015-01-31 11:19

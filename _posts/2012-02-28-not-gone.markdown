@@ -13,7 +13,7 @@ published_at: 2012-02-28 14:49
 date: 2012-02-28 14:49
 comments: true
 sidebar: true
-category: diary
+category: Diary
 image: 3702176604_if-it-makes-you-fly.jpg
 author: Ben Wilson
 keywords: writing, plan, goals

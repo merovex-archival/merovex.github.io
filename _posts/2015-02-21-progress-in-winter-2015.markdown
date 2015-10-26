@@ -11,11 +11,7 @@ author: Ben Wilson
 description: A friend asked me this week about my writing. So, I figured it was time
   to report slow going.
 image: 8387491968_cd9707ebbb_b-Snowbird.jpg
-category: diary
-comments: true
-sharing: true
-footer: true
-sidebar: true
+category: Diary
 date: 2015-02-21 22:07
 modified_at: 2015-02-21 22:07
 created_at: 2015-02-21 20:53

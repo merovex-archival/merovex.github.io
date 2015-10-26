@@ -10,11 +10,7 @@ title: Breaking the Silence
 author: Ben Wilson
 description: After a few hard months, I'm back in business.
 image: 3400504522_dcc68458ce-silence.jpg
-category: diary
-comments: true
-sharing: true
-footer: true
-sidebar: true
+category: Diary
 date: 2015-04-18 21:04
 modified_at: 2015-04-18 21:04
 created_at: 2015-04-18 19:40

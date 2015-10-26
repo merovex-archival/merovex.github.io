@@ -11,12 +11,8 @@ created_at: 2014-11-11 17:12
 modified_at: 2014-11-11 17:12
 published_at: 2014-11-11 17:12
 date: 2014-11-11 17:12:54.000000000 -05:00
-comments: true
-sharing: true
-footer: true
-sidebar: true
 image: 2541312543_303697aae8_b-Snails.jpg
-category: technology
+category: Technology
 keywords: writing, plan, goals
 description: The final story in the saga of a privately owned Voice Over Booth. After
   much research and analysis, I'm finally ready to press the button.

@@ -10,11 +10,7 @@ title: A Buggy Summer
 author: Ben Wilson
 description: "I've made a fair amount of progress over the summer on the Beetle, but I have a way to go to finish the chassis."
 image: beetle-2015-may-01.jpg
-category: vw beetle
-comments: true
-sharing: true
-footer: true
-sidebar: true
+category: VW Beetle
 date: 2015-09-06 08:36
 modified_at: 2015-09-06 08:36
 created_at: 2015-09-05 13:19

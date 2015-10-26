@@ -11,10 +11,6 @@ photo:
   url: https://www.flickr.com/photos/35423169@N00/3887934311/
   license: under CC BY 2.0
   caption: Technology Can be Frustrating
-comments: true
-sharing: true
-footer: true
-sidebar: true
 date: 2015-10-13 16:55
 modified_at: 2015-10-13 16:55
 created_at: 2015-10-13 07:09

@@ -15,7 +15,7 @@ comments: true
 sidebar: true
 image: writing.jpg
 author: Ben Wilson
-category: writing
+category: Writing
 keywords: writing, plan, goals
 description: Ben Wilson asks whether writing should meet a standard.
 tags:

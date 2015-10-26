@@ -11,12 +11,8 @@ created_at: 2014-12-20 13:05
 modified_at: 2014-12-20 13:05
 published_at: 2014-12-20 13:05
 date: 2014-12-20 13:05:05.000000000 -05:00
-comments: true
-sharing: true
-footer: true
-sidebar: true
 image: 6222335233_351df8ec41_b.jpg
-category: diary
+category: Diary
 keywords: writing, plan, goals
 description: Description for front page & Third-party.
 author: Ben Wilson

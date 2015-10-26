@@ -11,12 +11,8 @@ created_at: 2015-01-11 16:50
 modified_at: 2015-01-11 16:50
 published_at: 2015-01-11 16:50
 date: 2015-01-11 16:50:23.000000000 -05:00
-comments: true
-sharing: true
-footer: true
-sidebar: true
 image: 3210361541_c2d900c0ac_o.jpg
-category: writing
+category: Writing
 keywords: kindle unlimited, self-publisher, quitters
 description: Earlier this week, a fellow self-publisher complained about the negative impact of Kindle Unlimited. I disagreed with her. Either way, the market is not driving me out.
 author: Ben Wilson

@@ -11,12 +11,8 @@ created_at: 2014-10-03 10:44
 modified_at: 2014-10-03 10:44
 published_at: 2014-10-03 10:44
 date: 2014-10-03 10:44:56.000000000 -04:00
-comments: true
-sharing: true
-footer: true
-sidebar: true
 image: 8151888421_4c6e74887c_z-facepalm.jpg
-category: diary
+category: Diary
 keywords: writing, plan, goals
 description: "Ben explains his activites over September -- Slothful."
 author: Ben Wilson
