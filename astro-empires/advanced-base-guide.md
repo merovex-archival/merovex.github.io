@@ -30,8 +30,8 @@ This guide focuses on base specialization and is not relevant for all players. P
 
 <h1>Basic Guide</h1>
 <div class='toc'>
-  <a name='toc' id='toc'></a><b>On this page...</b> (<a id="tocidtog" href="javascript:toggle('tocid');">hide</a>)
-  <ul class='toc' id='tocid'>
+  id='toc'><b>On this page...</b> (<a id="tocidtog" href="javascript:toggle('tocid');">hide</a>)
+  id='tocid'>
     <li><a href='#toc1'>Astro Layout</a>
       <ul class='toc'>
         <li><a href='#toc2'>Basic Empire Organization</a></li>
@@ -45,13 +45,13 @@ This guide focuses on base specialization and is not relevant for all players. P
     </li>
   </ul></div>
 
-<h3><a name='toc1' id='toc1'></a>Astro Layout</h3>
+<h3 id='toc1'>Astro Layout</h3>
 
 The three major areas of activity on a base are: fleet production, research, and commerce.
 
 Because space is a premium on all astros, it is critical that you build your empire by specializing your astros accordingly. All bases should have a minimum structure, but specialization helps a given base reach its potential. This section discusses basic empire organization and specific base structures. Specialization is necessary for Free accounts, not necessary for upgraded accounts. So, if you're upgraded, take that into account.
 
-<h4><a name='toc2' id='toc2'></a>Basic Empire Organization</h4>
+<h4 id='toc2'>Basic Empire Organization</h4>
 
 For a basic empire, you will want three Commerce<sup><a href='#fn-1'>1</a></sup> astros, two Research Astros, three Production astros, and a balance of Production/Research astros (dual-purpose).  Your first will likely be a dual Production/Research base, this arrangement provides ten bases---the goal of [Seven/Ten Guide]. When building your initial empire, your second, third and fourth bases should be commerce specialized to help jump start your economy. The table below suggests an order in which you may build your bases.
 
@@ -59,9 +59,7 @@ For a basic empire, you will want three Commerce<sup><a href='#fn-1'>1</a></sup>
 Commerce bases are of dubious value. Consider building them up briefly
 in the beginning, then converting them to Production bases.
 </div>
-
-<a name='order' id='order'></a>
-<a name='baseorder' id='baseorder'></a> <span class='bburl'>[url=http://dausha.net/astro-empires/advanced-base-guide#baseorder]#baseorder [/url]</span>
+ id='order'> id='baseorder'> <span class='bburl'>[url=http://dausha.net/astro-empires/advanced-base-guide#baseorder]#baseorder [/url]</span>
 
 <table class='table table-condensed table-hover'>
 <tr><th align='center' colspan='3'>Base Build Order</th></tr>
@@ -115,8 +113,7 @@ in the beginning, then converting them to Production bases.
   <td align='center'>Research</td>
   <td align='center'>Arid, Tundra, Gaia, Earthly</td>
 </tr>
-</table>
-<a name='orderend' id='orderend'></a>
+</table> id='orderend'>
 
 
 Why is your first base probably a dual-purpose base? In the [Seven/Ten Guide],
@@ -135,7 +132,7 @@ when the first astro is typically suitable for Research or Research and
 Production. Later in this guide, I recommend which astros are I find are
 worth having.
 
-<h4><a name='toc3' id='toc3'></a>Base Structure Goals</h4>
+<h4 id='toc3'>Base Structure Goals</h4>
 
 A major consideration is specializing astros and optimizing production,
 commerce and research.  The following table presents decent long-term
@@ -161,8 +158,7 @@ without heavy research requirements. Orbital Bases, Androids Factories,
 Antimatter Plants and Multi-Level Platforms all require substantial
 research to construct. These &#8220;[Very Advanced Structures](#very)&#8221; are
 discussed below.
-
-<a name='buildgoals' id='buildgoals'></a>
+ id='buildgoals'>
  <span class='bburl'>[url=http://dausha.net/astro-empires/advanced-base-guide#buildgoals]#buildgoals [/url]</span>
 
 <table class='table table-hover table-condensed'><tr>
@@ -373,13 +369,13 @@ in parenthesis the potential value of a Slot-2 Rocky with Spaceport-20
 (based on the quality of your empire's Trade Routes.)
 
 
-<h3><a name='toc4' id='toc4'></a>Astro Choice</h3>
+<h3 id='toc4'>Astro Choice</h3>
 
 Base location is a critical concern for a successful empire. Remember
 the real estate mantra: &#8220;Location, location, location.&#8221; This section
 discusses the three considerations in astro selection.
 
-<h4><a name='toc5' id='toc5'></a>Astro Specialization and Type</h4>
+<h4 id='toc5'>Astro Specialization and Type</h4>
 
 These are good pros and cons for each type of astro. The
 general consensus for astro choices are the following:
@@ -390,8 +386,7 @@ specializations. The general consensus on Astro Empires is to specialize
 the astros below. If the astro is not below, do not waste your time. The
 emboldened astro is the preferred choice for a given specialization.
 
-
-<a name='choice' id='choice'></a>
+ id='choice'>
  <span class='bburl'>[url=http://dausha.net/astro-empires/advanced-base-guide#choice]#choice [/url]</span>
 
 <table class='table table-condensed table-hover'> <tr><th align='center'>Specialization</th>
@@ -408,8 +403,7 @@ emboldened astro is the preferred choice for a given specialization.
   <td align='left'><strong>Production:</strong></td>
   <td ><strong>Rocky</strong>, Crater, Metallic</td>
 </tr>
-</table>
-<a name='choiceend' id='choiceend'></a>
+</table> id='choiceend'>
 
 <div class='alert alert-info' >
 
@@ -425,7 +419,7 @@ However, I stand by my recommendations. If you do not see an astro
 listed above, *avoid* it.
 
 
-<h3><a name='toc6' id='toc6'></a>Natural</h3>
+<h3 id='toc6'>Natural</h3>
 
 The table below is from the Astro Empires tables list. This is to help
 guide your understanding regarding why certain astros are preferred for
@@ -588,7 +582,7 @@ you research Armour-22, you should add another 50 to the astro's area to
 represent the limits you will encounter with Multilevel Platforms. Thus,
 an Asteroid will never have more than 140 spaces for structures.
 
-<h4><a name='toc7' id='toc7'></a>Astro Orbit Preferences</h4>
+<h4 id='toc7'>Astro Orbit Preferences</h4>
 <div class='alert alert-warning' >
 Prefer Metal-3, Slot-2 astros. Planets if you need space, moons and roids if you want cheap prings.
 </div>
@@ -614,7 +608,7 @@ plants you will have to build to offset the low solar output. You still
 get the Slot-2 fertility benefit.
 </td></tr></table>
 
-<h4><a name='toc8' id='toc8'></a>Choosing a Moon or Planet</h4>
+<h4 id='toc8'>Choosing a Moon or Planet</h4>
 <div class='alert alert-info' >
 
 Planets if free account player
@@ -670,12 +664,12 @@ until you have the sound foundation offered through the Advanced Base
 Guide.
 
 
-<h3><a name='toc11' id='toc11'></a>Advice on Structure Use</h3>
+<h3 id='toc11'>Advice on Structure Use</h3>
 
 This section discusses the Very Advanced Structures and how they can be
 best used for a Free Player.
 
-<h4><a name='toc12' id='toc12'></a>Multi-Level Platforms and Orbital Bases</h4>
+<h4 id='toc12'>Multi-Level Platforms and Orbital Bases</h4>
 
 When available, these two structures should be built to their limit.
 Orbital Bases provides berths for 50 spaces.
@@ -685,7 +679,7 @@ Therefore, rather than using Orbital Bases to free up space on an astro,
 these structures work with Multi-Level Platforms to provide the base
 with 50 available spaces.
 
-<h4><a name='toc13' id='toc13'></a>Antimatter Plants Do Not Free Up Fusion Plants</h4>
+<h4 id='toc13'>Antimatter Plants Do Not Free Up Fusion Plants</h4>
 
 One might expect that the Antimatter Plants would help free up space on
 the astro by reducing the need for Fusion Plants. After all, at
@@ -694,7 +688,7 @@ would free up 12 Fusion Plants, which only provides the base with seven
 extra slots. There is a better use for these Plants than freeing up
 seven slots discussed in the following sub-section.
 
-<h4><a name='toc14' id='toc14'></a>Three Pringles is Enough</h4>
+<h4 id='toc14'>Three Pringles is Enough</h4>
 
 Pringles is the vernacular for a pair of Planetary Rings and Shields. At
 Level-30, players are well advised to have at least one set of Pringles
@@ -713,13 +707,13 @@ spaces on the astro and 7 berths. Therefore, from a space and resource
 perspective, a fourth set consumes fifty percent more resources than the
 first three; energy excluded.
 
-<h4><a name='toc15' id='toc15'></a>Android Factories</h4>
+<h4 id='toc15'>Android Factories</h4>
 
 Android Factories are also very useful. All five factories provide 30
 construction and production. They require three Fusion Plants, and consume
 eight berths on the Orbital Bases and eight spaces on the astro.
 
-<h4><a name='toc16' id='toc16'></a>Orbital Shipyards</h4>
+<h4 id='toc16'>Orbital Shipyards</h4>
 
 Are Orbital Shipyards essential? I include them in this discussion
 because they require advanced research. Astro Empires does not limit the
@@ -753,7 +747,7 @@ This taken into account, there is value in building Orbital Shipyards
 for the sole purpose of boosting Production. You should let your total
 plan for a base guide you.
 
-<h4><a name='toc17' id='toc17'></a>Biosphere Modification: Too Little, Too Late</h4>
+<h4 id='toc17'>Biosphere Modification: Too Little, Too Late</h4>
 
 Biosphere Modification is similar to Orbital Shipyards as Astro Empires
 does not limit its construction by Free Players.  This only affects
@@ -785,7 +779,7 @@ Level-2 costs 30,000, and the Level-3 costs 45,000.  For a total
 expenditure of 95,000 credits, a free player can retire five Urban
 Structures---a cost of 19,000 per Structure retired.
 
-<h3><a name='toc18' id='toc18'></a>Build Suggestions</h3>
+<h3 id='toc18'>Build Suggestions</h3>
 
 Let us assume you've followed the suggestion of this guide. You, the
 free player, have built three sets of Pringles and maxed out the
@@ -858,7 +852,7 @@ What do we do with the remaining spaces? You can (for the space):
 * (6-12) Increase to Spaceport-20, costing 5-10 berths and 1 or two Fusion Plants
 * (12) Increase your Metal Refinery and Robotics Factories to 22 and 18 respectively, which &#8220;balances&#8221; these structures with the Androids Factories-5 and consumes 12 more energy and berths (one more Fusion Plant after the Remaining above), and increases your base economy by 12 (to 60 based on your trade routes).
 
-<h3><a name='toc19' id='toc19'></a>Final Observation</h3>
+<h3 id='toc19'>Final Observation</h3>
 
 I offer a suggestion for free players. It costs 3 USD per month to
 upgrade an account. If you really want to get more from this game, then
@@ -884,7 +878,7 @@ the beginning of the paid-for month is the best way to maximize your
 Under revision I'm working my way from top to bottom. The net
 conclusions are the same, the supporting data is skewed.
 </div>
-<h2><a name='toc1' id='toc1'></a>Assumptions</h2>
+<h2 id='toc1'>Assumptions</h2>
 
 My analysis makes the following assumptions. This analysis assumes a
 moderately advanced account, which I believe helps newer accounts plan
@@ -909,12 +903,12 @@ Spaceports, Shipyards, Labs and construction infrastructure. Small Fleet
 encourages 12 to 16 Shipyards per base (you'll need Dreads for base
 defense, which is 20 Shipyards and an Orbital Shipyard).
 
-<h2><a name='toc2' id='toc2'></a>Terms Used</h2>
+<h2 id='toc2'>Terms Used</h2>
 * <strong>Slot</strong> is the orbit of an astro.
 * <strong>Berth</strong> is a unit of population consumed.
 * <strong>Space</strong> is a unit of astro area consumed.
 
-<h2><a name='toc3' id='toc3'></a>Space Available </h2>
+<h2 id='toc3'>Space Available </h2>
 
 The tables below show the amount of space available after applying the
 assumptions above. Two spaces have been removed due to less space. The
@@ -928,7 +922,7 @@ Solar (or Gas) Plants. The fourth column (Slot-2,3(F)) denotes only
 fusion plants, which is available to Upgraded players in sufficient numbers and conveys the
 benefit of increased fertility without the loss of Solar.
 
-<h3><a name='toc4' id='toc4'></a>Planets</h3>
+<h3 id='toc4'>Planets</h3>
 
 <table class='table table-hover table-condensed'>
  <tr ><th align='center'>Type</th>
@@ -998,9 +992,8 @@ benefit of increased fertility without the loss of Solar.
 </tr>
 </table>
 
-
-<a name='moons' id='moons'></a> <span class='bburl'>[url=http://dausha.net/astro-empires/advanced-base-guide-Analysis#moons]#moons [/url]</span>
-<h3><a name='toc5' id='toc5'></a>Moons</h3>
+ id='moons'> <span class='bburl'>[url=http://dausha.net/astro-empires/advanced-base-guide-Analysis#moons]#moons [/url]</span>
+<h3 id='toc5'>Moons</h3>
 
 <table class='table table-hover table-condensed'>
  <tr ><th align='center'>Type</th>
@@ -1069,7 +1062,7 @@ benefit of increased fertility without the loss of Solar.
   <td >&nbsp;</td>
 </tr>
 </table>
-<h2><a name='toc6' id='toc6'></a>Space Available</h2>
+<h2 id='toc6'>Space Available</h2>
 <div class='warn' >
 
 Not updated. This shows the area minus the required number of Urbans to
@@ -1089,7 +1082,7 @@ between a Moon and Planet in usable space is within two Terraform
 levels, which is significantly less expensive than the difference in
 Pringle costs.
 
-<h3><a name='toc7' id='toc7'></a>Moons</h3>
+<h3 id='toc7'>Moons</h3>
 
 The general advice has been to take a Slot 1 over Slot 2 moon. This is
 because of the increased Energy of the Slot 1. However, the table
@@ -1186,7 +1179,7 @@ should be considered when in Slot 4 and 5.
   <td >&nbsp;</td>
 </tr>
 </table>
-<h3><a name='toc8' id='toc8'></a>Planets</h3>
+<h3 id='toc8'>Planets</h3>
 
 Free players should select Planets because of the added space. I suggest
 spending a bit of money to upgrade your account for one month and
@@ -1274,7 +1267,7 @@ Fertility and size.
   <td >&nbsp;</td>
 </tr>
 </table>
-<h2><a name='toc9' id='toc9'></a>Defenses</h2>
+<h2 id='toc9'>Defenses</h2>
 <div class='warn' >
 
 This section is outdated somewhat and should be revised.
@@ -1455,7 +1448,7 @@ Centers on <strong>moon</strong> slots.
   <td >&nbsp;</td>
 </tr>
 </table>
-<h2><a name='toc10' id='toc10'></a>Spaceports</h2>
+<h2 id='toc10'>Spaceports</h2>
 
 Fifteen spaceports on a Planet.
 
@@ -1535,7 +1528,6 @@ Fifteen spaceports on a Planet.
 </table>
 
 Fifteen spaceports on a Moon.
-
 
 <table class='table table-hover table-condensed'>
  <tr ><th align='center'>Astro Type</th>
@@ -1752,7 +1744,7 @@ Fifteen spaceports on a Moon.
   <td >&nbsp;</td>
 </tr>
 </table>
-<h2><a name='toc11' id='toc11'></a>Shipyards</h2>
+<h2 id='toc11'>Shipyards</h2>
 
 <table class='table table-hover table-condensed'>
  <tr ><th align='center'>Astro Type</th>
@@ -1781,25 +1773,25 @@ for those who want to build Dreads, we include that calculation as well.
 
 This is an FAQ for the Advanced Base Guide. The goal of that guide is to offer novice players a bit of experienced wisdom. It also challenges more experienced players who have not given optimal base design serious thought. This FAQ page tries to address some lingering questions to that guide that falls outside its scope.
 
-<p class='lead text-primary'><a name='toc21' id='toc21'></a> Why does the Research Column mention a reduced number of Spaceports?</p>
+<p class='lead text-primary' id='toc21'> Why does the Research Column mention a reduced number of Spaceports?</p>
 
 Free players are limited in the number of Terraforms. The Research Labs increase the total number of spaces needed by 29 when the Fusion Plants and Urban structures are built. This puts an Arid astro with five Terraforms over its space allocation by five. The two ways to remedy this is to eithe reduce the number of Robotic Factories or Spaceports by five. This saves the need for one Urban and one Plant, totaling seven. The Production column demonstrates the reduction by Robotic Factories.
 
-<p class='lead text-primary'><a name='toc22' id='toc22'></a> What about Android Factories? Don't Free players get five of them as well?</p>
+<p class='lead text-primary' id='toc22'> What about Android Factories? Don't Free players get five of them as well?</p>
 
 Free players get five Android Factories, which increase the energy demands by 20. This would require three more Fusion Plants and four more Urban Structures. This is a total space demand increase of 12 spaces for a production/construction improvement of 30. The [Production Structures] page shows the baseline construction for a Minimum base of 76, so this is an improvement of fifty percent. However, by researching to Cybernetics-10, a free player gains the same improvement without the increased space demands.
 
-<p class='lead text-primary'><a name='toc23' id='toc23'></a> What about Orbital Bases?</p>
+<p id='toc23'> What about Orbital Bases?</p>
 
 <div  id='footnotes'>
 <ol>
-    <li><a name='fn-1' id='fn-1'></a>  Most guides call these &#8220;economy&#8221; astros. I prefer to call the &#8220;commerce&#8221; because I have a symbol for commerce I use.
+    <li id='fn-1'>  Most guides call these &#8220;economy&#8221; astros. I prefer to call the &#8220;commerce&#8221; because I have a symbol for commerce I use.
 </li>
-    <li><a name='fn-2' id='fn-2'></a>  The ready solution is to drop two Robotic Factories from the goal, which gives the space required.
+    <li id='fn-2'>  The ready solution is to drop two Robotic Factories from the goal, which gives the space required.
 </li>
-    <li><a name='fn-3' id='fn-3'></a>  When your Energy research gets to level 20, you will be pulling 6 energy from Solar Plants. They are also cheaper than Fusion Plants, which should allow you to absorb the minor loss in space.
+    <li id='fn-3'>  When your Energy research gets to level 20, you will be pulling 6 energy from Solar Plants. They are also cheaper than Fusion Plants, which should allow you to absorb the minor loss in space.
 </li>
-    <li><a name='fn-4' id='fn-4'></a>  Slot 3 orbits also have a boost to fertility, but the loss in solar energy (2 instead of 3) makes Slot 3 a poor choice
+    <li id='fn-4'>  Slot 3 orbits also have a boost to fertility, but the loss in solar energy (2 instead of 3) makes Slot 3 a poor choice
 </li>
-    <li><a name='fn-5' id='fn-5'></a>  The trade-off may not be aparent at first.  When you research Energy-3, your Solar Plants will produce one more energy.  This means energy deficits are easier to remedy than population deficits, which makes Slot 2 the better choice.
+    <li id='fn-5'>  The trade-off may not be aparent at first.  When you research Energy-3, your Solar Plants will produce one more energy.  This means energy deficits are easier to remedy than population deficits, which makes Slot 2 the better choice.
 </li></ol></div>

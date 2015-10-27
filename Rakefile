@@ -26,5 +26,8 @@ Dir.glob("#{@task_dir}/*.rake").each { |r| import r }
 
 task :test do
   sh "bundle exec jekyll build"
-  HTML::Proofer.new("./_site").run
+  HTML::Proofer.new(
+  	"./_site",
+  	:href_ignore => ["#"]
+  ).run
 end
