@@ -11,7 +11,7 @@ permalink: /vw/engine-build/
   I am the worst example to follow. My experience with air-cooled VW engines is measured in seconds. You might find what I have here below informational, but I think you would be much better served to check with experts before following any of it.
 </p>
 
-<p>The following table shows the three displacements that interest me. The <a href="/vw/engine-build-calculator">Calculator</a> provides the calculation based on bore diameter and crankshaft length. The 1800 and 2056 both use a lot of the same parts. The longer stroke of the 2180 and its airflow needs result in a lot of changes.</p>
+<p>The following table shows the three displacements that interest me. The <a href="/vw/engine-build-calculator/">Calculator</a> provides the calculation based on bore diameter and crankshaft length. The 1800 and 2056 both use a lot of the same parts. The longer stroke of the 2180 and its airflow needs result in a lot of changes.</p>
 
 <table class="table">
   <tr>
@@ -439,7 +439,7 @@ permalink: /vw/engine-build/
 
 <h3 id="stroke-crankshafts-and-connecting-rods">Stroke: Crankshafts and Connecting Rods</h3>
 
-<p>I opted to put this information together due to the tight-coupling. The standard VW rod length is 5.5” (5-1/2”). Porsche length is 5.325” (5-3/8”). I-Beam is the standard. H-Beam is the more expensive option, but has lower clearance requirements and is allegedly easier to assemble. The <a href="/vw/engine-build/calculator">Calculator</a> provides the ratio, though I don’t yet understand the value of that ratio.</p>
+<p>I opted to put this information together due to the tight-coupling. The standard VW rod length is 5.5” (5-1/2”). Porsche length is 5.325” (5-3/8”). I-Beam is the standard. H-Beam is the more expensive option, but has lower clearance requirements and is allegedly easier to assemble. The <a href="/vw/engine-build/calculator/">Calculator</a> provides the ratio, though I don’t yet understand the value of that ratio.</p>
 
 <table class="table">
   <tr>
@@ -510,7 +510,7 @@ permalink: /vw/engine-build/
 
 <h3 id="carburator">Carburator</h3>
 
-<p><a href="http://www.cwgsy.net/private/ramva/tech.htm" title="BugBits Technical Pages">BugBits</a> “would use the 40IDF/DRLA for 1600-1800cc and the 44IDF/45DRLA from 1800-2000cc&amp;ldots;If you plan to run a set of 40s on an 1800, do ask the shop for a set designed for this engine. The set-up the 40s come with is designed for a 1600cc engine, using 28mm choke and 115 main jets, where an 1800cc engine will require 32mm chokes and 128 mains.” The <a href="/vw/engine-build/calculator">Calculator</a> provides the calculation.</p>
+<p><a href="http://www.cwgsy.net/private/ramva/tech.htm" title="BugBits Technical Pages">BugBits</a> “would use the 40IDF/DRLA for 1600-1800cc and the 44IDF/45DRLA from 1800-2000cc&amp;ldots;If you plan to run a set of 40s on an 1800, do ask the shop for a set designed for this engine. The set-up the 40s come with is designed for a 1600cc engine, using 28mm choke and 115 main jets, where an 1800cc engine will require 32mm chokes and 128 mains.” The <a href="/vw/engine-build/calculator/">Calculator</a> provides the calculation.</p>
 
 <h2 id="references">References</h2>
 

@@ -19,7 +19,7 @@ tags:
 - Writing
 ---
 
-Yesterday I [brought up](blog/2011/07/09/adopt-the-domino-project-for-your- novels/) the [Domino Project](http://www.thedominoproject.com/). Today, I'll
+Yesterday I [brought up](/writing/adopt-the-domino-project-for-your-novels/) the Domino Project (URL defunct). Today, I'll
 answer a few questions I think an author would ask.
 
 <!-- more -->
@@ -76,7 +76,7 @@ matter if you give it away---you're either viable or not.
 #### Q: What if I don't connect?
 
 That's one thing bought up in the book *[How I Sold 1 Million eBooks in 5
-Months!](www.amazon.com/Sold-Million-eBooks-Months-ebook/dp/B0056BMK6K)* There
+Months!](http://www.amazon.com/How-Sold-Million-eBooks-Months-ebook/dp/B0056BMK6K/)* There
 are millions of readers. A best seller sells at least 5,000 copies each week.
 Only one-percent of novels are Best-Sellers, and 90 percent sell fewer than 3000
 copies. Why? In part because the author can't find his audience. You've invested

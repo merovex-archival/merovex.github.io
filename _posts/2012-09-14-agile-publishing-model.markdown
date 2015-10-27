@@ -24,7 +24,7 @@ tags:
 - Publishing
 ---
 <!--Lead Paragraph-->
-If you haven't realized by now, I am a self-publishing author. That means I think I've got good ideas and decent talent to spend hundreds of hours writing books. I currently prefer to be primarily involved throughout the creating, publishing and distributing cycles. [Pragmatic Bookshelf](http://pragprog.com/) uses what [Sourcebook](http://www.sourcebooks.com/next-business-models/1938-sourcebooks-announces-agile-publishing-model.html) calls the [Agile Publishing Model](http://www.sourcebooks.com/next/agile-publishing/entering-the-shift-age/1941-sourcebooks-agile-publishing.html) for producing its non-fiction technical books. [Publisher's Weekly](http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/53426-is-publishing-ready-for-agile-.html) recently asked whether the publishing industry was read for agile. I think it is, but would it work in Fiction?
+If you haven't realized by now, I am a self-publishing author. That means I think I've got good ideas and decent talent to spend hundreds of hours writing books. I currently prefer to be primarily involved throughout the creating, publishing and distributing cycles. [Pragmatic Bookshelf](http://pragprog.com/) uses what [Sourcebook](http://www.sourcebooks.com/blog/sourcebooks-announces-agile-publishing-model.html) calls the [Agile Publishing Model](http://www.sourcebooks.com/agilepublishing/the-shift-age-news/) for producing its non-fiction technical books. [Publisher's Weekly](http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/53426-is-publishing-ready-for-agile-.html) recently asked whether the publishing industry was read for agile. I think it is, but would it work in Fiction?
 
 <!-- more -->
 <!--Personal Experience-->
@@ -35,7 +35,7 @@ The Agile Publishing Model is a fast-to-market publishing model, which allows fo
 
 Pragmatic Bookshelf involves the reader as soon as there's something to read, and develops from there. Fiction might involve readers after the first draft, or preferably after the first rewrite. Readers could offer errata and comment on problems in the book the author might miss. Thanks to epublishing, this benefit can extend beyond the initial publication, errata can be addressed and pushed to readers past and future.
 
-My novel [Scintilla](/novels/#Scintilla) was published Fall 2011. I'm still receiving primary readership from my acquaintance-base. I've received positive feedback about the story (for the most part) but not so positive feedback on the editing. After three re-writes and friends helping copy-edit, the work is still riddled with errors. Perhaps the Agile Publishing Model might help? I've been told Eragon was initially created under a similar approach.
+My novel [Scintilla](/postal-marine-series/#Scintilla) was published Fall 2011. I'm still receiving primary readership from my acquaintance-base. I've received positive feedback about the story (for the most part) but not so positive feedback on the editing. After three re-writes and friends helping copy-edit, the work is still riddled with errors. Perhaps the Agile Publishing Model might help? I've been told Eragon was initially created under a similar approach.
 
 The question is whether the author is a mooch for asking his readers to help? It enables passionate reader involvement, perhaps a positive comment in acknowledgments. An author might offer the book for less, as a way of showing appreciation, or by giving that reader a later novel gratis.
 
