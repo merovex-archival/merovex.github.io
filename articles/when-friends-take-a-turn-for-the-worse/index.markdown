@@ -1,4 +1,4 @@
 ---
 layout: article_redirect
-irl: /postal+marine+series/when-friends-take-a-turn-for-the-worse
+irl: /postal%20marine%20series/when-friends-take-a-turn-for-the-worse
 ---

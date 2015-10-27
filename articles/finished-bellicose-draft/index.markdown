@@ -1,4 +1,4 @@
 ---
 layout: article_redirect
-irl: /postal+marine+series/finished-bellicose-draft
+irl: /postal%20marine%20series/finished-bellicose-draft
 ---

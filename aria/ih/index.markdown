@@ -61,7 +61,7 @@ which are specifically associated with a goal (e.g. Acquisition: Wealth/).[^Aspe
 A Society's **Interaction** describes its diplomatic economic, military, scientific or social interaction with other societies.[^Interaction] By contrast, a Society's **Isolation** describes how difficult it is for other Societies (and people/) to access its physical territory.[^Isolation] Barriers may be natural or artificial. A highly Interactive Society may work hard to overcome its high Isolation, or a low Isolation, low Interactive Society may work to increase its isolation by adding artificial barriers (e.g. Great Wall of China/).
 
 [^Aspects]: See *[ARIA: Worlds](http://www.amazon.com/Aria-Worlds-Series-Canticle-Monomyth/dp/096459031X/ref=cm_cr_dp_asin_lnk)*, p. 30.
-[^Orientations]: See *[ARIA: Worlds](http://www.amazon.com/Aria-Worlds-Series-Canticle-Monomyth/dp/096459031X/ref=cm_cr_dp_asin_lnk)*, pp. 29&ndash;35 or the [Philosophical Orientation Summary Table](/aria/ih/tables#philosophical-orientation).
+[^Orientations]: See *[ARIA: Worlds](http://www.amazon.com/Aria-Worlds-Series-Canticle-Monomyth/dp/096459031X/ref=cm_cr_dp_asin_lnk)*, pp. 29&ndash;35 or the [Philosophical Orientation Summary Table](/aria/ih/tables#philosophical-orientations).
 [^Interaction]: See *[ARIA: Worlds](http://www.amazon.com/Aria-Worlds-Series-Canticle-Monomyth/dp/096459031X/ref=cm_cr_dp_asin_lnk)*, p. 39.
 [^Isolation]: See *[ARIA: Worlds](http://www.amazon.com/Aria-Worlds-Series-Canticle-Monomyth/dp/096459031X/ref=cm_cr_dp_asin_lnk)*, p. 36.
 
@@ -152,7 +152,7 @@ When advanced, add the Orientation Modifier.
 
 **Developing Social Foundation.** ARIA-IH's approach to foundation is a . Thanks to the miracle of the Internet, I provide a quick generator. It will start with a generated result. If you want to create new societies, enter the Code field and hit the any key except ENTER, TAB and other browser-control keys.
 
-ARIA-IH uses [series of dice rolls](/aria/ih/tables#social) to define the Social Foundation. I've taken the liberty of creating a simple generator. I'm also using the Traveller RPG code method for shorthand, using Base<sub>20</sub> (A=10, B=11, C=12, D=13, E=14, F=15, G=15, H=17, K=18, L=19, M=20).
+ARIA-IH uses [series of dice rolls](/aria/ih/tables#social-age) to define the Social Foundation. I've taken the liberty of creating a simple generator. I'm also using the Traveller RPG code method for shorthand, using Base<sub>20</sub> (A=10, B=11, C=12, D=13, E=14, F=15, G=15, H=17, K=18, L=19, M=20).
 
 * Age Value (0-A)
 * Philosophy (Uppercase = Active, Lowercase = Passive; S,W,C,E,P,K)

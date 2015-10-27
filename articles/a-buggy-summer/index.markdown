@@ -1,4 +1,4 @@
 ---
 layout: article_redirect
-irl: /vw+beetle/a-buggy-summer
+irl: /vw%20beetle/a-buggy-summer
 ---

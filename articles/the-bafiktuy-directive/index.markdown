@@ -1,4 +1,4 @@
 ---
 layout: article_redirect
-irl: /postal+marine+series/the-bafiktuy-directive
+irl: /postal%20marine%20series/the-bafiktuy-directive
 ---

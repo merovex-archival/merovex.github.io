@@ -1,4 +1,4 @@
 ---
 layout: article_redirect
-irl: /postal+marine+series/work-in-progress-bellicose
+irl: /postal%20marine%20series/work-in-progress-bellicose
 ---

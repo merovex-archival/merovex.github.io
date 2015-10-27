@@ -1,4 +1,4 @@
 ---
 layout: article_redirect
-irl: /postal+marine+series/jonaldy-ammonett
+irl: /postal%20marine%20series/jonaldy-ammonett
 ---
