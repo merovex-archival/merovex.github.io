@@ -436,7 +436,7 @@ permalink: /vw/engine-build-calculator/
       <td class="pinion">3.88</td>
     </tr>
     <tr>
-      <th scope="row"><a href="http://www.mamotorworks.com/VW/product/Freeway-Flyer-Swing-Axle-Transaxle-6-Volt-180mm-Housing-322648">MidAm Highway Flier (IRS)</a></th>
+      <th scope="row">MidAm Highway Flier (IRS)</th>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>

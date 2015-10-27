@@ -170,5 +170,5 @@ Look at my <a class='wikilink' href='http://espacesociety.org/AstroEmpires/Whith
 <ol>
   <li><a name='fn-1' id='fn-1'></a>  Look at the <a class='wikilink' href='http://espacesociety.org/AstroEmpires/NewFighterRuleAnalysis'>new fighter rule analysis</a>, Fighters were once efficient against all units.
 </li>
-  <li><a name='fn-2' id='fn-2'></a>  Check out my more detailed <a class='urllink' href='http://espacesociety.org/units.html' rel='nofollow'>unit comparison chart</a>, which tries to show unit ratios needed at  &#8220;optimal&#8221; technology levels.
+  <li><a name='fn-2' id='fn-2'></a>  Check out my more detailed unit comparison chart, which tries to show unit ratios needed at  &#8220;optimal&#8221; technology levels.
 </li></ol></div>
