@@ -25,7 +25,7 @@ In December I wrote about my plan to increase my work performance by simply writ
 
 <!-- more -->
 
-Let me start by saying I did not start the commitment until 6 January. I needed a few days to get situated and write the scripts that would help me visualize my progress. The chart above demonstrates the results of that work, which is also available at [my writing progress 2014](/writing-progress-2014) page. Here's the breakdown of my month:
+Let me start by saying I did not start the commitment until 6 January. I needed a few days to get situated and write the scripts that would help me visualize my progress. The chart above demonstrates the results of that work, which is also available at [my writing progress 2014](/w/writing-progress-2014) page. Here's the breakdown of my month:
 
 * 1-5 January: Write scripts.
 * 6-19 January: Editing *Bellicose*, but not at a good progress

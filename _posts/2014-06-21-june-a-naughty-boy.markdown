@@ -82,7 +82,7 @@ What do you think?
 
 ### Update, Independence Day
 
-It's Independence Day (or nearly). I finished *Luctation* on 30 June, about two weeks after I wanted to. I'm now starting to pick my way through *Imbroglio*. I am continually inspired by [Jamie Rubin](http://www.jamierubin.net/2014/07/03/writing-stats-for-the-first-half-of-2014/). I threw away the speedometer on the [Progress Page](/writing-progress-2014), changed the average to a seven-day moving average, and a few other little tweaks.
+It's Independence Day (or nearly). I finished *Luctation* on 30 June, about two weeks after I wanted to. I'm now starting to pick my way through *Imbroglio*. I am continually inspired by [Jamie Rubin](http://www.jamierubin.net/2014/07/03/writing-stats-for-the-first-half-of-2014/). I threw away the speedometer on the [Progress Page](/w/writing-progress-2014), changed the average to a seven-day moving average, and a few other little tweaks.
 
 <table class='table table-striped'>
   <tr> <td><em>Bellicose</em></td><td>Need to read proof.</td> </tr>

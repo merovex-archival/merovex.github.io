@@ -33,7 +33,7 @@ Last year I made a big mistake. I made promises that I thought I could keep. I s
 <!-- more -->
 ## Progress Over the Year
 
-I managed not to post to this site in a year. I have plenty of excuses: adding a floor to my house, getting involved in my kids' lives, etc. All of them are pitiful excuses. However, I did manage to finish the draft to _[Bellicose](/novels)_. It needs help being revised, etc. But, it is drafted. I finished it by 1 October, which is when I have arbitrarily decided "New Year" really starts. (It is my birthday, and the start of the fiscal year, after all.)
+I managed not to post to this site in a year. I have plenty of excuses: adding a floor to my house, getting involved in my kids' lives, etc. All of them are pitiful excuses. However, I did manage to finish the draft to _[Bellicose](/postal-marine-series/)_. It needs help being revised, etc. But, it is drafted. I finished it by 1 October, which is when I have arbitrarily decided "New Year" really starts. (It is my birthday, and the start of the fiscal year, after all.)
 
 But I did very little else. _Bellicose_ only added about 45k words to where I was in 2012, so that's not much to say. I assure you, I found plenty of excuses. It could be submitted, but there would have to be a good revision or two before I'd be happy making it public. I would like to have _Bellicose_ published by April 2014, if that's not too much to ask. To that end, I engaged in a design contest via [99 Designs](http://99designs.com) at the suggestion of my friend Keith Henning of [Spore Press](http://sporepress.com). I'm past the preliminary stages, so I'm looking at selecting finalists.
 

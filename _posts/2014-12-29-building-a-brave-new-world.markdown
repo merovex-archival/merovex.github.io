@@ -35,7 +35,7 @@ In the 1990s, I used parts of the Earth, obscure islands and the like, to create
 
 I used Civ V the same way I used to use actual maps: it gave me the coastlines. Specific to the story I want to tell, it gave me several continents. Two of them are the perfect scope for the story. It also gave me a starter set of cultures, where they were, how they developed, and how they interacted. The first iteration didn't play very well, but I replayed the same game and threw in some tension where I normally wouldn't. The center of that tension is where the novels will start. I ended up fighting a series of four wars that worked out perfectly.
 
-Since Civ uses hexes, I found an [online hexagonal paper engine](incompetech.com/graphpaper/hexagonal/). This allows me to have different map scales that are largely accurate. What's more, the Civ map fits perfectly on legal-sized paper, which at least gives me a cylindar map. Ultimately, I'll find a way to make it spherical. Though none of the readers may see that globe, it means something to me.
+Since Civ uses hexes, I found an [online hexagonal paper engine](http://incompetech.com/graphpaper/hexagonal/). This allows me to have different map scales that are largely accurate. What's more, the Civ map fits perfectly on legal-sized paper, which at least gives me a cylindar map. Ultimately, I'll find a way to make it spherical. Though none of the readers may see that globe, it means something to me.
 
 At the end of a week, I have a few good maps, and the historic background for the new series. I now have until 4 January 2015 to finish *Imbroglio*. I figure that's fair given I'm the only one who currently cares about my goal, and I started the goal on 5 January 2014.
 
