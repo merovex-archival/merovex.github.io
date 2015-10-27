@@ -1,4 +1,5 @@
 
+require 'html/proofer'
 @cwd = File.expand_path(".")
 @data_dir = "#{@cwd}/_data"
 
@@ -22,3 +23,8 @@ require "date"
 @task_dir        = File.expand_path("~/bin/rakelib/jekyll-tasks/")
 
 Dir.glob("#{@task_dir}/*.rake").each { |r| import r }
+
+task :test do
+  sh "bundle exec jekyll build"
+  HTML::Proofer.new("./_site").run
+end

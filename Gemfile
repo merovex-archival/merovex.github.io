@@ -2,6 +2,10 @@ source 'https://rubygems.org'
 
 ruby "2.0.0"
 gem 'github-pages'
+group :test do
+  gem 'html-proofer'
+  gem 'rake'
+end
 group :development do
 	gem 'rb-fsevent', '~> 0.9'
 	gem 'rb-inotify'
