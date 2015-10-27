@@ -6,7 +6,7 @@ permalink: /astro-empires/pring-construction-guide/
 ---
 {% include shared/astro_empire_header.html %}
 
-A <a class='wikilink' href='http://espacesociety.org/AstroEmpires/2011-01-03-BuildPringsInSixWeeks'>short while ago</a>, I mentioned a challenge of building Planetary Rings in six weeks. That is 42 days. I should have said seven weeks, which based on my successes in the past is more manageable.
+A short while ago,I mentioned a challenge of building Planetary Rings in six weeks. That is 42 days. I should have said seven weeks, which based on my successes in the past is more manageable.
 
 <ul><li>First pring in Epsilon + 69 in a E7 cluster galaxy.
 </li><li>First pring in Fenix + 51 in a F1 cluster galaxy.

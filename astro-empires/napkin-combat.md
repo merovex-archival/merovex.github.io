@@ -142,8 +142,7 @@ Heavy Cruisers yield a 2:1 kill ratio against Titans. However, you need
 waves. You will need about 200 HCs to kill a Leviathan, for a 2:1 ratio.
 
 
-The ratios mentioned here derive from my
-<a class='urllink' href='http://espacesociety.org/units.html' rel='nofollow'>unit comparison chart</a>, which
+The ratios mentioned here derive from my unit comparison chart, which
 tries to show unit ratios needed at &#8220;optimal&#8221; technology levels. The
 actual ratios are highly dependent upon the technology of both the
 attacker and defender.

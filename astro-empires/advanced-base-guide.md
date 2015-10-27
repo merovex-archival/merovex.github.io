@@ -158,8 +158,8 @@ without heavy research requirements. Orbital Bases, Androids Factories,
 Antimatter Plants and Multi-Level Platforms all require substantial
 research to construct. These &#8220;[Very Advanced Structures](#very)&#8221; are
 discussed below.
- id='buildgoals'>
- <span class='bburl'>[url=http://dausha.net/astro-empires/advanced-base-guide#buildgoals]#buildgoals [/url]</span>
+ 
+<span id='buildgoals' class='bburl'>[url=http://dausha.net/astro-empires/advanced-base-guide#buildgoals]#buildgoals [/url]</span>
 
 <table class='table table-hover table-condensed'><tr>
   <th>&nbsp;</th>

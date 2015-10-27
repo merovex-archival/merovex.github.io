@@ -16,7 +16,7 @@ What Does Bookmaker Provide?
 
 * Write using LaTeX
 * Paper Support: Book-quality PDF output (6"x9") using [Memoir](http://www.ctan.org/tex-archive/macros/latex/contrib/memoir), suitable for publishing via [Createspace](https://www.createspace.com).
-* Electronic Support: HTML, Epub and Mobi output (using [kindlegen](http://kindlegen.s3.amazonaws.com)).
+* Electronic Support: HTML, Epub and Mobi output (using [kindlegen](http://www.amazon.com/gp/feature.html?docId=1000765211)).
 * Table of Contents automatically generated from chapter titles
 
 Installation

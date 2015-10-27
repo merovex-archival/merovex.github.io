@@ -219,7 +219,7 @@ As above, books are published both electronically and via hard-copy, as well as 
   </tr>
   <tr>
   	<td>Nook</td>
-  	<td><a href='http://pubit.barnesandnoble.com/pubit_app/bn?&a=mv&t=mytitles'>B&N PubIt site</a>.</td>
+  	<td><a href='https://www.nookpress.com/projects'>B&N PubIt site</a>.</td>
   	<td>...</td>
   </tr>
 </table>

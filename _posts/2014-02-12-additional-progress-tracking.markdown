@@ -29,6 +29,6 @@ You'll recall from my [new year's article](/articles/a-gutsy-year/) that I'm com
 
 To be honest, those two are helpful, but discouraging. It yo-yos up or down depending on other life events, but says nothing about how I am progressing to my ultimate goal for the year of 150,000 words.
 
-Yesterday I added a third graph: [cumulative progress](/w/writing-progress-2014#chart-cumulative/) set against the cumulative word count per day. This is a burn-up chart, showing the patient march toward the goal. This one is a bit more encouraging, even if in actuality it is the second graph turned diagonally.
+Yesterday I added a third graph: [cumulative progress](/w/writing-progress-2014/#chart-cumulative) set against the cumulative word count per day. This is a burn-up chart, showing the patient march toward the goal. This one is a bit more encouraging, even if in actuality it is the second graph turned diagonally.
 
 Coincidentally, yesterday was crossing the 15,000 word-mark. I am ten percent through the year (it started on 6 January). I am about nine percent below target. I'll be lower today because I've not written much this week at all (wait for the end-of-month retrospective). God in his providence is dumping an estimated six inches of snow on Northern Virginia tonight. This gives me a chance to make up the deficit. I'll have to write 2,100 words to be back on track. This has been a rough week.
