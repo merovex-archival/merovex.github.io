@@ -122,7 +122,7 @@ To create valid Mobi for Kindle, you need an appropriate cover image. **Bookmake
 XeTeX supports TrueType/OpenType fonts directly
 * LaTex to HTML conversion done within the gem itself.
 * HTML to EPUB via [Merovex-EeePub](https://github.com/Merovex/eeepub). Install it directly from Github
-* EPUB to Mobi via [Kindlegen](http://kindlegen.s3.amazonaws.com)
+* EPUB to Mobi via [Kindlegen](http://www.amazon.com/gp/feature.html?docId=1000765211)
 * Patience - This was developed for my own writing purposes, and is likely incomplete as of this writing.
 
 ### References
