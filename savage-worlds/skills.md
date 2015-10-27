@@ -2,7 +2,7 @@
 layout: page
 title: "Savage Worlds Skills List"
 date: 2013-10-20 09:27
-permalink: /savage-worlds-skills/
+permalink: /savage-worlds/skills/
 ---
 
 <table id='sorted' class='table table-condensed tablesorter zebra-striped'>
