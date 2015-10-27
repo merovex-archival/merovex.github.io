@@ -17,7 +17,7 @@ subtitle: Blog
         <hr aria-hidden='true'>
         <p class='category'><span class='sr-only'>Article Category:</span>{{post.category}}</p>
         <figure class='thumb'>
-          <img src='{{ site.cdn_url }}/images/articles/thumbnails/{{post.photo['image']}}' alt=''>
+          <img src='{{ site.cdn_url }}/images/articles/thumbnails/{{post.photo['image']}}' alt='{{post.photo['caption']}}'>
         </figure>
         <header>
           <h3><a href='{{ root_url }}{{ post.url }}'>{{post.title |truncate: 25}}</a></h3>
