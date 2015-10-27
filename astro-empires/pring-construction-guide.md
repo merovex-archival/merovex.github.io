@@ -18,7 +18,7 @@ A <a class='wikilink' href='http://espacesociety.org/AstroEmpires/2011-01-03-Bui
 As you see, I've managed this a few times before. I started on Ceti, played slightly on Delta before I took a break. I started Epsilon in November, almost six months after its server start. So, E7 cluster was fairly mature, and I was in a hostile galaxy. In the other galaxy, I was at server start. So, it is a little easier when you're among peers.
 
 <div class='toc'>
-  <a name='toc' id='toc'></a><b>On this page...</b> (<a id="tocidtog" href="javascript:toggle('tocid');">hide</a>)<ul class='toc' id='tocid'><li><a href='#toc1'>Research</a></li><li><a href='#toc2'>Astros &amp; Structures</a></li><li><a href='#toc3'>Defenses</a></li><li><a href='#toc4'>Finances</a></li><li><a href='#toc5'>Putting It Together</a></li><li><a href='#toc6'>Conclusion</a></li><li><a href='#toc7'>Comments</a></li></ul></div>
+  <a name='toc' id='toc'></a><b>On this page...</b> (<a id="tocidtog" href="javascript:toggle('tocid');">hide</a>)<ul class='toc' id='tocid'><li><a href='#toc1'>Research</a></li><li><a href='#toc2'>Astros &amp; Structures</a></li><li><a href='#toc3'>Defenses</a></li><li><a href='#toc4'>Finances</a></li><li><a href='#toc5'>Putting It Together</a></li><li><a href='#toc6'>Conclusion</a></li></ul></div>
 <h2><a name='toc1' id='toc1'></a>Research</h2>
 
 I start this article with the most important aspect: research. As I show below, you will spend over 200,000 &cent; to complete the Pring research alone. As with other things in AE, that requires a well-tuned economy and time. You will spend five of the seven weeks pushing the research. Why only five weeks? The first week you should spend building your empire (see [Seven Ten Guide]).

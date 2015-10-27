@@ -28,6 +28,7 @@ task :test do
   sh "bundle exec jekyll build"
   HTML::Proofer.new(
   	"./_site",
-  	:href_ignore => ["#"]
+	:href_ignore => ["#"],
+	:empty_alt_ignore => true
   ).run
 end

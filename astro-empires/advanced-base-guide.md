@@ -20,7 +20,7 @@ The Astro Layout section sets minimum build goals for bases depending on
 their specialization.  The Planet Choice section shares common wisdom on
 which astros work better in which specialization. Both sections describe
 time-tested methods. This page has an accompanying
-[Frequently Asked Questions](#faw) section. If you find
+[Frequently Asked Questions](#faq) section. If you find
 an area confusing and the FAQ is unhelpful, notify Merovech (Gamma).
 
 <div class='alert alert-warning' >
@@ -644,7 +644,7 @@ and Pshields. Moons cost half as much, and asteroids a quarter as much.
 
 Orbital Bases, Androids Factories, Antimatter Plants and Multi-Level
 Platforms all require substantial research to construct. The Advanced
-Base Guide offers [build goals](#build) for free
+Base Guide offers [build goals](#buildgoals) for free
 players. That is, it shows what a player limited to five terraforms can
 accomplish by building on the right astro.  Those goals provide a free
 player with all the structures necessary to have a thriving empire.

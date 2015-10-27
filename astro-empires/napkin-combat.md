@@ -30,7 +30,7 @@ Adjust for the presence of Command Centers to the appropriate party.
   <li><a href='#toc8'>Destroyers Use the 3/7 Rule</a></li>
   <li><a href='#toc9'>Cruisers and Heavy Cruisers</a></li></ul></li>
   <li><a href='#toc10'>Attacking Massive Units</a></li>
-  <li><a href='#toc11'>Comments</a></li></ul></div>
+  </ul></div>
 <h2><a name='toc1' id='toc1'></a>Attack in Waves</h2>
 
 First, you should always consider attacking in waves. Never hurry an

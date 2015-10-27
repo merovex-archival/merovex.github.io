@@ -2,9 +2,6 @@
 layout: page
 title: "AstroEmpires: Base Defense Guide"
 date: 2007-01-26 09:56
-comments: true
-sharing: true
-footer: true
 permalink: /astro-empires/base-defense-guide/
 ---
 {% include shared/astro_empire_header.html %}
@@ -45,7 +42,6 @@ permalink: /astro-empires/base-defense-guide/
 </ul>
 </li>
 <li><a href='#toc16'>Conclusion</a> </li>
-<li><a href='#toc17'>Comments</a> </li>
 </ul>
 </div>
 </div>

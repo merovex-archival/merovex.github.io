@@ -20,7 +20,7 @@ are of Metal-2 and Metal-3 bases. Adjustments for Cybernetics is
 included.
 
 <div class='toc'>
-  <a name='toc' id='toc'></a><b>On this page...</b> (<a id="tocidtog" href="javascript:toggle('tocid');">hide</a>)<ul class='toc' id='tocid'><li><a href='#toc1'>Production Calculator</a></li><li><a href='#toc2'>Balanced Structure Table</a></li><li><a href='#toc3'>Cost/Time Scale</a></li><li><a href='#toc4'>Comments</a></li></ul></div>
+  <a name='toc' id='toc'></a><b>On this page...</b> (<a id="tocidtog" href="javascript:toggle('tocid');">hide</a>)<ul class='toc' id='tocid'><li><a href='#toc1'>Production Calculator</a></li><li><a href='#toc2'>Balanced Structure Table</a></li><li><a href='#toc3'>Cost/Time Scale</a></li></ul></div>
 
 <h2><a name='toc1' id='toc1'></a>Production Calculator</h2>
 

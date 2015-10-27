@@ -20,7 +20,7 @@ permalink: /astro-empires/small-fleet-doctrine/
     <li><a href='#toc9'>Spying on Your Rival</a></li>
     <li><a href='#toc10'>Normal Fleet Strength</a></li></ul></li>
     <li><a href='#toc11'>Updates</a></li>
-    <li><a href='#toc12'>Comments</a></li></ul></div>
+    </ul></div>
 </div>
 <div class='col-md-8'>
 
