@@ -51,7 +51,7 @@ No lowering. Stock clearance is fine.
 
 **Stock Front-End.** Let's just say the dashboard area under the hood is not there in any meaningful way. The previous photo album shows area rust at the left strut that needs to be replaced for the car to be road safe. (I had forgotten about the struts reliance on the frame.)
 
-**Custom Engine.** The engine runs okay, though it cries oil. I intend to rebuild the stock engine. If I can manage a non-machined upgrade for a little more power, I will. I've been looking at the [non-machine 1800cc on AirCooled.Net](www.aircooled.net/1800cc-vw-engine-no-machine-combo/), but I might go more modest. The previous owner returned the stock carb and oil-bath air filter. I will likely dual-carb and upgrade the exhaust regardless of whether I increase the displacement. My 29-year driving philosophy is to power out of danger.
+**Custom Engine.** The engine runs okay, though it cries oil. I intend to rebuild the stock engine. If I can manage a non-machined upgrade for a little more power, I will. I've been looking at the [non-machine 1800cc on AirCooled.Net](http://www.aircooled.net/1800cc-vw-engine-no-machine-combo/), but I might go more modest. The previous owner returned the stock carb and oil-bath air filter. I will likely dual-carb and upgrade the exhaust regardless of whether I increase the displacement. My 29-year driving philosophy is to power out of danger.
 
 **Stock Transmission.** The clutch surrendered itself to time during my test drive, but the transmission seemed fine right up until the clutch failed.
 

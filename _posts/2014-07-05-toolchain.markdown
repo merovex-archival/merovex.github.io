@@ -45,7 +45,7 @@ I started using Microsoft® Word, but learned quickly that there was a lot of co
 <a name='LSR'></a>
 **Enter Bookmaker Toolchain (LSR).** Being a tool geek, I had to find a better tool. That ultimately led to my development of [Bookmaker](https://github.com/Merovex/bookmaker), which derives from [Kitabu](https://github.com/fnando/kitabu) but avoids using Prince (IMO, Kitabu violates the Prince license). Kitabu can use Markdown, which I would love to use. (This site uses Markdown.) Bookmaker is fundamentally similar to my earlier LVM toolchain. It's *LaTeX/Sublime Text/Rake* (LSR), with the added benefit of producing ePub.
 
-* **[Sublime Text](sublimetext.com)** is a modern text editor, giving me capabilities that I did not have in Vim. (Note: I think most of it is possible in Vim, but I never got to be that sophisticated.) I created a handful of macros that allow me to markup the text quicker than hand-typing.
+* **[Sublime Text](http://sublimetext.com)** is a modern text editor, giving me capabilities that I did not have in Vim. (Note: I think most of it is possible in Vim, but I never got to be that sophisticated.) I created a handful of macros that allow me to markup the text quicker than hand-typing.
 * **LaTeX** allows for professional formatting of a PDF&mdash;suitable for publishing. With its macros, I can quickly index characters in draft mode so that I can more readily find references to them. I can add other data in the comments as well.
 * **Bookmaker** Most book settings are kept in a configuration file. It provides a Rakefile that provides easy commandline options for [Rake](http://en.wikipedia.org/wiki/Rake_%28software%29) that convert the LaTeX files to PDF or ePub, provide statistics, quickly show words in context, etc.
 

@@ -439,7 +439,7 @@ permalink: /vw/engine-build/
 
 <h3 id="stroke-crankshafts-and-connecting-rods">Stroke: Crankshafts and Connecting Rods</h3>
 
-<p>I opted to put this information together due to the tight-coupling. The standard VW rod length is 5.5” (5-1/2”). Porsche length is 5.325” (5-3/8”). I-Beam is the standard. H-Beam is the more expensive option, but has lower clearance requirements and is allegedly easier to assemble. The <a href="/vw/engine-build/calculator/">Calculator</a> provides the ratio, though I don’t yet understand the value of that ratio.</p>
+<p>I opted to put this information together due to the tight-coupling. The standard VW rod length is 5.5” (5-1/2”). Porsche length is 5.325” (5-3/8”). I-Beam is the standard. H-Beam is the more expensive option, but has lower clearance requirements and is allegedly easier to assemble. The <a href="/vw/engine-build-calculator/">Calculator</a> provides the ratio, though I don’t yet understand the value of that ratio.</p>
 
 <table class="table">
   <tr>
@@ -510,7 +510,7 @@ permalink: /vw/engine-build/
 
 <h3 id="carburator">Carburator</h3>
 
-<p><a href="http://www.cwgsy.net/private/ramva/tech.htm" title="BugBits Technical Pages">BugBits</a> “would use the 40IDF/DRLA for 1600-1800cc and the 44IDF/45DRLA from 1800-2000cc&amp;ldots;If you plan to run a set of 40s on an 1800, do ask the shop for a set designed for this engine. The set-up the 40s come with is designed for a 1600cc engine, using 28mm choke and 115 main jets, where an 1800cc engine will require 32mm chokes and 128 mains.” The <a href="/vw/engine-build/calculator/">Calculator</a> provides the calculation.</p>
+<p><a href="http://www.cwgsy.net/private/ramva/tech.htm" title="BugBits Technical Pages">BugBits</a> “would use the 40IDF/DRLA for 1600-1800cc and the 44IDF/45DRLA from 1800-2000cc&amp;ldots;If you plan to run a set of 40s on an 1800, do ask the shop for a set designed for this engine. The set-up the 40s come with is designed for a 1600cc engine, using 28mm choke and 115 main jets, where an 1800cc engine will require 32mm chokes and 128 mains.” The <a href="/vw/engine-build-calculator/">Calculator</a> provides the calculation.</p>
 
 <h2 id="references">References</h2>
 
@@ -520,7 +520,7 @@ permalink: /vw/engine-build/
   <li>“<a href="http://www.aircooled.net/vw-performance-engines/">ACN’s Performance Engine</a>”. 2015-09-07.</li>
   <li>“<a href="http://www.aircooled.net/vw-performance-easy-mods-bolt-on/">ACN’s Bolt-On Performance</a>”. 2015-09-07.</li>
   <li>“<a href="http://www.aircooled.net/vw-carburetor-options-selection-101/">ACN’s Carburetor Selection</a>”. 2015-09-07.</li>
-  <li>“<a href="http://www.cwgsy.net/private/ramva/tech.htm">BugBits Technical Pages</a>”. <a href="/vw/engine-build/calculator/bugbits-technical.html">Original Archived</a> on 2015-09-07.</li>
+  <li>“<a href="http://www.cwgsy.net/private/ramva/tech.htm">BugBits Technical Pages</a>”. <a href="/vw/engine-build-calculator/bugbits-technical.html">Original Archived</a> on 2015-09-07.</li>
   <li>“<a href="http://www.vw-resource.com/compression.html">Compression Discussion</a>”. 2015-09-07.</li>
   <li>“<a href="http://www.thesamba.com/vw/forum/viewtopic.php?t=552581&amp;start=60&amp;postdays=0&amp;postorder=asc&amp;highlight=recommended+compression">Building a 74x88…</a>”. 2015-09-07. Discussion about heads and compression.</li>
 </ul>

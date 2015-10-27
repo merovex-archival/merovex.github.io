@@ -427,7 +427,7 @@ permalink: /vw/engine-build-calculator/
       <td></td>
     </tr>
     <tr>
-      <th scope="row"><a href="www.mofoco.com/item/Freeway_Flyer_High_Performance_Swingaxle_Vw_Transmission/571">Mofoco Highway Flier (Swing)</a></th>
+      <th scope="row"><a href="http://www.mofoco.com/item/Freeway_Flyer_High_Performance_Swingaxle_Vw_Transmission/571">Mofoco Highway Flier (Swing)</a></th>
       <td>&nbsp;</td>
       <td class="gear">3.80</td>
       <td class="gear">2.06</td>

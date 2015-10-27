@@ -95,7 +95,7 @@ ss
 ### Skills
 
 
-The [Skills list](/savage-worlds/skills)
+The [Skills list](/savage-worlds/skills/)
 
 
 ### Powers

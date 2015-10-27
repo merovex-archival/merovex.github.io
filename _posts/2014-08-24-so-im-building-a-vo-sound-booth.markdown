@@ -51,7 +51,7 @@ This article will focus on soundproofing, as that is the critical first step for
 
 Because most articles mix the two concepts, there's a lot lost in translation. The [Wikipedia article on STC](http://en.wikipedia.org/wiki/Sound_transmission_class) gives a pretty good guide of what you need to soundproof adequately. There's also a [market paper](http://www.bdcuniversity.com/sites/default/files/MakingWallsQuiet090109.pdf) which is informative. STC is roughly a decibel sound-attenuation.
 
-The STC shows the decibel reduction from one space to the next. If there is a sound at 90db in one space with an STC 30 wall, then 60db pass into the other space. There are plenty of [decibel loudness comparisons](http://www.gcaudio.com/resources/howtos/loudness.html) available, as well as a page from [Thorburn Associates](http://www.ta-inc.com/newshtml/rc.htm). Most home theaters have a decibel rating of 100db; so an STC 60 would reduce the sound to 40db.
+The STC shows the decibel reduction from one space to the next. If there is a sound at 90db in one space with an STC 30 wall, then 60db pass into the other space. There are plenty of [decibel loudness comparisons](http://www.gcaudio.com/resources/howtos/loudness.html) available. Most home theaters have a decibel rating of 100db; so an STC 60 would reduce the sound to 40db.
 
 I have an HVAC unit in the area that may get as loud as 80db. My goal is to attenuate to 30db, so an STC 50 is a good target. To be certain of my target, I'll use a USD 20 sound meter.
 

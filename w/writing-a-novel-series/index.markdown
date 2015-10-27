@@ -35,7 +35,7 @@ This page is my attempt to distill my approach to getting published. It's about 
 
 The concept is to build a career from writing 8-novel series with a per-novel word count of 65,000 words (65 k-words) or 520,000 words (520 k-words).
 
-The **Series Design** is a very tactical approach based on influences by [Randy Ingermanson](http://www.amazon.com/Randy-Ingermanson), [Evan Marshall](http://www.amazon.com/Evan-Marshall/e/B000APFQQI) and [Wallace Wang](http://www.amazon.com/Wallace-Wang/e/B000APXK5W/).
+The **Series Design** is a very tactical approach based on influences by [Randy Ingermanson](http://www.amazon.com/Randy-Ingermanson/e/B001IXMD5S), [Evan Marshall](http://www.amazon.com/Evan-Marshall/e/B000APFQQI) and [Wallace Wang](http://www.amazon.com/Wallace-Wang/e/B000APXK5W/).
 
 Concepts that build into this approach:
 
