@@ -426,7 +426,7 @@ he builds prings.
 
 
 Each base met or slightly exceeds the minimum construction goals of the
-<a class='wikilink' href='/astro-empires/AdvancedBaseGuide'>Advanced Base Guide</a>, with a 19:15:8:2 MR:RF:NF:AF <a class='wikilink' href='/astro-empires/ProductionStructures'>production structures</a>
+<a class='wikilink' href='/astro-empires/advanced-base-guide'>Advanced Base Guide</a>, with a 19:15:8:2 MR:RF:NF:AF <a class='wikilink' href='/astro-empires/production-structures'>production structures</a>
 ratio. The bases also had Command Centers-10, and in many
 cases Spaceports-15. When building prings on an Asteroid, these
 structures complete the work in under six days; depending on your
