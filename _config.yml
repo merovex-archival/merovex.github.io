@@ -47,6 +47,7 @@ exclude:
   - _data
   - config
   - config.ru
+  - vendor
 
 ## Site Specific
 cdn_url: https://s3.amazonaws.com/dausha
