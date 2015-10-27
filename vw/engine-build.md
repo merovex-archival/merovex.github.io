@@ -520,7 +520,7 @@ permalink: /vw/engine-build/
   <li>“<a href="http://www.aircooled.net/vw-performance-engines/">ACN’s Performance Engine</a>”. 2015-09-07.</li>
   <li>“<a href="http://www.aircooled.net/vw-performance-easy-mods-bolt-on/">ACN’s Bolt-On Performance</a>”. 2015-09-07.</li>
   <li>“<a href="http://www.aircooled.net/vw-carburetor-options-selection-101/">ACN’s Carburetor Selection</a>”. 2015-09-07.</li>
-  <li>“<a href="http://www.cwgsy.net/private/ramva/tech.htm">BugBits Technical Pages</a>”. <a href="/vw/engine-build-calculator/bugbits-technical.html">Original Archived</a> on 2015-09-07.</li>
+  <li>“<a href="http://www.cwgsy.net/private/ramva/tech.htm">BugBits Technical Pages</a>”. <a href="/vw/engine-build/calculator/bugbits-technical.html">Original Archived</a> on 2015-09-07.</li>
   <li>“<a href="http://www.vw-resource.com/compression.html">Compression Discussion</a>”. 2015-09-07.</li>
   <li>“<a href="http://www.thesamba.com/vw/forum/viewtopic.php?t=552581&amp;start=60&amp;postdays=0&amp;postorder=asc&amp;highlight=recommended+compression">Building a 74x88…</a>”. 2015-09-07. Discussion about heads and compression.</li>
 </ul>

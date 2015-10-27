@@ -2,9 +2,7 @@
 layout: page
 title: "Snowflake Method for Series Development"
 date: 2014-01-21 12:57
-comments: false
-sharing: true
-footer: false
+permalink: /w/writing-tools/snowflake-method/
 ---
 
 Let me start by saying I did not create the Snowflake Method. It was developed by [Randy Ingermanson](http://www.advancedfictionwriting.com/articles/snowflake-method/) as a way to iteratively develop a novel from the top down. It's a narrative outline approach. It has ten steps for design, which I have adapted to [writing a larger series](/articles/heroes-for-more-than-one-season). I list a summary of the steps below, but really think you should check out Randy's site for his portion.

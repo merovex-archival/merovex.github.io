@@ -19,7 +19,7 @@ tags:
 - Writing
 ---
 
-Yesterday I [brought up](/writing/adopt-the-domino-project-for-your-novels/) the Domino Project (URL defunct). Today, I'll
+Yesterday I [brought up](/writing/adopt-the-domino-project-for-your-novels/) the [Domino Project](http://www.thedominoproject.com/). Today, I'll
 answer a few questions I think an author would ask.
 
 <!-- more -->
