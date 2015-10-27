@@ -1,6 +1,6 @@
 <nav role='menu' aria-label='Pagination'>{% if paginator.total_pages > 1 %}
    <ul class='pagination pagination-lg'>
-       {% if paginator.previous_page %}<li>{% capture url %}{%if paginator.previous_page == 1 %} {{ "/" | prepend: site.baseurl | replace: '//', '/' }}{%else%} /page{{paginator.previous_page}}{%endif%}{% endcapture %}
+       {% if paginator.previous_page %}<li>{% capture url %}{%if paginator.previous_page == 1 %} {{ "/" | prepend: site.baseurl | replace: '//', '/' }}{%else%} /page{{paginator.previous_page}}/{%endif%}{% endcapture %}
           <a href='{{url}}' aria-label='Previous'>
             <span class='fa fa-arrow-left' aria-hidden='true'></span>
             <span class='sr-only'>Previous</span>
