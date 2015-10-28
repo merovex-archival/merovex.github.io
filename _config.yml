@@ -52,6 +52,22 @@ exclude:
 ## Site Specific
 cdn_url: https://s3.amazonaws.com/dausha
 
+collections:
+  books:
+    output: true
+    permalink: /books/:path/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "books"
+    values:
+      layout: book
+      featured: false
+      hidden: false
+      variant: false
+
 social_amazon: http://amzn.to/1VwV58V
 social_facebook: http://on.fb.me/1M3gSiz
 social_feed: http://bit.ly/1Lrbjf0
