@@ -1,14 +1,11 @@
 
 <div id='books-band'>
-  <div class='container'>
-    <h2 class='text-center'>Books</h2>
-    <div class='row'>
-{% assign offset=' col-sm-offset-2' %}
-{% assign books = site.books | where:"featured",true | where:"hidden",false | where:"variant",false %}
-{% for book in books %}
+  <div class='container'>{% assign offset=' col-sm-offset-2' %}
+    <h2 class='text-center'>Books</h2>{% assign books = site.books | where:"featured",true | where:"hidden",false | where:"variant",false %}
+    <div class='row'>{% for book in books %}
       <div class='col-xs-12 col-sm-3 col-md-2{{offset}}'>
-        <a href='{{book.amazon['ebook']}}'><img src='{{site.cdn_url}}/images/covers/{{book.cover['angle']}}' alt='' title='{{book.title}} on Amazon' /></a>
-      </div>{%assign offset='' %}
-{% endfor %}
+        <a href='{{book.amazon['ebook']}}'><img src='{{site.cdn_url}}/images/covers/{{book.cover['angle']}}' alt='{{book.title}} on Amazon' /></a>
+      </div>{%assign offset='' %}{% endfor %}
+    </div>
   </div>
 </div>
