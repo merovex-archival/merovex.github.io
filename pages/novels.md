@@ -3,10 +3,6 @@ layout: page
 title: Novels
 created_at: 2015-10-28 05:35
 permalink: /novels/
-comments: true
-sharing: true
-footer: true
-sidebar: true
 date: 2015-10-28 05:35
 modified_at: 2015-10-28 05:35
 class: license-types

@@ -79,7 +79,7 @@
     <div class='container'>
         <div class='row'>
             <div class='col-md-8 col-sm-6 col-xs-12'>
-                <p class='copyright'>Copyright © 1998&ndash;{{ site.time | date: '%Y' }} Ben Wilson. All Rights reserved.</p>
+                <p class='copyright'>Copyright © {% if page.created_at%}{{page.created_at| date: '%Y'}}{%else%}{{ site.time | date: '%Y' }}{%endif%} Ben Wilson. All Rights reserved.</p>
             </div>
             <div class='col-md-4 col-sm-6 col-xs-12'>
                 <ul class='list-inline quicklinks'>

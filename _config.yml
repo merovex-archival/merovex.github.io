@@ -18,11 +18,11 @@ markdown: kramdown
 kramdown:
   use_coderay: true
 
-paginate: 6          # Posts per page on the blog index
+paginate: 9          # Posts per page on the blog index
 # paginate_path: "p/:num"
 # pagination_dir: "/"
-recent_posts: 6       # Posts in the sidebar Recent Posts section
-popular_posts_count: 6
+recent_posts: 9       # Posts in the sidebar Recent Posts section
+popular_posts_count: 9
 
 # jekyll-archives: 
 #   enabled: 
@@ -48,6 +48,7 @@ exclude:
   - config
   - config.ru
   - vendor
+  - .sublime-workspace
 
 ## Site Specific
 cdn_url: https://s3.amazonaws.com/dausha
