@@ -2,7 +2,7 @@
 title: Bellicose
 full-title: "Book 1: Bellicose"
 release: 2014
-series: pms-1
+series: 1
 featured: true
 released: true
 hidden: false

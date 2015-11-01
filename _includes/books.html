@@ -1,19 +1,14 @@
+
 <div id='books-band'>
   <div class='container'>
     <h2 class='text-center'>Books</h2>
     <div class='row'>
-      <div class='col-xs-12 col-sm-3 col-md-2 col-md-offset-2'>
-        <a href='{{site.data.books['bellicose']['print']}}'><img alt='Book Cover for Bellicose' src='https://s3.amazonaws.com/dausha/images/covers/Bellicose-cover.png'></a>
-      </div>
-      <div class='col-xs-12 col-sm-3 col-md-2'>
-        <a href='/postal-marine-series/#luctation'><img alt='Book Cover for Luctation' src='https://s3.amazonaws.com/dausha/images/covers/Luctation-cover.png'></a>
-      </div>
-      <div class='col-xs-12 col-sm-3 col-md-2'>
-        <a href='/postal-marine-series/#imbroglio'><img alt='Book Cover for Imbroglio' src='https://s3.amazonaws.com/dausha/images/covers/Imbroglio-cover.png'></a>
-      </div>
-      <div class='col-xs-12 col-sm-3 col-md-2'>
-        <a href='{{site.data.books['scintilla']['print']}}'><img alt='Book Cover for Scintilla' src='https://s3.amazonaws.com/dausha/images/covers/Scintilla-cover.png'></a>
-      </div>
-    </div>
+{% assign offset=' col-sm-offset-2' %}
+{% assign books = site.books | where:"featured",true | where:"hidden",false | where:"variant",false %}
+{% for book in books %}
+      <div class='col-xs-12 col-sm-3 col-md-2{{offset}}'>
+        <a href='{{book.amazon['ebook']}}'><img src='{{site.cdn_url}}/images/covers/{{book.cover['angle']}}' alt='' title='{{book.title}} on Amazon' /></a>
+      </div>{%assign offset='' %}
+{% endfor %}
   </div>
 </div>
