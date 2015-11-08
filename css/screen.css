@@ -155,7 +155,7 @@ html, body {
 /* line 1, ../_sass/2015/_navbar.scss */
 header.navbar {
   background-size: cover;
-  background: #862633 !important;
+  background: #9d2235 !important;
 }
 /* line 2, ../_sass/2015/_navbar.scss */
 header.navbar a.nav-link {
@@ -244,7 +244,7 @@ header.navbar .navbar-toggler {
 
 /* line 1, ../_sass/2015/_headers.scss */
 h1, h2, h3, .footnotes:before {
-  color: #370f15;
+  color: #491019;
   text-shadow: 2px 1px 2px #999;
 }
 
@@ -746,11 +746,11 @@ body {
 
 /* line 18, ../_sass/2015/_style.scss */
 #content a {
-  color: #862633 !important;
+  color: #9d2235 !important;
 }
 /* line 20, ../_sass/2015/_style.scss */
 #content a:visited {
-  color: #7747CA !important;
+  color: #9b228f !important;
 }
 
 /* line 27, ../_sass/2015/_style.scss */
