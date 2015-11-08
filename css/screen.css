@@ -9,58 +9,58 @@ html, body {
   font-size: 16px;
 }
 
-/* line 48, ../_sass/2015/_color.scss */
+/* line 50, ../_sass/2015/_color.scss */
 .btn-success {
   border-color: #859900;
   background-color: #9bb300 !important;
   text-decoration: none !important;
 }
-/* line 40, ../_sass/2015/_color.scss */
+/* line 42, ../_sass/2015/_color.scss */
 .btn-success:hover {
   background-color: #7c8f00 !important;
 }
 
-/* line 49, ../_sass/2015/_color.scss */
+/* line 51, ../_sass/2015/_color.scss */
 .btn-danger {
   border-color: #cb4b16;
   background-color: #e25418 !important;
   text-decoration: none !important;
 }
-/* line 40, ../_sass/2015/_color.scss */
+/* line 42, ../_sass/2015/_color.scss */
 .btn-danger:hover {
   background-color: #c24815 !important;
 }
 
-/* line 50, ../_sass/2015/_color.scss */
+/* line 52, ../_sass/2015/_color.scss */
 .btn-primary {
   border-color: #268bd2;
   background-color: #3797db !important;
   text-decoration: none !important;
 }
-/* line 40, ../_sass/2015/_color.scss */
+/* line 42, ../_sass/2015/_color.scss */
 .btn-primary:hover {
   background-color: #2485c9 !important;
 }
 
-/* line 51, ../_sass/2015/_color.scss */
+/* line 53, ../_sass/2015/_color.scss */
 .btn-info {
   border-color: #99A;
   background-color: #a7a7b6 !important;
   text-decoration: none !important;
 }
-/* line 40, ../_sass/2015/_color.scss */
+/* line 42, ../_sass/2015/_color.scss */
 .btn-info:hover {
   background-color: #9393a5 !important;
 }
 
-/* line 52, ../_sass/2015/_color.scss */
+/* line 54, ../_sass/2015/_color.scss */
 .alert-info {
   border-color: #a3cfee;
   background-color: #cee6f6 !important;
   color: #16527c !important;
 }
 
-/* line 53, ../_sass/2015/_color.scss */
+/* line 55, ../_sass/2015/_color.scss */
 .alert-danger {
   border-color: #f2a788;
   background-color: #f7c9b6 !important;
@@ -154,8 +154,8 @@ html, body {
 
 /* line 1, ../_sass/2015/_navbar.scss */
 header.navbar {
-  background: #002b36 url(https://s3.amazonaws.com/dausha/images/footer.jpg) no-repeat top left fixed;
   background-size: cover;
+  background: #862633 !important;
 }
 /* line 2, ../_sass/2015/_navbar.scss */
 header.navbar a.nav-link {
@@ -163,7 +163,7 @@ header.navbar a.nav-link {
 }
 /* line 4, ../_sass/2015/_navbar.scss */
 header.navbar a.nav-link:focus, header.navbar a.nav-link:hover {
-  color: #b58900 !important;
+  color: #FFF !important;
   text-decoration: underline;
 }
 /* line 9, ../_sass/2015/_navbar.scss */
@@ -180,7 +180,7 @@ header.navbar a.navbar-brand .sub {
 }
 /* line 15, ../_sass/2015/_navbar.scss */
 header.navbar a.navbar-brand:hover, header.navbar a.navbar-brand:focus, header.navbar a.navbar-brand:active, header.navbar a.navbar-brand .active {
-  color: #ffd44f;
+  color: #FFF;
 }
 /* line 17, ../_sass/2015/_navbar.scss */
 header.navbar .navbar-toggler {
@@ -244,7 +244,7 @@ header.navbar .navbar-toggler {
 
 /* line 1, ../_sass/2015/_headers.scss */
 h1, h2, h3, .footnotes:before {
-  color: #036;
+  color: #370f15;
   text-shadow: 2px 1px 2px #999;
 }
 
@@ -744,22 +744,31 @@ body {
   background-size: cover;
 }
 
-/* line 17, ../_sass/2015/_style.scss */
+/* line 18, ../_sass/2015/_style.scss */
+#content a {
+  color: #862633 !important;
+}
+/* line 20, ../_sass/2015/_style.scss */
+#content a:visited {
+  color: #7747CA !important;
+}
+
+/* line 27, ../_sass/2015/_style.scss */
 #sidebar h3 {
   font-size: 24px;
 }
 
-/* line 23, ../_sass/2015/_style.scss */
+/* line 33, ../_sass/2015/_style.scss */
 #books-band .row img {
   width: 80% !important;
 }
 
-/* line 29, ../_sass/2015/_style.scss */
+/* line 39, ../_sass/2015/_style.scss */
 .nailthumb-portrait img {
   width: 80%;
 }
 
-/* line 31, ../_sass/2015/_style.scss */
+/* line 41, ../_sass/2015/_style.scss */
 blockquote {
   background: #f9f9f9;
   border-left: 10px solid #ccc;
@@ -767,18 +776,18 @@ blockquote {
   padding: 0.5em 10px;
   quotes: "“" "”" "‘" "’";
 }
-/* line 37, ../_sass/2015/_style.scss */
+/* line 47, ../_sass/2015/_style.scss */
 blockquote p {
   display: inline;
 }
-/* line 38, ../_sass/2015/_style.scss */
+/* line 48, ../_sass/2015/_style.scss */
 blockquote footer {
   display: block;
   font-size: 80%;
   line-height: 1.4;
   color: #777;
 }
-/* line 39, ../_sass/2015/_style.scss */
+/* line 49, ../_sass/2015/_style.scss */
 blockquote:before {
   color: #ccc;
   content: open-quote;

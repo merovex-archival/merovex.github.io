@@ -2,7 +2,7 @@ header.navbar {
     a.nav-link {
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
         &:focus, &:hover {
-          color: $gold !important;
+          color: #FFF !important;
           text-decoration: underline;
         }
     }
@@ -12,14 +12,14 @@ header.navbar {
       font-size: 1.2em;
       font-weight: bold;
       .sub { color: lighten($gold, 10%); padding-left: 0.1em;}
-      &:hover, &:focus, &:active, .active {color: lighten($gold, 30%); }
+      &:hover, &:focus, &:active, .active {color: #FFF; }
   }
   .navbar-toggler {
     color: $white;
     border: 1px solid $white;
   }
-  background: $base03 url(https://s3.amazonaws.com/dausha/images/footer.jpg) no-repeat top left fixed;
   background-size: cover;
+  background: $razorback !important;
 }
 #skiptocontent a {
   padding:6px;
