@@ -16,7 +16,7 @@ modified_at: 2015-10-28 17:08
 * [Aynax](http://www.aynax.com/) - Online Invoicing for Small Businesses
 * [Freedom](https://freedom.to/) - Make technology less distracting
 * [Fresh Books](http://www.freshbooks.com/) - Accounting Made for You, the Non-Accountant
-* [Tape a Call](https://www.tapeacall.com/buy/) - The Easiest Way To Record Calls 
+* [Tape a Call](https://www.tapeacall.com/buy/) - The Easiest Way To Record Calls
 * Evernote
 * Scrivener - "Scrivener is writing software that has seriously changed my life," says Chicago health writer Cindy Kuzma. "I write a lot of medical articles that involve sourcing from research studies; Scrivener helps me stay organized by housing everything in one file and then by showing two files in split screen, so I can have the source material on one side and my draft on the other."
 * Tomato Timer
