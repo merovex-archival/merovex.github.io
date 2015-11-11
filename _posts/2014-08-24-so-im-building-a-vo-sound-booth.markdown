@@ -49,7 +49,7 @@ This article will focus on soundproofing, as that is the critical first step for
 
 ### Stage 1: Sound-Proofing for an Isolation Booth
 
-Because most articles mix the two concepts, there's a lot lost in translation. The [Wikipedia article on STC](http://en.wikipedia.org/wiki/Sound_transmission_class) gives a pretty good guide of what you need to soundproof adequately. There's also a [market paper](http://www.bdcuniversity.com/sites/default/files/MakingWallsQuiet090109.pdf) which is informative. STC is roughly a decibel sound-attenuation.
+Because most articles mix the two concepts, there's a lot lost in translation. The [Wikipedia article on STC](http://en.wikipedia.org/wiki/Sound_transmission_class) gives a pretty good guide of what you need to soundproof adequately. STC is roughly a decibel sound-attenuation.
 
 The STC shows the decibel reduction from one space to the next. If there is a sound at 90db in one space with an STC 30 wall, then 60db pass into the other space. There are plenty of [decibel loudness comparisons](http://www.gcaudio.com/resources/howtos/loudness.html) available. Most home theaters have a decibel rating of 100db; so an STC 60 would reduce the sound to 40db.
 
