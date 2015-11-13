@@ -3,7 +3,7 @@ layout: page
 title: About Ben Wilson
 permalink: /about-ben-wilson/
 ---
-
+<!-- vogel-harvey-novak-cp-tot-trim -->
 <h2 id="about-daushanet">About Dausha.net</h2>
 
 <p>Welcome to my site. This has been my personal site since November 1998. I used to use dausha.com, but lost control of it in 1998 and had to wait until 2002. “Dausha” is Egyptian for noise pollution, and was a nickname I picked up in school about a quarter-century ago…even though I’m WASP.</p>

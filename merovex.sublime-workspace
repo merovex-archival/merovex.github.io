@@ -184,25 +184,18 @@
 	"buffers":
 	[
 		{
+			"file": "_posts/2014-08-24-so-im-building-a-vo-sound-booth.markdown",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 9135,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_drafts/an-afternoon-on-ancestry.md",
+			"file": "pages/freelance-applications.md",
 			"settings":
 			{
-				"buffer_size": 2274,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 2139,
+				"buffer_size": 1063,
 				"line_ending": "Unix"
 			}
 		}
@@ -236,7 +229,7 @@
 		[
 			[
 				"je",
-				"Jekyll: New draft"
+				"Jekyll: New post"
 			],
 			[
 				"install",
@@ -365,10 +358,13 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts",
 		"/Users/bwilson/Sites/merovex.github.io/_includes"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/an-afternoon-on-ancestry.md",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-11-11-analyzing-spectre.md",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-12-15-skyfall-plot-analysis.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/pages/novels.md",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/COMMIT_EDITMSG.COMMIT_EDITMSG",
@@ -494,9 +490,7 @@
 		"/Users/bwilson/Projects/ezra/spec/factories/touches.rb",
 		"/Users/bwilson/Sites/pmathos.github.io/bible-in-a-year.md",
 		"/Users/bwilson/Sites/pmathos.github.io/privacy-statement.md",
-		"/Users/bwilson/Sites/pmathos.github.io/permissions.md",
-		"/Users/bwilson/Sites/pmathos.github.io/index.html",
-		"/Users/bwilson/Sites/pmathos.github.io/_posts/2014-06-22-role-of-church-today.markdown"
+		"/Users/bwilson/Sites/pmathos.github.io/permissions.md"
 	],
 	"find":
 	{
@@ -660,96 +654,66 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "_posts/2014-08-24-so-im-building-a-vo-sound-booth.markdown",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 9135,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								4356,
+								4356
 							]
 						],
 						"settings":
 						{
 							"WordCountShouldRun": true,
-							"WordCountSyntax": "plain text",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"WordCountSyntax": "markdown (jekyll)",
+							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_drafts/an-afternoon-on-ancestry.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2274,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								314,
-								346
-							]
-						],
-						"settings":
-						{
-							"WordCountShouldRun": true,
-							"WordCountSyntax": "markdown",
-							"spell_check": true,
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1045.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "_config.yml",
-					"semi_transient": true,
+					"buffer": 1,
+					"file": "pages/freelance-applications.md",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2139,
+						"buffer_size": 1063,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1415,
-								1193
+								645,
+								645
 							]
 						],
 						"settings":
 						{
 							"WordCountShouldRun": true,
-							"WordCountSyntax": "yaml",
-							"syntax": "Packages/YAML/YAML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"WordCountSyntax": "markdown",
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
 						},
-						"translation.x": -0.0,
-						"translation.y": 539.0,
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -819,6 +783,14 @@
 		"selected_items":
 		[
 			[
+				"free",
+				"pages/freelance-applications.md"
+			],
+			[
+				"so-i",
+				"_posts/2014-08-24-so-im-building-a-vo-sound-booth.markdown"
+			],
+			[
 				"novel",
 				"pages/novels.md"
 			],
@@ -829,10 +801,6 @@
 			[
 				"x",
 				"x"
-			],
-			[
-				"free",
-				"pages/freelance-applications.md"
 			],
 			[
 				"novels",
@@ -1325,10 +1293,6 @@
 			[
 				"user",
 				"app/models/user.rb"
-			],
-			[
-				"abil",
-				"app/models/ability.rb"
 			]
 		],
 		"width": 0.0
