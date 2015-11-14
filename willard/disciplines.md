@@ -4,10 +4,17 @@ layout: page
 permalink: /willard/disciplines/
 ---
 
+## Contents
+{:.no_toc}
+
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
+
 ## Chapter Summaries
 
 1. Christ demonstrated a life of discipline much like a pro athlete. His behaviors, death and resurrection testify to the power of that discipline. We Christians miss this easy yoke because as humans we seek the reward of pro-behavior in crises without the toil necessary to achieve it. We must recognize this and resolve to follow the example of how he lived.
-2. The Modern Christian era suffers from generations of poor church leadership, the empty promises of Liberal, Conservative and Evangelical Christianity, and the shallow pool offered by current church disciplines (attendance, tithing, study, prayer and service). Valid spiritual disciplines involve activities affecting normal, everyday living, be grounded in Scripture, and be in the service of ordinary Christians 
+2. The Modern Christian era suffers from generations of poor church leadership, the empty promises of Liberal, Conservative and Evangelical Christianity, and the shallow pool offered by current church disciplines (attendance, tithing, study, prayer and service). Valid spiritual disciplines involve activities affecting normal, everyday living, be grounded in Scripture, and be in the service of ordinary Christians.
+3. Modern Christianity assumes a dichotomy in spiritual and non-spiritual life, and in the body and mind/spirit that is not present in the Bible. This leads to powerlessness, and ultimately to cheap counterfeits of Christianity. Instead, faith is both a mental and physical action that leads to our transformation and power in this present world and birth in God's present Kingdom. The body is corrupted by our fall, but like the rest of creation it was intended for far nobler uses.
 
 ## Page Summaries
 
@@ -55,5 +62,34 @@ permalink: /willard/disciplines/
 35. Christ's life was what gave the early church the courage to remain steadfast as they were persecuted and killed.
 36. When we shifted the focus from the redemptive value of his life to the redemptive value of his death, we handicapped our Christian walk.
 37. Jesus message was on newness of life, and his resurrection validated the reality and indestructibility of his message and example. You are saved so you have Life.
-38. A new life means new behaviors, not because they are mandated, but because they are natural...like mosquitoes who go from the pond to the air. A holy life is what we are reborn to live.
-39. 
+38. *Redemption as impartation of life.* A new life means new behaviors, not because they are mandated, but because they are natural...like mosquitoes who go from the pond to the air. A holy life is what we are reborn to live.
+39. There is a worldliness that seeks to be the cheapest counterfeit of Christianity, contrasted with a faith that by its existence must move and have power and life...a powerful life force.
+40. This exists in three dimensions to the extent of translating us into the Kingdom of God as his children:
+    1. New power within the individual, an new leaf shooting through and dispelling the old
+    2. Transformation of character and personality
+    3. Extrahuman powers over the evils of this present world
+41. Rather than an inward mental action alone, faith is a bodily action as well where the body is surrendered in precise ways and definite actions to God. Thus, the body can be a positive action.
+42. While there are places in the Bible that describe the vileness of the body, the result of a fallen world, "[T]he human body was made to be the vehicle of human personality ruling the earth for God and through his power."
+
+### Chapter 4: Little Less than God
+
+* Ruins of Our Making
+* Dust & Divinity
+
+44. The inability to explain "why are we here" is the biggest problem in humanity, are we meant to do more than just survive? Yet, our salvation depends on an ability to answer this question.
+45. Because where we live are the ruins of where what we were intended for, mere observation cannot yield the proper answer; leaving secular efforts to ultimate futility.
+46. The distance between our aspirations and our reality is a shadow of what we were intended for, and that distance is such that our possibilities leads us to heaven or hell.
+47. The fact that God engages with us speaks to our greater intent.
+48. The monk and the wolf story reminds us that our purpose was to govern the earth
+49. Our creation was distinct from God's creation of all other things, we know this from how he fashioned us, breathed life into us, and purposed us.
+50. God demonstrated governance by speaking, by use of harmony and understanding. "When the work of the best rulers is done, their task accomplished, the people all remark, 'We have done it ourselves.'"
+51. We have various urges regarding Creation that are a pale shadow of our true purpose--pets and environmentalism--and our fall made our ability to govern impossible. This leads to a consequence of human folly, animal sacrifices, etc.
+52. The manner of our creation being different, we are struck with the dynamic between dust and divinity.
+53. **God gave us a measure of independent power**, we are not puppets. The locus of that power is our body, making it the primary area of power, freedom and responsibility. Our character is a reflection of our habitual ways and whether our body conforms to our conscious intentions.
+54. That said, our bodies embody very little intrinsic power to do what we were called to do, leaving us to reach back to God as our power source, much like a robot will return to its charging station.
+55. "We are a little less than God only because our life is one of such nature that it can draw upon the infinite resources of God."
+
+
+
+
+
