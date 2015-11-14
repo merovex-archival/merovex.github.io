@@ -15,6 +15,7 @@ permalink: /willard/disciplines/
 1. Christ demonstrated a life of discipline much like a pro athlete. His behaviors, death and resurrection testify to the power of that discipline. We Christians miss this easy yoke because as humans we seek the reward of pro-behavior in crises without the toil necessary to achieve it. We must recognize this and resolve to follow the example of how he lived.
 2. The Modern Christian era suffers from generations of poor church leadership, the empty promises of Liberal, Conservative and Evangelical Christianity, and the shallow pool offered by current church disciplines (attendance, tithing, study, prayer and service). Valid spiritual disciplines involve activities affecting normal, everyday living, be grounded in Scripture, and be in the service of ordinary Christians.
 3. Modern Christianity assumes a dichotomy in spiritual and non-spiritual life, and in the body and mind/spirit that is not present in the Bible. This leads to powerlessness, and ultimately to cheap counterfeits of Christianity. Instead, faith is both a mental and physical action that leads to our transformation and power in this present world and birth in God's present Kingdom. The body is corrupted by our fall, but like the rest of creation it was intended for far nobler uses.
+4. We are here to govern Creation as God does: in peace, understanding, love and harmony. Efforts to nurture nature reflect that calling, while our inability to harmonize with nature (wolf & monk) reveals we live in the ruins of our making. We are less than God because we are expected to rely on his power, yet he gave us a measure of independence...we are not puppets.
 
 ## Page Summaries
 
@@ -89,7 +90,7 @@ permalink: /willard/disciplines/
 54. That said, our bodies embody very little intrinsic power to do what we were called to do, leaving us to reach back to God as our power source, much like a robot will return to its charging station.
 55. "We are a little less than God only because our life is one of such nature that it can draw upon the infinite resources of God."
 
-
+### Chapter 5: The Nature of Life
 
 
 
