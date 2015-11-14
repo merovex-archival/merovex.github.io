@@ -13,7 +13,7 @@ permalink: /willard/disciplines/
 ## Chapter Summaries
 
 1. Christ demonstrated a life of discipline much like a pro athlete. His behaviors, death and resurrection testify to the power of that discipline. We Christians miss this easy yoke because as humans we seek the reward of pro-behavior in crises without the toil necessary to achieve it. We must recognize this and resolve to follow the example of how he lived.
-2. The Modern Christian era suffers from generations of poor church leadership, the empty promises of Liberal, Conservative and Evangelical Christianity, and the shallow pool offered by current church disciplines (attendance, tithing, study, prayer and service). Valid spiritual disciplines involve activities affecting normal, everyday living, be grounded in Scripture, and be in the service of ordinary Christians.
+2. The Modern Christian era suffers from generations of poor church leadership, the empty promises of Liberal, Conservative and Evangelical Christianity, and the shallow pool offered by current church disciplines (attendance, tithing, study, prayer and service). Valid spiritual disciplines involve activities affecting normal, everyday living, are grounded in Scripture, and are in the service of ordinary Christians.
 3. Modern Christianity assumes a dichotomy in spiritual and non-spiritual life, and in the body and mind/spirit that is not present in the Bible. This leads to powerlessness, and ultimately to cheap counterfeits of Christianity. Instead, faith is both a mental and physical action that leads to our transformation and power in this present world and birth in God's present Kingdom. The body is corrupted by our fall, but like the rest of creation it was intended for far nobler uses.
 4. We are here to govern Creation as God does: in peace, understanding, love and harmony. Efforts to nurture nature reflect that calling, while our inability to harmonize with nature (wolf & monk) reveals we live in the ruins of our making. We are less than God because we are expected to rely on his power, yet he gave us a measure of independence...we are not puppets.
 
@@ -92,5 +92,26 @@ permalink: /willard/disciplines/
 
 ### Chapter 5: The Nature of Life
 
+56. Jesus described how things are, not ephemeral truths. Human life cannot flourish or serve its purpose when we try to do things on our own or preserve our independence from God.
+57. We have the option of living under God and among others in a cooperative relationship that fulfills our nature. 
+58. Life includes the ability to interact with others.
+59. Life includes the ability to assimilate and change.
+60. Life includes uniqueness, individuality and growth.
+61. Humanity has immense potential due to its ability to use what is beyond ourselves, and that potential is both harmful and helpful.
+62. This ability to extend is why we must understand ourselves. "God hid the glory of our soul to spare us pride." Yet as we technologically advance, our pride grows such that we think we are the supreme being.
+63. We are starved spiritually, which leads to our corruption and a focus on our physical selves. Thus, our corruption is not a positive fact, but the consequence of spiritual starvation.
+64. Spirit is unembodied personal power just as electricity and magnetism are embodied non-personal power 
+65. "[T]he appropriate relation to the spiritual Kingdom of God is the missing nutrient to the human system."
+66. The Garden "death" was removal of this nutrient, which deprived us of the ability to properly order and use our powers, and loss of our unifying principle (think Babel).
+67. Terms
+    1. Spiritual Life - cooperative activities aligned to and derived from God's personality and action.
+    2. Spiritual Personage is the degree that one's life is correctly integrated and dominated by God's Kingdom. A Baby Christian is one who is not under the effective direction of the Spirit and reintegration of the self under God is not yet achieved.
+    3. Spirituality is the dominion of the spirit...a separate reality with and aim cannot be social or political.
+68. "Spiritual Disciplines are activities of mind and body purposefully undertaken to bring our personality and total being into effective cooperation with the divine order." The sad fact is there is more to us than what we can consciously command, so we by ourselves cannot align our whole self to God.
+69. The question then turns on what actions constitute a "spiritual discipline?"
+70. Just because one is converted into Christianity does not mean one has been transformed.
+71. Peter on the night Jesus was arrested is an example here as his actions reflect that, despite his deepest desire otherwise, his automatic tendencies in his flesh led him to behave otherwise.
+72. Ultimately, Peter goes from a man ready to kill and to flee into a powerful servant able to stand against the authorities.
 
+### Chapter 6: Spiritual Life - The Body's Fulfillment
 
