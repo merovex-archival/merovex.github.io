@@ -7,6 +7,7 @@ permalink: /willard/disciplines/
 ## Chapter Summaries
 
 1. Christ demonstrated a life of discipline much like a pro athlete. His behaviors, death and resurrection testify to the power of that discipline. We Christians miss this easy yoke because as humans we seek the reward of pro-behavior in crises without the toil necessary to achieve it. We must recognize this and resolve to follow the example of how he lived.
+2. The Modern Christian era suffers from generations of poor church leadership, the empty promises of Liberal, Conservative and Evangelical Christianity, and the shallow pool offered by current church disciplines (attendance, tithing, study, prayer and service). Valid spiritual disciplines involve activities affecting normal, everyday living, be grounded in Scripture, and be in the service of ordinary Christians 
 
 ## Page Summaries
 
@@ -34,4 +35,13 @@ permalink: /willard/disciplines/
 17. Richard Foster's *Celebration of Discipline* (1978) reflects a current to get back to essentials, but otherwise there is insufficient writing to support (circa 1999).
 18. What our elders teach is not advancing us spiritually. The members are eager, but  there is a theological deficiency, a lack in teaching, understanding and practical direction due to the current methods of ministry and teaching (attendance, tithing, prayer, reading, service and witness).
 19. By contrast, the traditional disciplines respect and count on the bodily nature of human personality and involve bodily conditions and activities that leads to the "Living Sacrifices" of Romans 12:1.
-20. 
+20. The introduction of modern counseling in churches has led to the same demoralization as not taking on the yoke. "Spritual growth and vitality stem from what we actually *do* with our lives, from the *habits* we form, and from the *character* that results." While God's grace saves us, it is our continual action that makes us a different kind of person.
+21. Modern trends in Protestant faiths is to look beyond the differences of the denominations, but this has also dulled the specific character of church life.
+22. Both Conservative and Liberal Christianity have depleted their promises
+23. This is due to the mental view of faith that leaves the Bible to no longer being functionally authoritative over life. This is demonstrated by the "lack of saltiness" in American society despite the alleged conversion experience.
+24. Modern Christianity fails because it is too shallow. The Disciplines, by contrast offer the promise of making our lives a form that would serve as a receptacle for the substance of Christ-life in God's (present) Kingdom.
+25. All that said, we need to ensure that the disciplines are authentic and Scripturally founded. We need a "theology of the disciplines for the spiritual life."
+26. Any informed theology must be in the service of ordinary Christians living ordinary lives for it to have a right proper benefit. Foster's *Celebrating the Disciplines* is a practical guide that Willard's *Spirit of the Disciplines* is not.
+
+### Chapter 3: Salvation is a Life
+
