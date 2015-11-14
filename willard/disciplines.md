@@ -45,3 +45,15 @@ permalink: /willard/disciplines/
 
 ### Chapter 3: Salvation is a Life
 
+28. Modern Christians tend to not recognize that our spiritual life is not separate from our regular life.
+29. The connection between the disciplines and the easy yoke rests upon human nature; even Jesus had to learn obedience (Heb 5:8). The human body is the focal point of human existence, even for Jesus.
+30. The root cause of this spirit/physical separate mindset stems from the notion, on some level, that Jesus did not truly have a physical body. Like the Gnostics of the late First Century AD. But Christ's birth, life, death and resurrection were all bodily.
+31. Salvation, therefore, affects our bodies, too. We cannot therefore exclude our bodies from our religion.
+32. Because modern Christians exclude the body, they find themselves powerless. The division between denominations is less significant than the division between the body and spirit in our daily walk.
+33. We need to radicalize our concept of salvation as the Modern Christian concept is limited to "theories of atonement," and are therefore shallow.
+34. This Atonement focus of salvation is a recent development in Christian History.
+35. Christ's life was what gave the early church the courage to remain steadfast as they were persecuted and killed.
+36. When we shifted the focus from the redemptive value of his life to the redemptive value of his death, we handicapped our Christian walk.
+37. Jesus message was on newness of life, and his resurrection validated the reality and indestructibility of his message and example. You are saved so you have Life.
+38. A new life means new behaviors, not because they are mandated, but because they are natural...like mosquitoes who go from the pond to the air. A holy life is what we are reborn to live.
+39. 
