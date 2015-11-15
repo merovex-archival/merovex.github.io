@@ -1,26 +1,21 @@
+
 header.navbar {
     a.nav-link {
-        font-family: $navbar-fonts;
-        color: #FFF !important;
-        &:focus, &:hover {
-          color: #CCC !important;
-          text-decoration: underline;
-        }
+      font-family: $navbar-fonts;
+      @include link-colors($navbar-link-color, false, false, $navbar-link-color);
     }
     a.navbar-brand {
       font-family: $brand-fonts;
-      color: #FFF !important;
       font-size: 1.2em;
       font-weight: bold;
-      .sub { color: lighten($gold, 10%); padding-left: 0.1em;}
-      &:hover, &:focus, &:active, .active {color: #CCC; }
+      @include link-colors($navbar-link-color, false, false, $navbar-link-color);
   }
   .navbar-toggler {
     color: #FFF !important;
     border: 1px solid $white;
   }
   background-size: cover;
-  background: $razorback !important;
+  background: $brand-primary !important;
 }
 #skiptocontent a {
   padding:6px;

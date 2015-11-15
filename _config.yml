@@ -9,33 +9,19 @@ author: Ben Wilson
 twitter_username: merovex
 github_username:  merovex
 category_dir: /
-# permalink: /p/:title
 permalink: /:categories/:title/
-# permalink: /articles/:title
 subscribe_rss: /atom.xml
+
 # Build settings
 markdown: kramdown
 kramdown:
   use_coderay: true
 
 paginate: 9          # Posts per page on the blog index
-# paginate_path: "p/:num"
-# pagination_dir: "/"
 recent_posts: 9       # Posts in the sidebar Recent Posts section
 popular_posts_count: 9
-
-# jekyll-archives: 
-#   enabled: 
-#     - categories
-#     - tags
-#   layout: 'archive'
-#   permalinks:
-#     category: '/category/:name/'
-#     tag: '/tag/:name/'
-
 sass:
     sass_dir: _sass
-
 gems:
   - jekyll-sitemap
   - coderay
@@ -45,12 +31,9 @@ exclude:
   - Gemfile.lock
   - Rakefile
   - _config.yml
-  - _sass
   - _site
   - _data
-  - config
   - config.ru
-  - vendor
   - .sublime-workspace
 
 ## Site Specific

@@ -23,7 +23,7 @@ Ben lives in Arlington, Virginia with his wife and three children. Find him on t
 
 <blockquote>
   My life is about telling stories.
-  <small>Ben Wilson</small>
+  <footer>Ben Wilson</footer>
 </blockquote>
 
 <p>When friends and co-workers find that I write novels, I explain that I am a poor writer of bad Science Fiction. I don’t pretend to write the Great (Insert Nationality Here) Novel, or even the most provocative. I just write and try to improve.</p>

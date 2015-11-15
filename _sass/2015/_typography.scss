@@ -10,6 +10,8 @@ $navbar-fonts: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 $serif-fonts: 'Droid Serif', Garamond, Georgia, Serif !Important;
 $sans-fonts: 'Droid Sans', Sans-Serif !Important;
 
+$default-text-color: $gray-darker;
+
 html {
   font-family: $serif-fonts;
   -ms-text-size-adjust: 100%;
@@ -19,23 +21,23 @@ body {
   font-size: 1.0rem !important;
   line-height: $line-height-base;
   font-family: $serif-fonts;
-  color: #222;
+  color: $default-text-color;
   -webkit-font-smoothing: antialiased;
 
   h1, h2, h3, .footnotes:before {
-    color: darken($razorback, 20%);
-    text-shadow: 2px 1px 2px #999;
+    color: darken($brand-primary, 10%);
+    text-shadow: 2px 1px 3px #888;
   }
   h1, h2, h3, h4, .progress, .footnotes:before {
       font-family: $sans-fonts;
-      font-weight: 400 !important;
+      font-weight: 500 !important;
   }
   h1 {
     font-size: 2.6rem;
     small {font-size: 1.0rem; display: block; }
   }
-  h2, .footnotes:before { font-size: 1.6rem; line-height: 1.25em }
-  h3 { font-size: 1.25rem; line-height: 1.25em }
+  h2, .footnotes:before { font-size: 2.15rem; line-height: 1.25em }
+  h3 { font-size: 1.62rem; line-height: 1.25em }
   h4 { font-size: 1.0rem; line-height: 1.25em }
   .progress { font-weight: bold; text-shadow: 1px 1px 2px #333;}
   .footnotes{
@@ -43,6 +45,20 @@ body {
       content: "Footnotes";
       display: block;
       margin-bottom: 0.5em;
+    }
+  }
+  a.btn {
+    color: #FFF !important;
+  }
+  .pagination {
+    a { color: $default-text-color !important; }
+    li.active {
+      
+      a {
+        color: #FFF !important;
+        background-color: $brand-primary !important;
+        border-color: darken($brand-primary,5% )!important;
+      }
     }
   }
 }
