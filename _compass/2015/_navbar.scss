@@ -1,21 +1,22 @@
 header.navbar {
     a.nav-link {
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        color: #FFF !important;
         &:focus, &:hover {
-          color: #FFF !important;
+          color: #CCC !important;
           text-decoration: underline;
         }
     }
     a.navbar-brand {
       font-family: Syncopate, "Helvetica Neue",Helvetica,Arial,cursive;
-      color: $gold;
+      color: #FFF !important;
       font-size: 1.2em;
       font-weight: bold;
       .sub { color: lighten($gold, 10%); padding-left: 0.1em;}
-      &:hover, &:focus, &:active, .active {color: #FFF; }
+      &:hover, &:focus, &:active, .active {color: #CCC; }
   }
   .navbar-toggler {
-    color: $white;
+    color: #FFF !important;
     border: 1px solid $white;
   }
   background-size: cover;

@@ -36,6 +36,7 @@ popular_posts_count: 9
 gems:
   - jekyll-sitemap
   - coderay
+  - jekyll-compass
 
 exclude:
   - Gemfile

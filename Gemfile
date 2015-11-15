@@ -8,6 +8,7 @@ group :development do
 	gem 'rb-fsevent', '~> 0.9'
 	gem 'rb-inotify'
 	gem 'compass'
+	gem 'jekyll-compass'
 end
 gem 'stringex'
 gem 'sinatra'
