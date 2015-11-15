@@ -9,58 +9,58 @@ html, body {
   font-size: 16px;
 }
 
-/* line 50, ../_sass/2015/_color.scss */
+/* line 52, ../_sass/2015/_color.scss */
 .btn-success {
   border-color: #859900;
   background-color: #9bb300 !important;
   text-decoration: none !important;
 }
-/* line 42, ../_sass/2015/_color.scss */
+/* line 44, ../_sass/2015/_color.scss */
 .btn-success:hover {
   background-color: #7c8f00 !important;
 }
 
-/* line 51, ../_sass/2015/_color.scss */
+/* line 53, ../_sass/2015/_color.scss */
 .btn-danger {
   border-color: #cb4b16;
   background-color: #e25418 !important;
   text-decoration: none !important;
 }
-/* line 42, ../_sass/2015/_color.scss */
+/* line 44, ../_sass/2015/_color.scss */
 .btn-danger:hover {
   background-color: #c24815 !important;
 }
 
-/* line 52, ../_sass/2015/_color.scss */
+/* line 54, ../_sass/2015/_color.scss */
 .btn-primary {
   border-color: #268bd2;
   background-color: #3797db !important;
   text-decoration: none !important;
 }
-/* line 42, ../_sass/2015/_color.scss */
+/* line 44, ../_sass/2015/_color.scss */
 .btn-primary:hover {
   background-color: #2485c9 !important;
 }
 
-/* line 53, ../_sass/2015/_color.scss */
+/* line 55, ../_sass/2015/_color.scss */
 .btn-info {
   border-color: #99A;
   background-color: #a7a7b6 !important;
   text-decoration: none !important;
 }
-/* line 42, ../_sass/2015/_color.scss */
+/* line 44, ../_sass/2015/_color.scss */
 .btn-info:hover {
   background-color: #9393a5 !important;
 }
 
-/* line 54, ../_sass/2015/_color.scss */
+/* line 56, ../_sass/2015/_color.scss */
 .alert-info {
   border-color: #a3cfee;
   background-color: #cee6f6 !important;
   color: #16527c !important;
 }
 
-/* line 55, ../_sass/2015/_color.scss */
+/* line 57, ../_sass/2015/_color.scss */
 .alert-danger {
   border-color: #f2a788;
   background-color: #f7c9b6 !important;
@@ -155,7 +155,7 @@ html, body {
 /* line 1, ../_sass/2015/_navbar.scss */
 header.navbar {
   background-size: cover;
-  background: #9d2235 !important;
+  background: #841617 !important;
 }
 /* line 2, ../_sass/2015/_navbar.scss */
 header.navbar a.nav-link {
@@ -244,7 +244,7 @@ header.navbar .navbar-toggler {
 
 /* line 1, ../_sass/2015/_headers.scss */
 h1, h2, h3, .footnotes:before {
-  color: #491019;
+  color: #2d0708;
   text-shadow: 2px 1px 2px #999;
 }
 
@@ -746,7 +746,7 @@ body {
 
 /* line 18, ../_sass/2015/_style.scss */
 #content a {
-  color: #9d2235 !important;
+  color: #841617 !important;
 }
 /* line 20, ../_sass/2015/_style.scss */
 #content a:visited {
