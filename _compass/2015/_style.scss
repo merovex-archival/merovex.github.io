@@ -1,32 +1,26 @@
+$font-size-base:    14px;
+$grid-gutter-width:  30px;
+
 @import 'compass/css3/box-shadow';
+@import '2015/golden-ratio';
 @import '2015/color';
+@import '2015/typography';
 @import '2015/footer';
 @import '2015/frontpage';
 @import '2015/navbar';
 @import '2015/blog';
-@import '2015/headers';
 @import '2015/coderay-solarized';
-body {
-  font-size: 1.0rem !important;
-  font-family: 'Alegreya Sans', 'Droid Sans', Sans-Serif !Important;
-  -webkit-font-smoothing: antialiased;
+body {  
   background: $background-color url(https://s3.amazonaws.com/dausha/images/pbg.jpg) no-repeat top left fixed;
   background-size: cover;
-
 }
 #content {
   a {
     color: $razorback !important;
-    &:visited {
-      color: #9b228f !important;
-    }
+    &:visited {color: #9b228f !important; }
   }
-  
 }
 #sidebar {
-	h3 {
-		font-size: 24px;
-	}
 }
 #books-band {
 	.row {

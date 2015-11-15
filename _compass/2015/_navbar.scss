@@ -1,6 +1,6 @@
 header.navbar {
     a.nav-link {
-        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-family: $navbar-fonts;
         color: #FFF !important;
         &:focus, &:hover {
           color: #CCC !important;
@@ -8,7 +8,7 @@ header.navbar {
         }
     }
     a.navbar-brand {
-      font-family: Syncopate, "Helvetica Neue",Helvetica,Arial,cursive;
+      font-family: $brand-fonts;
       color: #FFF !important;
       font-size: 1.2em;
       font-weight: bold;
