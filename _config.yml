@@ -33,10 +33,12 @@ popular_posts_count: 9
 #     category: '/category/:name/'
 #     tag: '/tag/:name/'
 
+sass:
+    sass_dir: _sass
+
 gems:
   - jekyll-sitemap
   - coderay
-  - jekyll-compass
 
 exclude:
   - Gemfile

@@ -1,7 +1,18 @@
 $font-size-base:    14px;
 $grid-gutter-width:  30px;
 
-@import 'compass/css3/box-shadow';
+@mixin box-shadow($color, $top, $left, $blur, $inset: false) {
+  @if $inset {
+    -webkit-box-shadow:inset $top $left $blur $color;
+    -moz-box-shadow:inset $top $left $blur $color;
+    box-shadow:inset $top $left $blur $color;
+  } @else {
+    -webkit-box-shadow: $top $left $blur $color;
+    -moz-box-shadow: $top $left $blur $color;
+    box-shadow: $top $left $blur $color;
+  }
+}
+// 'compass/css3/box-shadow';
 @import '2015/golden-ratio';
 @import '2015/color';
 @import '2015/typography';

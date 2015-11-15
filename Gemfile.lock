@@ -22,7 +22,6 @@ GEM
     aws-sdk-resources (2.1.32)
       aws-sdk-core (= 2.1.32)
     blankslate (2.1.2.4)
-    chunky_png (1.3.4)
     classifier-reborn (2.0.3)
       fast-stemmer (~> 1.0)
     coderay (1.1.0)
@@ -32,18 +31,6 @@ GEM
     coffee-script-source (1.9.1.1)
     colorator (0.1)
     colored (1.2)
-    compass (1.0.3)
-      chunky_png (~> 1.2)
-      compass-core (~> 1.0.2)
-      compass-import-once (~> 1.0.5)
-      rb-fsevent (>= 0.9.3)
-      rb-inotify (>= 0.9)
-      sass (>= 3.3.13, < 3.5)
-    compass-core (1.0.3)
-      multi_json (~> 1.0)
-      sass (>= 3.3.0, < 3.5)
-    compass-import-once (1.0.5)
-      sass (>= 3.2, < 3.5)
     confiture (0.1.4)
     crack (0.4.2)
       safe_yaml (~> 1.0.0)
@@ -111,9 +98,6 @@ GEM
       toml (~> 0.1.0)
     jekyll-coffeescript (1.0.1)
       coffee-script (~> 2.2)
-    jekyll-compass (1.2.0)
-      compass (~> 1.0)
-      jekyll (~> 2.0)
     jekyll-feed (0.3.1)
     jekyll-gist (1.3.5)
     jekyll-mentions (0.2.1)
@@ -142,7 +126,6 @@ GEM
     mercenary (0.3.5)
     mini_portile (0.6.2)
     minitest (5.8.2)
-    multi_json (1.11.2)
     net-dns (0.8.0)
     nokogiri (1.6.6.2)
       mini_portile (~> 0.6.0)
@@ -192,11 +175,9 @@ DEPENDENCIES
   asin
   aws-sdk
   coderay
-  compass
   fastimage
   github-pages
   html-proofer
-  jekyll-compass
   kramdown
   rack-rewrite
   rake
