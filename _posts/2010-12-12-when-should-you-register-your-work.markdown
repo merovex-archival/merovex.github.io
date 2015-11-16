@@ -24,6 +24,7 @@ tags:
 ---
 There's a lot of bad copyright advice out there. I recently read a blog (that is no longer published as of 2012) that offered what I considered questionable copyright advice. I've read a lot of advice on copyright and writing over the past 25 years, and the article rehashed most of it. While I am not a lawyer, I did earn a Juris Doctorate, and focused on Intellectual property law. So, I have a different perspective.
 
+
 <!-- more -->
 
 <div class="alert alert-danger">
