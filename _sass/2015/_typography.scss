@@ -1,14 +1,14 @@
 /* Artsy Fonts */
 @import url(http://fonts.googleapis.com/css?family=Kalam|Kaushan+Script|Neucha);
 /* Sans-Serif Fonts */
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700|Source+Sans+Pro|Droid+Sans|Montserrat);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Open+Sans:400italic,700italic,400,700|Source+Sans+Pro|Droid+Sans|Montserrat);
 /* Serif Fonts */
-@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400italic,700italic,400,700|Chango|Vollkorn|Syncopate|Merriweather);
+@import url(http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic|Droid+Serif:400italic,700italic,400,700|Chango|Vollkorn|Syncopate|Merriweather);
 
 $brand-fonts: Syncopate, "Helvetica Neue",Helvetica,Arial,cursive;
 $navbar-fonts: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-$serif-fonts: 'Droid Serif', Garamond, Georgia, Serif !Important;
-$sans-fonts: 'Droid Sans', Sans-Serif !Important;
+$serif-fonts: 'PT Serif','Droid Serif', Garamond, Georgia, Serif !Important;
+$sans-fonts: 'PT Sans','Droid Sans', Sans-Serif !Important;
 
 $default-text-color: $gray-darker;
 

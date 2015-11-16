@@ -34,12 +34,12 @@
   @if $focus {
     &:focus {color: $focus; }
   } @else {
-    &:focus {color: lighten($normal,20%); }
+    &:focus {color: lighten($normal,25%); }
   }
   @if $hover {
     &:hover {color: $hover; }
   } @else {
-    &:hover {color: lighten($normal,20%); }
+    &:hover {color: lighten($normal,25%); }
   }
   @if $active {
     &:active {color: $active; }
