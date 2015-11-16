@@ -17,6 +17,8 @@ permalink: /willard/disciplines/
 3. Modern Christianity assumes a dichotomy in spiritual and non-spiritual life, and in the body and mind/spirit that is not present in the Bible. This leads to powerlessness, and ultimately to cheap counterfeits of Christianity. Instead, faith is both a mental and physical action that leads to our transformation and power in this present world and birth in God's present Kingdom. The body is corrupted by our fall, but like the rest of creation it was intended for far nobler uses.
 4. We are here to govern Creation as God does: in peace, understanding, love and harmony. Efforts to nurture nature reflect that calling, while our inability to harmonize with nature (wolf & monk) reveals we live in the ruins of our making. We are less than God because we are expected to rely on his power, yet he gave us a measure of independence...we are not puppets.
 5. Human live has a spiritual and physical aspect. Deprivation of spiritual nutrition corrupts our true self and removed our unifying purpose, leaving us to focus on the physical. Like a seed, we have been converted to new life, but our ability to thrive depends on our engaging in spiritual disciplines that bring the body and spirit into harmony and obedience to Christ.
+6. As the spiritual life is the body's purpose, we need to remain cognizant of the spiritual significance of what we do. Reductionism says we are only our body, and our Fallen self feels compelled to act by ourselves. Since what we do shapes our Body and character, we should seek to use Spiritual Disciplines to mold both for Godly use.
+7. ...
 
 ## Page Summaries
 
@@ -116,3 +118,24 @@ permalink: /willard/disciplines/
 
 ### Chapter 6: Spiritual Life - The Body's Fulfillment
 
+75. The spiritual and bodily are complimentary, not opposing.
+76. (Maslow) modern psychology supports a dichotomous view, but this is a false reductionism.
+77. The human body was designed to work with the spiritual, which is simply the holistic quality of human life as it was meant to be.
+78. Reductionism has blinded us to the ability for the two to operate in constant union as Christ demonstrated.
+79. Contrary to contemporary views, God favors a life that includes play, diversion and helpful amusement; and the view of the sullen Christian has done much harm.
+80.  We should be cognizant of whether we are acting in a spiritual or nonspiritual manner, whether what we do is done outside of its spiritual significance. ("What is the spiritual significance of porn, for example.")
+81. As success is easier when we are content in our lives, we should realize that temptation is stronger when we cut off the joy and pleasure of spiritually significant activities. ("Sex in marriage vice adultery.") Ecc 7:16 warns against being excessively righteous...that "spirituality" wrongly understood leads to harm.
+82. While one reductionism severs the Body from the Spirit, existential reductionism recognizes the connection.
+83. Thus, for example, when we are disoriented, it affects both Body and Spirit.
+84. In sum, we recognize the inherent duality of the person with the Body, not apart from it.
+85. Yet, there are aspects of the Body beyond our control, which is reflected in biblical teaching that there is inherent conflict between Body and God.
+86. As Paul said in Gal 5:17, "up to the point where Peter's flesh was aligned with the spirit to such degree that he could do the things under control of his converted self." So, there will always be struggle with our Flesh, which is why Spiritual Disciplines are needed...to weaken the Flesh.
+87. We should remember, however, that Flesh is not inherently evil, but it is aligned thusly prior to our conversion.
+88. Body has been used in various contexts, including celestial. Thus, while our former corrupted self could not inherit the Kingdom, our renewed self in Christ can. We must align both Body and Soul to God.
+89. Therefore, our choices concern the specific life processes of spiritual growth or decay.
+90. While the Body is not intrinsically evil, it cannot by itself be turned to Kingdom living since it is incapable of independent action. It is not nourished by God.
+91. "The true effect of the Fall was to lead us to trust in the flesh alone and 'not see fit to acknowledge God any longer' (Rom 1:28)" under the assumption that since there is no God we must take things into our own hands.
+92. The Easy Yoke is bound with Spiritual Disciplines as they shape our character, the body itself is shaped by our actions either for good or evil. And the Disciplines seek to shape our actions toward God.
+93. This said, nobody (including God) will do it for us. This is our freedom and responsibility.
+
+### Chapter 7: St Paul's Psychology of Redemption--The Example
