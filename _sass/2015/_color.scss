@@ -38,10 +38,10 @@ $background-color: $cream;
 
 // Pantone 202 (razorback) 9d2235; 9d2235
 // Pantone 201 (Sooners) 841617 (Ford Regal Red #861B19)
-$pantone-201c: #9d2235; // Sooners
-$pantone-202c: #862633; // Razorback, Redskins
+$pantone-201c: #9d2235; // HOGS: #9d2235 - Cardinal red
+$pantone-202c: #862633; // Redskins
 
-$brand-primary: $pantone-202c;
+$brand-primary: $pantone-201c;
 
 $navbar-background: $brand-primary;
 $navbar-darken: darken($navbar-background, 10);
