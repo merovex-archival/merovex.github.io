@@ -4,10 +4,10 @@ ruby "2.0.0"
 gem 'github-pages'
 gem 'html-proofer'
 gem 'rake'
-group :development do
+# group :development do
 	gem 'rb-fsevent', '~> 0.9'
 	gem 'rb-inotify'
-end
+# end
 gem 'stringex'
 gem 'sinatra'
 gem 'rack-rewrite'
