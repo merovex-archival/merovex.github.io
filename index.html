@@ -12,19 +12,15 @@ subtitle: Blog
 <section class='post container' id='latest'>
   <div class='row'>
     <h2 class='text-center'>Latest News</h2>
-    {%for post in paginator.posts offset:0 %}{% assign content = post.content %}{% assign fred = post %}
-      <article class='col-lg-4 col-md-6 col-xs-12'>
-        <hr aria-hidden='true'>
-        <p class='category'><span class='sr-only'>Article Category:</span>{{post.category}}</p>
-        <figure class='thumb'>
-          <img src='{{ site.cdn_url }}/images/articles/thumbnails/{{post.photo['image']}}' alt='{{post.photo['caption']}}'>
-        </figure>
-        <header>
-          <h3><a href='{{ root_url }}{{ post.url }}'>{{post.title |truncate: 25}}</a></h3>
-        </header>
-        <p>{{ post.description }}</p>
-      </article>
-    {% endfor %}
+  {%for post in paginator.posts %}
+    <div class='card col-lg-4 col-md-6 col-xs-12'>
+      <img class='card-img-top' src='{{ site.cdn_url }}/images/articles/thumbnails/{{post.photo['image']}}' alt='{{post.photo['caption']}}'>
+      <div class='card-block'>
+        <p class='category'><span class='sr-only'>Article Category: </span>{{post.category}}</p>
+        <h3 class='card-title'><a href='{{ root_url }}{{ post.url }}'>{{post.title}}</a></h3>
+        <p class='card-text'>{{ post.description }}</p>
+      </div>
+    </div>{% endfor %}
   </div>
 
   <div class='text-center'>
