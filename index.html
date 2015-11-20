@@ -16,7 +16,7 @@ subtitle: Blog
     <div class='card col-lg-4 col-md-6 col-xs-12'>
       <img class='card-img-top' src='{{ site.cdn_url }}/images/articles/thumbnails/{{post.photo['image']}}' alt='{{post.photo['caption']}}'>
       <div class='card-block'>
-        <p class='category'><span class='sr-only'>Article Category: </span>{{post.category}}</p>
+        <h6 class='card-subtitle text-muted'><span class='sr-only'>Article Category: </span>{{post.category}}</h6>
         <h3 class='card-title'><a href='{{ root_url }}{{ post.url }}'>{{post.title}}</a></h3>
         <p class='card-text'>{{ post.description }}</p>
       </div>
