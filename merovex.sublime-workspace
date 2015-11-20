@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"nab",
+				"navbar-link-color"
+			],
+			[
+				"link",
+				"link-visited-color"
+			],
+			[
+				"navbar",
+				"navbar-link-color"
+			],
+			[
+				"gold-",
+				"gold-ratio-2"
+			],
+			[
 				"ass",
 				"assigning"
 			],
@@ -184,18 +200,18 @@
 	"buffers":
 	[
 		{
-			"file": "_posts/2014-08-24-so-im-building-a-vo-sound-booth.markdown",
+			"file": "_layouts/post.html",
 			"settings":
 			{
-				"buffer_size": 9135,
+				"buffer_size": 1455,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "pages/freelance-applications.md",
+			"file": "_sass/print.scss",
 			"settings":
 			{
-				"buffer_size": 1063,
+				"buffer_size": 1483,
 				"line_ending": "Unix"
 			}
 		}
@@ -358,11 +374,50 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts",
-		"/Users/bwilson/Sites/merovex.github.io/_includes"
+		"/Users/bwilson/Sites/merovex.github.io/_layouts",
+		"/Users/bwilson/Sites/merovex.github.io/_sass",
+		"/Users/bwilson/Sites/merovex.github.io/_site/css",
+		"/Users/bwilson/Sites/merovex.github.io/css",
+		"/Users/bwilson/Sites/merovex.github.io/willard"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/_includes/footer.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/head.html",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/print.scss",
+		"/Users/bwilson/Sites/merovex.github.io/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/sidebar.html",
+		"/Users/bwilson/Sites/merovex.github.io/willard/disciplines.md",
+		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
+		"/Users/bwilson/Sites/merovex.github.io/css/print.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2010-12-12-when-should-you-register-your-work.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_typography.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_style.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_mixins.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_color.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_footer.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/screen.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_navbar.scss",
+		"/Users/bwilson/Sites/merovex.github.io/about.md",
+		"/Users/bwilson/Sites/merovex.github.io/w/writing-standards/index.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/pages/hays-code.md",
+		"/Users/bwilson/Sites/merovex.github.io/css/screen.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_blog.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_site/css/print.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/default.html",
+		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_golden-ratio.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_typography.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_navbar.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/post.html",
+		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_style.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-24-so-im-building-a-vo-sound-booth.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/pages/freelance-applications.md",
+		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_color.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_compass/print.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_footer.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/header.html",
+		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_headers.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/an-afternoon-on-ancestry.md",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-11-11-analyzing-spectre.md",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-12-15-skyfall-plot-analysis.markdown",
@@ -377,7 +432,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/this-is-a-sample-file.md",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/dam.md",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/sample.md",
-		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/book-summary.html",
 		"/Users/bwilson/Library/Application Support/Sublime Text 3/Installed Packages/Jekyll.sublime-package",
 		"/Users/bwilson/Library/Application",
@@ -387,12 +441,9 @@
 		"/Users/bwilson/Sites/merovex.github.io/Packages/Jekyll.sublime-package",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/sample-title.md",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-10-28-sample-title.md",
-		"/Users/bwilson/Sites/merovex.github.io/pages/freelance-applications.md",
-		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
 		"/Users/bwilson/Sites/merovex.github.io/Rakefile",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/build-passing-more-perfect.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-12-29-building-a-brave-new-world.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/paginator.html",
 		"/Users/bwilson/Sites/merovex.github.io/404.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/archive_post.html",
@@ -420,7 +471,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-16-inspiration-for-the-postal-marines.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/books.html",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-01-21-finished-bellicose-draft.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-24-so-im-building-a-vo-sound-booth.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-07-05-toolchain.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/articles/toolchain/index.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-05-10-beetle-project-goals-pt-2.markdown",
@@ -446,11 +496,8 @@
 		"/Users/bwilson/Sites/merovex.github.io/aria/ih/index.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/articles/beetle-project-goals-pt-2/index.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/shared/worldbuilding_campaign.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/sidebar.html",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-09-06-a-buggy-summer.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/article_redirect.html",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/post.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/footer.html",
 		"/Users/bwilson/Sites/merovex.github.io/README.md",
 		"/Users/bwilson/Sites/merovex.github.io/.travis.yml",
 		"/Users/bwilson/Projects/ezra/app/views/support/history.html.haml",
@@ -462,39 +509,11 @@
 		"/Users/bwilson/Projects/ezra/app/views/jobs/show.html.haml",
 		"/Users/bwilson/Projects/ezra/app/views/jobs/_hx.html.haml",
 		"/Users/bwilson/Projects/ezra/app/assets/stylesheets/application.css.scss",
-		"/Users/bwilson/Projects/ezra/config/initializers/time_formats.rb",
-		"/Users/bwilson/Projects/ezra/app/helpers/jobs_helper.rb",
-		"/Users/bwilson/Projects/ezra/config/routes.rb",
-		"/Users/bwilson/Projects/ezra/app/controllers/jobs_controller.rb",
-		"/Users/bwilson/Projects/ezra/db/migrate/20151025183736_create_milestones.rb",
-		"/Users/bwilson/Projects/ezra/app/models/touch.rb",
-		"/Users/bwilson/Projects/ezra/app/helpers/touches_helper.rb",
-		"/Users/bwilson/Projects/ezra/app/views/support/_job.html.haml",
-		"/Users/bwilson/Projects/ezra/db/seeds.rb",
-		"/Users/bwilson/Projects/ezra/db/migrate/20151025135612_create_jobs.rb",
-		"/Users/bwilson/Projects/ezra/app/views/jobs/index.html.haml",
-		"/Users/bwilson/Projects/ezra/db/migrate/20151025135707_create_touches.rb",
-		"/Users/bwilson/Projects/ezra/app/views/jobs/_touch.html.haml",
-		"/Users/bwilson/Projects/ezra/app/assets/javascripts/application.js",
-		"/Users/bwilson/Projects/ezra/app/views/layouts/application.html.haml",
-		"/Users/bwilson/Projects/ezra/app/views/layouts/_navigation.html.haml",
-		"/Users/bwilson/Projects/ezra/app/controllers/touches_controller.rb",
-		"/Users/bwilson/Projects/ezra/app/views/touches/_form.html.haml",
-		"/Users/bwilson/Projects/ezra/app/views/jobs/_form.html.haml",
-		"/Users/bwilson/Projects/ezra/app/views/touches/new.html.haml",
-		"/Users/bwilson/Projects/ezra/app/views/touches/edit.html.haml",
-		"/Users/bwilson/Projects/ezra/app/helpers/application_helper.rb",
-		"/Users/bwilson/Projects/ezra/app/views/jobs/new.html.haml",
-		"/Users/bwilson/Projects/ezra/db/migrate/20151025134703_create_cases.rb",
-		"/Users/bwilson/Projects/ezra/db/migrate/20151025134840_create_touches.rb",
-		"/Users/bwilson/Projects/ezra/spec/factories/touches.rb",
-		"/Users/bwilson/Sites/pmathos.github.io/bible-in-a-year.md",
-		"/Users/bwilson/Sites/pmathos.github.io/privacy-statement.md",
-		"/Users/bwilson/Sites/pmathos.github.io/permissions.md"
+		"/Users/bwilson/Projects/ezra/config/initializers/time_formats.rb"
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -509,6 +528,23 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"20%",
+			"$gray-darker",
+			"small",
+			"$navbar-link-color",
+			"lighten",
+			"link-colors",
+			"$$",
+			"navbar-link_color-active",
+			"#FFF",
+			"#CCC",
+			"stylesheets",
+			"/css",
+			"css",
+			"sass",
+			"$font-size-",
+			"col-sm-11  col-sm-offset-1 ",
+			"@",
 			"\"\"",
 			"category:",
 			"/Users/username/site/",
@@ -619,24 +655,7 @@
 			"f.text_field",
 			".field\n    ",
 			".field",
-			"t.",
-			"t",
-			"f.",
-			"col",
-			"<br />",
-			"h2",
-			"{%pmatheos%}",
-			"1",
-			" class=''",
-			"container",
-			"\"",
-			"%}",
-			"{%amazon_link",
-			"{% ",
-			"> <",
-			"<div>",
-			"li>",
-			"li"
+			"t."
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -645,7 +664,7 @@
 		"replace_history":
 		[
 		],
-		"reverse": true,
+		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
@@ -659,31 +678,31 @@
 			[
 				{
 					"buffer": 0,
-					"file": "_posts/2014-08-24-so-im-building-a-vo-sound-booth.markdown",
-					"semi_transient": false,
+					"file": "_layouts/post.html",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 9135,
+						"buffer_size": 1455,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4356,
-								4356
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"WordCountShouldRun": true,
-							"WordCountSyntax": "markdown (jekyll)",
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage",
+							"WordCountSyntax": "html",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1045.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -691,29 +710,31 @@
 				},
 				{
 					"buffer": 1,
-					"file": "pages/freelance-applications.md",
+					"file": "_sass/print.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1063,
+						"buffer_size": 1483,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								645,
-								645
+								1453,
+								1453
 							]
 						],
 						"settings":
 						{
 							"WordCountShouldRun": true,
-							"WordCountSyntax": "markdown",
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+							"WordCountSyntax": "scss",
+							"syntax": "Packages/Theme - Cyanide/Cyanide/file_types/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 706.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -783,6 +804,78 @@
 		"selected_items":
 		[
 			[
+				"print",
+				"_sass/print.scss"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"head.h",
+				"_includes/head.html"
+			],
+			[
+				"footer",
+				"_includes/footer.html"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"_con",
+				"_config.yml"
+			],
+			[
+				"_color",
+				"_sass/2015/_color.scss"
+			],
+			[
+				"_typo",
+				"_sass/2015/_typography.scss"
+			],
+			[
+				"about",
+				"about.md"
+			],
+			[
+				"writing-standards",
+				"w/writing-standards/index.markdown"
+			],
+			[
+				"hays",
+				"pages/hays-code.md"
+			],
+			[
+				"_typ",
+				"_sass/2015/_typography.scss"
+			],
+			[
+				"_config",
+				"_config.yml"
+			],
+			[
+				"typography",
+				"_sass/2015/_typography.scss"
+			],
+			[
+				"head.",
+				"_includes/head.html"
+			],
+			[
+				"de",
+				"_layouts/default.html"
+			],
+			[
+				"head",
+				"_includes/header.html"
+			],
+			[
+				"defau",
+				"_layouts/default.html"
+			],
+			[
 				"free",
 				"pages/freelance-applications.md"
 			],
@@ -819,10 +912,6 @@
 				"_books/bellicose.md"
 			],
 			[
-				"gem",
-				"Gemfile"
-			],
-			[
 				"rake",
 				"Rakefile"
 			],
@@ -837,10 +926,6 @@
 			[
 				"pagin",
 				"_includes/paginator.html"
-			],
-			[
-				"index",
-				"index.html"
 			],
 			[
 				"archive",
@@ -1195,10 +1280,6 @@
 				"app/views/jobs/_form.html.haml"
 			],
 			[
-				"_con",
-				"_config.yml"
-			],
-			[
 				"main",
 				"css/main.scss"
 			],
@@ -1233,66 +1314,6 @@
 			[
 				"foo",
 				"_includes/footer.html"
-			],
-			[
-				"head",
-				"_includes/header.html"
-			],
-			[
-				"about",
-				"about.md"
-			],
-			[
-				"footer",
-				"_includes/footer.html"
-			],
-			[
-				"def",
-				"_layouts/default.html"
-			],
-			[
-				"_",
-				"_bookmaker.yml"
-			],
-			[
-				"layout.",
-				"templates/pdf/layout.erb"
-			],
-			[
-				"layout",
-				"templates/html/layout.erb"
-			],
-			[
-				"going",
-				"source/_drafts/going-back-to-scrivener.markdown"
-			],
-			[
-				"about/",
-				"source/about/index.markdown"
-			],
-			[
-				"style",
-				"sass/style.scss"
-			],
-			[
-				"clash-",
-				"source/clash-of-clans/index.markdown"
-			],
-			[
-				"scrive",
-				"source/scrivener-tips/index.markdown"
-			],
-			[
-				"secret",
-				"config/secrets.yml"
-			],
-			[
-				"navigation",
-				"app/views/layouts/_navigation_links.html.haml"
-			],
-			[
-				"user",
-				"app/models/user.rb"
 			]
 		],
 		"width": 0.0
