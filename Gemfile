@@ -7,7 +7,7 @@ gem 'rake'
 # group :development do
 	gem 'rb-fsevent', '~> 0.9'
 	gem 'rb-inotify'
-	gem 'jekyll-seo' # https://github.com/pmarsceill/jekyll-seo-gem
+	# gem 'jekyll-seo' # https://github.com/pmarsceill/jekyll-seo-gem
 # end
 gem 'stringex'
 gem 'sinatra'
@@ -17,9 +17,9 @@ gem 'asin'
 gem 'aws-sdk'
 gem 'coderay'
 gem 'kramdown'
-gem 'jemoji'
+# gem 'jemoji'
 gem 'jekyll-mentions'
 gem 'jekyll-redirect-from'
-gem 'jekyll-sitemap'
-gem 'jekyll-feed'
-gem 'jekyll-seo-tag'
+# gem 'jekyll-sitemap'
+# gem 'jekyll-feed'
+# gem 'jekyll-seo-tag'
