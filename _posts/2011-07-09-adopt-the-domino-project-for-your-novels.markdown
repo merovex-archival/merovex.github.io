@@ -32,8 +32,8 @@ published his idea, so I'd rather tout his suggestion.
 
 [Seth Grodin](http://www.sethgodin.com/sg/) proposed the Domino Project. My
 summation of what that project proposes is simple: publish your first novel for
-FREE. It's not an original thought. Author [Mike Hicks](http://authormichaelhicks.com/) did just that with his novel ''[In Her
-Name](http://authormichaelhicks.com/download-your-free-ebook/)''. He wrote the
+FREE. It's not an original thought. Author [Mike Hicks](http://authormichaelhicks.com/) did just that with his novel *In Her
+Name*. He wrote the
 novel almost 20 years ago and it failed to prosper at the traditional print
 houses. So, after a while he tweaked it up and published it. Of course, he has
 several other titles in that series that he sells, so he still makes some money.
