@@ -108,8 +108,6 @@ GEM
       jekyll (>= 2.0)
     jekyll-sass-converter (1.3.0)
       sass (~> 3.2)
-    jekyll-seo-tag (0.1.2)
-      jekyll (>= 2.0)
     jekyll-sitemap (0.8.1)
     jekyll-watch (1.3.0)
       listen (~> 3.0)
@@ -180,12 +178,8 @@ DEPENDENCIES
   fastimage
   github-pages
   html-proofer
-  jekyll-feed
   jekyll-mentions
   jekyll-redirect-from
-  jekyll-seo-tag
-  jekyll-sitemap
-  jemoji
   kramdown
   rack-rewrite
   rake
