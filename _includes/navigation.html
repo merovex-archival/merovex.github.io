@@ -1,5 +1,13 @@
 <div id='skiptocontent' class='container'><a href='#content'>Skip to main content</a></div>
-<header class='navbar navbar-dark bg-inverse navbar-fixed-top bd-navbar' role='banner'>
+<header class='navbar navbar-dark bg-inverse navbar-fixed-top bd-navbar' role='banner' itemscope itemtype="http://data-vocabulary.org/Person">
+  <meta itemprop="url" content="{{ site.url }}" />
+  <meta itemprop="photo" content="http://www.gravatar.com/avatar/{{ site.gravatar_id }}.png" />
+  <span itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">
+    <meta itemprop="locality" content="{{ site.location.city }}" />
+    <meta itemprop="region" content="{{ site.location.state }}" />
+    <meta itemprop="country-name" content="{{ site.location.country }}" />
+    <a href="https://plus.google.com/+{{ site.google_plus_id }}" rel="publisher" class="hidden">Ben Balter</a>
+  </span>
   <div class='clearfix'>
     <button class='navbar-toggler pull-right hidden-sm-up' type='button' data-toggle='collapse' data-target='#bd-main-nav'>
       &#9776;
@@ -9,7 +17,7 @@
     </a>
   </div>
   <div class='collapse navbar-toggleable-xs' id='bd-main-nav'>
-    <nav class='nav navbar-nav'>
+    <nav class='nav navbar-nav' role='navigation'>
       <a class='navbar-brand nav-item nav-link hidden-xs-down' href='/' >Dausha Publishing<span class='sub'></span></a>
       <ul class='nav navbar-nav pull-right'>
         <li class='nav-item'><a class='nav-link' href='/about-ben-wilson' >About Ben</a></li>

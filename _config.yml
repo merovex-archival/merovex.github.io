@@ -8,9 +8,15 @@ url: http://www.dausha.net
 author: Ben Wilson
 twitter_username: merovex
 github_username:  merovex
+google_plus_id: BenWilsonAuthor
 category_dir: /
 permalink: /:categories/:title/
 subscribe_rss: /atom.xml
+
+location:
+  city: Arlington
+  state: Virginia
+  country: United States of America
 
 # Build settings
 markdown: kramdown
@@ -25,6 +31,12 @@ sass:
 gems:
   - jekyll-sitemap
   - coderay
+  - jemoji
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
 
 exclude:
   - Gemfile

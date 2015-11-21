@@ -200,18 +200,18 @@
 	"buffers":
 	[
 		{
-			"file": "_layouts/post.html",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1455,
+				"buffer_size": 990,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_sass/print.scss",
+			"file": ".travis.yml",
 			"settings":
 			{
-				"buffer_size": 1483,
+				"buffer_size": 441,
 				"line_ending": "Unix"
 			}
 		}
@@ -374,17 +374,23 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts",
 		"/Users/bwilson/Sites/merovex.github.io/_sass",
-		"/Users/bwilson/Sites/merovex.github.io/_site/css",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015",
 		"/Users/bwilson/Sites/merovex.github.io/css",
+		"/Users/bwilson/Sites/merovex.github.io/vendor",
 		"/Users/bwilson/Sites/merovex.github.io/willard"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/about.md",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/print.scss",
+		"/Users/bwilson/Sites/merovex.github.io/diceware.md",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_style.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/default.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/diceware.html",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/diceware.md",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/footer.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/head.html",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/print.scss",
 		"/Users/bwilson/Sites/merovex.github.io/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/sidebar.html",
 		"/Users/bwilson/Sites/merovex.github.io/willard/disciplines.md",
@@ -393,19 +399,16 @@
 		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2010-12-12-when-should-you-register-your-work.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_typography.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_style.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_mixins.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_color.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_footer.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/screen.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_navbar.scss",
-		"/Users/bwilson/Sites/merovex.github.io/about.md",
 		"/Users/bwilson/Sites/merovex.github.io/w/writing-standards/index.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/pages/hays-code.md",
 		"/Users/bwilson/Sites/merovex.github.io/css/screen.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_blog.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_site/css/print.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/default.html",
 		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_golden-ratio.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_typography.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_navbar.scss",
@@ -506,10 +509,7 @@
 		"/Users/bwilson/Projects/ezra/app/models/job_report.rb",
 		"/Users/bwilson/Projects/ezra/app/views/support/index.html.haml",
 		"/Users/bwilson/Projects/ezra/Gemfile",
-		"/Users/bwilson/Projects/ezra/app/views/jobs/show.html.haml",
-		"/Users/bwilson/Projects/ezra/app/views/jobs/_hx.html.haml",
-		"/Users/bwilson/Projects/ezra/app/assets/stylesheets/application.css.scss",
-		"/Users/bwilson/Projects/ezra/config/initializers/time_formats.rb"
+		"/Users/bwilson/Projects/ezra/app/views/jobs/show.html.haml"
 	],
 	"find":
 	{
@@ -528,6 +528,26 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\"",
+			"h4",
+			"h3 class='card-title",
+			"<p>",
+			"class='label label-default'",
+			"span",
+			"-sign",
+			"<div class='panel-heading'>",
+			" class='panel-title'",
+			"div",
+			"</p>",
+			"<p>",
+			"well well-sm",
+			"<br />",
+			"<code",
+			"<h2 class='text-muted'>",
+			"src=\"js/",
+			"glyphicon glyphico",
+			"\"",
+			"      <br />\n      <br />",
 			"20%",
 			"$gray-darker",
 			"small",
@@ -635,26 +655,6 @@
 			"%li",
 			"%li ",
 			"redirect_to @touch",
-			"t.",
-			"} .form-group",
-			".div.",
-			".col-sm-8\n      ",
-			"job.touch",
-			" Touch.",
-			"Touch.",
-			"Touch.new",
-			"communication",
-			"product",
-			".dev",
-			".col-sm-2 ",
-			".row",
-			"%div.",
-			"\"form-control\"",
-			"col-xs-12.col-sm-6.col-md-9",
-			"col-xs-12 col-sm-6 col-md-3",
-			"f.text_field",
-			".field\n    ",
-			".field",
 			"t."
 		],
 		"highlight": true,
@@ -678,19 +678,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "_layouts/post.html",
-					"semi_transient": true,
+					"file": "index.html",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1455,
+						"buffer_size": 990,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								771,
+								771
 							]
 						],
 						"settings":
@@ -710,31 +710,29 @@
 				},
 				{
 					"buffer": 1,
-					"file": "_sass/print.scss",
-					"semi_transient": false,
+					"file": ".travis.yml",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 1483,
+						"buffer_size": 441,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1453,
-								1453
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"WordCountShouldRun": true,
-							"WordCountSyntax": "scss",
-							"syntax": "Packages/Theme - Cyanide/Cyanide/file_types/SCSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"WordCountSyntax": "yaml",
+							"syntax": "Packages/YAML/YAML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 706.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -804,12 +802,20 @@
 		"selected_items":
 		[
 			[
-				"print",
-				"_sass/print.scss"
-			],
-			[
 				"index",
 				"index.html"
+			],
+			[
+				"dice",
+				"diceware.md"
+			],
+			[
+				"about",
+				"about.md"
+			],
+			[
+				"print",
+				"_sass/print.scss"
 			],
 			[
 				"head.h",
@@ -834,10 +840,6 @@
 			[
 				"_typo",
 				"_sass/2015/_typography.scss"
-			],
-			[
-				"about",
-				"about.md"
 			],
 			[
 				"writing-standards",
@@ -1310,10 +1312,6 @@
 			[
 				"page",
 				"_layouts/page.html"
-			],
-			[
-				"foo",
-				"_includes/footer.html"
 			]
 		],
 		"width": 0.0
