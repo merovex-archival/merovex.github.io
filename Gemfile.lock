@@ -137,6 +137,9 @@ GEM
     pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
+    ra11y (0.0.1)
+      colorator
+      parallel
     rack (1.6.4)
     rack-protection (1.5.3)
       rack
@@ -181,6 +184,7 @@ DEPENDENCIES
   jekyll-mentions
   jekyll-redirect-from
   kramdown
+  ra11y
   rack-rewrite
   rake
   rb-fsevent (~> 0.9)

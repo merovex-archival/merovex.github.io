@@ -23,7 +23,7 @@ require "date"
 @task_dir        = File.expand_path("~/bin/rakelib/jekyll-tasks/")
 
 Dir.glob("#{@task_dir}/*.rake").each { |r| import r }
-
+require 'ra11y'
 task :test do
   sh "bundle exec jekyll build"
   HTML::Proofer.new(
@@ -31,4 +31,10 @@ task :test do
 	:href_ignore => ["#", "http://www.thedominoproject.com/"],
 	:empty_alt_ignore => true
   ).run
+  Ra11y::Site.new("./_site").run
+end
+
+task :ra11y do
+	sh "bundle exec jekyll build"
+	Ra11y::Site.new("./_site").run
 end
