@@ -67,6 +67,13 @@ defaults:
       featured: false
       hidden: false
       variant: false
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: Ben Wilson
 
 social_amazon: http://amzn.to/1VwV58V
 social_facebook: http://on.fb.me/1M3gSiz
