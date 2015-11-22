@@ -74,6 +74,13 @@ defaults:
     values:
       layout: post
       author: Ben Wilson
+  -
+    scope:
+      path: ""
+      type: "drafts"
+    values:
+      layout: post
+      author: Ben Wilson
 
 social_amazon: http://amzn.to/1VwV58V
 social_facebook: http://on.fb.me/1M3gSiz
@@ -83,6 +90,7 @@ social_feed: http://bit.ly/1Lrbjf0
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
+    fb_page: "Ben-Wilson-Author-143743165675224"
     fb_image: "https://s3.amazonaws.com/dausha/images/apple-touch-icon-120x120.png"
     fb_app_id: "974042092652489"
     fb_image_width: 300

@@ -25,8 +25,7 @@ There were two great questions that I've always had. First, I was told that my a
 
 I followed the Wilson thread back. The Wilson name that I bear arrived in the 1880s belonging to . Looks to be English, not Scottish, but being a Scot was a huge deal of my grandfather's.
 
-However, my grandfather's mother belongs to the Loe (or Lowe or Low) branch. That name traces back to 1642 when the second son was born to Thomas Loe who immigrated with his wife from Canterbury, England. The older son was born in 1640.
-
+However, my grandfather's mother belongs to the Loe (or Lowe or Low) branch. That name traces back to 1642 when the second son was born to Thomas Loe who immigrated with his wife from Canterbury, England. The older son was born in 1640. When looking at the [Wikipedia article on Virginia](https://en.wikipedia.org/wiki/History_of_Virginia#Royal_colony) at the time, women were brought to Virginia first in 1619. It became a royal colony in 1624. The [Third Anglo-Powhatan War](https://en.wikipedia.org/wiki/Anglo-Powhatan_Wars) ran from 1644-46, and the English Civil War was not far behind.
 
 Maternal Grandmother's line is largely Irish, with a bit of English and Indigenous:
 

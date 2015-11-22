@@ -1,14 +1,14 @@
-/* Artsy Fonts */
-@import url(http://fonts.googleapis.com/css?family=Kalam|Kaushan+Script|Neucha);
+/* Cursive Fonts */
+@import url(https://fonts.googleapis.com/css?family=Kalam|Kaushan+Script|Neucha|Sansita+One);
 /* Sans-Serif Fonts */
-@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Open+Sans:400italic,700italic,400,700|Source+Sans+Pro|Droid+Sans|Montserrat);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Open+Sans:400italic,700italic,400,700|Source+Sans+Pro|Droid+Sans|Montserrat|Syncopate);
 /* Serif Fonts */
-@import url(http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic|Droid+Serif:400italic,700italic,400,700|Chango|Vollkorn|Syncopate|Merriweather);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic|Droid+Serif:400italic,700italic,400,700);
 
-$brand-fonts: Syncopate, "Helvetica Neue",Helvetica,Arial,cursive;
+$brand-fonts: 'Sansita One', Syncopate, "Helvetica Neue",Helvetica,Arial,cursive;
 $navbar-fonts: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 $serif-fonts: 'PT Serif','Droid Serif', Garamond, Georgia, Serif !Important;
-$sans-fonts: 'PT Sans','Droid Sans', Sans-Serif !Important;
+$sans-fonts: 'PT Sans','Droid Sans', Helvetica, Arial, Sans-Serif !Important;
 
 $default-text-color: $gray-darker;
 
@@ -28,12 +28,16 @@ body {
     color: darken($brand-primary, 10%);
     text-shadow: 2px 1px 3px #888;
   }
-  h1, h2, h3, h4, .progress, .footnotes:before {
-      font-family: $sans-fonts;
+  h2, h3, h4, .progress, .footnotes:before {
+      font-family: $navbar-fonts;
       font-weight: 500 !important;
+  }
+  h6 {
+    font-family: $navbar-fonts;
   }
   h1 {
     font-size: 2.6rem;
+    font-family: $navbar-fonts;
     small {font-size: 1.0rem; display: block; }
   }
   h2, .footnotes:before { font-size: 2.15rem; line-height: 1.25em }
