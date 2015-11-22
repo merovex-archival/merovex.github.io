@@ -34,7 +34,7 @@ The following table shows the three displacements that interest me. The [Calcula
   <tr>
     <td>88mm</td>
     <td>74mm</td>
-    <td><a href="#1800cc">1800cc</a></td>
+    <td><a href="#build-1800cc-from-acn">1800cc</a></td>
   </tr>
   <tr>
     <td>94mm</td>
