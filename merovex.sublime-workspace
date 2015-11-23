@@ -199,22 +199,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 990,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": ".travis.yml",
-			"settings":
-			{
-				"buffer_size": 441,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -245,7 +229,7 @@
 		[
 			[
 				"je",
-				"Jekyll: New post"
+				"Jekyll: New draft"
 			],
 			[
 				"install",
@@ -374,29 +358,35 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
-		"/Users/bwilson/Sites/merovex.github.io/_sass",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015",
+		"/Users/bwilson/Sites/merovex.github.io/_site",
+		"/Users/bwilson/Sites/merovex.github.io/_site/vw",
+		"/Users/bwilson/Sites/merovex.github.io/_site/vw/engine-build",
 		"/Users/bwilson/Sites/merovex.github.io/css",
 		"/Users/bwilson/Sites/merovex.github.io/vendor",
 		"/Users/bwilson/Sites/merovex.github.io/willard"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_style.scss",
+		"/Users/bwilson/Sites/merovex.github.io/vw/engine-build.md",
+		"/Users/bwilson/Sites/merovex.github.io/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/an-afternoon-on-ancestry.md",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/audible-2015.md",
+		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-28-a-year-of-audible.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/about.md",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/print.scss",
 		"/Users/bwilson/Sites/merovex.github.io/diceware.md",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_style.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/default.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/diceware.html",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/diceware.md",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/footer.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/head.html",
-		"/Users/bwilson/Sites/merovex.github.io/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/sidebar.html",
 		"/Users/bwilson/Sites/merovex.github.io/willard/disciplines.md",
 		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
 		"/Users/bwilson/Sites/merovex.github.io/css/print.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2010-12-12-when-should-you-register-your-work.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_typography.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_mixins.scss",
@@ -421,7 +411,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_footer.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/header.html",
 		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_headers.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/an-afternoon-on-ancestry.md",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-11-11-analyzing-spectre.md",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-12-15-skyfall-plot-analysis.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/pages/novels.md",
@@ -462,7 +451,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/savage-worlds/skills.md",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/old.paginate",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/progress_chart.html",
-		"/Users/bwilson/Sites/merovex.github.io/vw/engine-build.md",
 		"/Users/bwilson/Sites/merovex.github.io/w/writing-tools/save-the-cat-tips.html",
 		"/Users/bwilson/Sites/merovex.github.io/w/writing-tools/scene-calculator.html",
 		"/Users/bwilson/Sites/merovex.github.io/w/writing-tools/snowflake-method.md",
@@ -507,9 +495,7 @@
 		"/Users/bwilson/Projects/ezra/app/controllers/support_controller.rb",
 		"/Users/bwilson/Projects/ezra/app/models/job.rb",
 		"/Users/bwilson/Projects/ezra/app/models/job_report.rb",
-		"/Users/bwilson/Projects/ezra/app/views/support/index.html.haml",
-		"/Users/bwilson/Projects/ezra/Gemfile",
-		"/Users/bwilson/Projects/ezra/app/views/jobs/show.html.haml"
+		"/Users/bwilson/Projects/ezra/app/views/support/index.html.haml"
 	],
 	"find":
 	{
@@ -528,6 +514,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"flex-end",
+			"26",
+			"28",
+			"*",
+			")*",
+			"10",
 			"\"",
 			"h4",
 			"h3 class='card-title",
@@ -649,13 +641,7 @@
 			"content",
 			"sentence",
 			"-2",
-			"th{",
-			"td",
-			"%th",
-			"%li",
-			"%li ",
-			"redirect_to @touch",
-			"t."
+			"th{"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -673,71 +659,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 990,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								771,
-								771
-							]
-						],
-						"settings":
-						{
-							"WordCountShouldRun": true,
-							"WordCountSyntax": "html",
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": ".travis.yml",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 441,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"WordCountShouldRun": true,
-							"WordCountSyntax": "yaml",
-							"syntax": "Packages/YAML/YAML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -802,6 +725,30 @@
 		"selected_items":
 		[
 			[
+				"_style",
+				"_sass/2015/_style.scss"
+			],
+			[
+				"engine",
+				"vw/engine-build.md"
+			],
+			[
+				"ances",
+				"_drafts/an-afternoon-on-ancestry.md"
+			],
+			[
+				"audib",
+				"_drafts/audible-2015.md"
+			],
+			[
+				"audi",
+				"_posts/2014-11-28-a-year-of-audible.markdown"
+			],
+			[
+				"_con",
+				"_config.yml"
+			],
+			[
 				"index",
 				"index.html"
 			],
@@ -828,10 +775,6 @@
 			[
 				"gem",
 				"Gemfile"
-			],
-			[
-				"_con",
-				"_config.yml"
 			],
 			[
 				"_color",
@@ -944,10 +887,6 @@
 			[
 				"bugb",
 				"vw/engine-build/calculator/bugbits-technical.html"
-			],
-			[
-				"engine",
-				"vw/engine-build-calculator.md"
 			],
 			[
 				"nap",
@@ -1296,22 +1235,6 @@
 			[
 				"header",
 				"_includes/header.html"
-			],
-			[
-				"pos",
-				"_layouts/post.html"
-			],
-			[
-				"churches",
-				"_posts/2014-06-22-churches-should-influence-their-culture.markdown"
-			],
-			[
-				"role",
-				"_posts/2014-06-22-role-of-church-today.markdown"
-			],
-			[
-				"page",
-				"_layouts/page.html"
 			]
 		],
 		"width": 0.0
