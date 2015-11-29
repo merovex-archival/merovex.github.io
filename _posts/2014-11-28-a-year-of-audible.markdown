@@ -13,11 +13,7 @@ published_at: 2014-11-28 17:32
 date: 2014-11-28 17:32:01.000000000 -05:00
 image: 2843144877_fd9593fdca_b.jpg
 category: Diary
-tags: 
-  - audible
-  - listening
-  - experience
-  - year-in-review
+tags: [Audible, Listening, Experience, Year-In-Review]
 description: I'd like to share what I've learned from a year of using Audible.
 ---
 I love to read, but I never have the time and energy to read nearly as much as I would like. Last year I broke down and started using Audible. Here's the result.
