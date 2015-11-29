@@ -358,7 +358,6 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2015",
 		"/Users/bwilson/Sites/merovex.github.io/_site",
 		"/Users/bwilson/Sites/merovex.github.io/_site/vw",
 		"/Users/bwilson/Sites/merovex.github.io/_site/vw/engine-build",
@@ -368,6 +367,8 @@
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/.travis.yml",
+		"/Users/bwilson/Sites/merovex.github.io/pages/bodyfat-calculator.md",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_style.scss",
 		"/Users/bwilson/Sites/merovex.github.io/vw/engine-build.md",
 		"/Users/bwilson/Sites/merovex.github.io/index.html",
@@ -490,12 +491,10 @@
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-09-06-a-buggy-summer.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/article_redirect.html",
 		"/Users/bwilson/Sites/merovex.github.io/README.md",
-		"/Users/bwilson/Sites/merovex.github.io/.travis.yml",
 		"/Users/bwilson/Projects/ezra/app/views/support/history.html.haml",
 		"/Users/bwilson/Projects/ezra/app/controllers/support_controller.rb",
 		"/Users/bwilson/Projects/ezra/app/models/job.rb",
-		"/Users/bwilson/Projects/ezra/app/models/job_report.rb",
-		"/Users/bwilson/Projects/ezra/app/views/support/index.html.haml"
+		"/Users/bwilson/Projects/ezra/app/models/job_report.rb"
 	],
 	"find":
 	{
@@ -724,6 +723,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"bodyfat",
+				"pages/bodyfat-calculator.md"
+			],
+			[
+				"travi",
+				".travis.yml"
+			],
 			[
 				"_style",
 				"_sass/2015/_style.scss"
@@ -1227,14 +1234,6 @@
 			[
 				"ind",
 				"index.html"
-			],
-			[
-				"about.",
-				"about.md"
-			],
-			[
-				"header",
-				"_includes/header.html"
 			]
 		],
 		"width": 0.0

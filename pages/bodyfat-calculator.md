@@ -15,6 +15,12 @@ permalink: /bodyfat-calculator/
   <li> Rotate through measurement sites or allow time for skin to regain normal texture and thickness</li>
 </ol>
 
+(230*4.5)+(70*15.88)-(45*5)-161
+
+(weight * 4.5) + (inches * 15.88) - (45 * 5) - 161 = Calories 1760
+
+1500 calories.
+
 <form action="javascript: void(0)" name="bfc">
 <table class='table bf'>
   <tbody>
