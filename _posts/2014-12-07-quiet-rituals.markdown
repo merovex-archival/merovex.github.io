@@ -13,12 +13,12 @@ published_at: 2014-12-07 08:08
 date: 2014-12-07 08:08:06.000000000 -05:00
 image: 288389345_f31156f5d6_o.jpg
 category: Diary
-keywords: writing, plan, goals, quiet, rituals, successful, people
 description: After recently reading an article of rituals of successful people, I
   wanted to share some thoughts on how those rituals apply to me.
 author: Ben Wilson
 tags:
-- Diary
+- Toolchain
+- Habits
 ---
 <!--Lead Paragraph-->
 An article on [quiet rituals of successful people](http://www.marcandangel.com/2014/07/06/12-quiet-rituals-of-enormously-successful-humans/) made me think of my own efforts at successful writing.

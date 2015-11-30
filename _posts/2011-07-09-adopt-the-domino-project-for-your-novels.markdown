@@ -13,7 +13,7 @@ published_at: 2011-07-09 15:03
 date: 2011-07-09 15:03
 category: Writing
 tags:
-- Writing
+- Domino Project
 ---
 
 Well-known [Seth Godin](http://en.wikipedia.org/wiki/Seth_Godin) has proposed

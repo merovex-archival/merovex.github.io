@@ -13,12 +13,10 @@ published_at: 2014-05-25 20:20
 date: 2014-05-25 20:20:02.000000000 -04:00
 image: 2781511209_fdd2f7ee27_z.jpg
 category: Diary
-keywords: writing, plan, goals
 description: May was a rough month, but hope remains.
 author: Ben Wilson
 tags:
-- Diary
-- Writing
+- Writing Progress
 ---
 The promise of finishing a novel before me, May was not the month I hoped it would be.
 <!-- more -->

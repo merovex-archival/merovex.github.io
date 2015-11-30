@@ -2,7 +2,7 @@
 layout: post
 title: Analyzing Spectre
 category: 'Writing'
-tags: []
+tags: [Review]
 published: True
 created_at: 
 author: Ben Wilson

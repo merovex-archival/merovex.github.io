@@ -13,12 +13,11 @@ published_at: 2014-04-29 19:18
 date: 2014-04-29 19:18:59.000000000 -04:00
 image: 7770199719-USCapitol.jpg
 category: Diary
-keywords: writing, plan, goals
 description: April was a very slow month of writing. I jokingly say it's not my fault,
   but it is.
 author: Ben Wilson
 tags:
-- Diary
+- Writing Progress
 ---
 <!--Lead Paragraph-->
 

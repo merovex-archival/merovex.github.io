@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: wide
 title: Tags
 created_at: 2015-10-12 16:46
 date: 2015-10-12 16:46
@@ -12,18 +12,18 @@ description: 'An archive of posts sorted by tag.'
 {% assign tag_words = site_tags | split:',' | sort %}
 <!-- tag_words: {{ tag_words }} -->
 <div class='row'>
-  <main class='col-xs-12 col-sm-7'>
+  <main class='col-xs-12 col-sm-8'>
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
   <h2 id='{{ this_word | cgi_escape }}'>{{ this_word }}</h2>
   <ul class='posts'>
-    {% for post in site.tags[this_word] %}{% if post.title != null %}
+    {% for post in site.tags[this_word] |reverse %}{% if post.title != null %}
     <li itemscope><span class='entry-date'><time datetime='{{ post.date | date_to_xmlschema }}' itemprop='datePublished'>{{ post.date | date: '%-d %B %Y' }}</time></span> &raquo; {% if post.category == 'speaking' %}<i class='fa fa-microphone'></i> {% endif %}<a href='{{ post.url }}'>{{ post.title }}</a></li>
     {% endif %}{% endfor %}
   </ul>
   {% endunless %}{% endfor %}
   </main>
-  <aside class='col-sm-5 col-xs-12' role='complimentary'>
+  <aside class='col-sm-4 col-xs-12' role='complimentary'>
   <h3>Tag Index</h3>
   <ul class='list-group'>{% for item in (0..site.tags.size) %}{% unless forloop.last %}{% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
     <li class='list-group-item'><a href='#{{ this_word | cgi_escape }}'>{{ this_word }} <span class='label label-default label-pill pull-right'>{{ site.tags[this_word].size }}</span></a></li>

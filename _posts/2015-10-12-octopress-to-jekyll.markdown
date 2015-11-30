@@ -4,7 +4,11 @@ title: Octpress to Jekyll
 author: Ben Wilson
 description: In my recent overhaul of Dausha.net from Octopress to Jekyll, I'm reminded of the beauty of simplicity.
 category: Technology
-tags: [Octopress, Jekyll, PmWiki, Website]
+tags:
+- Octopress
+- Website
+- Jekyll
+- PmWiki
 photo:
   image: octopress-logo.jpg
   creator: David Lanham

@@ -20,7 +20,6 @@ keywords: writing, plan, goals
 description: Ben Wilson describes a shady deal.
 tags:
 - Writing
-- Diary
 - Postal Marines Series
 ---
 Have you ever known somebody who turned out to be somebody else? Come to rely on that person, that go-to person, only to find out he had feet of clay? Sometimes that friend was never your friend, they were just setting you up for their advantage. I'm going to talk about a friend who did not betray me, but he let me down because I thought he was better than that. I'll call him Daniel for anonymity. This is his *true* story.

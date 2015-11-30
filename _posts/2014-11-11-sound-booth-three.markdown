@@ -18,8 +18,7 @@ description: The final story in the saga of a privately owned Voice Over Booth. 
   much research and analysis, I'm finally ready to press the button.
 author: Ben Wilson
 tags:
-- Diary
-- Publishing
+- Voice Over
 - VO
 ---
 A few months back I talked about building a Voice-Over booth. After much research and analysis, I'm finally ready to press the button.

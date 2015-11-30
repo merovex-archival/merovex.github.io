@@ -13,11 +13,10 @@ published_at: 2014-03-31 05:20
 date: 2014-03-31 05:20:20.000000000 -04:00
 image: 2704534525-seals-and-endurance.jpg
 category: Diary
-keywords: writing, plan, goals
 description: "March 2014 has been a difficult month for writing, but I managed to stay on course."
 author: Ben Wilson
 tags:
-- Diary
+- Writing Progress
 ---
 <!--Lead Paragraph-->
 If there's a time in any marathon where there's a lull that could lead to defeat, a flag in energy, a desire to give up, then that would be March 2014.

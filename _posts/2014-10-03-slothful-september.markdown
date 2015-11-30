@@ -17,8 +17,7 @@ keywords: writing, plan, goals
 description: "Ben explains his activites over September -- Slothful."
 author: Ben Wilson
 tags:
-- Diary
-- Writing
+- Writing Progress
 ---
 In August, I sang [praises of Dragon](/articles/here-be-dragons-dictating/) in helping me accelerate my writing. I promptly stopped writing altogether. But in the words of Han Solo: "it's not my fault."
 

@@ -18,8 +18,7 @@ description: I'd like to share with you a curious approach to world-building geo
 author: Ben Wilson
 tags:
 - Ombrio
-- Technique
-- Writing
+- Shared World
 ---
 As the year draws to a close, I've been tinkering with my next writing project. This is a fantasy, which requires world-building. So, I thought I'd share a bit about my process.
 

@@ -16,7 +16,7 @@ category: Diary
 keywords: writing, plan, goals
 description: When the day is at its shortest, it's time to look back at last year's progress. I accomplished more than I thought, but less than I had hoped.
 tags:
-- Diary
+- Retrospective
 ---
 When the day is at its shortest, it's time to look back at last year's progress. I accomplished more than I thought, but less than I had hoped.
 

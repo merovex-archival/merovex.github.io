@@ -17,8 +17,7 @@ keywords: writing, plan, goals
 description: I added a third progress chart to build confidence in my writing.
 author: Ben Wilson
 tags:
-- Diary
-- Writing
+- Writing Progress
 ---
 <!--Lead Paragraph-->
 

@@ -16,8 +16,7 @@ category: postal marine series
 keywords: writing, plan, goals
 description: Ben Wilson offers his retrospective on writing and publishing his first finished novel--Scintilla.
 tags:
-- Writing
-- Technique
+- Retrospective
 - Postal Marines Series
 ---
 Just about every writer's resources says to take time away from your writing project after the first draft. It's like spending an intense amount of time with a loved one, then abstaining for a while to make sure you're objective about the relationship. Or, whatever. How long is open to interpretation, but I figure four to six weeks for myself.

@@ -17,12 +17,11 @@ footer: true
 sidebar: true
 image: 5366637592_perseverance.jpg
 category: Diary
-keywords: writing, plan, goals
 description: Ben Wilson thinks he's going to write 150,000 words in 2014. Read more
   so you can openly mock him when he fails.
 author: Ben Wilson
 tags:
-- Diary
+- Goals
 ---
 
 <!--Lead Paragraph-->

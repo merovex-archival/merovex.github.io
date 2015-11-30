@@ -19,7 +19,7 @@ author: Ben Wilson
 keywords: writing, plan, goals
 description: Ben Wilson is still around.
 tags:
-- Diary
+- Writing Progress
 ---
 
 Today I took a look at the Dausha Publishing website. My last blog post was in August. Over six months ago. Have I disappeared?

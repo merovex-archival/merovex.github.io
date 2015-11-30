@@ -13,11 +13,10 @@ published_at: 2014-10-11 12:05
 date: 2014-10-11 12:05:14.000000000 -04:00
 image: zerigo-desktop.jpg
 category: Technology
-keywords: writing, plan, goals
 description: I've not had a fun Saturday fixing my DNS with Zerigo.
 author: Ben Wilson
 tags:
-- Diary
+- Website
 ---
 This morning, I woke up looking forward to spending time preparing for my next novel series. Instead, I spent the past two hours trying to fix a problem with my domain name hosting. While I would like to shake my fist at the provider, Zerigo, this was an opportunity to read look at how I host.
 

@@ -15,7 +15,7 @@ description: "Amazon customers represent a market force we as authors should lis
 author: Ben Wilson
 category: Writing
 tags:
-- Writing
+- Amazon
 ---
 
 Read Write Web recently issued an article discussing [Amazon's Short Story Collection](http://rww.to/eXcyKX), which targets the electronic publishing

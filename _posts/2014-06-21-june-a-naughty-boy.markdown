@@ -17,8 +17,7 @@ keywords: writing, plan, goals
 description: Ben Wilson's Progress in June is dismal.
 author: Ben Wilson
 tags:
-- Diary
-- Writing
+- Writing Progress
 ---
 So in the past I've been able to cite technical difficulties for why my production is down. I've throughly lost momentum, but I shall soldier on.
 

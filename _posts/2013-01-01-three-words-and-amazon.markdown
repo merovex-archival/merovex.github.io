@@ -20,10 +20,10 @@ category: Diary
 keywords: writing, plan, goals
 description: Ben Wilson gives the three words he thinks will defined 2013.
 tags:
-- Diary
+- Amazon
+- Goals
 ---
 
-<!--Lead Paragraph-->
 It's that time of year again when people make resolutions. I typically make mine in October (birth month). I skim about 50-100 articles in my RSS feed daily, read maybe a dozen of them. Chris Brogan put out an interesting post about [summarizing your year in three words](http://www.chrisbrogan.com/my-3-words-for-2013/) that inspired me to summarize my 2014 goals. Part of that is to take on  [Amazon's writing challenge](http://www.mediabistro.com/galleycat/how-to-submit-your-novel-in-the-new-year_b63061) suggested by Galleycat.
 
 <!-- more -->

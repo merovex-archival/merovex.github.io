@@ -13,12 +13,12 @@ published_at: 2014-11-01 19:22
 date: 2014-11-01 19:22:11.000000000 -04:00
 image: 4768985621_writer-lamp.jpg
 category: Diary
-keywords: writing, plan, goals
 description: Looking at my progress for 2014, I've not written a word since 24 August.
   I am now 37,299 words behind schedule. Can NaNoWriMo save me?
 author: Ben Wilson
 tags:
-- Diary
+- NaNoWriMo
+- Writing Progress
 ---
 Looking at my progress for 2014, I've not written a word since 24 August. I am now 37,299 words behind schedule. Can NaNoWriMo save me?
 

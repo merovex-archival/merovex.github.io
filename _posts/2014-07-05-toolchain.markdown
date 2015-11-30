@@ -13,13 +13,13 @@ published_at: 2014-07-05 10:29
 date: 2014-07-05 10:29:21.000000000 -04:00
 image: 5060103696_625ba60116_z-chain.jpg
 category: Technology
-keywords: LaTeX, Markdown, Ruby, publishing, Bookmaker, tool pr0n
 description: Ben Wilson, author, discusses how he writes, edits and publishes a novel.
 author: Ben Wilson
 tags:
-- Publishing
-- Technique
-- Writing
+- Ruby
+- Markdown
+- LaTeX
+- Toolchain
 ---
 
 Now that I'm drafing my fourth novel, I wanted to share a bit about my toolchain. That is, the process by which I document the novel and publish it.

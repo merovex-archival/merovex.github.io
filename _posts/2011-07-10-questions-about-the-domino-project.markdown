@@ -16,7 +16,7 @@ image: 2391828247_7016a8a66f-dominos.jpg
 author: Ben Wilson
 category: Writing
 tags:
-- Writing
+- Domino Project
 ---
 
 Yesterday I [brought up](/writing/adopt-the-domino-project-for-your-novels/) the [Domino Project](http://www.thedominoproject.com/). Today, I'll

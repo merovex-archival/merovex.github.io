@@ -19,7 +19,7 @@ category: Writing
 keywords: writing, plan, goals
 description: Ben Wilson describes why it's a four-act structure.
 tags:
-- Writing
+- Plot Analysis
 ---
 <!-- Opening -->
 Authors are told in countless novel writing books that there are three acts. They are told to add the midpoint to avoid the sagging middle of Act 2, because the act is twice as bit as others. In reality, it's not really three acts in the first place.

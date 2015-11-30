@@ -17,8 +17,7 @@ keywords: writing, plan, goals
 description: November is barely half-over and I'm making 2015's writing plans. This year has been very educational in terms of writing under something resembling a schedule. I'd like to make the most of it.
 author: Ben Wilson
 tags:
-- Diary
-- Writing
+- Goals
 ---
 November is barely half-over and I'm making 2015's writing plans. This year has been very educational in terms of writing under something resembling a schedule. I'd like to make the most of it.
 

@@ -4,7 +4,7 @@ title: Build Passing. More Perfect?
 author: Ben Wilson
 description: For the first time in years, I have a website that has been fully vetted courtesy of Continuous Integration.
 category: 'Technology'
-tags: [Jekyll]
+tags: [Jekyll, Travis CI]
 photo:
   image: 3940632819_f639081358_b.jpg
   creator: Marco Alioli/Flickr

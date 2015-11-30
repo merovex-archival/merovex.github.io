@@ -21,7 +21,8 @@ keywords: writing, plan, goals
 description: Ben Wilson shows how understanding story structure helps enjoy a movie
   like Skyfall that much more.
 tags:
-- Writing
+- Review
+- Plot Analysis
 ---
 <!--Lead Paragraph-->
 I saw Skyfall not long after it opened. Then I read some reviews. One reviewer commented that the villain did not show up until the mid-point in the story, "which was a gutsy move." Having studied a fair-amount of story plotting, I think the reviewer got it wrong because he wasn't paying attention to the story. In fiction, the character who undergoes the most change is the hero, the one who causes the change is the antagonist. The plot is the main aspect of the work, the "story" is the emotional part of the work, which is the area where the change happens. (Warning, Plot Spoiler Below.)

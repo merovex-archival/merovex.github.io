@@ -1,8 +1,7 @@
 ---
 tags:
-- Diary
-- Publishing
-- Technique
+- Scrivener
+- Toolchain
 photo:
   image: going-back-to-scrivener.png
   creator: Ben Wilson
@@ -21,7 +20,7 @@ created_at: 2015-09-26 11:21
 ---
 <!--Lead Paragraph-->
 
-I've discussed my [author's toolchain](/articles/toolchain/) before. This week, I find myself drawn back to Scrivener. I'd like to explain why.
+I've discussed my [author's toolchain](/technology/toolchain/) before. This week, I find myself drawn back to Scrivener. I'd like to explain why.
 
 <!-- more -->
 

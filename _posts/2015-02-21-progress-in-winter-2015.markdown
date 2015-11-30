@@ -16,9 +16,8 @@ date: 2015-02-21 22:07
 modified_at: 2015-02-21 22:07
 created_at: 2015-02-21 20:53
 tags:
-- Diary
+- Writing Progress
 ---
-<!--Lead Paragraph-->
 
 A friend asked me this week about my writing. So, I figured it was time to report slow going.
 

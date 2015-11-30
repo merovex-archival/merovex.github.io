@@ -15,7 +15,7 @@ date: 2015-04-18 21:04
 modified_at: 2015-04-18 21:04
 created_at: 2015-04-18 19:40
 tags:
-- Diary
+- Writing Progress
 ---
 
 After a few hard months, I'm back in business. I thought it would be appropriate for me to break the silence a bit.

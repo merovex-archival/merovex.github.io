@@ -15,7 +15,6 @@ date: 2015-05-04 17:26
 modified_at: 2015-05-04 17:26
 created_at: 2015-05-03 09:39
 tags:
-- Diary
 - Beetle
 ---
 <!--Lead Paragraph-->
