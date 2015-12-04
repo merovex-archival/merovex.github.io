@@ -1,5 +1,5 @@
 ---
-permalink: /aria/actions/tables/
+permalink: /aria/ih/tables/
 layout: page
 title: Savage History Tables
 comments: true
