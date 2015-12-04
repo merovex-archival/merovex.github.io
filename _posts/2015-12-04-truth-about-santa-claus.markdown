@@ -22,7 +22,7 @@ It's that time of year: Christmas. When we commemorate the life of one of the gr
 
 Let's forget that this is the day we chose to celebrate the birth of Jesus Christ, Son of God and Savior. After all, a great many believe him to be a total fiction. The historical data disagree, but let's not quibble about that. Instead, let's focus on the fact that Santa Claus, or Christopher Kringle, is in fact alive and well.
 
-The first thing you have to realize is that Santa is not an immortal being. The original Santa Clause was Saint Nicholas of Myra.
+The first thing you have to realize is that Santa is not an immortal being. The original Santa Claus was Saint Nicholas of Myra.
 
 <blockquote>
   <p>Nicholas was a 4th-century Greek Christian bishop of Myra (now Demre) in Lycia, a province of the Byzantine Empire, now in Turkey. Nicholas was famous for his generous gifts to the poor, in particular presenting the three impoverished daughters of a pious Christian with dowries so that they would not have to become prostitutes.[6] He was very religious from an early age and devoted his life entirely to Christianity."</p>
