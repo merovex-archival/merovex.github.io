@@ -1,5 +1,5 @@
 ---
-permalink: /writing-a-novel-series/
+permalink: /w/writing-a-novel-series/
 layout: page
 title: Writing a Novel Series
 comments: true

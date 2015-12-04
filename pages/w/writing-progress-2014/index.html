@@ -6,6 +6,7 @@ comments: false
 sharing: false
 sidebar: true
 footer: true
+permalink: /w/writing-progress-2014/
 ---
 
 <p>This page helps to track my writing progress. I committed to 150,000 words in 2014. This page tracks my progress with the hope that it will help me be accountable. The data that drives the graphs is generated automatically each morning. I then have a couple manual scripts I have to run to pull that data and publish updates to this page.</p>
@@ -106,7 +107,7 @@ footer: true
         words.valueField = 'words'
         words.lineThickness = 2;
         words.lineColor = words_color
-        
+
         words.bullet = 'none'
         words.bulletSize = 8
         words.bulletBorderColor = '#FFFFFF'
@@ -284,7 +285,7 @@ footer: true
         hours.fillAlphas = 0.2;
         hours.balloonText = "<span>Words on [[category]]: <b>[[value]]</b> words (Delta: [[delta]])</span>";
         wpdChart.addGraph(hours);
-        
+
         // SCROLLBAR
         var pChartScrollbar = new AmCharts.ChartScrollbar();
         pChartScrollbar.graph = wpd;
