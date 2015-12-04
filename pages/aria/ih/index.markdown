@@ -1,5 +1,5 @@
 ---
-permalink: /aria/
+permalink: /aria/ih/
 layout: page
 title: Savaged Aria Interactive History
 comments: true
