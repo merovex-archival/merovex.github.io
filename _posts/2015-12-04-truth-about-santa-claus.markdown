@@ -33,9 +33,9 @@ However, much like the Dread Pirate Roberts, when it was time for him to give up
 
 Which brings us to the modern era. Santa Claus lives on, though that is not his original name. Nor is it Kringle. For the life of me, I don't know who he is, either. But, he does travel with magical reindeer and provide gifts to all the good girls and boys.
 
-This does sound fantastical. How could one man with a bunch of flying reindeer deliver so many toys in such a short time? There have been various theories. Skeptics point out that physics would incinerate the poor creatures.
+This does sound fantastical. How could one man with a bunch of flying reindeer deliver so many toys in such a short time? There have been [various theories](http://www.daclarke.org/Humour/santa.html). Skeptics point out that physics would incinerate the poor creatures.
 
-What the skeptics fail to realize is that there are very, very few good boys and girls. So few, in fact, that Clause starts promptly at midnight and is home within an hour.
+What the skeptics fail to realize is that there are very, very few good boys and girls. So few, in fact, that Claus starts promptly at midnight and is home within an hour.
 
 "But, everybody knows there is no Santa," says the skeptic. "Our parents admitted that it was just a ruse, a form of behavior control."
 
