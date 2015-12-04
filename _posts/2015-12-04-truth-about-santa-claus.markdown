@@ -41,4 +41,4 @@ What the skeptics fail to realize is that there are very, very few good boys and
 
 No, dear reader. Your parents knew Santa would not be coming. They did not want to admit that you were a rotten brat. So, they denied the existence of Santa and put the toys under the tree, hoping you would feel better and stop being such a wretch. And, when that wasn't enough, the confessed to their deceit. That they did not know there is a Santa lay in the fact that their parents, too, had to put the toys under the tree for the same reasons. For generations, they have lied...so much so that now the lie is perceived to be the truth.
 
-Yes, there is a Santa. He only goes to the homes of good boys and girls. He won't be coming to your home any time soon.
+Yes, there is a Santa. He only goes to the homes of good boys and girls. He won't be coming to your home any time soon. And, no. He won't be coming to my home, either.
