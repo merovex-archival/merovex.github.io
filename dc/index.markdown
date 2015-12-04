@@ -1,4 +1,5 @@
 ---
+permalink: /dc/
 layout: page
 title: "Conspiracy"
 date: 2014-11-15 10:00

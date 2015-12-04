@@ -1,4 +1,5 @@
 ---
+permalink: /spacecraft-design/
 layout: page
 title: "Spacecraft Designer"
 date: 2014-04-06 15:42

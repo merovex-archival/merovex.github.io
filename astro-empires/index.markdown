@@ -1,4 +1,5 @@
 ---
+permalink: /astro-empires/
 layout: page
 title: "AstroEmpires"
 date: 2014-09-27 13:43

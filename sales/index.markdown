@@ -1,4 +1,5 @@
 ---
+permalink: /sales/
 layout: page
 title: "sales"
 date: 2014-11-05 17:35

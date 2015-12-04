@@ -1,4 +1,5 @@
 ---
+permalink: /ombrio-wb/
 layout: page
 title: Ombrio
 comments: true

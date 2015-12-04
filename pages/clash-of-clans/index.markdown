@@ -1,4 +1,5 @@
 ---
+permalink: /clash-of-clans/
 layout: page
 title: Clash of Clans
 comments: true

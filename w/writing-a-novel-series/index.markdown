@@ -1,4 +1,5 @@
 ---
+permalink: /writing-a-novel-series/
 layout: page
 title: Writing a Novel Series
 comments: true
@@ -49,7 +50,7 @@ The subsections:
 * Viewpoint Characters - a simple reminder that you only have to focus on as few as a dozen characters to make a series.
 * Creating the Series Plot - The first layer of the onion, a few pages to frame it all.
 * Plotting the Novels - Expanding ever so slightly
-* Novel / Series Characters - The biggest part is understanding your characters. 
+* Novel / Series Characters - The biggest part is understanding your characters.
 * Detailed Novel Plotting - How to really get the detail out of the entire series.
 * Scene Plotting - When you're crazy enough to get very detailed.
 
@@ -63,7 +64,7 @@ The first series will take upward of seven years to fully write and publish. Whe
 
 ## Investment
 
-A question will be 
+A question will be
 
 ## Series Design
 
@@ -79,7 +80,7 @@ A few terms I use to try to avoid confusion:
 
 * Series Snowflake...represents the Snowflake steps relevant to the Series
 * Novel Snowflake...relevant to the Novel
-* I number each one "Series Snowflake-3" or "Novel Snowflake-2" to show the impact on the 
+* I number each one "Series Snowflake-3" or "Novel Snowflake-2" to show the impact on the
 
 ### Viewpoint Characters
 
@@ -104,7 +105,7 @@ Let's see if the 8-Segment would work:
 3. Entering a New World. Learning the rules, minor victory
 4. False Victory
 5. Things go Downhill. Hero needs a new goal, another minor victory
-6. Hero Hits Rock Bottom. 
+6. Hero Hits Rock Bottom.
 7. Hero Wins against minors
 8. Final Victory
 
@@ -114,7 +115,7 @@ Imperial Postal Service:
 2. Litovio
 3. Luctation. Jonaldy & Bophendze save Aren, Bophendze forced to see the limits of the IPS
 4. Copa.
-5. Imbroglio. 
+5. Imbroglio.
 6. Scintilla. Discovers
 7. Serendipity
 8. Sc
@@ -176,12 +177,12 @@ This stage will take a week per novel...or two months.
       * Scene 18 - Hero - Achieves a small victory related to entry to new world
    2. Segment Four - Achieving a False Victory
       * Scene 19 - Opposition - (4) Villain Reacts to victory
-      * Scene 20 - Hero - 
+      * Scene 20 - Hero -
       * Scene 21 - Confidant - (4)
       * Scene 22 - Hero
       * Scene 23 - Opposition - (5) Tries to defeat hero indirectly
       * Scene 24 - Hero - Discovers part of opposition's goal
-      * Scene 25 - Confidant - (5) 
+      * Scene 25 - Confidant - (5)
       * Scene 26 - Hero - Failure - Achieves False Victory, but only meets selfish goal
 1. Act 3
    1. Segment Five - Things Go Downhill
@@ -277,7 +278,7 @@ You don't make any business investment (time or money) without a coherent busine
 * Financial Plans...how are you going to pay for it?
 
 
-### Summary 
+### Summary
 
 
 3. Develop a mission statement. All businesses have one, and so should you. In other words, pinpoint what you are trying to achieve—and why. After all, it's not enough to bring a product to market; it also has to serve a purpose.
@@ -337,4 +338,4 @@ After reviewing this section the reader should know:
    * Ingermanson, Randy (2009-11-13). *[Writing Fiction for Dummies](http://www.amazon.com/Writing-Fiction-Dummies-Randy-Ingermanson/dp/0470530707/)*
    * Ingermanson, Randy (2014-07-16). *[How to Write a Novel Using the Snowflake Method (Advanced Fiction Writing Book 1)](http://www.amazon.com/Snowflake-Method-Advanced-Fiction-Writing/dp/1500574058)*
    * Wang, Wallace (2013-12-07) [The 15-Minute Movie Method (Screenwriting Made Easy)](http://www.amazon.com/15-Minute-Movie-Method-Screenwriting-Made-ebook/dp/B004TMD9K8/)
-   * Iglesias, Karl (2011-03-28). [Writing for emotional impact](http://www.amazon.com/Writing-Emotional-Impact-Techniques-Fascinate/dp/1595940286). WingSpan Press. 
+   * Iglesias, Karl (2011-03-28). [Writing for emotional impact](http://www.amazon.com/Writing-Emotional-Impact-Techniques-Fascinate/dp/1595940286). WingSpan Press.

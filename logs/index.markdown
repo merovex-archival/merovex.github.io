@@ -1,4 +1,5 @@
 ---
+permalink: /logs/
 layout: page
 title: "logs"
 date: 2014-11-22 09:36

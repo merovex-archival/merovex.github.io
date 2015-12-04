@@ -1,4 +1,5 @@
 ---
+permalink: /aria/
 layout: page
 title: Savaged Aria Interactive History
 comments: true
@@ -79,13 +80,13 @@ After the Social Foundation is established, ARIA-IH identifies the Technology & 
 
 The climate of Innovation is identified by a Society's Rate of Advancement (research) or Rate of Assimilation (acquisition). A Society can **Emphasize** up-to four Innovation Scales (D, P, A, C, T, M, U), depending on the degree of innovation. Innovation Emphasis is further defined by **Innovation Aspects**, similar to Social Aspects, above. The **Primary Scale** is the Innovation Scale of Dominant Materials, and **Secondary Scale** is any of the other Innovation Scales.
 
-The **Technological Rate of Advancement** (TRAdv) is an amalgam of social involvement (need, resources, ethos) and Philosophical Orientation. It is described by a value of one to 10 (1&ndash;10) and set by the GM using rough guidelines.[^TRAdv] This is the difficulty level a Society uses when determining whether a given Technology Scale levels up. The difficulty of attempting to Advance the Dominant Materials Scale is Double. 
+The **Technological Rate of Advancement** (TRAdv) is an amalgam of social involvement (need, resources, ethos) and Philosophical Orientation. It is described by a value of one to 10 (1&ndash;10) and set by the GM using rough guidelines.[^TRAdv] This is the difficulty level a Society uses when determining whether a given Technology Scale levels up. The difficulty of attempting to Advance the Dominant Materials Scale is Double.
 
 A successful Trial is applied to the most logical Innovation Scale. It is not possible to advance a Secondary Scale beyond the Primary Scale.
 
 The **Technological Rate of Assimilation** (TRAsm) enables a technologically inferior neighbor to acquire technology from accessible, advanced neighbors. There is no increased difficulty when attempting to Assimilate the Dominant Materials Scale. Difficulty is increased by the difference between the attempted Secondary Scale increase and the Primary Scale (i.e. Secondary &minus; Primary), and cannot exceed beyond one-half the TRAsm (1/2 TRAsm).
 
-**Technology Trials.** Technology trials occur when the Society is attempting to improve an Innovation Level by developing (TRAdv) or acquiring (TRAsm) technology. 
+**Technology Trials.** Technology trials occur when the Society is attempting to improve an Innovation Level by developing (TRAdv) or acquiring (TRAsm) technology.
 The annual rate of attempting a trial depends on whether the Society is 'Civlized' or 'Primative'.
 A modifier should be applied when the Trial occurs within a Technological Emphasis (+1) or Technological Aspect (+2).
 A successful Trial is applied to the most logical Innovation Scale.

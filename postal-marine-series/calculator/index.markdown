@@ -1,4 +1,5 @@
 ---
+permalink: /postal-marine-series/calculator/
 layout: page
 title: "System Travel Calculator"
 date: 2014-03-29 18:23

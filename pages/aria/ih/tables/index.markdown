@@ -1,4 +1,5 @@
 ---
+permalink: /aria/actions/tables/
 layout: page
 title: Savage History Tables
 comments: true

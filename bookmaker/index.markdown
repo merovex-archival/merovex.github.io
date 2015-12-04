@@ -1,4 +1,5 @@
 ---
+permalink: /bookmaker/
 layout: page
 title: "Bookmaker (Ruby)"
 date: 2014-04-11 18:05

@@ -1,4 +1,5 @@
 ---
+permalink: /scintilla/
 layout: default
 title: 'Book'
 date: 2014-11-01 11:02

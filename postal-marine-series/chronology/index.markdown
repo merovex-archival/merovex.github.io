@@ -1,4 +1,5 @@
 ---
+permalink: /postal-marine-series/chronology/
 layout: page
 title: "postal marine series chronology"
 date: 2014-11-09 10:50
@@ -243,7 +244,7 @@ sidebar: false
 <tr>
 	<td><strong><em>Solace</em></strong></td>
 	<td>Copa-3</td>
-	<td>The Imperium begins to push its will on Copa, pressing to the Copan diplomat (Mondennio) into increasingly worse positions for Copa, Veneza sends members of the resistance to kill Mondennio. 
+	<td>The Imperium begins to push its will on Copa, pressing to the Copan diplomat (Mondennio) into increasingly worse positions for Copa, Veneza sends members of the resistance to kill Mondennio.
 		<ol class='acts'>
 			<li>Act 1: </li>
 			<li>Act 2: </li>

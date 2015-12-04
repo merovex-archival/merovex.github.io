@@ -1,4 +1,5 @@
 ---
+permalink: /savage-worlds/
 layout: page
 title: "Savage Worlds"
 date: 2013-10-20 09:27

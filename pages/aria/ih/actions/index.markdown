@@ -1,4 +1,5 @@
 ---
+permalink: /aria/actions/
 layout: page
 title: aria-ih-actions-and-resolution
 comments: true
@@ -9,4 +10,3 @@ date: 2015-09-13 10:06
 modified_at: 2015-09-13 10:06
 created_at: 2015-09-13 10:06
 ---
-

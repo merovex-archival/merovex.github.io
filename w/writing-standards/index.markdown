@@ -1,4 +1,5 @@
 ---
+permalink: /writing-standards/
 layout: page
 title: "Writing Standards"
 date: 2012-03-10 13:28
@@ -23,7 +24,7 @@ These are the S,L,V,D,N,O ratings from [The Dove Foundation](http://www.dove.org
 The Dove Foundation has **Faith-Friendly Seals**. Movies with this seal are judged according to the same criteria as Family-Approved, except the Christian faith is depicted somewhere in the storyline. A **Faith-Based** seal may be provided to a movie that is considered objectionable except there is a strong Christian theme of redemption.
 
 ### Sex
-  
+
 * **0:	  none**
 * **1:	  on-screen acts of romance**
 * **2:	  infidelity; implied pre-marital sex or secondary lead characters with consequences**

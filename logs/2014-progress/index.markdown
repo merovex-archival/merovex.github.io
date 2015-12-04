@@ -1,4 +1,5 @@
 ---
+permalink: /logs/2014-progress/
 layout: progress_chart
 title: '2014 Writing Progress'
 date: 2014-10-06 09:37
