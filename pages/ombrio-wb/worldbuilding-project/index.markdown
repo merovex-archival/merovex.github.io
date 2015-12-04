@@ -1,5 +1,5 @@
 ---
-permalink: /ombrio-worldbuilding-project/
+permalink: /ombrio-wb/worldbuilding-project/
 layout: page
 title: Ombrio Worldbuilding Project
 comments: true
