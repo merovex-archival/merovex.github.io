@@ -1,5 +1,5 @@
 ---
-permalink: /writing-tools/
+permalink: /w/writing-tools/
 layout: page
 title: "Writing Tools"
 date: 2014-11-01 09:04

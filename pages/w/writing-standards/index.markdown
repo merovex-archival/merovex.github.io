@@ -1,5 +1,5 @@
 ---
-permalink: /writing-standards/
+permalink: /w/writing-standards/
 layout: page
 title: "Writing Standards"
 date: 2012-03-10 13:28
