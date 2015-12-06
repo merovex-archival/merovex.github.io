@@ -199,6 +199,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_sass/2015/_fonts.scss",
+			"settings":
+			{
+				"buffer_size": 480,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/2015/_typography.scss",
+			"settings":
+			{
+				"buffer_size": 2155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_drafts/categories-and-tags-and-bears.md",
+			"settings":
+			{
+				"buffer_size": 508,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -229,7 +253,7 @@
 		[
 			[
 				"je",
-				"Jekyll: New draft"
+				"Jekyll: Insert current datetime"
 			],
 			[
 				"install",
@@ -358,15 +382,77 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts",
 		"/Users/bwilson/Sites/merovex.github.io/_site",
 		"/Users/bwilson/Sites/merovex.github.io/_site/vw",
 		"/Users/bwilson/Sites/merovex.github.io/_site/vw/engine-build",
 		"/Users/bwilson/Sites/merovex.github.io/css",
-		"/Users/bwilson/Sites/merovex.github.io/vendor",
-		"/Users/bwilson/Sites/merovex.github.io/willard"
+		"/Users/bwilson/Sites/merovex.github.io/vendor"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/Jekyll/Default (OSX).sublime-keymap",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/categories-and-tags-and-bears.md",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-10-27-build-passing-more-perfect.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-09-17-heroes-for-more-than-one-season.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-02-28-spock.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-02-15-memories-of-a-vw-bug-roadtrip.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-04-18-breaking-the-silence.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-02-28-not-gone.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-08-05-when-friends-take-a-turn-for-the-worse.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-28-a-year-of-audible.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2010-12-21-a-retrospective-on-scintillas-first-draft.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2013-01-01-three-words-and-amazon.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-11-29-audible-2015.md",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-12-20-retrospective-2014.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-01-21-finished-bellicose-draft.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/tags/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/categories.html",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-05-04-shifting-gears-to-save-a-beetle.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-10-11-frustration-with-zerigo.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2013-12-31-a-gutsy-year.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_books/01_bellicose.md",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-09-06-a-buggy-summer.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-01-28-amazon-defines-novel-length.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-10-05-considering-kickstarter.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-17-here-be-dragons-dictating.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-23-writing-goals-for-2015.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-03-02-summary-of-february-2014.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-02-21-progress-in-winter-2015.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-01-november-and-nanowrimo-2014.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-03-31-march-slouching-to-publication.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-12-07-quiet-rituals.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-04-29-april-progress-its-not-my-fault.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2010-12-18-how-i-protect-my-copyright.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2010-12-12-when-should-you-register-your-work.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-10-12-octopress-to-jekyll.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-01-18-lessons-in-octopress.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-02-july-lessons-in-transition.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-06-21-june-a-naughty-boy.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-24-so-im-building-a-vo-sound-booth.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-11-sound-booth-three.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-31-so-im-building-a-vo-sound-booth-2.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-07-10-questions-about-the-domino-project.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-07-09-adopt-the-domino-project-for-your-novels.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-05-25-may-day-going-down.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-02-01-writing-progress-january-2014.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-10-03-slothful-september.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-07-15-work-in-progress-bellicose.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-07-03-its-not-really-three-acts.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-02-12-additional-progress-tracking.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-03-10-a-writing-standard.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-09-14-agile-publishing-model.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-12-29-building-a-brave-new-world.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-11-11-analyzing-spectre.md",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-12-15-skyfall-plot-analysis.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-09-01-review-guide-to-writing-fantasy-and-science-fiction.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-09-26-going-back-to-scrivener.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-07-05-toolchain.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/post.html",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/a-year-of-sales-2015.md",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/archive_post.html",
+		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/bwilson/Sites/merovex.github.io/.travis.yml",
 		"/Users/bwilson/Sites/merovex.github.io/pages/bodyfat-calculator.md",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_style.scss",
@@ -375,7 +461,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/an-afternoon-on-ancestry.md",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/audible-2015.md",
 		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-28-a-year-of-audible.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/about.md",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/print.scss",
 		"/Users/bwilson/Sites/merovex.github.io/diceware.md",
@@ -388,7 +473,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/willard/disciplines.md",
 		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
 		"/Users/bwilson/Sites/merovex.github.io/css/print.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2010-12-12-when-should-you-register-your-work.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_typography.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_mixins.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_color.scss",
@@ -403,17 +487,13 @@
 		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_golden-ratio.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_typography.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_navbar.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/post.html",
 		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_style.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-24-so-im-building-a-vo-sound-booth.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/pages/freelance-applications.md",
 		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_color.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_compass/print.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_footer.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/header.html",
 		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_headers.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-11-11-analyzing-spectre.md",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-12-15-skyfall-plot-analysis.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/pages/novels.md",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/COMMIT_EDITMSG.COMMIT_EDITMSG",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/truth-about-santa-claus.markdown",
@@ -436,65 +516,10 @@
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-10-28-sample-title.md",
 		"/Users/bwilson/Sites/merovex.github.io/Rakefile",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/build-passing-more-perfect.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-12-29-building-a-brave-new-world.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/paginator.html",
 		"/Users/bwilson/Sites/merovex.github.io/404.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/archive_post.html",
 		"/Users/bwilson/Sites/merovex.github.io/bookmaker/index.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/vw/engine-build-calculator.md",
-		"/Users/bwilson/Sites/merovex.github.io/vw/engine-build/calculator/bugbits-technical.html",
-		"/Users/bwilson/Sites/merovex.github.io/astro-empires/napkin-combat.md",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-02-12-additional-progress-tracking.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/pages/business-plan.md",
-		"/Users/bwilson/Sites/merovex.github.io/astro-empires/pring-construction-guide.md",
-		"/Users/bwilson/Sites/merovex.github.io/astro-empires/advanced-base-guide.md",
-		"/Users/bwilson/Sites/merovex.github.io/savage-worlds/index.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/savage-worlds/skills.md",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/old.paginate",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/progress_chart.html",
-		"/Users/bwilson/Sites/merovex.github.io/w/writing-tools/save-the-cat-tips.html",
-		"/Users/bwilson/Sites/merovex.github.io/w/writing-tools/scene-calculator.html",
-		"/Users/bwilson/Sites/merovex.github.io/w/writing-tools/snowflake-method.md",
-		"/Users/bwilson/Sites/merovex.github.io/w/writing-tools/index.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-07-10-questions-about-the-domino-project.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/postal-marine-series/terradoma-map/index.html",
-		"/Users/bwilson/Sites/merovex.github.io/page1.md",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-07-15-work-in-progress-bellicose.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-16-inspiration-for-the-postal-marines.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/books.html",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-01-21-finished-bellicose-draft.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-07-05-toolchain.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/articles/toolchain/index.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-05-10-beetle-project-goals-pt-2.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/w/writing-a-novel-series/index.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-09-14-agile-publishing-model.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-02-01-writing-progress-january-2014.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/ombrio-wb/index.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-03-31-march-slouching-to-publication.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-06-21-june-a-naughty-boy.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-04-29-april-progress-its-not-my-fault.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-07-03-its-not-really-three-acts.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/articles/april-progress-its-not-my-fault/index.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2013-12-31-a-gutsy-year.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/astro-empires/seven-ten-guide.md",
-		"/Users/bwilson/Sites/merovex.github.io/astro-empires/small-fleet-doctrine.md",
-		"/Users/bwilson/Sites/merovex.github.io/astro-empires/production-structures.md",
-		"/Users/bwilson/Sites/merovex.github.io/astro-empires/index.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/astro-empires/base-defense-guide.md",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/shared/astro_empire_header.html",
-		"/Users/bwilson/Sites/merovex.github.io/articles/finished-bellicose-draft/index.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/aria/ih/tables/index.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/articles/beetle-project-pt-3/index.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/aria/ih/index.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/articles/beetle-project-goals-pt-2/index.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/shared/worldbuilding_campaign.html",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-09-06-a-buggy-summer.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/article_redirect.html",
-		"/Users/bwilson/Sites/merovex.github.io/README.md",
-		"/Users/bwilson/Projects/ezra/app/views/support/history.html.haml",
-		"/Users/bwilson/Projects/ezra/app/controllers/support_controller.rb",
-		"/Users/bwilson/Projects/ezra/app/models/job.rb",
-		"/Users/bwilson/Projects/ezra/app/models/job_report.rb"
+		"/Users/bwilson/Sites/merovex.github.io/vw/engine-build-calculator.md"
 	],
 	"find":
 	{
@@ -513,6 +538,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ul",
+			"2015-11-30 15:48",
+			"CY2016",
 			"flex-end",
 			"26",
 			"28",
@@ -637,10 +665,7 @@
 			"how",
 			":\n",
 			"converter",
-			"content",
-			"sentence",
-			"-2",
-			"th{"
+			"content"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -658,8 +683,99 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_sass/2015/_fonts.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "scss",
+							"syntax": "Packages/Theme - Cyanide/Cyanide/file_types/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_sass/2015/_typography.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1293,
+								1299
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"syntax": "Packages/Theme - Cyanide/Cyanide/file_types/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 62.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_drafts/categories-and-tags-and-bears.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								484,
+								484
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "markdown",
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -724,6 +840,258 @@
 		"selected_items":
 		[
 			[
+				"typogra",
+				"_sass/2015/_typography.scss"
+			],
+			[
+				"fonts",
+				"_sass/2015/_fonts.scss"
+			],
+			[
+				"build",
+				"_posts/2015-10-27-build-passing-more-perfect.markdown"
+			],
+			[
+				"heros",
+				"_posts/2011-09-17-heroes-for-more-than-one-season.markdown"
+			],
+			[
+				"spo",
+				"_posts/2015-02-28-spock.markdown"
+			],
+			[
+				"breakin",
+				"_posts/2015-04-18-breaking-the-silence.markdown"
+			],
+			[
+				"memor",
+				"_posts/2015-02-15-memories-of-a-vw-bug-roadtrip.markdown"
+			],
+			[
+				"gone",
+				"_posts/2012-02-28-not-gone.markdown"
+			],
+			[
+				"friends",
+				"_posts/2011-08-05-when-friends-take-a-turn-for-the-worse.markdown"
+			],
+			[
+				"three",
+				"_posts/2013-01-01-three-words-and-amazon.markdown"
+			],
+			[
+				"scintil",
+				"_posts/2010-12-21-a-retrospective-on-scintillas-first-draft.markdown"
+			],
+			[
+				"audi",
+				"_posts/2014-11-28-a-year-of-audible.markdown"
+			],
+			[
+				"retro",
+				"_posts/2014-12-20-retrospective-2014.markdown"
+			],
+			[
+				"belli",
+				"_posts/2014-01-21-finished-bellicose-draft.markdown"
+			],
+			[
+				"tags",
+				"tags/index.html"
+			],
+			[
+				"cate",
+				"categories.html"
+			],
+			[
+				"tags/",
+				"tags/index.html"
+			],
+			[
+				"tag",
+				"_posts/2013-12-31-a-gutsy-year.markdown"
+			],
+			[
+				"zer",
+				"_posts/2014-10-11-frustration-with-zerigo.markdown"
+			],
+			[
+				"save",
+				"_posts/2015-05-04-shifting-gears-to-save-a-beetle.markdown"
+			],
+			[
+				"finished",
+				"_posts/2014-01-21-finished-bellicose-draft.markdown"
+			],
+			[
+				"buggy",
+				"_posts/2015-09-06-a-buggy-summer.markdown"
+			],
+			[
+				"novel",
+				"_posts/2011-01-28-amazon-defines-novel-length.markdown"
+			],
+			[
+				"kick",
+				"_posts/2014-10-05-considering-kickstarter.markdown"
+			],
+			[
+				"dragon",
+				"_posts/2014-08-17-here-be-dragons-dictating.markdown"
+			],
+			[
+				"goals",
+				"_posts/2014-11-23-writing-goals-for-2015.markdown"
+			],
+			[
+				"agut",
+				"_posts/2013-12-31-a-gutsy-year.markdown"
+			],
+			[
+				"nano",
+				"_posts/2014-11-01-november-and-nanowrimo-2014.markdown"
+			],
+			[
+				"winter",
+				"_posts/2015-02-21-progress-in-winter-2015.markdown"
+			],
+			[
+				"februar",
+				"_posts/2014-03-02-summary-of-february-2014.markdown"
+			],
+			[
+				"march",
+				"_posts/2014-03-31-march-slouching-to-publication.markdown"
+			],
+			[
+				"quiet",
+				"_posts/2014-12-07-quiet-rituals.markdown"
+			],
+			[
+				"april",
+				"_posts/2014-04-29-april-progress-its-not-my-fault.markdown"
+			],
+			[
+				"how",
+				"_posts/2010-12-18-how-i-protect-my-copyright.markdown"
+			],
+			[
+				"when",
+				"_posts/2010-12-12-when-should-you-register-your-work.markdown"
+			],
+			[
+				"register",
+				"_posts/2010-12-12-when-should-you-register-your-work.markdown"
+			],
+			[
+				"octo",
+				"_posts/2015-10-12-octopress-to-jekyll.markdown"
+			],
+			[
+				"lessons",
+				"_posts/2014-08-02-july-lessons-in-transition.markdown"
+			],
+			[
+				"naug",
+				"_posts/2014-06-21-june-a-naughty-boy.markdown"
+			],
+			[
+				"sound",
+				"_posts/2014-11-11-sound-booth-three.markdown"
+			],
+			[
+				"sou",
+				"_posts/2014-08-24-so-im-building-a-vo-sound-booth.markdown"
+			],
+			[
+				"domin",
+				"_posts/2011-07-10-questions-about-the-domino-project.markdown"
+			],
+			[
+				"domino",
+				"_posts/2011-07-09-adopt-the-domino-project-for-your-novels.markdown"
+			],
+			[
+				"may",
+				"_posts/2014-05-25-may-day-going-down.markdown"
+			],
+			[
+				"writing",
+				"_posts/2014-02-01-writing-progress-january-2014.markdown"
+			],
+			[
+				"sloth",
+				"_posts/2014-10-03-slothful-september.markdown"
+			],
+			[
+				"notreal",
+				"_posts/2012-07-03-its-not-really-three-acts.markdown"
+			],
+			[
+				"work",
+				"_posts/2012-07-15-work-in-progress-bellicose.markdown"
+			],
+			[
+				"addition",
+				"_posts/2014-02-12-additional-progress-tracking.markdown"
+			],
+			[
+				"writingstandar",
+				"_posts/2012-03-10-a-writing-standard.markdown"
+			],
+			[
+				"agile",
+				"_posts/2012-09-14-agile-publishing-model.markdown"
+			],
+			[
+				"building",
+				"_posts/2014-12-29-building-a-brave-new-world.markdown"
+			],
+			[
+				"spe",
+				"_posts/2015-11-11-analyzing-spectre.md"
+			],
+			[
+				"sky",
+				"_posts/2012-12-15-skyfall-plot-analysis.markdown"
+			],
+			[
+				"review",
+				"_posts/2015-09-01-review-guide-to-writing-fantasy-and-science-fiction.markdown"
+			],
+			[
+				"tool",
+				"_posts/2014-07-05-toolchain.markdown"
+			],
+			[
+				"scriv",
+				"_posts/2015-09-26-going-back-to-scrivener.markdown"
+			],
+			[
+				"going",
+				"_posts/2015-09-26-going-back-to-scrivener.markdown"
+			],
+			[
+				"au",
+				"_posts/2014-11-28-a-year-of-audible.markdown"
+			],
+			[
+				"audib",
+				"_posts/2015-11-29-audible-2015.md"
+			],
+			[
+				"finishin",
+				"_posts/2014-01-21-finished-bellicose-draft.markdown"
+			],
+			[
+				"post",
+				"_layouts/post.html"
+			],
+			[
+				"_post",
+				"_includes/archive_post.html"
+			],
+			[
 				"bodyfat",
 				"pages/bodyfat-calculator.md"
 			],
@@ -742,14 +1110,6 @@
 			[
 				"ances",
 				"_drafts/an-afternoon-on-ancestry.md"
-			],
-			[
-				"audib",
-				"_drafts/audible-2015.md"
-			],
-			[
-				"audi",
-				"_posts/2014-11-28-a-year-of-audible.markdown"
 			],
 			[
 				"_con",
@@ -836,10 +1196,6 @@
 				"_posts/2014-08-24-so-im-building-a-vo-sound-booth.markdown"
 			],
 			[
-				"novel",
-				"pages/novels.md"
-			],
-			[
 				"sant",
 				"_drafts/truth-about-santa-claus.markdown"
 			],
@@ -870,10 +1226,6 @@
 			[
 				"build-p",
 				"_drafts/build-passing-more-perfect.markdown"
-			],
-			[
-				"build",
-				"_posts/2014-12-29-building-a-brave-new-world.markdown"
 			],
 			[
 				"pagin",
@@ -932,10 +1284,6 @@
 				"page1.md"
 			],
 			[
-				"work",
-				"_posts/2012-07-15-work-in-progress-bellicose.markdown"
-			],
-			[
 				"inspo",
 				"_posts/2014-11-16-inspiration-for-the-postal-marines.markdown"
 			],
@@ -992,10 +1340,6 @@
 				"_posts/2011-07-10-questions-about-the-domino-project.markdown"
 			],
 			[
-				"agile",
-				"_posts/2012-09-14-agile-publishing-model.markdown"
-			],
-			[
 				"building-a",
 				"_posts/2014-12-29-building-a-brave-new-world.markdown"
 			],
@@ -1004,236 +1348,8 @@
 				"ombrio-wb/index.markdown"
 			],
 			[
-				"writing",
-				"_posts/2014-02-01-writing-progress-january-2014.markdown"
-			],
-			[
 				"slouch",
 				"_posts/2014-03-31-march-slouching-to-publication.markdown"
-			],
-			[
-				"naught",
-				"_posts/2014-06-21-june-a-naughty-boy.markdown"
-			],
-			[
-				"its-not-my",
-				"_posts/2014-04-29-april-progress-its-not-my-fault.markdown"
-			],
-			[
-				"gutsy-year",
-				"_posts/2013-12-31-a-gutsy-year.markdown"
-			],
-			[
-				"astro-empires/in",
-				"astro-empires/index.markdown"
-			],
-			[
-				"base-defe",
-				"astro-empires/base-defense-guide.md"
-			],
-			[
-				"as",
-				"_includes/shared/astro_empire_header.html"
-			],
-			[
-				"advanced",
-				"astro-empires/advanced-base-guide.md"
-			],
-			[
-				"tables",
-				"aria/ih/tables/index.markdown"
-			],
-			[
-				"aria/ih",
-				"aria/ih/index.markdown"
-			],
-			[
-				"napk",
-				"astro-empires/napkin-combat.md"
-			],
-			[
-				"addi",
-				"_posts/2014-02-12-additional-progress-tracking.markdown"
-			],
-			[
-				"world",
-				"_includes/shared/worldbuilding_campaign.html"
-			],
-			[
-				"astro",
-				"_includes/shared/astro_empire_header.html"
-			],
-			[
-				"sidebar",
-				"_includes/sidebar.html"
-			],
-			[
-				"buggy",
-				"_posts/2015-09-06-a-buggy-summer.markdown"
-			],
-			[
-				"post",
-				"_layouts/post.html"
-			],
-			[
-				"aria/ih/",
-				"aria/ih/index.markdown"
-			],
-			[
-				"foot",
-				"_includes/footer.html"
-			],
-			[
-				".tra",
-				".travis.yml"
-			],
-			[
-				"survey_hel",
-				"app/helpers/surveys_helper.rb"
-			],
-			[
-				"history",
-				"app/views/support/history.html.haml"
-			],
-			[
-				"support",
-				"app/controllers/support_controller.rb"
-			],
-			[
-				"job_re",
-				"app/models/job_report.rb"
-			],
-			[
-				"job.r",
-				"app/models/job.rb"
-			],
-			[
-				"job.rb",
-				"app/models/job.rb"
-			],
-			[
-				"support_co",
-				"app/controllers/support_controller.rb"
-			],
-			[
-				"support/in",
-				"app/views/support/index.html.haml"
-			],
-			[
-				"_hx",
-				"app/views/jobs/_hx.html.haml"
-			],
-			[
-				"appli",
-				"app/assets/stylesheets/application.css.scss"
-			],
-			[
-				"time_",
-				"config/initializers/time_formats.rb"
-			],
-			[
-				"jobs_c",
-				"app/controllers/jobs_controller.rb"
-			],
-			[
-				"routes",
-				"config/routes.rb"
-			],
-			[
-				"show",
-				"app/views/jobs/show.html.haml"
-			],
-			[
-				"job",
-				"app/models/job.rb"
-			],
-			[
-				"support/_jo",
-				"app/views/support/_job.html.haml"
-			],
-			[
-				"jobs/in",
-				"app/views/jobs/index.html.haml"
-			],
-			[
-				"job/show",
-				"app/views/jobs/show.html.haml"
-			],
-			[
-				"touch.r",
-				"app/models/touch.rb"
-			],
-			[
-				"_touch",
-				"app/views/jobs/_touch.html.haml"
-			],
-			[
-				"seed",
-				"db/seeds.rb"
-			],
-			[
-				"applicationhaml",
-				"app/views/layouts/application.html.haml"
-			],
-			[
-				"applsc",
-				"app/assets/stylesheets/application.css.scss"
-			],
-			[
-				"application.h",
-				"app/views/layouts/application.html.haml"
-			],
-			[
-				"route",
-				"config/routes.rb"
-			],
-			[
-				"job/sho",
-				"app/views/jobs/show.html.haml"
-			],
-			[
-				"navi",
-				"app/views/layouts/_navigation.html.haml"
-			],
-			[
-				"application.s",
-				"app/assets/stylesheets/application.css.scss"
-			],
-			[
-				"touchs_con",
-				"app/controllers/touches_controller.rb"
-			],
-			[
-				"jobs/sho",
-				"app/views/jobs/show.html.haml"
-			],
-			[
-				"touch.rb",
-				"app/models/touch.rb"
-			],
-			[
-				"jobs/show",
-				"app/views/jobs/show.html.haml"
-			],
-			[
-				"job/new",
-				"app/views/jobs/new.html.haml"
-			],
-			[
-				"_for",
-				"app/views/jobs/_form.html.haml"
-			],
-			[
-				"jobs/",
-				"app/views/jobs/_form.html.haml"
-			],
-			[
-				"main",
-				"css/main.scss"
-			],
-			[
-				"ind",
-				"index.html"
 			]
 		],
 		"width": 0.0
