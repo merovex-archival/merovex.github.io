@@ -16,7 +16,7 @@ modified_at: 2015-12-04 17:15
 created_at: 2015-10-26 15:48
 ---
 
-It's that time of year: Christmas. When we commemorate the life of one of the greatest ascetics in history. When we demonstrate our obedience to his message of spirituality and selflessness buy outspending the rest of the year. Santa Claus be praised.
+It's that time of year: Christmas. When we commemorate the life of one of the greatest ascetics in history. When we demonstrate our obedience to his message of spirituality and selflessness by outspending the rest of the year. Santa Claus be praised.
 
 <!-- more -->
 
