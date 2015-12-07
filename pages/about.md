@@ -49,7 +49,7 @@ Ben lives in Arlington, Virginia with his wife and three children. Find him on t
 
 <h2 id="colophon">Colophon</h2>
 
-<p><strong>The site is written in <a href="http://en.wikipedia.org/wiki/HTML5">HTML5</a> (<a href="http://html5.validator.nu/?doc=http%3A%2F%dausha.net">somewhat valid</a>) with <a href="http://en.wikipedia.org/wiki/Css">Cascading Style Sheets (CSS)</a> and delivered using <a href="http://jekyllrb.com/">Jekyll</a>.</strong></p>
+<p><strong>The site is written in <a href="http://en.wikipedia.org/wiki/HTML5">HTML5</a> with <a href="http://en.wikipedia.org/wiki/Css">Cascading Style Sheets (CSS)</a> and delivered using <a href="http://jekyllrb.com/">Jekyll</a>.</strong></p>
 
 <p><a href="http://github.com">Github</a> provides the Platform as a Service (PaaS), which lets one host for free if the traffic’s not too heavy. Hey, if <a href="http://netflix.com">Netflix</a> can be the largest consumer of public cloud infrastructure, I can use Github.</p>
 
