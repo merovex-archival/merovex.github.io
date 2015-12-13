@@ -40,8 +40,11 @@ $background-color: $cream;
 // Pantone 201 (Sooners) 841617 (Ford Regal Red #861B19)
 $pantone-201c: #9d2235; // HOGS: #9d2235 - Cardinal red
 $pantone-202c: #862633; // Redskins
+// Audi Misano Red Pearl / LZ3M, N9, N9N9, N9PA, N9PW / #ba2111 Hex Color Code
+$misano-red: #ba2111;
 
 $brand-primary: $pantone-201c;
+//$brand-primary: $misano-red;
 
 $navbar-background: $brand-primary;
 $navbar-darken: darken($navbar-background, 10);
