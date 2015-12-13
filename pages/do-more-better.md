@@ -11,11 +11,7 @@ date: 2015-12-13 09:40
 modified_at: 2015-12-13 09:40
 ---
 
-# Contents
-{:.no_toc}
-
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
+{% include toc.html %}
 
 Coram Deo - in the Presence of God.
 
