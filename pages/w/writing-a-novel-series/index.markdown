@@ -11,24 +11,11 @@ modified_at: 2015-04-11 11:14
 created_at: 2015-04-11 11:14
 ---
 
-**Contents**
+## Contents
+{:.no_toc}
 
-* Overview
-* Series Design (Three Months)
-  * Viewpoint Characters
-  * Creating the Series Plot (8 hours)
-  * Plotting the Novels (8 hours)
-  * Novel / Series Characters (10-20 hours)
-  * Detailed Novel Plotting (50-80 hours)
-  * Scene Plotting (Varies)
-* Book Writing (Six Months)
-  * First Draft, For Yourself
-  * Second Draft, For the Audience
-  * Third Draft, Feedback Incorporation
-  * Final Draft, Omit Needless Words
-* Publishing the Series (Seven Years)
-* Business Plan
-* Bibliography
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
 
 ## Overview
 
@@ -66,13 +53,13 @@ The first series will take upward of seven years to fully write and publish. Whe
 
 A question will be
 
-## Series Design
+## Series Design (3 Months)
 
 **Up front:** Between 100 to 400 hours will be needed for Series Design, depending on the level of detail sought. If you assume 8 hours a weekend, then the 100 hours is about 12-weeks. So, this overall process would take between three months to a year.
 
 The basis of this method is Snowflake, which provides an iterative approach to story-writing. Snowflake traditionally starts at the one-sentence novel summary (the high-concept), and when fully developed has paragraph summaries for the entire book. As it is iterative, we can use Snowflake to plot the entire series.
 
-Snowflake is the OODA of novel writing. As you write the series, you have to re-orient all other steps accordingly. By the time you get to the end of Snowflake, you will have your series down cold.
+Snowflake is the [OODA](https://en.wikipedia.org/wiki/OODA_loop) of novel writing. As you write the series, you have to re-orient all other steps accordingly. By the time you get to the end of Snowflake, you will have your series down cold.
 
 Randy describes the Snowflake Method as the creation of design documents. He recommends you use what you like and discard what you don't. His assessment is it would take 100 hours to follow his method for a novel. Based on that, it would take upwards of 800 hours to do the same for an entire novel series. That is likely a year of your time to produce solid design documents for an entire series.
 
@@ -82,11 +69,11 @@ A few terms I use to try to avoid confusion:
 * Novel Snowflake...relevant to the Novel
 * I number each one "Series Snowflake-3" or "Novel Snowflake-2" to show the impact on the
 
-### Viewpoint Characters
+### Viewpoint Characters 
 
 Marshall Plan provides good advice for Viewpoint Characters. That is, a novel of 65 k-words will have three viewpoint characters (Hero, Opponent, Confidant) and four plotlines (Hero has an external and internal plotline. Wallace's book is very good at helping to think through how those plotlines develop, but the important part is that (usually) the hero's external circumstances lead to a change. When you get to Novel Snowflake-7, that will take a few days.
 
-### Creating the Series Plot
+### Creating the Series Plot (8 Hours)
 
 1. Give the series a working title. Until you have book titles, the working title can be used as a shorthand for each novel. For example, if the series is Patriots, then the novels would be Patriot-1, Patriot-4, etc.
 2. Generate the one-sentence plotline of the entire series. (Series Snowflake-1)
@@ -120,13 +107,13 @@ Imperial Postal Service:
 7. Serendipity
 8. Sc
 
-### Plotting the Novels
+### Plotting the Novels (8 Hours)
 
 Once you have the Series Plot, take the time to develop the novels by following each Snowflake Step. The Series Plot gives you Snowflake-1 for all novels. By the end of this step, you will likely have invested a total of 13-15 hours in the entire series.
 
 The next step is to take 8 hours to expand each Novel plot per Snowflake-2. Since you will have recurring characters, try to see how they intermix. You will still have an overall series hero and a series opponent...though it is entirely possible that the real hero/opponent are concepts. For example, a novel series could be a grand battle between liberty and oppression and the different viewpoint characters each representatives of the concept. The result of Novel Snowflake-2 is Series Snowflake-4.
 
-### Novel & Series Characters
+### Novel & Series Characters (10-20 Hours)
 
 Once you've completed Novel Snowflake-2, you likely have a four-page Series Summary (Series Snowflake-6). There are intermediary steps (series-related character, etc.) that have been overlooked. Take the time now to go back and develop the Series-relevant characters.
 
@@ -140,7 +127,7 @@ When writing the storyline for the character, a helpful mental model is to think
 
 This stage will take many hours, probably 10-20.
 
-### Novel Plotting Leads to Thirty Page Series Outline
+### Novel Plotting Leads to Thirty Page Series Outline (50-80 Hours)
 
 Here's where I start mixing Snowflake with Marshall and 8-Segment. This could go wrong, so be patient...or toss what doesn't fit in your story. I am very probably creating a straight jacket that is unnecessary.
 
@@ -216,7 +203,7 @@ This stage will take a week per novel...or two months.
       * Scene 50 - Hero - Saving Act (Climax)
       * Scene 51 - Hero - Denouement
 
-### Scene Plotting
+### Scene Plotting (Varies)
 
 This can be overkill, so proceed with confidence.
 
@@ -224,7 +211,7 @@ Novel Snowflake-9 is about expanding the scene sentences above into paragraphs. 
 
 This stage will take a few months. If you include this step with all of the above, it will likely take a full year to develop the series to this level of detail. However, by this point you would have an amazing amount of detail.
 
-## Drafting the Novel
+## Drafting the Novel (6 Months)
 
 Once you have finished the overall Series Outline, which comprises the outlines for the eight novels, you are ready to start drafting novels.
 
@@ -246,46 +233,56 @@ Keep a TODO list. When you name a character,  you will need to take tie to devel
 
 The purpose of the second draft is to tell your audience. Go back through and fix the narrative. Some suggest this should be a full draft. The point is, do not be emotionally attached to what you wrote in the first draft. Where you are emotionally attached, there you will fail.
 
-### Third Draft
+### Third Draft (Incorporate First Reader Feedback)
 
 After the second draft is complete, send it to some trusted readers and ask for their feedback. When you have that feedback, go back through and incorporate that feedback.
 
-### Final Draft
+### Final Draft (Omit Needless Words)
 
 Now go back through the book and omit needless words. The purpose here is to be lean in your story telling.
 
-## Publishing the Series
+## Publishing the Series (Seven Years)
 
-Do not publish any of the novels until you've finished the fourth of the series. Apart from the encouraging feedback from your Beta readers, you will have nothing to feed off of for about 30 months.
+Do not publish any of the novels until you've finished the fourth of the series. Apart from the encouraging feedback from your Beta readers, you will have nothing to feed off of for about 30 months. (I broke this rule.)
 
-At that point, I recommend taking time to develop a second series. Any subsequent series should have two books ready for publish before released. Interweave writing each series. That is, write Book 5 of one series, and Book 1 of another, then Book 6 and Book 2. You start selling the second series after the second book is ready for publish. By that point, you will only have two books left of your first series---it will be time to transition your readers. Five to Six years will have passed from when you started.
+At that point, I recommend taking time to develop a second series. Any subsequent series should have two books ready for publish before released. Thus, after writing the fourth book of the first series, write two of the next. That is:
 
-Before you to to publish, you will have time to go back and perhaps do additional revisions of the earlier novels based on your improved writing and better understanding of the story.
+* Series 1, Book 5
+* Series 2, Book 1
+* Series 1, Book 6
+* Series 2, Book 2
+ 
+You start selling the second series after the second book is ready for publish. By that point, you will only have a few books left of your first series---it will be time to transition your readers. Five to Six years will have passed from when you started.
 
-Go to Bowker and pay the money for ISBNs. Use those for the print version and tie them with your Kindle version. Most of the sales will be Kindle, the print copy (courtesy of Createspace) is a marketing tool.
+Before you begin to publish the first series, you will have time to go back and perhaps do additional revisions of the earlier novels based on your improved writing and better understanding of the story after you've written the fourth.
 
-Go to 99Designs and find a good cover artist. You are looking for an artist who is serious and someone you will want to work with for the seven years it will take to publish the series. Expect to pay $2K to get four good covers. Have all covers made quickly.
+### ISBNs
+
+Go to [Bowker](http://www.bowker.com/) and pay the money for ISBNs, buy a 10-block as they are cheaper. Use those for the print version and tie them with your Kindle version. Most of the sales will be Kindle, the print copy (courtesy of [Createspace](http://createspace.com)) is a essentially marketing tool.
+
+### Cover Design
+
+Go to [99Designs](http://99designs.com) and find a good cover artist. You are looking for an artist who is serious and someone you will want to work with for the seven years it will take to publish the series. Expect to pay $2K to get four good covers (though I was closer to $1K). Have all covers made quickly, while you're revising the fourth. Be careful that the cover designer does not use obvious clip art or copyrighted images. (I had somebody try to sell a cover using Halo's Master Chief. Let me know if you want a good recommendation.)
 
 ## Business Plan
 
 You don't make any business investment (time or money) without a coherent business plan. The sections below are from a model template I use.
 
-* Mission statement is what you want to sell to whom and why
-* Product Description is a one-paragraph summary of each novel series, and the target audience
-* Strategy is what I described above...how you intend on getting published.
-* Marketing and Sales is simple: Sell on Kindle and Createspace and follow Randy's passive marketing model.
-* Management is more about your beta readers and trusted advisors
+* Mission statement is what you want to sell to whom and why,
+* Product Description is a one-paragraph summary of each novel series, and the target audience,
+* Strategy is what I described above...how you intend on getting published,
+* Marketing and Sales is simple: Sell on Kindle and Createspace and follow [Randy's passive marketing model](http://bit.ly/1Oe5gff),
+* Management is more about your beta readers and trusted advisors, 
 * Financial Plans...how are you going to pay for it?
 
 
 ### Summary
 
-
 3. Develop a mission statement. All businesses have one, and so should you. In other words, pinpoint what you are trying to achieve—and why. After all, it's not enough to bring a product to market; it also has to serve a purpose.
 
 * **Goals.** It helps to have an idea of what you're trying to accomplish. For example, for every $1K of earnings per month, you need 1,000 sales per month.
 
-### Product Description.
+### Product Description
 
 Understand your market and what you intend to provide. This is easy: produce a series of novel series. You will want to provide the theme, target audience and one-paragraph series summary for every series.
 
@@ -335,7 +332,7 @@ After reviewing this section the reader should know:
 
 ## Bibliography
 
-   * Ingermanson, Randy (2009-11-13). *[Writing Fiction for Dummies](http://www.amazon.com/Writing-Fiction-Dummies-Randy-Ingermanson/dp/0470530707/)*
-   * Ingermanson, Randy (2014-07-16). *[How to Write a Novel Using the Snowflake Method (Advanced Fiction Writing Book 1)](http://www.amazon.com/Snowflake-Method-Advanced-Fiction-Writing/dp/1500574058)*
-   * Wang, Wallace (2013-12-07) [The 15-Minute Movie Method (Screenwriting Made Easy)](http://www.amazon.com/15-Minute-Movie-Method-Screenwriting-Made-ebook/dp/B004TMD9K8/)
-   * Iglesias, Karl (2011-03-28). [Writing for emotional impact](http://www.amazon.com/Writing-Emotional-Impact-Techniques-Fascinate/dp/1595940286). WingSpan Press.
+   * Ingermanson, Randy (2009-11-13). *[Writing Fiction for Dummies](http://amzn.to/1ZgJZU0)*
+   * Ingermanson, Randy (2014-07-16). *[How to Write a Novel Using the Snowflake Method (Advanced Fiction Writing Book 1)](http://amzn.to/1IZH2D8)*
+   * Wang, Wallace (2013-12-07) [The 15-Minute Movie Method (Screenwriting Made Easy)](http://amzn.to/1ZgLgKL)
+   * Iglesias, Karl (2011-03-28). [Writing for emotional impact](http://amzn.to/1ZgLl18). WingSpan Press.

@@ -9,9 +9,8 @@ footer: true
 sidebar: true
 date: 2015-12-13 09:40
 modified_at: 2015-12-13 09:40
+toc: true
 ---
-
-{% include toc.html %}
 
 Coram Deo - in the Presence of God.
 
