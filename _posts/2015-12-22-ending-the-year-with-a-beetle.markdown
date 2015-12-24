@@ -41,6 +41,6 @@ Once back in the paint shop, I will start reinstalling all of the wires and redo
 
 So how am I doing with the schedule? My stretch goal was to have everything done by May. My realistic goal was to have everything done by May 2017. Right now, it's apparent that my May 2016 stretch goal is not gonna happen. I underestimated the bodywork, or overestimate my ability.
 
-Had I known how much work was involved, I would not about the car. But, I don't like to turn down a challenge and there's a competitive side of me that does not want to admit defeat – especially when I'm competing against myself. I will have this car on the road.
+Had I known how much work was involved, I would not have bought the car. But, I don't like to turn down a challenge and there's a competitive side of me that does not want to admit defeat – especially when I'm competing against myself. I will have this car on the road.
 
 All that said, I do want to finish Luctation soon. I will use some of my Christmas break for that as well.
