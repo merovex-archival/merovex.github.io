@@ -2,7 +2,7 @@
 layout: post
 title: Life Lessons from a Seal
 author: Ben Wilson
-description: "A Navy Seal with 36-years of experience shares life lessons."
+description: "A Navy Seal with 36-years of experience shares 10 life lessons."
 category: 'Diary'
 tags: []
 photo:
@@ -15,12 +15,12 @@ comments: true
 sharing: true
 footer: true
 sidebar: true
-date: 2015-12-23 19:23
-modified_at: 2015-12-23 19:23
+date: 2015-12-23 18:49
+modified_at: 2015-12-23 18:49
 created_at: 2015-12-23 18:49
 ---
 
-A friend shared the 2014 University of Austin commencement address.
+A friend shared the 2014 University of Austin commencement address. I thought it would be worth summarizing his ten points.
 
 <!-- more -->
 
@@ -29,7 +29,7 @@ A friend shared the 2014 University of Austin commencement address.
 src="http://www.youtube.com/v/yaQZFhrW0fU">
 </div>
 
-Here is a summary of the speech, but the content is worth the full viewing. The goal is to make someone who can lead in an environment contantly filled with stress, chaos, failure and hardships.
+Here is a summary of the speech, but the content is worth the full viewing. The goal is to make someone who can lead in an environment contantly filled with stress, chaos, failure and hardships. My summary is pale compared to his delivery.
 
 1. Make Your Bed: Have an early, easy success, and encourage you to go on...and that the little things in life matter.
 2. Find Someone to Paddle With: You can't change the world without help. You need friends, colleagues and a strong coxswain to guide you.
