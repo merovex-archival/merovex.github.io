@@ -21,12 +21,12 @@ A few steps are all that changes Snowflake from a novel-writing approach to a se
 
 This is an iterative process with a feedback loop. You start on at the first step then progress. When you find you need to go back to an earlier step, then do it, and iterate back through.
 
-1. **Summary.** Write a one-sentence summary of your novel. Fifteen words or less, generic. Check out the [New York Times Best Seller List](http://www.nytimes.com/best-sellers-books/hardcover-fiction/list.html), even if it's a rigged system. (1 Hour)
+1. **Tagline.** Write a one-sentence tagline of your novel. Twenty words or less, generic. Check out the [New York Times Best Seller List](http://www.nytimes.com/best-sellers-books/hardcover-fiction/list.html), even if it's a rigged system. (1 Hour)
 2. **Synopsis.** Expand that one sentence to a paragraph using the "three disasters plus ending" as your guide. That is, write a four-sentence paragraph. Each sentence corresponds to an act (since I favor the four-act structure). (1 Hour)
 3. **Character Sketch.** One-page summary of your character, showing the inner quality. I like to think of an actor for the physical description, though any actor famous today would unlikely be in anything I write. It's just helpful. (1 Hour each)
 4. **Story Sketch.** Expand the paragraph in #2 above by turning each sentence into its own paragraph. This will get you to a one-page summary. (1 Hour)
 5. **Character Development.** Expand each major character into a full page. Each minor character should get a half-page. This will ensure you understand your characters before step 6. (1-2 Days)
-6. **Story Development.** Expand each sentence in #4 into its own paragraph. This yields a four-page narrative story outline. More importantly, each sentence here would be a full scene in your novel. (1 Week)
+6. **Story Summary.** Expand each sentence in #4 into its own paragraph. This yields a four-page narrative story outline. More importantly, each sentence here would be a full scene in your novel. (1 Week)
 7. **Character Completion.** This is full character development. I guess I rarely complete this step on paper.
 8. **Scene List** Take the sentences in #6 and organize it (cards, spreadsheet, Scrivener, whatever)
 9. **Scene Description.** (Optional) Expand each scene into a paragraph.
