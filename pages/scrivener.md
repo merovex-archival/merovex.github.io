@@ -56,6 +56,11 @@ Keys:
 * `⌘-5` Snapshot the current document, select all documents to revise and snapshot. (Also think Github tagging)
 * `⌘-[` `⌘-]` (Previous/Next Change when in Compare mode)
  
+## Tracking Writing Progress
+
+Here's a way of capturing writing progress. The gist below will build the log. Depending on your approach, you may either want to have multiple crons running, or put this within a larger script. The commented portion above the cron is an example of the output of the cron.
+
+<script src="https://gist.github.com/Merovex/38a5d12dcf043be97c9e.js"></script>
 
 ## Marking TODOs in Text
 

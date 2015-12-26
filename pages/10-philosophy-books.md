@@ -13,6 +13,8 @@ modified_at: 2015-12-26 00:36
 
 This page is shamelessly ripped from [10 Philosophy Books to Bring to a Desert Island](http://www.intellectualtakeout.org/blog/10-philosophy-books-bring-desert-island), with additional links to Audible works that are related.
 
+Total Audible listening time is about 121 hours long. As of this writing, the *Action* book is essentially out-of-print and *Formalism* lacks an audible equivalent.
+
 Dr. Gregory Sadler, known for his accessible YouTube videos on philosophy, was asked to name ten philosophy books he would bring to a desert island. In the video that appears at the bottom of this post, he chose the following books because they “encapsulate [many] other viewpoints” and “have a lot of meat” to them. 
  
 ## 1. The Republic, Plato
