@@ -11,7 +11,7 @@ date: 2015-12-26 00:36
 modified_at: 2015-12-26 00:36
 ---
 
-This page is shamelessly ripped from [10 Philosophy Books to Bring to a Desert Island](http://www.intellectualtakeout.org/blog/10-philosophy-books-bring-desert-island)
+This page is shamelessly ripped from [10 Philosophy Books to Bring to a Desert Island](http://www.intellectualtakeout.org/blog/10-philosophy-books-bring-desert-island), with additional links to Audible works that are related.
 
 Dr. Gregory Sadler, known for his accessible YouTube videos on philosophy, was asked to name ten philosophy books he would bring to a desert island. In the video that appears at the bottom of this post, he chose the following books because they “encapsulate [many] other viewpoints” and “have a lot of meat” to them. 
  
@@ -62,11 +62,13 @@ Dr. Gregory Sadler, known for his accessible YouTube videos on philosophy, was a
 “Was called the French Hegel… He’s tracing out this entire dialectical development, working from the bottom level up to the highest forms of society, culture, religion, philosophy, and trying to do a rigorous analysis from a phenomenological perspective.” 
 
 ## 9. Formalism in Ethics and Non-Formal Ethics of Values, Max Scheler
+
+* [Formalism in Ethics and Non-Formal Ethics of Values](http://www.amazon.com/Formalism-Ethics-Non-Formal-Values-Phenomenology/dp/0810106205/)
  
 “Scheler is very interested in value in ethics… [He] thought persons are what are fundamentally most real… If you can only pick one book written by Scheler, for me, this would be the one.”
 
 ## 10. Being and Time, Martin Heidegger
 
-[Heidegger in 90 Minutes](http://www.audible.com/pd/Nonfiction/Heidegger-in-90-Minutes-Audiobook/B002V8KYZK/)
+* Audible, [Heidegger in 90 Minutes](http://www.audible.com/pd/Nonfiction/Heidegger-in-90-Minutes-Audiobook/B002V8KYZK/)
  
 “It’s really grown on me over time. I really enjoy some of Heidegger’s analyses, after you get your way past his weird language… One of those works where you’re going to get discussions of other thinkers.” 
