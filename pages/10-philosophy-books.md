@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 10 Philosophy Books
+title: Ten Philosophy Books
 created_at: 2015-12-26 00:36
 permalink: /10-philosophy-books/
 comments: true
@@ -17,43 +17,43 @@ Dr. Gregory Sadler, known for his accessible YouTube videos on philosophy, was a
  
 ## 1. The Republic, Plato
 
-[Great Lecture: The Republic](http://www.audible.com/pd/Classics/Platos-Republic-Audiobook/B00DG67A0S/)
+* Audible, 12.2h [Great Lecture: The Republic](http://www.audible.com/pd/Classics/Platos-Republic-Audiobook/B00DG67A0S/)
  
 “A no-brainer… Most people acknowledge that The Republic is Plato’s masterwork… I had a friend who taught an Intro to Philosophy class just using The Republic because you’ve got metaphysics, ethics, political philosophy, aesthetics, epistemology, philosophy of nature rolled into it.
 
 ## 2. Metaphysics, Aristotle
 
-[Great Lecture: Aristotle Ethics](http://www.audible.com/pd/Nonfiction/The-Ethics-of-Aristotle-Audiobook/B00D92NK3K/)
+* Audible, 6.1h [Great Lecture: Aristotle Ethics](http://www.audible.com/pd/Nonfiction/The-Ethics-of-Aristotle-Audiobook/B00D92NK3K/)
  
 “A very tough choice [of all Aristotle’s works]… It will introduce you to things like actuality and potency, or the four causes, or what privation is as opposed to fullness.” 
 
 ## 3. The City of God, Augustine
 
-[The City of God](http://www.audible.com/pd/Religion-Spirituality/The-City-of-God-Audiobook/B002V8H6SS/)
+* Audible, 44.7h [The City of God](http://www.audible.com/pd/Religion-Spirituality/The-City-of-God-Audiobook/B002V8H6SS/)
  
 “The City of God… is a defense of Christianity as a system of life, a system of thought in response to accusations that Christianity was weakening the Roman Empire… Worth re-reading.” 
  
 ## 4. Summa Theologiae, Thomas Aquinas
 
-[The Modern Scholar: The Philosophy of Thomas Aquinas](http://www.audible.com/pd/Nonfiction/The-Modern-Scholar-The-Philosophy-of-Thomas-Aquinas-Audiobook/B002UZHPWY/)
+* Audible, 7.6h [The Modern Scholar: The Philosophy of Thomas Aquinas](http://www.audible.com/pd/Nonfiction/The-Modern-Scholar-The-Philosophy-of-Thomas-Aquinas-Audiobook/B002UZHPWY/)
 
 “Magnificent in that it is engaging with practically everybody whom Thomas had ever read. It’s a systematic attempt to try to treat not only Christian doctrine, but everything that is relevant about human nature, society, metaphysics, epistemology, and even the philosophy of the emotions.”
 
 ## 5. Meditations, René Descartes
 
-[A Discourse on Method: Meditations on the First Philosophy: Principles of Philosophy](http://www.audible.com/pd/Nonfiction/A-Discourse-on-Method-Audiobook/B0036GMF6W/)
+* Audible, 8.1h [A Discourse on Method: Meditations on the First Philosophy: Principles of Philosophy](http://www.audible.com/pd/Nonfiction/A-Discourse-on-Method-Audiobook/B0036GMF6W/)
  
 “Descartes… is trying to sweep everything away and then rebuild… I just love Descartes for the force of his thought, [though] I don’t actually buy into his metaphysics.”
 
 ## 6. Pensées, Blaise Pascal
 
-[Pensées](http://www.audible.com/pd/Religion-Spirituality/Pensees-Audiobook/B002V0KQKQ/)
+* Audible, 12.8h [Pensées](http://www.audible.com/pd/Religion-Spirituality/Pensees-Audiobook/B002V0KQKQ/)
 
 “Descartes’ great nemesis… A work of apologetics that Pascal was never able to fully finish… What’s there is just brilliant.” 
 
 ## 7. Phenomenology of Spirit, G.W.F. Hegel
 
-[Phenomenology of Spirit](http://www.audible.com/pd/Nonfiction/Phenomenology-of-Spirit-Audiobook/B00I87ECS8/)
+* Audible, 29.6h [Phenomenology of Spirit](http://www.audible.com/pd/Nonfiction/Phenomenology-of-Spirit-Audiobook/B00I87ECS8/)
 
 “I’ve always loved Hegel since I started reading him. Every time that I do the work of working through this massive, complex, difficult tome, I get more out of it… He’s the Thomas Aquinas of the modern age, trying to synthesize all different perspectives into one systematic unity that can be comprehended.”
 
@@ -69,6 +69,6 @@ Dr. Gregory Sadler, known for his accessible YouTube videos on philosophy, was a
 
 ## 10. Being and Time, Martin Heidegger
 
-* Audible, [Heidegger in 90 Minutes](http://www.audible.com/pd/Nonfiction/Heidegger-in-90-Minutes-Audiobook/B002V8KYZK/)
+* Audible, 1.5h [Heidegger in 90 Minutes](http://www.audible.com/pd/Nonfiction/Heidegger-in-90-Minutes-Audiobook/B002V8KYZK/)
  
 “It’s really grown on me over time. I really enjoy some of Heidegger’s analyses, after you get your way past his weird language… One of those works where you’re going to get discussions of other thinkers.” 
