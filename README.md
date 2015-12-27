@@ -1,1 +1,1 @@
-README.md
+[![Build Status](https://travis-ci.org/Merovex/merovex.github.io.svg?branch=master)](https://travis-ci.org/Merovex/merovex.github.io)
