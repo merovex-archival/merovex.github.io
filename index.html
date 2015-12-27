@@ -12,19 +12,21 @@ subtitle: Blog
 <section class='post container' id='latest'>
   <h2 class='text-center'>Latest News</h2>
   <div class='row flexcontainer'>
-    
   {%for post in paginator.posts %}
-    <div class='card col-lg-4 col-md-6 col-xs-12'>
-      <img class='card-img-top' src='{{ site.cdn_url }}/images/articles/thumbnails/{{post.photo['image']}}' alt='{{post.photo['caption']}}'>
-      <div class='card-block'>
-        <h6 class='card-subtitle text-muted'><span class='sr-only'>Article Category: </span>{{post.category}}</h6>
-        <h3 class='card-title'><a href='{{ root_url }}{{ post.url }}'>{{post.title}}</a></h3>
-        <p class='card-text'>{{ post.description }}</p>
+    <div class='col-lg-4 col-md-6 col-xs-12'>
+      <div class='card'>
+       <img class='card-img-top' src='{{ site.cdn_url }}/images/articles/thumbnails/{{post.photo['image']}}' alt='{{post.photo['caption']}}'>
+       <div class='card-block'>
+          <h6 class='card-subtitle text-muted'><span class='sr-only'>Article Category: </span>{{post.category}}</h6>
+          <h3 class='card-title'><a href='{{ root_url }}{{ post.url }}'>{{post.title}}</a></h3>
+          <p class='card-text'>{{ post.description }}</p>
+        </div>
       </div>
     </div>{% endfor %}
+
   </div>
 
-  <div class='text-center'>
+  <div class='text-sm-center'>
     {% include paginator.html %}
   </div>
 </section>

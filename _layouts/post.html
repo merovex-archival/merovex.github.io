@@ -16,8 +16,8 @@ layout: default
     <h1 class='col-xs-12'><small><a href='{{ site.baseurl }}/categories.html#{{ page.category | url_escape}}-ref'>{{page.category}}</a></small> {{ page.title }} </h1>
   </div>
   <div class='row'>
-    <main class='col-gold-lg col-sm-12' role='main'>
-      <h1 class='sr-only'>{{page.title}}</h1>
+    <main class='col-gold-lg col-sm-12' role='main' aria-labelledby='page-title'>
+      <h1 class='sr-only' id='page-title'>{{page.title}}</h1>
       <p  class='sr-only'>Category: {{page.category | titlecase}}</p>
       
       {% assign fred = page %}{% include post_meta.html %}

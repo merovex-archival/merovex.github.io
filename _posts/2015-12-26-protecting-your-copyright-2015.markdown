@@ -4,7 +4,7 @@ title: "Protecting Your Copyright, Update 2015"
 author: Ben Wilson
 description: "After five years, I wanted to update on author copyright protection."
 category: 'Writing'
-tags: [Copyright, Legal]
+tags: [Copyright, Legal, Scrivener]
 photo:
   image: shutterstock_200353601-copyright.jpg
   creator: 'sergign/Shutterstock '
