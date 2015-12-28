@@ -11,6 +11,7 @@ photo:
   url: https://www.youtube.com/watch?v=yaQZFhrW0fU
   license: Rights Reserved
   caption: McRaven Shares Life Lessons to UT Austin
+  hidden: true
 comments: true
 sharing: true
 footer: true

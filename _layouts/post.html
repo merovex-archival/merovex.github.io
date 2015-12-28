@@ -19,7 +19,6 @@ layout: default
     <main class='col-gold-lg col-sm-12' role='main' aria-labelledby='page-title'>
       <h1 class='sr-only' id='page-title'>{{page.title}}</h1>
       <p  class='sr-only'>Category: {{page.category | titlecase}}</p>
-      
       {% assign fred = page %}{% include post_meta.html %}
       {% include social_networks.html %}
       {{ post.content | split:"<!-- more -->" | first |markdownify }}
@@ -27,6 +26,7 @@ layout: default
         <img src="https://s3.amazonaws.com/dausha/images/articles/{{post.photo['image']}}" alt="{{post.photo['caption']}}" />
         <p class="caption">{{post.photo['caption']}} (Photo: <a href="{{post.photo['url']}}">{{post.photo['creator']}}</a> {{post.photo['license']}}.)</p>
       </figure>{% endunless %}
+      {% if post.legal %}{% include legal-disclaimer.html %}{%endif%}
       {{ post.content | split:"<!-- more -->" | last |markdownify }}
     </main>
     {% include sidebar.html %}

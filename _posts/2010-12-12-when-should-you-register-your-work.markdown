@@ -11,6 +11,7 @@ created_at: 2010-12-12 17:47
 modified_at: 2010-12-12 17:47
 published_at: 2010-12-12 17:47
 date: 2010-12-12 17:47
+legal: true
 comments: true
 sidebar: true
 image: shutterstock_200353601-copyright.jpg
@@ -25,10 +26,6 @@ There's a lot of bad copyright advice out there. I recently read a blog (that is
 
 
 <!-- more -->
-
-<div class="alert alert-danger">
-<b>Warning!</b> First of all, only licensed attorneys are allowed to give legal advice. I have a law degree, but I am not a licensed attorney. I encourage you to contact an intellectual property attorney for proper legal advice. If anybody gives you legal advice who is not your attorney...check with an attorney.
-</div>
 
 Should you be worried about your copyright? Some writers will say, "your first book will be terrible, so don't worry." Tell that to J.K. Rowling. Others will suggest the "[poor-man's copyright](http://en.wikipedia.org/wiki/Poor_man's_copyright)," which is to mail yourself a copy of the work to show you did it first. Here's the summation of the legal advice the now defunct blogger offered:
 

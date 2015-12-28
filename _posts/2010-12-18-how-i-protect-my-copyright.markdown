@@ -15,6 +15,7 @@ comments: true
 sidebar: true
 image: shutterstock_200353601-copyright.jpg
 author: Ben Wilson
+legal: true
 category: Writing
 keywords: writing, plan, goals
 description: "Ben continues his short series on addressing copyright issues."
@@ -25,9 +26,6 @@ tags:
 Last week I offered my perspective on [when you should copyright your work](/articles/when-should-you-register-your-work/). After being asked several times how I protect my pre-publication works, I thought I'd offer my approach for your consideration. I defend my works by demonstrating an evolving work.
 
 <!-- more -->
-<div class="alert alert-danger">
-<b>Warning!</b> First of all, only licensed attorneys are allowed to give legal advice. I have a law degree, but I am not a licensed attorney. I am only telling you what I do to protect my copyright. I encourage you to contact an intellectual property attorney for proper legal advice. If anybody gives you legal advice who is not your attorney...check with an attorney.
-</div>
 
 Any lawsuit will involve a lot of "he said, she said." You both have identical copies of a finished work, so how does one establish origination?
 Advice is usually given to seal a copy and send it to yourself. This is called a "[poor man's copyright](http://en.wikipedia.org/wiki/Poor_man's_copyright)," and I've heard of ways of undermining the credibility of such a copyright. Postmarks can be forged. Emails can be back-dated. It's way too easy for fraud to work against you. More importantly, how do you know (or your lawyer) know that what you have in that envelop is what you claim it is? If you open it prematurely then the alleged "value" of mailing it is lost.
