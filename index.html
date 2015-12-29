@@ -15,7 +15,7 @@ subtitle: Blog
   {%for post in paginator.posts %}
     <div class='col-lg-4 col-md-6 col-xs-12'>
       <div class='card'>
-       <img class='card-img-top' src='{{ site.cdn_url }}/images/articles/thumbnails/{{post.photo['image']}}' alt='{{post.photo['caption']}}'>
+       <img class='card-img-top img-fluid' src='{{ site.cdn_url }}/images/articles/thumbnails/{{post.photo['image']}}' alt='{{post.photo['caption']}}'>
        <div class='card-block'>
           <h6 class='card-subtitle text-muted'><span class='sr-only'>Article Category: </span><span aria-hidden='true' class='fa fa-folder-open-o'></span> {{post.category}}</h6>
           <h3 class='card-title'><a href='{{ root_url }}{{ post.url }}'>{{post.title}}</a></h3>

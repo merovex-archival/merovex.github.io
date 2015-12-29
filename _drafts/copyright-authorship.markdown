@@ -36,17 +36,17 @@ In those [model jury instructions](http://www3.ce9.uscourts.gov/jury-instruction
 
 > The creator of an original work is called the author of that work. An author originates or "masterminds" the original work, controlling the whole work’s creation and causing it to come into being.
 
-Contributors may be considered authors if they play a role in causing the work to come into being, but not if they only provide the idea. But, again outside my scope. Beta Readers aren't authors because their role in creating a work is minimal, while their contribution in feedback is valuable.
+Contributors may be considered authors if they play a role in causing the work to come into being, but not if they only provide the idea. But, again outside the scope of this series. Beta Readers aren't authors because their role in creating a work is minimal, while their contribution in feedback is valuable.
 
 **Original Work.**
 It should be obvious from the evidence that if you're claiming to be the creator of a work, you are not copying somebody else's work...because that somebody else has a cause of action against the creator. Beyond that, the work must demonstrate creativity, according to the [9th Circuit's Originality Jury Question](http://www3.ce9.uscourts.gov/jury-instructions/node/269).
 
-Had Linus Torvalds' early work shown code identical to something in SCO's code base, then the likelihood that a jury would find for him would be less. It would appear that he copied.
+I mentioned in the last article that Linus Torvalds had evidence of his source code from the beginning. Had his early work shown code identical to something in SCO's code base, then the likelihood that a jury would find for him would be less. It would appear that he copied.
 
-**Mastermind Creator and Evolving Product.** An author starts with an idea and crafts it. It starts as only the vaguest notion, and during the process of drafting it, revising it, and proofing it, an author controls the creation and causes it to come into being. All the concrete representations of that deliberative crafting are an author's work product: character sketches, story outlines, early drafts. You need to demonstrate this in evidence.
+**Mastermind Creator and Evolving Product.** An author starts with an idea and crafts it. It starts as only the vaguest notion, and during the process of drafting it, revising it, and proofing it, an author controls the creation and causes it to come into being. Thus, the evidence should show that the author was the one who helped develop the original work from a rough idea to finished product.
 
 Linus was able to show older, faulty code that improved over time...drafts, revisions, etc., because of source code tracking via version control software. Not only did that show he did not copy from SCO, it showed his craftsmanship, how that improved over time, and went from an idea to a mature code base.
 
-**Poor Man's Copyright?** I addressed this in 2010, but the PMC is a [well-debunked urban legend](http://newyorkcopyrightattorney.com/poor-mans-copyright/). Moving on.
+**Summary.** In a copyright infringement case, the author must show the jury that they are the producer and mastermind of original work. A registered copyright strongly suggests it, but ultimately, the author should be prepared to bear the burden of proof.
 
-Next time, I'll offer how we as authors should respond to the legal landscape that expects that we be ready to defend our copyright.
+Next time, I will offer my thoughts on how this can be done.

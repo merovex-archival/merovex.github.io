@@ -21,6 +21,12 @@ modified_at: 2015-12-29 19:29
 created_at: 2015-12-29 18:03
 ---
 
+All the concrete representations of that deliberative crafting are an author's work product: character sketches, story outlines, early drafts. You need to demonstrate this in evidence.
+
+**Poor Man's Copyright?** I addressed this in 2010, but the PMC is a [well-debunked urban legend](http://newyorkcopyrightattorney.com/poor-mans-copyright/). Moving on.
+
+Next time, I'll offer how we as authors should respond to the legal landscape that expects that we be ready to defend our copyright.
+
 Photo Credit: <a href="https://www.flickr.com/photos/27665395@N05/18906750538/"></a> via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by/2.0/">cc</a>
 
 In the first article, I provided a [copyright overview](/writing/copyright-overview/) that states that "Registered or not, an Author has a responsibility to ensure they can prove their authorship of a work." In the second article, I discuss what [copyright means in the 9th Circuit](/writing/copyright-overview/) as it pertains to proving authorship. In this article, I share how I think we as authors should respond to this legal landscape.
@@ -28,6 +34,10 @@ In the first article, I provided a [copyright overview](/writing/copyright-overv
 <!-- more -->
 
 We've already discussed that copyright law expects us to protect and defend our work. The 9th Circuit explains that the validity of our authorship is ultimately a question for a jury, that a registered work provides a rebuttable presumption of authorship. In its jury questions, it instructs the jury to consider the originality of the work (non-derivative and creative) and a mastermind role in creation of the work.
+
+**Author's Work Product.** In the legal domain, "work product" are the correspondance between client and attorney and the materials the attorney uses in preparation of litigation. I'm co-opting that term to describe an author's work product as "materials an author uses in preparation and development of a final product."
+
+
 
 As an author, you should always be in a better position to demonstrate an author's work product than the infringer. If you had to stack your work product against another's, would it show how you developed an idea and crafted a work? Of course, you should. You've put work into it and the infringer had not.
 
