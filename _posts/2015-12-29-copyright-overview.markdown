@@ -34,4 +34,6 @@ A registration with the US Copyright Office is *prima facie* evidence of valid c
 
 There are a lot of caveats that I've bypassed that an author should be aware of, but are out of the scope of this article. ***The underlying point is this: whether your work is registered or unregistered, you should always be in a position to prove your authorship.*** Registration helps, but is not absolute.
 
+**What About Poor Man's Copyright?** I addressed this in 2010, but the Poor Man's Copyright is a [well-debunked urban legend](http://newyorkcopyrightattorney.com/poor-mans-copyright/). Moving on.
+
 Next time, I'll share what the 9th Circuit says to juries on the question of an author's copyright, and what I think that means for us as authors.

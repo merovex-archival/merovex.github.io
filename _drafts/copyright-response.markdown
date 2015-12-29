@@ -35,7 +35,17 @@ In the first article, I provided a [copyright overview](/writing/copyright-overv
 
 We've already discussed that copyright law expects us to protect and defend our work. The 9th Circuit explains that the validity of our authorship is ultimately a question for a jury, that a registered work provides a rebuttable presumption of authorship. In its jury questions, it instructs the jury to consider the originality of the work (non-derivative and creative) and a mastermind role in creation of the work.
 
-**Author's Work Product.** In the legal domain, "work product" are the correspondance between client and attorney and the materials the attorney uses in preparation of litigation. I'm co-opting that term to describe an author's work product as "materials an author uses in preparation and development of a final product."
+**Definition: Author's Work Product.** Work product in business or layman's terms indicates the final product. In the legal domain, "[work product](https://www.law.cornell.edu/wex/Attorney_work_product)" are the correspondance between client and attorney and the materials the attorney uses in preparation of litigation. Unlike attorney-client privilege, this extends to materials and documents.
+I'm co-opting that term to describe an author's work product as "materials an author uses in preparation and development of a final product that show ."
+
+What is an author's work product? Included in this would be the following:
+
+* Character sketches
+* Story outlines
+* Scene summaries
+* Research notes
+* Earlier drafts
+* Electronic correspondance with editors, beta readers, etc. (FB, Twitter, email)
 
 
 
