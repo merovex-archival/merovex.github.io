@@ -24,7 +24,7 @@ Inspired by [Jamie Rubin's article on Scrivener & GitHub](http://www.jamierubin.
 
 <!-- more -->
 
-There is a parallel series on [copyright and author's work product](/writing/copyright-overview/) that you might consider. Jamie already discusses the advantages of GitHub with Scrivener, so this will be a brief article on how I automate the process. Naturally, you will want a private repository. If you don't have a repository, [create a repository on GitHub](https://github.com/new) I encourage you to create a private one.
+There is a parallel series on [copyright and author's work product](/writing/copyright-overview/) that you might consider. Jamie already discusses the advantages of GitHub with Scrivener, so this will be a brief article on how I automate the process. Naturally, you will want a private repository. If you don't have a repository, create one a repository on GitHub first. I encourage you to create a private one.
 
 I use Mac OSX, but this process should work for Linux users as well. Sorry, Windows Users. I've not willingly touched Windows in years, so I do not know how to do this for you.
 
