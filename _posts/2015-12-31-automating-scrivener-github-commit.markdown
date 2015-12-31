@@ -32,7 +32,7 @@ This is really a simple process. The GitHub gist below is a simple Bash script t
 
 <script src="https://gist.github.com/Merovex/a31c9378a96c71338b33.js"></script>
 
-The second line is the Crontab entry. If you look at the literature, Apple prefers Launchd over cron. After several hours of trying to get it to work, I could not get Launchd to interact with GitHub properly. However, cron worked fine. I have it running every couple of hours. The script does spit a dozen lines at the log file 12 times a day, so it does grow quickly. You may consider sending the output to `/dev/null` if you are satisfied with its execution.
+The second line is the Crontab entry. If you look at the literature, Apple prefers Launchd over cron. After several hours of trying, I could not get Launchd to interact with GitHub properly. However, cron worked fine. I have it running every couple of hours. The script does spit a dozen lines at the log file 12 times a day, so it does grow quickly. You may consider sending the output to `/dev/null` if you are satisfied with its execution.
 
 If you're a git user, the script is self explanatory. For the less-initiated, here is a quick description: "Grab the date and change to the target directory. Add new files to the Git repository, then commit it with an entry with a timestamp. Finally, push "
 
