@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writing Goals for 2016
+title: My Goals for 2016
 author: Ben Wilson
 description: "After a failed 2015, Ben regroups for 2016 and sets modest goals for the coming year."
 category: 'Diary'
