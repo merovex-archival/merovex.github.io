@@ -15,9 +15,9 @@ comments: true
 sharing: true
 footer: true
 sidebar: true
-date: 2015-12-31 15:16
-modified_at: 2015-12-31 15:16
-created_at: 2015-12-31 15:16
+date: 2015-01-22 15:16
+modified_at: 2015-01-22 15:16
+created_at: 2015-01-22 15:16
 ---
 
 Continuing the conversation on using GitHub as an author, one possible use of GitHub is to collaborate with your beta readers. I'll expand this topic to the more general use of GitHub for issue and task management.

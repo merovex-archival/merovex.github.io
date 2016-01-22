@@ -367,11 +367,20 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
-		"/Users/bwilson/Sites/merovex.github.io/pages",
+		"/Users/bwilson/Sites/merovex.github.io/_includes",
+		"/Users/bwilson/Sites/merovex.github.io/_sass",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015",
 		"/Users/bwilson/Sites/merovex.github.io/pages/w"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/_sass/screen.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_frontpage.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_style.scss",
+		"/Users/bwilson/Sites/merovex.github.io/pages/novels.md",
+		"/Users/bwilson/Sites/merovex.github.io/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/frontpage/bellicose.html",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-01-28-amazon-defines-novel-length.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/pages/w/million-dollar-outline.md",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-08-23-jonaldy-ammonett.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/logs/data-2016.json",
@@ -411,7 +420,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2013-12-31-a-gutsy-year.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_books/01_bellicose.md",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-09-06-a-buggy-summer.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-01-28-amazon-defines-novel-length.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-10-05-considering-kickstarter.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-17-here-be-dragons-dictating.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-23-writing-goals-for-2015.markdown",
@@ -452,9 +460,7 @@
 		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/bwilson/Sites/merovex.github.io/.travis.yml",
 		"/Users/bwilson/Sites/merovex.github.io/pages/bodyfat-calculator.md",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_style.scss",
 		"/Users/bwilson/Sites/merovex.github.io/vw/engine-build.md",
-		"/Users/bwilson/Sites/merovex.github.io/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/an-afternoon-on-ancestry.md",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/audible-2015.md",
 		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
@@ -472,7 +478,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_mixins.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_color.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_footer.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/screen.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_navbar.scss",
 		"/Users/bwilson/Sites/merovex.github.io/w/writing-standards/index.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/pages/hays-code.md",
@@ -489,7 +494,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_footer.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/header.html",
 		"/Users/bwilson/Sites/merovex.github.io/_compass/2015/_headers.scss",
-		"/Users/bwilson/Sites/merovex.github.io/pages/novels.md",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/COMMIT_EDITMSG.COMMIT_EDITMSG",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/truth-about-santa-claus.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/merovex.sublime-project",
@@ -497,9 +501,7 @@
 		"/Users/bwilson/Sites/merovex.github.io/x",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/test.md",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-10-28-this-is-a-sample-file.md",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/this-is-a-sample-file.md",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/dam.md",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/sample.md"
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/this-is-a-sample-file.md"
 	],
 	"find":
 	{
@@ -518,6 +520,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"sm",
 			"12",
 			"2014",
 			"339",
@@ -644,8 +647,7 @@
 			"msg = ",
 			"%M\"",
 			"[",
-			"']",
-			"state"
+			"']"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -728,6 +730,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"novel",
+				"pages/novels.md"
+			],
+			[
+				"index",
+				"index.html"
+			],
 			[
 				"jonaldy",
 				"_posts/2015-08-23-jonaldy-ammonett.markdown"
@@ -843,10 +853,6 @@
 			[
 				"buggy",
 				"_posts/2015-09-06-a-buggy-summer.markdown"
-			],
-			[
-				"novel",
-				"_posts/2011-01-28-amazon-defines-novel-length.markdown"
 			],
 			[
 				"kick",
@@ -1031,10 +1037,6 @@
 			[
 				"_con",
 				"_config.yml"
-			],
-			[
-				"index",
-				"index.html"
 			],
 			[
 				"dice",
