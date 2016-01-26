@@ -46,6 +46,6 @@ There were more than these lessons. But, that's all I remember now.
 
 Looking over my site, I notice that I have trends. In October I tend to clean up the technology.
 
-I want to thank [Brandon Mathis](http://brandonmathis.com/) for his work on Octopress. His platform gave me the urge to move in the right direction. He provided the training wheels I needed to make the full transition.
+I want to thank Brandon Mathis for his work on Octopress. His platform gave me the urge to move in the right direction. He provided the training wheels I needed to make the full transition.
 
 My biggest regret in this arena is that I did not think to code a solution like this back in 1998 when I first instantiated this blog. Everything done here could have been done by me then in Perl. I just lacked the vision.
