@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automating Scrivener GitHub Commit
+title: "Automating Scrivener: GitHub Commit"
 author: Ben Wilson
 description: "Authors have a chance to automatically archive their Scrivener files using GitHub with this simple script."
 category: 'Technology'

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automating Scrivener Wordcount Log
+title: "Automating Scrivener: Wordcount Log"
 author: Ben Wilson
 description: "While shifting to Scrivener, I share how I automatically update my word count log out of Scrivener."
 category: 'Technology'
