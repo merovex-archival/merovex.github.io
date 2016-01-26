@@ -3,6 +3,7 @@ layout: page
 title: "AstroEmpires: Napkin Combat"
 date: 2014-01-26 10:56
 permalink: /astro-empires/napkin-combat/
+landing: true
 ---
 {% include shared/astro_empire_header.html %}
 

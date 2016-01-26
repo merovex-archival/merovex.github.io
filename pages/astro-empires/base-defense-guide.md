@@ -3,6 +3,7 @@ layout: page
 title: "AstroEmpires: Base Defense Guide"
 date: 2007-01-26 09:56
 permalink: /astro-empires/base-defense-guide/
+landing: true
 ---
 {% include shared/astro_empire_header.html %}
 

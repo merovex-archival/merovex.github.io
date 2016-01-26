@@ -3,6 +3,7 @@ layout: page
 title: "AstroEmpires: Seven/Ten Guide"
 date: 2014-01-26 11:11
 permalink: /astro-empires/seven-ten-guide/
+landing: true
 ---
 {% include shared/astro_empire_header.html %}
 

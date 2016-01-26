@@ -3,6 +3,7 @@ layout: page
 title: "AstroEmpires: Production Structures"
 date: 2014-01-26 12:08
 permalink: /astro-empires/production-structures/
+landing: true
 ---
 {% include shared/astro_empire_header.html %}
 

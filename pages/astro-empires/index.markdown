@@ -6,6 +6,7 @@ date: 2014-09-27 13:43
 comments: true
 sharing: true
 footer: true
+landing: true
 ---
 
 * [Advanced Base Guide](/astro-empires/advanced-base-guide/)

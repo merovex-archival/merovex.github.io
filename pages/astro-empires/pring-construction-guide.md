@@ -3,6 +3,7 @@ layout: page
 title: "AstroEmpires: Planetary Ring Construction Guide"
 date: 2014-01-26 11:02
 permalink: /astro-empires/pring-construction-guide/
+landing: true
 ---
 {% include shared/astro_empire_header.html %}
 

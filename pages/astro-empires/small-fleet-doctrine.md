@@ -3,6 +3,7 @@ layout: page
 title: "AstroEmpires: Small Fleet Doctrine"
 date: 2008-01-26 10:25
 permalink: /astro-empires/small-fleet-doctrine/
+landing: true
 ---
 {% include shared/astro_empire_header.html %}
 <div class='row'>
