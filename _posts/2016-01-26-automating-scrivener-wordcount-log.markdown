@@ -15,9 +15,9 @@ comments: true
 sharing: true
 footer: true
 sidebar: true
-date: 2015-12-31 13:35
-modified_at: 2015-12-31 13:35
-created_at: 2015-12-31 13:35
+date: 2015-01-26 13:35
+modified_at: 2015-01-26 13:35
+created_at: 2015-01-26 13:35
 ---
 
 Recently, Jamie Rubin talked about [using GitHub as an author](http://www.jamierubin.net/2015/12/22/tracking-the-things-i-make-with-github/). I took his article as a challenge to automate Scrivener word count logs and automatically commit changes to Scrivener. This article discusses how I automatically process the Scrivener wordcount into a log file.

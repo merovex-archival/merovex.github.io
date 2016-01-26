@@ -199,6 +199,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_posts/2016-01-22-github-to-work-with-your-beta-readers.markdown",
+			"settings":
+			{
+				"buffer_size": 2755,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -223,13 +231,13 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 313.0,
+		"height": 291.0,
 		"last_filter": "jek",
 		"selected_items":
 		[
 			[
 				"jek",
-				"Jekyll: New draft"
+				"Jekyll: Promote draft to post..."
 			],
 			[
 				"instal",
@@ -367,10 +375,8 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
-		"/Users/bwilson/Sites/merovex.github.io/_includes",
-		"/Users/bwilson/Sites/merovex.github.io/_sass",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2015",
-		"/Users/bwilson/Sites/merovex.github.io/pages/w"
+		"/Users/bwilson/Sites/merovex.github.io/_posts",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015"
 	],
 	"file_history":
 	[
@@ -520,6 +526,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"12-31",
 			"sm",
 			"12",
 			"2014",
@@ -646,8 +653,7 @@
 			"! \n      msg =",
 			"msg = ",
 			"%M\"",
-			"[",
-			"']"
+			"["
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -665,8 +671,47 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_posts/2016-01-22-github-to-work-with-your-beta-readers.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2755,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								510,
+								510
+							],
+							[
+								540,
+								540
+							],
+							[
+								569,
+								569
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "markdown (jekyll)",
+							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
