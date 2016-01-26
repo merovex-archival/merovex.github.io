@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who Shall Ascend the Mountain
-category: "Book Summary"
+category: "BookSummary"
 tags: []
 published: True
 modified_at: 
