@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Dictate Your Book
-categories: ['Writing']
-tags: [Dragon]
+categories: ['Writing', 'Postal Marine Series', 'Diary', 'Technology', 'Ombre', 'VW Beetle']
+tags: []
 published: True
-created_at: 2016-01-30 10:56:46
+created_at: 
 photo:
   image: "4125488159_6f16dd9c31_o.jpg"
   caption: "Dragonfly on the Mic"
@@ -13,7 +13,8 @@ photo:
   license: BY
 author: Ben Wilson
 description: A nickle's worth of free advice on how to Dictate Your Novel using Dragon NaturallySpeaking or Dragon Dictate.
-modified_at: 2016-01-30 10:56:46
+modified_at: 
+
 ---
 
 As an author, I'm always looking for opportunities to improve my writing productivity. I recently had a chance to read a book entitled *Million Dollar Productivity*. That provided a lot of good advice about how to improve your writing productivity and how to improve your the production rate so that you can get to a much more effective so you can enjoy a much more effective writing career.
