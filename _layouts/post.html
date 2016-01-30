@@ -28,7 +28,7 @@ layout: default
       {% if post.legal %}{% include legal-disclaimer.html %}{%endif%}
       {{ post.content | split:"<!-- more -->" | last |markdownify }}
     <aside>
-      <div class="fb-comments" data-href="{{page.url}}" data-numposts="15"></div>
+      <div class="fb-comments" data-href="{{site.url}}/{{page.url}}" data-numposts="15"></div>
     </aside>
     </main>
     {% include sidebar.html %}
