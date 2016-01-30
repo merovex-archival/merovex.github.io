@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dictate Your Book
-categories: ['Writing']
+category: 'Writing'
 tags: [Dragon]
 published: True
 created_at: 2016-01-30 10:56:46
