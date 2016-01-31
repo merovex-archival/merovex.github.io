@@ -2,7 +2,7 @@
 layout: post
 title: Dictate Your Book
 category: 'Writing'
-tags: [Dragon]
+tags: [Dragon NaturallySpeaking]
 published: True
 created_at: 2016-01-30 10:56:46
 photo:

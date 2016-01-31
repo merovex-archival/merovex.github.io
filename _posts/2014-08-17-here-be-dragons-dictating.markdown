@@ -17,7 +17,7 @@ keywords: writing, plan, goals
 description: "With this being National Disability Awareness Month, I wanted to chat about how I used Dragon with a plot problem."
 author: Ben Wilson
 tags:
-- Dragon Naturally Speaking
+- Dragon NaturallySpeaking
 - National Disability Awareness Month
 - Toolchain
 - NaNoWriMo
