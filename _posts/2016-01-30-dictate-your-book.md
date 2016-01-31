@@ -16,7 +16,7 @@ description: A nickle's worth of free advice on how to Dictate Your Novel using 
 modified_at: 2016-01-30 10:56:46
 ---
 
-As an author, I'm always looking for opportunities to improve my writing productivity. I recently had a chance to read a book entitled *Million Dollar Productivity*. That provided a lot of good advice about how to improve your writing productivity and how to improve your the production rate so that you can get to a much more effective so you can enjoy a much more effective writing career.
+As an author, I'm always looking for opportunities to improve my writing productivity. I recently had a chance to read a book entitled *Million Dollar Productivity*. That provided a lot of good advice about how to improve writing productivity and production rate so that you can get to a much more effective so you can enjoy a much more effective writing career.
 
 <!-- more -->
 
