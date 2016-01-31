@@ -19,7 +19,6 @@ description: The final story in the saga of a privately owned Voice Over Booth. 
 author: Ben Wilson
 tags:
 - Voice Over
-- VO
 ---
 A few months back I talked about building a Voice-Over booth. After much research and analysis, I'm finally ready to press the button.
 
