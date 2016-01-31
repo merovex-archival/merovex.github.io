@@ -24,7 +24,7 @@ description: 'An archive of posts sorted by tag.'
   {% endunless %}{% endfor %}
   </main>
   <aside class='col-sm-4 col-xs-12 hidden-print' role='complimentary'>
-  <h3>Tag Index</h3>
+  <h2>Tag Index</h2>
   <ul class='list-group'>{% for item in (0..site.tags.size) %}{% unless forloop.last %}{% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
     <li class='list-group-item'><a href='#{{ this_word | cgi_escape }}'>{{ this_word }} <span class='label label-default label-pill pull-right'>{{ site.tags[this_word].size }}</span></a></li>
   {% endunless %}{% endfor %}

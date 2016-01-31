@@ -19,7 +19,6 @@ description: Ben discusses the intricate steps in preparing for a voice-over car
 author: Ben Wilson
 tags:
 - Voice Over
-- VO
 ---
 In looking at voice-over, perhaps I've jumped the shark. But, as a self-published author, I think being able to make my books available as audiobooks is a niche to explore. As an author, it's not an insignificant outlay of funds. I'm going to focus today on the why and the plan.
 

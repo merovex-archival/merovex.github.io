@@ -19,7 +19,6 @@ description: Ben continues to discuss evil malchinations of an aspiring voice-ov
 author: Ben Wilson
 tags:
 - Voice Over
-- VO
 ---
 Last week, I discussed [building a sound booth](/articles/so-im-building-a-vo-sound-booth/). In that conversation were elaborate plans and schemes. The Bible says "We can make our plans, but the LORD determines our steps." So it is with me. I thought a quick update was in order.
 
