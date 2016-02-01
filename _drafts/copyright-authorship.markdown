@@ -4,7 +4,7 @@ title: "Copyright: Authorship"
 author: Ben Wilson
 description: "The 9th Circuit says authorship involves originality and a 'mastermind' role in creating the work."
 category: 'Writing'
-tags: [Copyright, Legal, Scrivener]
+tags: [Copyright, Legal]
 photo:
   image: 5745387762_1e9ec0cc1e_o.jpg
   creator: 'Walt Stoneburner/Flickr '

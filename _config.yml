@@ -57,6 +57,13 @@ collections:
     output: true
     permalink: /books/:path/
 
+summary:
+  writing: "Writing describes my thoughts about the craft of writing."
+  diary: "The Diary are things going on in my writing or life that I just felt like sharing."
+  postal marine series: "Stuff."
+  technology: "Technology covers my thoughts on technology, either writing or otherwise."
+  vw beetle: "The VW Beetle category covers my personal interest in an iconic automobile."
+
 defaults:
   -
     scope:

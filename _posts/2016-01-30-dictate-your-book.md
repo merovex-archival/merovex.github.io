@@ -2,7 +2,9 @@
 layout: post
 title: Dictate Your Book
 category: 'Writing'
-tags: [Dragon NaturallySpeaking]
+tags:
+  - Dragon NaturallySpeaking
+  - Bad Writing Advice
 published: True
 created_at: 2016-01-30 10:56:46
 photo:

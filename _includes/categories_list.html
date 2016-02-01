@@ -1,4 +1,4 @@
-  {% for category in categories_list %}<li class='list-group-item'><a href='/categories/#{{ category[0] | cgi_escape }}-ref'>
+  {% for category in categories_list %}<li class='list-group-item'><a class='titlecase' href='/categories/#{{ category[0] | cgi_escape }}-ref'>
     {{ category[0] | join: '/' }} <span class='label label-default label-pill pull-right'>{{ category[1].size }}</span>
   </a></li>
 {% endfor %}{% assign categories_list = nil %}

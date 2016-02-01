@@ -14,11 +14,10 @@ published_at: 2014-10-15 17:36
 date: 2014-10-15 17:36:00 -04:00
 image: snl_39_cents.png
 category: Diary
-keywords: Humor. Generosity. Africa.
 description: Thirty-nine cents is all it takes to meet the basic needs of these poor villagers.
 author: Ben Wilson
 tags:
-- Diary
+- Humor
 ---
 Perhaps I shouldn't find this specific video so funny, but I do. It speaks to the hubris that we know what is better for somebody else. "Don't even know what country you're in."
 

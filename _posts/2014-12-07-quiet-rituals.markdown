@@ -19,6 +19,7 @@ author: Ben Wilson
 tags:
 - Toolchain
 - Habits
+- Bad Writing Advice
 ---
 <!--Lead Paragraph-->
 An article on [quiet rituals of successful people](http://www.marcandangel.com/2014/07/06/12-quiet-rituals-of-enormously-successful-humans/) made me think of my own efforts at successful writing.

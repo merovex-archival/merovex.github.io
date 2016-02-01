@@ -31,9 +31,13 @@ body {
   h2, h3, h4, .progress, .footnotes:before {
       font-family: $navbar-fonts;
       font-weight: 500 !important;
+      text-transform:capitalize;
   }
   h6 {
     font-family: $navbar-fonts;
+  }
+  .titlecase {
+    text-transform: capitalize;
   }
   h1 {
     font-size: 2.6rem;

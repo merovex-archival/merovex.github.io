@@ -6,18 +6,18 @@ group: navigation
 ---
 
 <div class='row'>
-  <div class='col-sm-8 col-sm-offset-1'>
-{% for category in site.categories %} 
-  <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
-  <ul>
-    {% assign pages_list = category[1] %}  
+  <main class='col-sm-8 col-sm-offset-1'>
+  {% for category in site.categories %}
+  <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>{%assign key=category[0] %}
+  <p>{{site.summary[key]}}</p>
+  <ul>{% assign pages_list = category[1] %}
     {% include pages_list.html %}
   </ul>
 {% endfor %}
-  </div>
-  <div class='col-sm-4'>
+  </main>
+  <aside class='col-sm-3'>
     <ul class="list-group">{% assign categories_list = site.categories | sort %}
 	  {% include categories_list.html %}
 	</ul>
-  </div>
+  </aside>
 </div>

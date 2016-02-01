@@ -4,7 +4,7 @@ title: "Copyright: Author's Work Product"
 author: Ben Wilson
 description: "How should an author respond in a legal landscape that expects action?"
 category: 'Writing'
-tags: [Copyright, Legal, Scrivener]
+tags: [Copyright, Legal]
 photo:
   image: 6991234167_f026a96005_o.jpg
   creator: 'fabola/Flickr '
