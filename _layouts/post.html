@@ -12,7 +12,7 @@ layout: default
 
 <div class='post container'>
   <div class='row' aria-hidden='true'>
-    <h1 class='col-xs-12'><small><span aria-hidden='true' class='fa fa-folder-open-o'></span> <a href='{{ site.baseurl }}/categories/#{{ page.category | url_escape}}-ref'>{{page.category}}</a></small> {{ page.title }} </h1>
+    <h1 class='col-xs-12'><small><span aria-hidden='true' class='fa fa-folder-open-o'></span> <a href='{{ site.baseurl }}/categories/#{{ page.category | replace: ' ', '+'}}-ref'>{{page.category}}</a></small> {{ page.title }} </h1>
   </div>
   <div class='row'>
     <main class='col-gold-lg col-xs-12' role='main' aria-labelledby='page-title'>

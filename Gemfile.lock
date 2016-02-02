@@ -176,7 +176,7 @@ DEPENDENCIES
   aws-sdk
   coderay
   fastimage
-  github-pages
+  github-pages (~> 44)
   html-proofer
   jekyll-mentions
   jekyll-redirect-from
