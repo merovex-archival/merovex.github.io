@@ -21,7 +21,8 @@ location:
 # Build settings
 markdown: kramdown
 kramdown:
-  use_coderay: true
+  # enable_coderay: true
+  syntax_highlighter: rouge
 
 paginate: 9          # Posts per page on the blog index
 recent_posts: 9       # Posts in the sidebar Recent Posts section
@@ -31,6 +32,7 @@ sass:
 gems:
   - jekyll-sitemap
   - coderay
+  - jekyll-paginate
   # - jemoji
   # - jekyll-mentions
   # - jekyll-redirect-from
