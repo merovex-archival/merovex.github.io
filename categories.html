@@ -8,9 +8,9 @@ group: navigation
 <div class='row'>
   <main class='col-sm-8 col-sm-offset-1'>
   {% for category in site.categories %}
-  <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>{%assign key=category[0] %}
+  <h2 id="{{ category.label }}-ref">{{ category.label | join: "/" }}</h2>{%assign key=category.label %}
   <p>{{site.summary[key]}}</p>
-  <ul>{% assign pages_list = category[1] %}
+  <ul>{% assign pages_list = category %}
     {% include pages_list.html %}
   </ul>
 {% endfor %}
