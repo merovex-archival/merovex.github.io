@@ -10,25 +10,12 @@
 
   "settings":
   {
-      "Jekyll":
+
+    "Jekyll":
       {
-          "posts_path": "/Users/bwilson/Sites/merovex.github.io/_posts",
-          "drafts_path": "/Users/bwilson/Sites/merovex.github.io/_drafts",
-          "default_post_layout": "post",
-          "default_post_categories": ["Writing","Postal Marine Series","Diary","Technology","Ombre","VW Beetle"],
-          "default_post_extras": {
-				"photo":{
-				  "image": "",
-				  "creator": "/Flickr",
-				  "url": "",
-				  "license": "RR BY BY-SA BY-ND",
-				  "caption": ""
-				},
-				"description" : "This goes to RSS Feed & Frontpage",
-				"author": "Ben Wilson",
-				"modified_at": "",
-				"created_at": "",
-          },
+        "jekyll_posts_path": "/Users/bwilson/Sites/merovex.github.io/_posts",
+        "jekyll_drafts_path": "/Users/bwilson/Sites/merovex.github.io/_drafts",
+        "jekyll_auto_find_paths": true,
       }
   }
 }
