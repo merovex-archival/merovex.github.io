@@ -34,6 +34,8 @@ When it comes to buying cars, I have a few basic rules:
 
 It helps to do some research in the car to see what issues you might encounter. The reason to avoid the first to generation years is these are the years when the most problems arise. However, your research may identify a problem generation (e.g. The 2002 Altima oil consumption issue).
 
-How should you buy safely online? Once you have identified your target model and years, do your search. Identify a few cars, 3-5, that are in your price range. This may take a few weeks. Then, call each dealer and ask for the "off the lot price." They should be able to give you the price from AutoTrader, plus a reasonable administrative fee. If they give you random numbers or jerk you around, then drop the call. When in doubt.
+**How to Find the Right Car?** When I sent car shopping, I had a couple basic requirements in terms of power, transmission, and a range of manufacturers. My wife added an additional requirement. When I identified the model year range for each, I went to several local dealers and test drove sample vehicles. Once I knew what I preferred, then I turned to the Hunt.
+
+**How should you buy safely online?** Once you have identified your target model and years, do your search. Identify a few cars, 3-5, that are in your price range. This may take a few weeks. Then, call each dealer and ask for the "off the lot price." They should be able to give you the price from AutoTrader, plus a reasonable administrative fee. If they give you random numbers or jerk you around, then drop the call. When in doubt.
 
 When I went this path, I found a car that was $1,500 less than anything local...after travel and administrative fee. It was under the original warranty, so very young. The dealer reported a possible clutch issue, but four years on I am still driving it without a problem.
