@@ -16,6 +16,7 @@
         "jekyll_posts_path": "/Users/bwilson/Sites/merovex.github.io/_posts",
         "jekyll_drafts_path": "/Users/bwilson/Sites/merovex.github.io/_drafts",
         "jekyll_auto_find_paths": true,
+        "jekyll_debug": true
       }
   }
 }

@@ -14,7 +14,7 @@ photo:
     creator: Tony Webster/Flickr
     url: https://www.flickr.com/photos/87296837@N00/1623358150/
     caption: "Not a Purchase Option"
-description: "This goes to RSS Feed & Frontpage"
+description: "As I am occasionally asked, here is my random "I want to buy a new car" advice."
 ---
 
 As I am occasionally asked, here is my random "I want to buy a new car" advice.
