@@ -3,7 +3,7 @@
 /* Sans-Serif Fonts */
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Source+Sans+Pro|Droid+Sans|Montserrat|Syncopate);
 /* Serif Fonts */
-@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic|Droid+Serif:400italic,700italic,400,700);
+@import url(https://fonts.googleapis.com/css?family=Lusitana|PT+Serif:400,700,400italic,700italic|Droid+Serif:400italic,700italic,400,700);
 
 $brand-fonts: 'Sansita One', Syncopate, "Helvetica Neue",Helvetica,Arial,cursive;
 $navbar-fonts: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -27,6 +27,10 @@ body {
   h1, h2, h3, .footnotes:before {
     color: darken($brand-primary, 10%);
     text-shadow: 2px 1px 3px #888;
+  }
+  section > p + p {
+    margin-top: -1rem;
+    text-indent: 2em;
   }
   h2, h3, h4, .progress, .footnotes:before {
       font-family: $navbar-fonts;
