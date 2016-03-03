@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"aa",
+				"aa"
+			],
+			[
+				"btn-",
+				"btn-secondary"
+			],
+			[
+				"set",
+				"setContrastier"
+			],
+			[
 				"nab",
 				"navbar-link-color"
 			],
@@ -199,50 +211,6 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "Package Control Messages\n========================\n\nJekyll\n------\n\n  ***************************************************************************************************\n         \n                ÛÛÛ           ÛÛÛÛÛ                 ÛÛÛÛ  ÛÛÛÛ      ÛÛÛÛÛÛÛÛ        ÛÛÛÛÛ   \n               °°°           °°ÛÛÛ                 °°ÛÛÛ °°ÛÛÛ     ÛÛÛ°°°°ÛÛÛ     ÛÛÛ°°°ÛÛÛ \n               ÛÛÛÛÛ  ÛÛÛÛÛÛ  °ÛÛÛ ÛÛÛÛÛ ÛÛÛÛÛ ÛÛÛÛ °ÛÛÛ  °ÛÛÛ    °°°    °ÛÛÛ    ÛÛÛ   °°ÛÛÛ\n              °°ÛÛÛ  ÛÛÛ°°ÛÛÛ °ÛÛÛ°°ÛÛÛ °°ÛÛÛ °ÛÛÛ  °ÛÛÛ  °ÛÛÛ       ÛÛÛÛÛÛ°    °ÛÛÛ    °ÛÛÛ\n               °ÛÛÛ °ÛÛÛÛÛÛÛ  °ÛÛÛÛÛÛ°   °ÛÛÛ °ÛÛÛ  °ÛÛÛ  °ÛÛÛ      °°°°°°ÛÛÛ   °ÛÛÛ    °ÛÛÛ\n               °ÛÛÛ °ÛÛÛ°°°   °ÛÛÛ°°ÛÛÛ  °ÛÛÛ °ÛÛÛ  °ÛÛÛ  °ÛÛÛ     ÛÛÛ   °ÛÛÛ   °°ÛÛÛ   ÛÛÛ \n               °ÛÛÛ °°ÛÛÛÛÛÛ  ÛÛÛÛ ÛÛÛÛÛ °°ÛÛÛÛÛÛÛ  ÛÛÛÛÛ ÛÛÛÛÛ   °°ÛÛÛÛÛÛÛÛ  ÛÛ °°°ÛÛÛÛÛ°  \n               °ÛÛÛ  °°°°°°  °°°° °°°°°   °°°°°ÛÛÛ °°°°° °°°°°     °°°°°°°°  °°    °°°°°°   \n           ÛÛÛ °ÛÛÛ                       ÛÛÛ °ÛÛÛ                                          \n          °°ÛÛÛÛÛÛ                       °°ÛÛÛÛÛÛ                                           \n           °°°°°°                         °°°°°°                                            \n                              \n                              http://23maverick23.github.io/sublime-jekyll/\n                                    http://sublime-jekyll.rtfd.org/\n                             sublime-jekyll is licensed under the MIT license\n         \n  ***************************************************************************************************\n  \n  Version 3.0 is almost a complete re-write of the original sublime-jekyll package. We've kept most\n  of the great features you used in previous releases, but expanded on the areas that were missing.\n  \n  This new version contains all of these, and a bit more:\n  \n      - Post templates!\n  \n          : No more sublime-settings keys for managing YAML front-matter!\n          : Write actual YAML front-matter and store them as templates\n          : Use Sublime snippet variables to easily populate YAML keys\n  \n      - Namespaced package settings\n  \n          : All settings have been prefixed with `jekyll`\n          : Debugging keys values is much easier in the console\n          : Jekyll Utility commands allow pre-3.0 settings to be migrated easily\n  \n      - Built-in debugging\n  \n          : Enable debug mode to print additional details to the console\n  \n      - New package website\n  \n          : We're now using a simpler Github Pages site!\n          : http://23maverick23.github.io/sublime-jekyll/\n  \n      - RTFD documentation\n  \n          : Cleaned up the README.md and moved all documentation to ReadTheDocs!\n          : http://sublime-jekyll.rtfd.org/\n  \n  If you run into any bugs, please make sure you report them! Thanks for using sublime-jekyll.\n",
-			"settings":
-			{
-				"buffer_size": 2832,
-				"line_ending": "Unix",
-				"name": "Package Control Messages",
-				"read_only": true,
-				"scratch": true
-			}
-		},
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/photo post.yaml",
-			"settings":
-			{
-				"buffer_size": 383,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "---\nlayout: post\ntitle: \"Fragile Societies, Resilient Citizens\"\ncategory: \"Diary\"\ntags:\n - Tag\npublished: True\ncreated_at: \nauthor: Ben Wilson\nmodified_at: \nphoto:\n    license: \"CC BY 2.0\"\n    image: 14552700184_d0e048446f_o.jpg\n    creator: Daquella manera/Flickr\n    url: https://www.flickr.com/photos/62518311@N00/14552700184/\n    caption: \"Packard Automotive Plant, Detroit\"\ndescription: \"This goes to RSS Feed & Frontpage\"\n---\n\nI recently had the pleasure of listening to a lecture by the Science Fiction author David Brin. It is amazing how one hour can be. I only wish that I had brought my recorder.\n\n<!-- more -->\n\nThe core of his lecture was the inherent fragility of advanced society, and ways in which we could counter-balance that inherent fragility with resilient citizens. He also talked about the Protector Class, which includes our law enforcement, first responders, military and other threat-responding persons...as well as some medical and science personnel. And, he discussed the positive-sum society construct as a way to offset Society Fragility, and technology's role in preserving that construct.\n\nSocietal Fragility comes from numerous sources, including external and internal human threats as well as environmental threats. Among those threats he mentioned ignorant progressiveness, which is changing society in the interest of progress without a full understanding what the ramifications are.\n\nCitizen Resilience is the buttress, or proof against Societal Fragility. There are two key factors: the citizen's ability to act and the citizen's willingness to act.\n\nAn example of ability to act is a firearm that bridges the time between when the emergency call is made and the police arrive that. Or, the possession of residential solar power to offset power loss. Or, the ability to dig one's self out of the snow when the plows are late.\n\nThere were two excellent examples of willingness to act. Hitler under-estimated the American's willingness to fight when he declared war on us in 1941. He thought we were too decadent. The second example highlighted the brave sacrifice of passengers aboard [United Airlines Flight 93](https://en.wikipedia.org/wiki/United_Airlines_Flight_93), who violated decades of FAA regulations and gave their lives to prevent a greater catastrophe.\n\nHe described two societies: Zero and Positive Sum. The Zero Sum Society is the ancient Feudal Attractor society where there are a few at the top with the wealth and power to control the many. The Positive Sum Society is a construct of the Enlightenment, where there are a few very wealthy and a few very poor, but where those who are neither have all the power. Where the Zero Sum society is described as a triangle (&#9651;), the Positive Sum Society is described as a [lozenge](https://en.wikipedia.org/wiki/Lozenge) (&loz;) on its side.\n\nIn his perspective, the role of the Protector Class is to be powerful enough to handle the small things and to give time for the Resilient Citizen to mobilize and respond. In World War 2, our military was small, and only held off long enough for the citizen soldier to be trained and applied to action; which explains why the early period for the Americans and the British were so dark. By contrast, the Protector Class should not be so powerful as to be in a place to overpower the Resilient Citizen.\n\nTo promote a Positive Sum Society, Brin encouraged the broad dissemination of key technologies, and avoiding the temptation to regulate routine citizen access to dangerous technology. He pointed out that with a given technology, there are always good and bad actors; but that the ratio of good actors to bad actors tends to favor the good actors. However, over-regulation of access tips the balance toward the bad actors.\n\nTo apply a hot American topic: private ownership of firearms. These are dangerous technology that some want to regulate to limit access; gun control. Where applied, it has lowered the Good:Bad actor ratio; more criminals have firearms than citizens. ",
-			"file": "_drafts/fragile-societies-resilient-citizens.markdown",
-			"file_size": 2901,
-			"file_write_time": 130992424020000000,
-			"settings":
-			{
-				"buffer_size": 4021,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -267,17 +235,17 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 375.0,
-		"last_filter": "je",
+		"height": 247.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
-				"je",
-				"Jekyll: Edit template"
+				"jek",
+				"Jekyll: Remove template"
 			],
 			[
-				"jek",
-				"Jekyll: New draft"
+				"je",
+				"Jekyll: Browse templates..."
 			],
 			[
 				"date",
@@ -415,16 +383,52 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts"
+		"/Users/bwilson/Sites/merovex.github.io/_drafts",
+		"/Users/bwilson/Sites/merovex.github.io/_includes",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts",
+		"/Users/bwilson/Sites/merovex.github.io/_sass",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015",
+		"/Users/bwilson/Sites/merovex.github.io/amcharts",
+		"/Users/bwilson/Sites/merovex.github.io/pages"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_style.scss",
+		"/Users/bwilson/Downloads/subtitles.vtt",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/categories_list.html",
+		"/Users/bwilson/Sites/merovex.github.io/categories.html",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-02-machines-like-us.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/post.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/same.html",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-02-06-fragile-societies-resilient-citizens.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/hero_post.html",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_hero-post.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_typography.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/post_meta.html",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_blog.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/the-escalator.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-02-11-random-car-advice.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/head/twitter_card.html",
+		"/Users/bwilson/Sites/merovex.github.io/merovex.sublime-project",
+		"/Users/bwilson/Library/Application Support/Sublime Text 3/Installed Packages/Jekyll.sublime-package",
+		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/Template.yaml",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/leviticus.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-02-13-test.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/test.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-02-13-template.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/sample.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-01-30-dictate-your-book.md",
+		"/Users/bwilson/Sites/merovex.github.io/pages/bad-writing-advice.md",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-12-07-quiet-rituals.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/pages/contrastier.html",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/random-car-advice.markdown",
+		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/photo post.yaml",
+		"/Users/bwilson/Sites/merovex.github.io/tinycolor.js",
+		"/Users/bwilson/Sites/merovex.github.io/contrastier.js",
+		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/fragile-societies-resilient-citizens.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/this-is-a-draft-title.markdown",
-		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/photo post.yaml",
-		"/Users/bwilson/Sites/merovex.github.io/merovex.sublime-project",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/test.markdown",
-		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
 		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
 		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
@@ -432,21 +436,13 @@
 		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
 		"/Users/bwilson/Sites/merovex.github.io/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/head.html",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/post.html",
-		"/Users/bwilson/Sites/merovex.github.io/categories.html",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_style.scss",
 		"/Users/bwilson/Sites/merovex.github.io/tags/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-10-13-problem-with-rubys-aws-sdk-v2.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/pages/bad-writing-advice.md",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-12-07-quiet-rituals.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/copyright-work-product.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/copyright-response.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/copyright-authorship.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-10-15-39-cents-a-day.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-12-04-truth-about-santa-claus.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-01-30-dictate-your-book.md",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_typography.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/categories_list.html",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/print.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-24-so-im-building-a-vo-sound-booth.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-11-sound-booth-three.markdown",
@@ -455,7 +451,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-17-here-be-dragons-dictating.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/sidebar.html",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/dictate-your-book.md",
-		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_golden-ratio.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/subscribe.html",
@@ -525,32 +520,11 @@
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-01-18-lessons-in-octopress.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-02-july-lessons-in-transition.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-06-21-june-a-naughty-boy.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-07-10-questions-about-the-domino-project.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-07-09-adopt-the-domino-project-for-your-novels.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-05-25-may-day-going-down.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-02-01-writing-progress-january-2014.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-10-03-slothful-september.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-07-15-work-in-progress-bellicose.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-07-03-its-not-really-three-acts.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-02-12-additional-progress-tracking.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-03-10-a-writing-standard.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-09-14-agile-publishing-model.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-12-29-building-a-brave-new-world.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-11-11-analyzing-spectre.md",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-12-15-skyfall-plot-analysis.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-09-01-review-guide-to-writing-fantasy-and-science-fiction.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-09-26-going-back-to-scrivener.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-07-05-toolchain.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/a-year-of-sales-2015.md",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/archive_post.html",
-		"/Users/bwilson/Sites/merovex.github.io/.travis.yml",
-		"/Users/bwilson/Sites/merovex.github.io/pages/bodyfat-calculator.md",
-		"/Users/bwilson/Sites/merovex.github.io/vw/engine-build.md",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/an-afternoon-on-ancestry.md"
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-07-10-questions-about-the-domino-project.markdown"
 	],
 	"find":
 	{
-		"height": 37.0
+		"height": 22.0
 	},
 	"find_in_files":
 	{
@@ -567,134 +541,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			".label",
-			"`​``",
-			"hljs",
-			"[1]",
-			"[0]",
-			"categories",
-			"div",
-			"h3",
-			"Dragon Naturally Speaking",
-			"date",
-			"Compatability",
-			"compatability",
-			"NaturallySpeaking",
-			"{",
-			"col-gold",
-			"million-dollar productivity",
-			"2015",
-			"12-31",
+			": ",
+			"xs-col",
+			"class",
+			"%}",
+			"t }}",
+			"title",
+			" dev",
 			"sm",
-			"12",
-			"2014",
-			"339",
-			"2015",
-			"{\"date\"",
-			"339",
-			"{\"date\"",
-			"daily",
-			"2015",
-			"*",
+			"page",
+			"footer",
+			"aside",
+			"color: white;",
+			".yellow",
+			"#55acee",
+			"&",
+			";",
+			". ",
+			"bwilson",
+			"Bad Writing Advice",
+			"a onclick=",
+			"background",
+			"id='",
+			"Pass",
+			"sm-5",
+			"5",
+			"<td><a class='btn btn-primary' onclick=\"huey('background', 1); return false;\">Fix</a></td>",
+			"Fix",
+			"EVAL",
+			"strToRGB",
+			"colorL",
+			"',",
+			"<span class='btn",
+			"td rowspan=\"2\"",
+			"PASS/FAIL",
+			"X:",
+			"X",
+			"<td>Large Text</td>",
+			"<th",
+			"tinycolor(",
+			"=",
+			"\"})",
 			"0",
-			"*",
-			"ul",
-			"2015-11-30 15:48",
-			"CY2016",
-			"flex-end",
-			"26",
-			"28",
-			"*",
-			")*",
-			"10",
-			"\"",
-			"h4",
-			"h3 class='card-title",
-			"<p>",
-			"class='label label-default'",
-			"span",
-			"-sign",
-			"<div class='panel-heading'>",
-			" class='panel-title'",
-			"div",
-			"</p>",
-			"<p>",
-			"well well-sm",
-			"<br />",
-			"<code",
-			"<h2 class='text-muted'>",
-			"src=\"js/",
-			"glyphicon glyphico",
-			"\"",
-			"      <br />\n      <br />",
-			"20%",
-			"$gray-darker",
-			"small",
-			"$navbar-link-color",
+			"pf[",
+			"ratio",
+			"'lighten'",
 			"lighten",
-			"link-colors",
-			"$$",
-			"navbar-link_color-active",
-			"#FFF",
-			"#CCC",
-			"stylesheets",
-			"/css",
-			"css",
-			"sass",
-			"$font-size-",
-			"col-sm-11  col-sm-offset-1 ",
-			"@",
-			"\"\"",
-			"category:",
-			"/Users/username/site/",
-			"license",
-			"licenses",
-			"h1",
-			"{%",
-			"{% ",
-			"license",
-			"licenses",
-			"featured_licenses",
-			"kindle",
-			"buildgoal",
-			"skills",
-			"} {",
-			"shared/",
-			"bits",
-			"%}{%",
-			"domino project",
-			"/novels",
-			"img src='",
-			"skills",
-			"vw//vw/engine-build-calculator//",
-			"engine-build/calculator",
-			"engine-build",
-			")",
-			"calculator\">Calculator",
-			"calculator",
-			"//postal-marine-series//",
-			"//",
-			"/novels",
-			"Comments",
-			"#faw",
-			"#fawfaq",
-			"#faw",
-			"#build",
-			")",
-			"' id='",
-			"'></a>",
-			"><a name='fn-",
-			"></a>",
-			"><a name='toc",
-			"h3><a name='",
+			"f[",
+			"color",
+			",",
+			"=",
+			"componentToHex",
+			"R",
+			" hue2rgb",
+			"strtorgb",
+			"rgb.r",
+			"var R",
+			"R",
+			"changehue",
+			"button",
+			"button class='btn",
+			"Box' cla",
+			"BOX\n    </",
+			"BOX",
 			"#",
+			"ckground-c",
 			")",
-			"buggy",
-			"/#",
-			"\">",
-			"/)",
-			"//)",
-			"//"
+			"f",
+			"color",
+			"BOX",
+			"values",
+			",2);\n	// setContrastier('",
+			"k",
+			"pf",
+			"],",
+			"-1",
+			"0",
+			"danger",
+			"success",
+			"Pass",
+			"Text ",
+			"Text",
+			"Text ",
+			"Text",
+			"addRemove",
+			"console",
+			"case",
+			"cas",
+			" >",
+			"console",
+			"0",
+			"Text",
+			".text(\"",
+			"Fail",
+			"Pass",
+			"rAAA",
+			"AAA",
+			"!===",
+			"L1",
+			":",
+			"oreground",
+			"col-sm-4",
+			"Hexdecimal",
+			"'>P",
+			"WCAG 2.0 ",
+			"h3>Sample ",
+			"Sample",
+			"<h3>",
+			"'row'",
+			" <span id=",
+			"rAA",
+			"btn-secondary",
+			"btn-group",
+			"Regular",
+			"class",
+			"<span",
+			"<p",
+			"p",
+			"<td>",
+			"<tr>",
+			"rA",
+			"r",
+			"''",
+			"Regular",
+			">PASS",
+			"span class='btn",
+			"td></td",
+			"h3",
+			"td"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -712,166 +686,14 @@
 	"groups":
 	[
 		{
-			"selected": 3,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2832,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1307,
-								1262
-							]
-						],
-						"settings":
-						{
-							"WordCountShouldRun": true,
-							"WordCountSyntax": "plain text",
-							"auto_indent": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_width": 2,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 149.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"WordCountShouldRun": true,
-							"WordCountSyntax": "plain text",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/photo post.yaml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 383,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								207,
-								224
-							]
-						],
-						"settings":
-						{
-							"WordCountShouldRun": true,
-							"WordCountSyntax": "yaml",
-							"syntax": "Packages/YAML/YAML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_drafts/fragile-societies-resilient-citizens.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4021,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4021,
-								4021
-							]
-						],
-						"settings":
-						{
-							"WordCountShouldRun": true,
-							"WordCountSyntax": "markdown",
-							"spell_check": true,
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 803.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"WordCountShouldRun": true,
-							"WordCountSyntax": "plain text",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 36.0
+		"height": 22.0
 	},
 	"input":
 	{
@@ -920,7 +742,7 @@
 	"project": "merovex.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 40.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -929,6 +751,66 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"style",
+				"_sass/2015/_style.scss"
+			],
+			[
+				"machines",
+				"_posts/2014-11-02-machines-like-us.markdown"
+			],
+			[
+				"frag",
+				"_posts/2016-02-06-fragile-societies-resilient-citizens.markdown"
+			],
+			[
+				"post",
+				"_layouts/post.html"
+			],
+			[
+				"categories_l",
+				"_includes/categories_list.html"
+			],
+			[
+				"cate",
+				"categories.html"
+			],
+			[
+				"fragil",
+				"_posts/2016-02-06-fragile-societies-resilient-citizens.markdown"
+			],
+			[
+				"typ",
+				"_sass/2015/_typography.scss"
+			],
+			[
+				"post_meta",
+				"_includes/post_meta.html"
+			],
+			[
+				"random",
+				"_posts/2016-02-11-random-car-advice.markdown"
+			],
+			[
+				"car",
+				"_includes/head/twitter_card.html"
+			],
+			[
+				"dictate",
+				"_posts/2016-01-30-dictate-your-book.md"
+			],
+			[
+				"badw",
+				"pages/bad-writing-advice.md"
+			],
+			[
+				"quiet",
+				"_posts/2014-12-07-quiet-rituals.markdown"
+			],
+			[
+				"contras",
+				"pages/contrastier.html"
+			],
 			[
 				"",
 				"~/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/photo post.yaml"
@@ -948,10 +830,6 @@
 			[
 				"head",
 				"_includes/head.html"
-			],
-			[
-				"post",
-				"_layouts/post.html"
 			],
 			[
 				"catego",
@@ -980,10 +858,6 @@
 			[
 				"copyright",
 				"_drafts/copyright-response.markdown"
-			],
-			[
-				"quiet",
-				"_posts/2014-12-07-quiet-rituals.markdown"
 			],
 			[
 				"santa",
@@ -1190,10 +1064,6 @@
 				"_posts/2014-01-21-finished-bellicose-draft.markdown"
 			],
 			[
-				"cate",
-				"categories.html"
-			],
-			[
 				"tags/",
 				"tags/index.html"
 			],
@@ -1392,54 +1262,6 @@
 			[
 				"dice",
 				"diceware.md"
-			],
-			[
-				"about",
-				"about.md"
-			],
-			[
-				"head.h",
-				"_includes/head.html"
-			],
-			[
-				"_color",
-				"_sass/2015/_color.scss"
-			],
-			[
-				"_typo",
-				"_sass/2015/_typography.scss"
-			],
-			[
-				"writing-standards",
-				"w/writing-standards/index.markdown"
-			],
-			[
-				"hays",
-				"pages/hays-code.md"
-			],
-			[
-				"_typ",
-				"_sass/2015/_typography.scss"
-			],
-			[
-				"head.",
-				"_includes/head.html"
-			],
-			[
-				"de",
-				"_layouts/default.html"
-			],
-			[
-				"defau",
-				"_layouts/default.html"
-			],
-			[
-				"free",
-				"pages/freelance-applications.md"
-			],
-			[
-				"so-i",
-				"_posts/2014-08-24-so-im-building-a-vo-sound-booth.markdown"
 			]
 		],
 		"width": 0.0

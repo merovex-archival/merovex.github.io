@@ -16,6 +16,7 @@ layout: default
   </div>
   <div class='row'>
     <main class='col-gold-lg col-xs-12' role='main' aria-labelledby='page-title'>
+
       <article>
         <header>
           <h1 class='sr-only' id='page-title'>{{page.title}}</h1>
@@ -35,6 +36,7 @@ layout: default
           {{ post.content | split:"<!-- more -->" | last |markdownify }}
         </section>
         <aside role='complementary'>
+          {% include same.html %}
           <h2>Comments</h2>
           <p>To comment on this blog post, please find the shared version on <a href="http://on.fb.me/1M3gSiz">my facebook page</a>.
         </aside>

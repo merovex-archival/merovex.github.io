@@ -7,7 +7,7 @@ category: 'Writing'
 tags: [Copyright, Legal]
 photo:
   image: 5745387762_1e9ec0cc1e_o.jpg
-  creator: 'Walt Stoneburner/Flickr '
+  creator: 'Walt Stoneburner/Flickr'
   url: 'https://www.flickr.com/photos/8404611@N06/5745387762/'
   license: CC BY 2.0
   caption: Author as Mastermind Creator
@@ -16,8 +16,8 @@ legal: true
 sharing: true
 footer: true
 sidebar: true
-date: 2015-12-28 19:29
-modified_at: 2015-12-28 19:29
+date: 2016-03-03 06:08
+modified_at: 2016-03-03 06:08
 created_at: 2015-12-28 18:03
 ---
 
