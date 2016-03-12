@@ -12,14 +12,10 @@ photo:
   url: http://dausha.net
   license: Rights Reserved, created by Donna Murillo
   caption: Bophendze in Luctation.
-description: "On the live-fire battle planet of Guna, Keius Minjen witnesses the murder of his friend."
+description: "On the live-fire training planet of Guna, Keius Minjen witnesses the murder of his friend."
 created_at: 
 modified_at: 
 ---
-
-Above the fold
-
-<!-- more -->
 
 Bophendze felt nauseous not long after they landed on Guna Prime. "Angel, how long does it take to contract a local disease?"
 
@@ -30,6 +26,8 @@ Bophendze felt nauseous not long after they landed on Guna Prime. "Angel, how lo
 Angel laughed and slapped him on the back. "Welcome to the surface, Marine. You've been in space long enough that you've adjusted to artifical gravity. This is real gravity." Angel then made a series of short hops in place. "We should only be here a few cycles, so roam around a bit but come back."
 
 Bophendze walked out of the hangar and into the sun. It blinded him briefly. His eyes teared. After he adjusted, he breathed deeply natural air and wished he never had to return to space.
+
+<!-- more -->
 
 He strolled through the garrison where they landed. He saw the open parade grounds, about two acres in area. He looked around the grounds, amazed at the green. It was a color he did not realize he had missed.
 
