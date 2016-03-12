@@ -12,7 +12,7 @@ photo:
   url: http://dausha.net
   license: Rights Reserved, created by Donna Murillo
   caption: Bophendze in Luctation.
-description: "On the live-fire training planet of Guna, Keius Minjen witnesses the murder of his friend."
+description: "On the live-fire training planet of Guna, Keius Minjen witnesses the murder of his friend. Prelude to the Forebearance Series."
 created_at: 
 modified_at: 
 ---
