@@ -7,31 +7,25 @@ landing: true
 ---
 {% include shared/astro_empire_header.html %}
 
-<div class='alert alert-info' >
-
-<strong class='text-primary'>Revised May 2010.</strong> This guide will be updated based on my success on Ixion
-to plant ten bases in a I0 cluster galaxy. However, the advice presented
-here is accurate; just not as well communicated as it could.  It is
-considered accurate under those rules. You can still build 10 bases in
-seven days.
-</div>
+<strong>Revised 2016.</strong> While it appears AE no longer allows the tenth base in seven days, the basic concepts in this guide are good for any starting player. I've left the older data for reference.
 
 The Ten-Seven Guide assists novice players with early empire building to enhance their overall Astro Empires playing experience. The goal of this guide is to help players build ten bases in the first week, and educate players in key aspects of early game play. It is important to balance astro selection, structure building, and scouting. For the first three days player bases are immune to attack, but players need to remain focused on building proper defenses. This guide will also lightly touch on combat, which is discussed in greater detail on this site. The one-week goal provides &#8220;free&#8221; players (those who will not be upgrading) a chance to build one extra base before free account restrictions are applied.
 
-<div class='toc'>
-  <a name='toc' id='toc'></a><b>On this page...</b> (<a id="tocidtog" href="javascript:toggle('tocid');">hide</a>)<ul class='toc' id='tocid'><li><a href='#toc1'>Astro Picking</a></li><li><a href='#toc2'>Activity Guide</a><ul class='toc'><li><a href='#toc3'>Construction</a></li><li><a href='#toc4'>Research</a></li><li><a href='#toc5'>Production</a></li></ul></li><li><a href='#toc6'>Scouting</a></li><li><a href='#toc7'>Trade Routes &amp; Banking</a></li><li><a href='#toc8'>Defenses</a></li></ul></div>
+## Contents
+{:.no_toc}
 
-This guide was originally written in September 2007, and validated on Ceti and Alpha. Soon after, Astro Empires started tinkering with the rules of gameplay for the first week of an account. Players were protected for the first week, then three days. At the time of this writing (May 2010), the rules protect players until tenth level. This guide was re-evaluated at the opening of the Ixion server (May 2010), although earlier attempts to update the guide were made. The original version of this guide is discussed a bit in <a class='wikilink' href='http://espacesociety.org/AstroEmpires/ATenSevenDiary'>A Ten Seven Diary</a>; which may give new players a chance to read their future.
-
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
 
 The important thing to remember about this guide is diligence. The rules change means players cannot be sloppy at any time. The time demands the first week are high; perhaps higher than other times. You are the most vulnerable because you are a target of any player and your defenses are weakest. This guide favors the &#8220;Turtle&#8221; approach, high defenses over high fleet; as novice players may be less prepared for the rigors of constant combat.
 
 
 This guide does not dive into details. There are more detailed discussions of much of what is written here in other guides found on this site. Some advice here goes against popular wisdom, and the guide tries to explain why. This guide also assumes you have at least read the information provided by Astro Empires.
 
-<h2><a name='toc1' id='toc1'></a>Astro Picking</h2>
 
-<strong class='text-primary'>Your First Astro.</strong> You will start on a moon, that is how Astro Empires is programmed. The ideal start astro is a Metal-3 (Rocky, Crater or Metallic)
+## Astro Picking
+
+<strong>Your First Astro.</strong> You will start on a moon, that is how Astro Empires is programmed. The ideal start astro is a Metal-3 (Rocky, Crater or Metallic)
 moon in Slot-1 or Slot-2. If you do not have both the quality of metal or the slot, restart your account until you do. This will take some time. If it seems you have no choice, prefer a Slot-1 or Slot-2 Metal-2 (Arid, Tundra, Gaia or Earthy) astro. The <em>best</em> choice is a Slot-2 Rocky for a start as it provides excellent fertility and decent solar.
 
 
@@ -44,10 +38,10 @@ The slot affects solar output and fertility. Slot-1 gives you the best solar ene
 Restarting accounts is a feature Astro Empires provides because players tended to delete accounts that had unacceptable astros and start over. This created a considerable amount of chaos. So, this feature provides more stability, while providing you a chance to have a decent start.
 
 
-<strong class='text-primary'>Other Astros.</strong> The [Advanced Base Guide] provides a recommendation of which bases to build after the first. The focus is on astros that you should seek next. It also discusses when you should prefer planets, moons or asteroids (a.k.a. Roids). In a nutshell, if you plan on upgrading, favor moons or roids. If you do not plan on upgrading, prefer Planets. Merovech, who always upgrades, prefers Roids, because it takes two terraforms to provide the same space as a Planet, and one terraform to provide the same space as a Moon; but cost of Planetary Ring defenses are 1/4th that of Planets, or 1/2 that of Moons.
+<strong>Other Astros.</strong> The [Advanced Base Guide] provides a recommendation of which bases to build after the first. The focus is on astros that you should seek next. It also discusses when you should prefer planets, moons or asteroids (a.k.a. Roids). In a nutshell, if you plan on upgrading, favor moons or roids. If you do not plan on upgrading, prefer Planets. Merovech, who always upgrades, prefers Roids, because it takes two terraforms to provide the same space as a Planet, and one terraform to provide the same space as a Moon; but cost of Planetary Ring defenses are 1/4th that of Planets, or 1/2 that of Moons.
 
 
-<strong class='text-primary'>Location.</strong> Building your bases too close together is a very bad idea. Larger rivals may easily pick them off in rapid succession. Therefore, try not to have more than one base in a region. Defensively speaking, your bases need to be self-sufficient. The closest your bases should be is in adjacent regions, but even that risks your bases being attacked in short order by a dedicated opponent.
+<strong>Location.</strong> Building your bases too close together is a very bad idea. Larger rivals may easily pick them off in rapid succession. Therefore, try not to have more than one base in a region. Defensively speaking, your bases need to be self-sufficient. The closest your bases should be is in adjacent regions, but even that risks your bases being attacked in short order by a dedicated opponent.
 
 
 The table below lists the cost of each base, the cumulative cost of bases built that day, what econ you should have on that day to ensure you can plant those bases, and what day you should plant that base. Merovech managed to plant an extra base on Day Three on Ixion, which helped ensure he built all the bases in time.
@@ -104,7 +98,8 @@ The table below lists the cost of each base, the cumulative cost of bases built 
 </table>
 <a name='quotaend' id='quotaend'></a>
 
-<h2><a name='toc2' id='toc2'></a>Activity Guide</h2>
+
+## Activity Guide
 
 Once you've picked your base, it is time to start building. Remember,
 time is essential in the first day. You want to ensure your queues are
@@ -114,14 +109,18 @@ Robotics Factory, pick the less expensive structure. This is the
 cost-effective approach to construction. This section discusses
 construction objectives, research objectives and production objectives.
 
-<h3><a name='toc3' id='toc3'></a>Construction</h3>
+### Construction
 
 When you get your first base going, build Metal Refineries. I suggest
 building three Metal Refineries before anything else. You will run out of Population and Energy, so
-build an Urban Structure and another Solar Plant as needed. This guide assumes you will plan your queue to include Population and Energy expansion. When you research enough Energy, you can start building Fusion Plants.<sup><a href='#fn-1'>1</a></sup>
+build an Urban Structure and another Solar Plant as needed. This guide assumes you will plan your queue to include Population and Energy expansion. When you research enough Energy, you can start building Fusion Plants.[^1]
+
+[^1]: A good rule of thumb is to always build the cheaper Plant (i.e., if Fusion Plant costs 20 and Solar Plant costs 18, built Solar). This is called balancing.
 
 
-After building your first set of Refineries, built a Research Lab. Then, build a Spaceport and find a neighbor to trade with. Some will build the Spaceport first then the Lab; so it is up to you. After the Spaceport, build a Shipyard; then return to building Refineries. The chart below shows what your goals are for Day-1, Day-2, and Day-3 for your first base. This enables you to start planting new bases on Day-3. The Others column are the overall build objectives for all other bases through Day-7. You should balance your queue to meet those objectives.<sup><a href='#fn-2'>2</a></sup>
+After building your first set of Refineries, built a Research Lab. Then, build a Spaceport and find a neighbor to trade with. Some will build the Spaceport first then the Lab; so it is up to you. After the Spaceport, build a Shipyard; then return to building Refineries. The chart below shows what your goals are for Day-1, Day-2, and Day-3 for your first base. This enables you to start planting new bases on Day-3. The Others column are the overall build objectives for all other bases through Day-7. You should balance your queue to meet those objectives.[^2]
+
+[^2]: Balance means you load structures in your queue in order of their cost. The least expensive structure is added next, with preference to Metal Refineries and Robotics Factories. This ensures structures are finished in the most cost-efficient, and time-efficient manner possible.
 
 
 <a name='cons' id='cons'></a>
@@ -176,12 +175,12 @@ After building your first set of Refineries, built a Research Lab. Then, build a
 Research Labs are only built on the first base and any Research Bases during the first week. Crystal Mines are only built on astros with Crystal 2 (Roids) or Crystal 3 (Crystalline). You will experience a financial crunch as you run out of credits. Queues are your friends as you can go do other things (such as sleep) while the base constructs.
 
 
-<strong class='text-primary'>Turrets.</strong> The [Base Defense Guide] discusses defenses in greater detail. When you are near Tenth level, you will need defenses. This guide recommends you satisfy your requirements for Missile Turrets and build one on all bases right before you reach Tenth level. The <a href='#defenses'>Defenses section below</a> discusses your needs in a bit more detail.
+<strong>Turrets.</strong> The [Base Defense Guide] discusses defenses in greater detail. When you are near Tenth level, you will need defenses. This guide recommends you satisfy your requirements for Missile Turrets and build one on all bases right before you reach Tenth level. The <a href='#defenses'>Defenses section below</a> discusses your needs in a bit more detail.
 
 
-<strong class='text-primary'>New Base Goals.</strong> As each base new is built, you will want to work toward the <strong>Others</strong> goal. Merovech recommends the Shipyard be built before you have to build an Urban Structure when you are above Tenth level. This reduces the likelihood of a scout-tap. Otherwise, build the Shipyard before your first Spaceport. This reduces piracy.
+<strong>New Base Goals.</strong> As each base new is built, you will want to work toward the <strong>Others</strong> goal. Merovech recommends the Shipyard be built before you have to build an Urban Structure when you are above Tenth level. This reduces the likelihood of a scout-tap. Otherwise, build the Shipyard before your first Spaceport. This reduces piracy.
 
-<h3><a name='toc4' id='toc4'></a>Research</h3>
+### Research
 
 Once you have your first Research Lab built, you should start your
 research. The chart below shows the end-of-day goals for research. You must build enough Research Labs to support the
@@ -305,7 +304,7 @@ The last column shows the minimum technology required to build Ion Turrets.
 </table>
 
 
-<h3><a name='toc5' id='toc5'></a>Production</h3>
+### Production
 
 Production should focus on scouting and planting new bases. This guide recommends three units, shown below with the number of Shipyards and Research Targets.
 
@@ -332,19 +331,21 @@ Never send a &#8220;naked&#8221; Outpost Ship. It takes hours build and send one
 
 You should anticipate your trade routes being hit when you can build a Corvette---because your neighbors have them, too. So, before you are Corvette-capable, build a Fighter. This prevents your trade routes from being easily pirated.
 
-<h2><a name='toc6' id='toc6'></a>Scouting</h2>
+
+## Scouting
 
 Once you have researched technologies and built the Shipyards, then build one Corvette. As this guide recommends one base per region, send it to a neighboring region. Bookmark any potential base locations (Slot-1/-2 Rocky, Crater, Metallic or Roid). You can actually scout Roids without having a Corvette; another reason why Merovech likes them. Send the Corvette to each of the regions surrounding yours. That gives you nine total regions to plant bases in. Then, just let whim take you. Make sure you pick a couple base locations in each region as your neighbors are doing the same.
 
 
-<strong class='text-primary'>Why Corvettes?</strong> Corvettes are fast combat units. Scout Ships are faster, but are not combatative. They cannot even kill another Scout Ship. Corvettes can be used to kill any Outpost Ships you see, unless the OS is a guild mate's.
+<strong>Why Corvettes?</strong> Corvettes are fast combat units. Scout Ships are faster, but are not combatative. They cannot even kill another Scout Ship. Corvettes can be used to kill any Outpost Ships you see, unless the OS is a guild mate's.
 
-<h2><a name='toc7' id='toc7'></a>Trade Routes &amp; Banking</h2>
+
+## Trade Routes &amp; Banking
 
 Economy is key at all states of Astro Empires. This is an economic simulator with combat. Build one Spaceport as advised above, then build to five. Once all bases have five Spaceports, build until each has ten. This gives you ample trade routes to help your economy grow.
 
 
-<strong class='text-primary'>Who to trade with?</strong> You really have only two choices: yourself and your neighbors. Trading with yourself is a good short-term solution if you are having problems finding partners. Once you are established, slowly replace self-trades with neighbors. Until you have Prings, Merovech does not recommend trades outside your galaxy. This is because the value of a pirated route is higher for those routes, making them a more valuable target to pirates.
+<strong>Who to trade with?</strong> You really have only two choices: yourself and your neighbors. Trading with yourself is a good short-term solution if you are having problems finding partners. Once you are established, slowly replace self-trades with neighbors. Until you have Prings, Merovech does not recommend trades outside your galaxy. This is because the value of a pirated route is higher for those routes, making them a more valuable target to pirates.
 
 
 Banking credits is how you safeguard your credits from pillage. If you are attacked, a portion of your available credits goes to the victor. By either stashing credits in long-term research or construction projects, or by production Goods, you can prevent those credits from going to your rival. You can cancel the research or construction and spend the credits how you want. Don't cancel goods.
@@ -354,7 +355,8 @@ Goods production is good for when you know when you need money available, such a
 
 
 <a name='defenses' id='defenses'></a>
-<h2><a name='toc8' id='toc8'></a>Defenses</h2>
+
+## Defenses
 
 Earlier, this guide shows that you need an economy of nearly 800 to build your last base. To accomplish this with the previous nine bases, your average base economy will be between 45--65. It is imperative that you defend your bases so they are not profitable to your attacker. This discourages attack at this stage of the game, as the primary focus should be on empire build.
 
@@ -411,11 +413,6 @@ Turret economic protection drops significantly beyond its listed level. So, you 
 
 
 Look to the [Base Defense Guide] for base defense standards. The [Small Fleet Doctrine] provides an approach to efficient fleet construction that is valuable after the first week.
-
-<div id='footnotes'>
-<ol><li><a name='fn-1' id='fn-1'></a>  A good rule of thumb is to always build the cheaper Plant (i.e., if Fusion Plant costs 20 and Solar Plant costs 18, built Solar). This is called balancing.
-</li><li><a name='fn-2' id='fn-2'></a>  Balance means you load structures in your queue in order of their cost. The least expensive structure is added next, with preference to Metal Refineries and Robotics Factories. This ensures structures are finished in the most cost-efficient, and time-efficient manner possible.
-</li></ol></div>
 
 [Base Defense Guide]: /astro-empires/base-defense-guide
 [Advanced Base Guide]: /astro-empires/advanced-base-guide
