@@ -6,7 +6,7 @@ layout: default
 {% endif %}
 <main class='container' role='region' aria-labelledby='page-title'>
   <div class='row'>
-	  <div class='col-sm-8 col-sm-offset-2'>
+	  <div class='col-sm-8 offset-sm-2'>
 	    <header><h1 id='page-title'>{{page.title}}</h1></header>
 	    {% if page.toc == true %}{% include toc.html %}{%endif%}
 	{{ content }}
