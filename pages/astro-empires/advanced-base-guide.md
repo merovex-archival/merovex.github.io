@@ -5,7 +5,7 @@ date: 2014-01-26 12:38
 comments: true
 sharing: true
 footer: true
-landing: true
+landing: false
 permalink: /astro-empires/advanced-base-guide/
 ---
 [Base Defense Guide]: /astro-empires/base-defense-guide

@@ -5,7 +5,7 @@ author: Ben Wilson
 title: Murder on Guna Prime
 category: "Postal Marine Series"
 tags: 
-  - Forebearance
+  - Forbearance
 photo:
   image: Luctation.jpg
   creator: Ben Wilson
@@ -28,6 +28,8 @@ Angel laughed and slapped him on the back. "Welcome to the surface, Marine. You'
 Bophendze walked out of the hangar and into the sun. It blinded him briefly. His eyes teared. After he adjusted, he breathed deeply natural air and wished he never had to return to space.
 
 <!-- more -->
+
+{% include forbearance_signup.html %}
 
 He strolled through the garrison where they landed. He saw the open parade grounds, about two acres in area. He looked around the grounds, amazed at the green. It was a color he did not realize he had missed.
 
