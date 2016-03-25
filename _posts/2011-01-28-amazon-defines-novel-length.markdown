@@ -18,7 +18,7 @@ tags:
 - Amazon
 ---
 
-Read Write Web recently issued an article discussing [Amazon's Short Story Collection](http://rww.to/eXcyKX), which targets the electronic publishing
+Read Write Web had article discussing Amazon's Short Story Collection (link defunct as-of 2016), which targets the electronic publishing
 medium. In a nutshell, this collection is defined as 5,000 to 30,000 words.
 That's not a short story. According to [Wikipedia](http://bit.ly/i0yODm) (source
 of all true knowledge), a short story has a maximum word count of 7,000--9,000

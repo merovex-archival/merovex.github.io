@@ -82,7 +82,7 @@ The following table shows the three displacements that interest me. The [Calcula
   </tr>
   <tr class="row">
     <td class="col-sm-3">Tool</td>
-    <td class="col-sm-3"><a href="http://vwparts.aircooled.net/Universal-Flywheel-Lock-6V-and-12V-Flywheels-p/7015.htm">Universal Flywheel Lock</a></td>
+    <td class="col-sm-3">Universal Flywheel Lock</td>
     <td class="col-sm-1 text-right">$&nbsp;&nbsp;10</td>
     <td class="col-sm-5"></td>
   </tr>
