@@ -29,7 +29,7 @@ layout: default
         </section>
           {% unless post.photo['hidden'] %}<section id='photo'><figure class="photo">
             <img src="https://s3.amazonaws.com/dausha/images/articles/{{post.photo['image']}}" alt="{{post.photo['caption']}}" />
-            <footer class="caption">{{post.photo['caption']}} (Photo: <a href="{{post.photo['url']}}">{{post.photo['creator']}}</a> {{post.photo['license']}}.)</footer>
+            <div class="caption">{{post.photo['caption']}} (Photo: <a href="{{post.photo['url']}}">{{post.photo['creator']}}</a> {{post.photo['license']}}.)</div>
           </figure></section>{% endunless %}
         <section id='article-content'>
           {% if post.legal %}{% include legal-disclaimer.html %}{%endif%}
