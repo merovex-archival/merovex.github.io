@@ -1,0 +1,31 @@
+/**
+ * ========================================
+ * FOOTER
+ * ========================================
+ */
+.footer-section {
+	padding-bottom: 30px;
+	text-align: center;
+}
+.footer-logo {
+	margin-top: 0;
+	margin-bottom: 60px;
+}
+.footer-socmed {
+	font-size: 20px;
+	line-height: 1;
+	margin-bottom: 15px;
+}
+.footer-socmed > a {
+	display: inline-block;
+	margin: 0 10px;
+	color: inherit;
+	opacity: 0.5;
+}
+.footer-socmed > a:hover, .footer-socmed > a:focus {
+	color: inherit;
+	opacity: 1;
+}
+.footer-copyright {
+	opacity: 0.5;
+}
