@@ -1,0 +1,11 @@
+/* Cursive Fonts */
+@import url(https://fonts.googleapis.com/css?family=Sansita+One);
+/* Sans-Serif Fonts */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Source+Sans+Pro|Montserrat);
+/* Serif Fonts */
+@import url(https://fonts.googleapis.com/css?family=Merriweather|Domine);
+
+$brand-fonts: 'Sansita One',"Helvetica Neue",Helvetica,Arial,cursive;
+$navbar-fonts: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+$sans-fonts: 'Open Sans','Source Sans Pro',"Helvetica Neue",Helvetica,Arial,Sans-Serif !important;
+$serif-fonts: Domine,Merriweather,Garamond, Georgia,serif !important;

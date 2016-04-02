@@ -1,3 +1,4 @@
+@import 'drew-2016/typography';
 @import 'drew-2016/hero';
 @import 'drew-2016/sections';
 @import 'drew-2016/parallax';
@@ -7,3 +8,14 @@
 @import 'drew-2016/preloader';
 @import 'drew-2016/testimonial';
 @import 'drew-2016/colors/red';
+
+body {
+	height: 100%;
+	font-family: $sans-fonts;
+	font-size: 15px;
+	line-height: 1.715;
+	background-color: #fff;
+	color: #444;
+	overflow-x: hidden;
+	max-width: 100%;
+}
