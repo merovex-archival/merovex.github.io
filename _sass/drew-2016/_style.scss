@@ -1,4 +1,5 @@
 @import 'drew-2016/typography';
+@import 'drew-2016/colors/color';
 @import 'drew-2016/hero';
 @import 'drew-2016/sections';
 @import 'drew-2016/parallax';
@@ -7,7 +8,8 @@
 @import 'drew-2016/headline';
 @import 'drew-2016/preloader';
 @import 'drew-2016/testimonial';
-@import 'drew-2016/colors/red';
+@import 'drew-2016/header';
+@import 'drew-2016/theme';
 
 body {
 	height: 100%;

@@ -1,38 +1,25 @@
-/**
- * ==============================================================
- * COLOR STYLESHEET - DREW
- * ==============================================================
- */
-
-/**
- * RED
- * - basic      : #da645a (218,100,90)
- * - darken 5%  : #cd574d (205,87,77)
- * - darken 10% : #c14b41 (193,75,65)
- */
-
 /* BOOTSTRAP OVERRIDE */
 a {
-	color: #da645a;
-}
-a:focus, a:hover {
-	color: #c14b41;
+	color: $themeColor;
+	&:focus, a:hover {
+		color: darken($themeColor, 10%);
+	}
 }
 .text-primary {
-	color: #da645a;
+	color: $themeColor;
 }
 a.text-primary:hover {
-	color: #c14b41;
+	color: darken($themeColor, 10%);
 }
 .bg-primary {
-	background-color: #da645a;
+	background-color: $themeColor;
 }
 a.bg-primary:hover {
-	background-color: #c14b41;
+	background-color: darken($themeColor, 10%);
 }
 .btn-primary {
 	background-color: rgba(218,100,90,0.85);
-	border-color: #da645a !important;
+	border-color: $themeColor !important;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -40,8 +27,8 @@ a.bg-primary:hover {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-	background-color: #cd574d;
-	border-color: #da645a;
+	background-color: darken($themeColor, 5%);
+	border-color: $themeColor;
 }
 .btn-primary.disabled,
 .btn-primary[disabled],
@@ -61,42 +48,42 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-	background-color: #da645a;
+	background-color: $themeColor;
 }
 .btn-primary .badge {
-	color: #da645a;
+	color: $themeColor;
 }
 .btn-link {
-	color: #da645a;
+	color: $themeColor;
 }
 .btn-link:hover,
 .btn-link:focus {
-	color: #c14b41;
+	color: darken($themeColor, 10%);
 }
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:hover,
 .dropdown-menu > .active > a:focus {
-	background-color: #da645a;
+	background-color: $themeColor;
 }
 .nav .open > a,
 .nav .open > a:hover,
 .nav .open > a:focus {
-	border-color: #da645a;
+	border-color: $themeColor;
 }
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
-	background-color: #da645a;
+	background-color: $themeColor;
 }
 .pagination > li > a,
 .pagination > li > span {
-	color: #da645a;
+	color: $themeColor;
 }
 .pagination > li > a:hover,
 .pagination > li > span:hover,
 .pagination > li > a:focus,
 .pagination > li > span:focus {
-	color: #c14b41;
+	color: darken($themeColor, 10%);
 }
 .pagination > .active > a,
 .pagination > .active > span,
@@ -104,132 +91,136 @@ fieldset[disabled] .btn-primary.active {
 .pagination > .active > span:hover,
 .pagination > .active > a:focus,
 .pagination > .active > span:focus {
-	background-color: #da645a;
-	border-color: #da645a;
+	background-color: $themeColor;
+	border-color: $themeColor;
 }
 .label-primary {
 	background-color: rgba(218,100,90,0.85);
 }
 .label-primary[href]:hover,
 .label-primary[href]:focus {
-	background-color: #cd574d;
+	background-color: darken($themeColor, 5%);
 }
 a.list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
-	color: #da645a;
+	color: $themeColor;
 }
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
-	border-color: #da645a;
+	border-color: $themeColor;
 }
 .progress-bar {
-	background-color: #da645a;
+	background-color: $themeColor;
 }
 .list-group-item.active,
 .list-group-item.active:hover,
 .list-group-item.active:focus {
-	background-color: #da645a;
-	border-color: #da645a;
+	background-color: $themeColor;
+	border-color: $themeColor;
 }
 .panel-primary {
-	border-color: #da645a;
+	border-color: $themeColor;
 }
 .panel-primary > .panel-heading {
-	background-color: #da645a;
-	border-color: #da645a;
+	background-color: $themeColor;
+	border-color: $themeColor;
 }
 .panel-primary > .panel-heading + .panel-collapse > .panel-body {
-	border-top-color: #da645a;
+	border-top-color: $themeColor;
 }
 .panel-primary > .panel-heading .badge {
-	color: #da645a;
+	color: $themeColor;
 }
 .panel-primary > .panel-footer + .panel-collapse > .panel-body {
-	border-bottom-color: #da645a;
+	border-bottom-color: $themeColor;
 }
 
 /* COMMON CLASSES */
 .icon-list-icon {
-	background-color: #da645a;
+	background-color: $themeColor;
 }
 /* HEADER */
 .navbar-nav > li.header-action-button > a.btn-primary:hover, .navbar-nav > li.header-action-button > a.btn-primary:focus {
-	background-color: #cd574d;
+	background-color: darken($themeColor, 5%);
 }
 /* SECTION COLOR */
 .section-accent {
-	background-color: #da645a;
+	background-color: $themeColor;
+	a {
+		color: #FFF;
+		text-decoration: underline;
+	}
 }
 /* BENEFITS */
 .section-accent .benefit {
-	background-color: #cd574d;
+	background-color: darken($themeColor, 5%);
 }
 .benefit-icon {
-	color: #da645a;
+	color: $themeColor;
 }
 /* HOW IT WORKS */
 .hiw-item-icon {
-	background-color: #da645a;
+	background-color: $themeColor;
 }
 .section-accent .hiw-item {
-	background-color: #da645a;
+	background-color: $themeColor;
 }
 .section-accent .hiw-item.even {
-	background-color: #cd574d;
+	background-color: darken($themeColor, 5%);
 }
 .section-accent .hiw-item-icon {
-	border-color: #da645a;
+	border-color: $themeColor;
 }
 .section-accent .hiw-item.even .hiw-item-icon {	
-	border-color: #cd574d;
+	border-color: darken($themeColor, 5%);
 }
 /* NUMBERS */
 .numbers-item-counter {
-	color: #da645a;
+	color: $themeColor;
 }
 /* PRICING TABLE */
 .section-accent .pricing-package {
-	background-color: #cd574d;
+	background-color: darken($themeColor, 5%);
 }
 .pricing-package-header {
-	border-bottom-color: #da645a;
+	border-bottom-color: $themeColor;
 }
 .section-dark .pricing-package-header {
-	background-color: #da645a;
+	background-color: $themeColor;
 }
 /* TESTIMONIAL */
 .section-accent .testimonial {
-	background-color: #cd574d;
+	background-color: darken($themeColor, 5%);
 }
 .testimonial-ratings {
-	color: #da645a;
+	color: $themeColor;
 }
 /* PORTFOLIO */
 .portfolio-item-overlay {
-	background-color: #da645a;
+	background-color: $themeColor;
 }
 /* FAQ */
 .faq-item-icon {
-	color: #da645a;
+	color: $themeColor;
 }
 /* TEAM */
 .section-accent .team-member {
-	background-color: #da645a;
+	background-color: $themeColor;
 }
 .section-accent .team-member.even {
-	background-color: #cd574d;
+	background-color: darken($themeColor, 5%);
 }
 .section-accent .team-member-icon {
-	border-color: #da645a;
+	border-color: $themeColor;
 }
 /* CONTACT + MAPS */
 .section-accent .contact-maps-box {
-	background-color: #da645a;
+	background-color: $themeColor;
 	background-color: rgba(218,100,90,0.9);
 }
 
 /* JPRELOADER */
 #jpreBar {
-	background-color: #da645a;
+	background-color: $themeColor;
 }
