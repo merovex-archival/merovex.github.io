@@ -51,15 +51,19 @@
 	border-top: 1px solid rgba(255,255,255,0.2);
 }
 .section-gray {
-	background-color: #f0F0F0;
+	background-color: $sectionGray;
 	color: inherit;
 }
 .section-dark {
-	background-color: #222;
+	background-color: $sectionDark;
 	color: #ccc;
 }
 .section-accent {
 	color: #fff;
+	background-color: $sectionAccent;
+	.btn-primary {
+		background-color: #671AFF !important;
+	}
 }
 /* SECTION SLIDER */
 .section-slider .section-slide {

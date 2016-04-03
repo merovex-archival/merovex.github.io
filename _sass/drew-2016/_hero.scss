@@ -1,5 +1,15 @@
+.hero-fullscreen,
+.hero-fullscreen .container,
+.hero-fullscreen .container-fluid {
+  height: 100%;
+}
 #hero {
-  padding: 160px 0;
+  padding: 165px 0;
+  form {
+    background-color: rgba(0,0,0,0.4);
+    padding: 30px;
+  }
+  
   &:after {
     content: "";
     position: absolute;

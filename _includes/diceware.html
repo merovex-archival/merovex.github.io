@@ -1,3 +1,4 @@
+{% if page.diceware == true %}
     <!-- load the primary wordlist synchronously -->
     <script src="{{site.cdn_url}}/d/big.min.js"></script>
     <script src="{{site.cdn_url}}/d/lists/special-min.js"></script>
@@ -17,3 +18,4 @@
 
     <!-- core application JS -->
     <script src="{{site.cdn_url}}/d/main.js"></script>
+{%else%} <!-- No Diceware --> {%endif%}
