@@ -3,6 +3,7 @@
  * HEADER
  * ========================================
  */
+
 .header-section {
 	position: fixed;
 	z-index: 100;
@@ -145,7 +146,7 @@
 	height: 80px;
 	line-height: 50px;
 	margin-left: 0 !important;
-	padding: 12px 15px 18px;
+	padding: 15px 15px 18px !important;
 }
 .navbar-logo img {
 	display: inline-block;
@@ -231,17 +232,17 @@
 		margin-left: -15px;
 	}
 	.header-section.floating .navbar-nav > li {
-		padding-top: 20px;
-		padding-bottom: 20px;
+		padding-top: 10px;
+		padding-bottom: 10px;
 	}
 	.header-section.floating .navbar-nav > li.header-action-button {
 		padding-top: 10px;
 		padding-bottom: 10px;
 	}
 	.header-section.floating .navbar-logo {
-		height: 60px;
+		height: 40px;
 		line-height: 40px;
-		padding: 8px 15px 12px;
+		padding: 4px 15px 12px !important;
 	}
 	.header-section.floating .navbar-logo img {
 		max-height: 40px;
