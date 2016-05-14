@@ -231,20 +231,24 @@
 	.navbar-nav > li.header-action-button + li.header-action-button {
 		margin-left: -15px;
 	}
-	.header-section.floating .navbar-nav > li {
+	.header-section.floating .navbar-nav > li,
+	.hsf .navbar-nav > li {
 		padding-top: 10px;
 		padding-bottom: 10px;
 	}
-	.header-section.floating .navbar-nav > li.header-action-button {
+	.header-section.floating .navbar-nav > li.header-action-button,
+	.hsf .navbar-nav > li.header-action-button  
+	{
 		padding-top: 10px;
 		padding-bottom: 10px;
 	}
-	.header-section.floating .navbar-logo {
+	.header-section.floating .navbar-logo, .hsf .navbar-logo {
 		height: 40px;
 		line-height: 40px;
 		padding: 4px 15px 12px !important;
 	}
-	.header-section.floating .navbar-logo img {
+	.header-section.floating .navbar-logo img,
+	.hsf .navbar-logo img, {
 		max-height: 40px;
 	}
 	.header-section.floating .navbar-toggle {
