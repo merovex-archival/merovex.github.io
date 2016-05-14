@@ -25,6 +25,7 @@ kramdown:
   syntax_highlighter: rouge
 
 paginate: 9          # Posts per page on the blog index
+paginate_path: "/blog/page:num"
 recent_posts: 9       # Posts in the sidebar Recent Posts section
 popular_posts_count: 9
 sass:

@@ -1,5 +1,5 @@
 <!-- Footer -->
-<div id='bottom'>
+<section id='bottom' class='section section-dark'>
   <div class='container hidden-print'>
     <div class='row'>
         <div class='links col-md-2 col-sm-6 col-xs-12'>
@@ -73,18 +73,16 @@
       </div>
     </div>
   </div>
-</div>
-<footer>
+</section>
+<footer class='section-dark'>
   <div class='container'>
     <div class='row'>
-      <div class='col-md-8 col-sm-6 col-xs-12'>
+      <div class='col-md-7 col-sm-6 col-xs-12'>
         <p class='copyright'>Copyright © {% if page.created_at%}{{page.created_at| date: '%Y'}}{%else%}{{ site.time | date: '%Y' }}{%endif%} Ben Wilson. All Rights reserved.</p>
       </div>
-      <div class='col-md-4 col-sm-6 col-xs-12'>
-        <ul class='list-inline quicklinks'>
-          <li><a href='/privacy-statement'>Privacy Policy</a></li>
-          <li><a href='/permissions'>Terms of Use</a></li>
-        </ul>
+      <div class='col-md-5 col-sm-6 col-xs-12'>
+          <a href='/privacy-statement'>Privacy Policy</a> &middot;
+          <a href='/permissions'>Terms of Use</a>
       </div>
     </div>
   </div>

@@ -1,18 +1,9 @@
 ---
-layout: landing-page
-title: "Welcome to Dausha Publishing"
+layout: page
+title: "Blog"
 index: true
-sidebar: true
-title: ""
-subtitle: Blog
 ---
-{% if page.url == '/index.html' %}
-{% include frontpage/bellicose.html %}
-{% endif %}
 <main>
-  <section class='container lead' aria-role='complementary'>
-  </section>
-
   <section class='post container' aria-role='main' id='latest'>
     <h2 class='text-center'>Latest News</h2>
     <div class='row flexcontainer'>
@@ -27,12 +18,9 @@ subtitle: Blog
           </div>
         </div>
       </div>{% endfor %}
-
     </div>
-
     <div class='text-sm-center'>
       {% include paginator.html %}
     </div>
   </section>
 </main>
-{% include books.html %}
