@@ -35,7 +35,7 @@ footer: true
 <script type='text/javascript'>
 
   var uData;
-  $.getJSON("/resources/uwp-translator/data.json", function(data) {uData = data["data"]; });
+  $.getJSON("/pages/uwp-translator/data.json", function(data) {uData = data["data"]; });
   $("#uwp").focus();
   $('#uwp').keyup(function(event){ translateUWP(); }); translateUWP();
 
