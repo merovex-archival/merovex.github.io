@@ -1,14 +1,14 @@
 /* Cursive Fonts */
 @import url(https://fonts.googleapis.com/css?family=Sansita+One);
 /* Sans-Serif Fonts */
-@import url(https://fonts.googleapis.com/css?family=Open+Sans|Source+Sans+Pro|Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Droid+Sans|Source+Sans+Pro|Montserrat);
 /* Serif Fonts */
-@import url(https://fonts.googleapis.com/css?family=Merriweather|Domine);
+@import url(https://fonts.googleapis.com/css?family=Merriweather|Domine|Droid+Serif);
 
 $brand-fonts: 'Sansita One',"Helvetica Neue",Helvetica,Arial,cursive;
 $navbar-fonts: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-$sans-fonts: 'Open Sans','Source Sans Pro',"Helvetica Neue",Helvetica,Arial,Sans-Serif !important;
-$serif-fonts: Domine,Merriweather,Garamond, Georgia,serif !important;
+$sans-fonts: 'Droid Sans','Open Sans','Source Sans Pro',"Helvetica Neue",Helvetica,Arial,Sans-Serif !important;
+$serif-fonts: 'Droid Serif', Domine,Merriweather,Garamond, Georgia,serif !important;
 
 #skiptocontent a {
   padding:6px;
@@ -33,4 +33,12 @@ $serif-fonts: Domine,Merriweather,Garamond, Georgia,serif !important;
     -webkit-transition: top .1s ease-in, background .5s linear;
     transition: top .1s ease-in, background .5s linear;
 	}
+}
+h1 {
+  font-family: $serif-fonts;
+  small {
+    font-family: $sans-fonts;
+    font-size: 50%;
+    display: block;
+  }
 }
