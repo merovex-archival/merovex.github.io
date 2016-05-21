@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fragile Societies, Resilient Citizens"
+subtitle: "My notes on David Brin's Lecture"
 category: "Diary"
 tags:
  - Brin
@@ -35,7 +36,7 @@ There were two excellent examples of *willingness to act*. Hitler under-estimate
 
 Brin asserted that Americans have been historically willing to act and still are, contrary to modern propaganda, and rattled off several other notorious examples.
 
-## Thoughtfulness: The Zero- and Positive-Sum Societies
+## Thoughtfulness:<br>The Zero- and Positive-Sum Societies
 
 Brin described two societies: Zero- and Positive-Sum. The **Zero-Sum Society** is the ancient Feudal Attractor society where there are a few at the top with the wealth and power to control the many. The **Positive-Sum Society** is a construct of the Enlightenment, where there are a few very wealthy and a few very poor, but where those who are neither have most of the power. A higher proportion of wealth is shared than is found among the wealthy.
 

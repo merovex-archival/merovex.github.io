@@ -12,6 +12,7 @@
         {% assign prev_post = post %}
     {% endif %}
 {% endfor %}
+<h4>Related Articles</h4>
 <div class='row next-prev'>
 	{% if next_post %}<div class='col-xs-6'>
 	<a href="{{ next_post.url }}">Next<br>{{ next_post.title }}</a></div>

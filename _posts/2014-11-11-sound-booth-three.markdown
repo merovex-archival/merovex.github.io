@@ -28,7 +28,7 @@ It started with an ambitious plan to [add audio recordings](/articles/so-im-buil
 
 Hubris set in, and I thought I could build my own booth. I figured, "Heck, I can learn this. After all, it's just talking, right?" Over the past two weeks, I had three encounters that had me think differently. I'll list them in reverse order of importance.
 
-* [Dirk Benedict](http://www.king5.com/story/entertainment/television/programs/evening-magazine/2014/11/07/dirk-benedict-starbuck-seattle-battlestar-galactica/18668133/), of all people. He did an interview that brought my expectations back down to earth.
+* Dirk Benedict, of all people. He did an interview that brought my expectations back down to earth.
 * James Scott Bell, in *[How to Make a Living as a Writer](http://www.amazon.com/dp/B00P1JGD8I)* talked about Stephen King doing voice-over for his own book. (See at 226.)
 * A blind colleague praised the notion of recording audiobooks...and how horrible Stephen King's narration is.
 
