@@ -29,8 +29,6 @@ Bophendze walked out of the hangar and into the sun. It blinded him briefly. His
 
 <!-- more -->
 
-{% include forbearance_signup.html %}
-
 He strolled through the garrison where they landed. He saw the open parade grounds, about two acres in area. He looked around the grounds, amazed at the green. It was a color he did not realize he had missed.
 
 The Gunan sun dropped behind the distant trees as it started to set. He felt some peace because of the relative openness of the garrison, and because Smee managed to remain silent. Bophendze felt alone with his thoughts. He decided to head over to the canteen, to see what relaxation meant to a marine on planet.
