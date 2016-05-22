@@ -33,7 +33,6 @@ I'm co-opting that term to describe an author's work product as "materials an au
 There are a couple of important things to note as pertains to the [Federal Rules of Evidence (FRE)](http://corporate.findlaw.com/litigation-disputes/summary-of-the-rules-of-evidence.html). First, documentary evidence should be original, or you must provide a very good reason why an original is not possible. And, the evidence should be material and probative to the matter at hand. If materials were prepared for litigation, then they are less probative and material.
 
 **Examples of Author's Work Product**
-
 What is an author's work product? Included in this would be the following:
 
 * Character sketches
