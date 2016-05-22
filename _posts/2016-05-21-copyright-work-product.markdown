@@ -21,14 +21,14 @@ modified_at: 2016-05-21 20:14
 created_at: 2015-12-29 18:03
 ---
 
-In the first article, I provided a [copyright overview](/writing/copyright-overview/) that states that "Registered or not, an Author has a responsibility to ensure they can prove their authorship of a work." In the second article, I discuss what [copyright means in the 9th Circuit](/writing/copyright-overview/) as it pertains to proving authorship. In this article, I share how I think we as authors should respond to this legal landscape.
+In the first article, I provided a [copyright overview](/writing/copyright-overview/) stating that "Registered or not, an Author has a responsibility to ensure they can prove their authorship of a work." In the second article, I discuss what [copyright means in the 9th Circuit](/writing/copyright-overview/) as it pertains to proving authorship. In this article, I share how I think we as authors should respond to this legal landscape.
 
 <!-- more -->
 
 We've already discussed that copyright law expects us to protect and defend our work. The 9th Circuit explains that the validity of our authorship is ultimately a question for a jury, that a registered work provides a rebuttable presumption of authorship. In its jury questions, it instructs the jury to consider the originality of the work (non-derivative and creative) and a mastermind role in creation of the work.
 
-**Definition: Author's Work Product.** Work product in business or layman's terms indicates the final product. In the legal domain, "[work product](https://www.law.cornell.edu/wex/Attorney_work_product)" are the correspondance between client and attorney and the materials the attorney uses in preparation of litigation. Unlike attorney-client privilege, this extends to materials and documents.
-I'm co-opting that term to describe an author's work product as "materials an author uses in preparation and development of a final product that show ."
+**Definition: Author's Work Product.** Work product in business or layman's terms indicates the final product. In the legal domain, "[work product](https://www.law.cornell.edu/wex/Attorney_work_product)" comprises the correspondance between client and attorney and the materials the attorney uses in preparation of litigation. Unlike attorney-client privilege which covers oral communication, this extends to materials and documents.
+I'm co-opting that term to describe an author's work product as "materials an author uses in preparation and development of a final, publishable product."
 
 There are a couple of important things to note as pertains to the [Federal Rules of Evidence (FRE)](http://corporate.findlaw.com/litigation-disputes/summary-of-the-rules-of-evidence.html). First, documentary evidence should be original, or you must provide a very good reason why an original is not possible. And, the evidence should be material and probative to the matter at hand. If materials were prepared for litigation, then they are less probative and material.
 
@@ -43,7 +43,7 @@ What is an author's work product? Included in this would be the following:
 * Earlier drafts
 * Electronic correspondance with editors, beta readers, etc. (FB, Twitter, email)
 
-All of these materials are things a normal author produces in the normal course of creating a novel. For me, the byproducts of the [Snowflake Method](/w/writing-tools/snowflake-method/) seems to lend itself naturally to an author's work product.
+All of these materials are things a normal author produces in the normal course of creating a novel. For me, the byproducts of the [Snowflake Method](/w/writing-tools/snowflake-method/) seems to lend itself naturally to an author's work product. The interesting wrinkle is even these work products are covered by your copyright under US Federal Copyright Law.
 
 As an author, you should always be in a better position to demonstrate an author's work product than the infringer. It stands to reason that if you had to stack your work product against another's, would it show how you developed an idea and crafted a work. You've put work into it and the infringer had not.
 
