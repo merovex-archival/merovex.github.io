@@ -7,11 +7,8 @@
 					</div>
 				</div>
 				<div class="container">
-
-					<h2 class="section-heading text-center">About Ben Wilson</h2>
-
+					<h2 class="section-heading text-sm-center">About Ben Wilson</h2>
 					<div class="about-row row">
-
 						<!-- DESCRIPTION IMAGE -->
 						<div class="about-image col-md-5" data-animation="fadeIn">
 							<img src="https://dausha.s3.amazonaws.com/images/Ben-2015.png" alt="Description Image">
@@ -20,24 +17,21 @@
 						<!-- DESCRIPTION TEXT -->
 						<div class="about-text col-md-7">
 							<p class="lead">Ben Wilson is a science fantasy writer. He’s into history, human nature and religious studies. He is the author of the Postal Marine Series, though he eventually wants to write four novel series. His books are avalable on Amazon Ben lives in Arlington, Virginia with his wife and three children.</p>
-				
-
-							<h3>Latest Posts</h3>
-
-							<ul class="icon-list">
-								{% for post in site.posts limit:3 %}
-									<li>
-										<img class="icon-list-icon fa fa-hand-o-up" data-animation="bounceIn" src='{{ site.cdn_url }}/images/articles/squares/{{post.photo['image']}}' alt='{{post.photo['caption']}}'></span>
-										<h4 class="icon-list-title"><a href='{{post.url}}'>{{post.title}}</a></h4>
-										<p>{{post.description}}</p>
-									</li>
-									<hr>
-							{% endfor %}</ul>
-							<p><a href="/blog/">Catch up on the Blog</a>.</p>
 						</div>
-
 					</div>
-
+					<div class='row' style="padding-bottom: 1em;">
+					  <div class='col-sm-10; col-xs-10'>
+						  <h3>Latest News</h3>
+					  </div>
+					  <div class='col-sm-2; col-xs-2'>
+						  <a href="/blog/" class='btn btn-primary' style='margin-top: 15px;'>View the Blog</a>
+					  </div>
+					</div>
+					<div class='row'>{% for post in site.posts limit:3 %}
+						<div class='col-sm-4'>
+							<h4 class=" text-sm-center"><a href='{{post.url}}'>{{post.title}}</a></h4>
+							<p>{{post.description}}</p>
+						</div>{% endfor %}
+					</div>
 				</div>
-
 			</section>
