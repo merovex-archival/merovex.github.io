@@ -33,7 +33,7 @@ I'm co-opting that term to describe an author's work product as "materials an au
 There are a couple of important things to note as pertains to the [Federal Rules of Evidence (FRE)](http://corporate.findlaw.com/litigation-disputes/summary-of-the-rules-of-evidence.html). First, documentary evidence should be original, or you must provide a very good reason why an original is not possible. And, the evidence should be material and probative to the matter at hand. If materials were prepared for litigation, then they are less probative and material.
 
 **Examples of Author's Work Product**
-What is an author's work product? Included in this would be the following:
+What is an author's work product? Examples of your work product would include the following:
 
 * Character sketches
 * Story outlines
@@ -42,7 +42,7 @@ What is an author's work product? Included in this would be the following:
 * Earlier drafts
 * Electronic correspondance with editors, beta readers, etc. (FB, Twitter, email)
 
-All of these materials are things a normal author produces in the normal course of creating a novel. For me, the byproducts of the [Snowflake Method](/w/writing-tools/snowflake-method/) seems to lend itself naturally to an author's work product. The interesting wrinkle is even these work products are covered by your copyright under US Federal Copyright Law.
+This list is not exhaustive but meant to help you as an author realize that all you do to support creating your publishable work help establish your original, creative role in that work. All of these materials are things a normal author produces in the normal course of creating a novel. For me, the byproducts of the [Snowflake Method](/w/writing-tools/snowflake-method/) seems to lend itself naturally to an author's work product. An interesting wrinkle is even these work products are covered by your copyright under US Federal Copyright Law.
 
 As an author, you should always be in a better position to demonstrate an author's work product than the infringer. It stands to reason that if you had to stack your work product against another's, would it show how you developed an idea and crafted a work. You've put work into it and the infringer had not.
 
