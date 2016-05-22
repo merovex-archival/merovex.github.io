@@ -7,7 +7,7 @@ category: 'Writing'
 tags: [Copyright, Legal]
 photo:
   image: 6991234167_f026a96005_o.jpg
-  creator: 'fabola/Flickr '
+  creator: 'fabola/Flickr'
   url: 'https://www.flickr.com/photos/44124339301@N01/6991234167/'
   license: CC BY-SA 2.0
   caption: "Author's Work Product"
@@ -21,7 +21,7 @@ modified_at: 2016-05-21 20:14
 created_at: 2015-12-29 18:03
 ---
 
-In the first article, I provided a [copyright overview](/writing/copyright-overview/) stating that "Registered or not, an Author has a responsibility to ensure they can prove their authorship of a work." In the second article, I discuss what [copyright means in the 9th Circuit](/writing/copyright-overview/) as it pertains to proving authorship. In this article, I share how I think we as authors should respond to this legal landscape.
+In the first article in this series, I provided a [copyright overview](/writing/copyright-overview/) stating that "Registered or not, an Author has a responsibility to ensure they can prove their authorship of a work." In the second article, I discuss what [copyright means in the 9th Circuit](/writing/copyright-overview/) as it pertains to proving authorship. In this article, I share how I think we as authors should respond to this legal landscape.
 
 <!-- more -->
 
