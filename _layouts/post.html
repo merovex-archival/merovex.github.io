@@ -19,10 +19,10 @@ layout: default
         <h1><small aria-hidden='true'><span class='fa fa-folder-open-o'></span> <a href='{{ site.baseurl }}/categories/#{{ page.category | replace: ' ', '+'}}-ref'>{{page.category}}</a></small> {{ page.title }} </h1>
           <p  class='sr-only'>Category: {{page.category | titlecase}}</p>
           {% assign fred = page %}
-          {% if page.subtitle %}<p class='lead'>{{page.subtitle}}</p>{%endif%}
+          {% if page.subtitle %}<p class='subtitle'>{{page.subtitle}}</p>{%endif%}
         </header>
         
-        <section id='introduction'>
+        <section id='introduction' class='lead'>
           {{ page.content | split:"<!-- more -->" | first |markdownify }}
         </section>
           {% unless page.photo['hidden'] %}<section id='photo'><figure class="photo">

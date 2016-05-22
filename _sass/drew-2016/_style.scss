@@ -63,6 +63,7 @@ aside.post-footer {
 }
 .photo {
   text-align: center;
+  margin: 1.3em 0;
   img {
     width: 80%;
     display: inline-block;
@@ -90,27 +91,48 @@ p, ul, ol, address {
 	font-size: 18px;
 }
 
-.lead {
-	position: relative;
-	font-size: 20px;
-	line-height: inherit;
+#fp {
+	.lead {
+		position: relative;
+		font-size: 20px;
+		line-height: inherit;
+		font-style: italic;
+		font-weight: normal;
+		padding: 10px 0 25px;
+	}
+	.lead:after {
+		content: "";
+		position: absolute;
+		left: 0;
+		bottom: 0;
+		display: block;
+		height: 2px;
+		width: 80px;
+		background-color: rgba(0,0,0,0.1);
+	}
+	.lead.text-center:after {
+		left: 50%;
+		margin-left: -40px;
+	}
+}
+.lead p {
+	font-size: 1.25rem;
+}
+p.subtitle {
+	font-size: 1.6em !important;
+	font-weight: 300 !important;
+	color: #797979;
 	font-style: italic;
-	font-weight: normal;
-	padding: 10px 0 25px;
-}
-.lead:after {
-	content: "";
-	position: absolute;
-	left: 0;
-	bottom: 0;
-	display: block;
-	height: 2px;
-	width: 80px;
-	background-color: rgba(0,0,0,0.1);
-}
-.lead.text-center:after {
-	left: 50%;
-	margin-left: -40px;
+	&:after {
+		content: "";
+		position: absolute;
+		left: 0;
+		bottom: 0;
+		display: block;
+		height: 2px;
+		width: 80px;
+		background-color: rgba(0,0,0,0.1);
+	}
 }
 .section-dark .lead:after,
 .section-accent .lead:after {
@@ -156,6 +178,9 @@ p, ul, ol, address {
 	background: #219D8A;
 	color: #FFF;
 	text-shadow: 1px 1px 1px #0F483F;
+	h3 {
+		text-shadow: 1px 1px 1px #0F483F;
+	}
 	padding: 1em;
 	margin: 1em 0;
 	border-radius: 6px;
