@@ -16,7 +16,7 @@ layout: default
 
       <article>
         <header>
-        <h1><small aria-hidden='true'><span class='fa fa-folder-open-o'></span> <a href='{{ site.baseurl }}/categories/#{{ page.category | replace: ' ', '+'}}-ref'>{{page.category}}</a></small> {{ page.title }} </h1>
+        <h1><small aria-hidden='true'><span class='fa fa-folder-open-o'></span> <a href='{{ site.baseurl }}/categories/#{{ page.category | replace: ' ', '+'}}-ref'>{{site.data['categories'][page.category]}}</a></small> {{ page.title }} </h1>
           <p  class='sr-only'>Category: {{page.category | titlecase}}</p>
           {% assign fred = page %}
           {% if page.subtitle %}<p class='subtitle'>{{page.subtitle}}</p>{%endif%}

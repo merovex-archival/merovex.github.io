@@ -10,7 +10,7 @@ title: Jonaldy Ammonett
 author: Ben Wilson
 description: 'As I am editing Luctation, I wanted to chat a bit about the main character: Jonaldy Ammonett. He starts lowly and insecure, but we see eventually that he rises to be a real power in and of himself.'
 image: Luctation.jpg
-category: "Postal Marine Series"
+category: "postal-marine-series"
 date: 2015-08-23 09:42
 modified_at: 2015-08-23 09:42
 created_at: 2015-08-23 08:41

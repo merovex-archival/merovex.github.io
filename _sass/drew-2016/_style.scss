@@ -30,7 +30,11 @@ a {
 	-webkit-transition: all ease 0.25s;
 	transition: all ease 0.25s;
 	font-weight: bold;
-	text-decoration: underline;
+}
+p {
+	a {
+		text-decoration: underline;
+	}
 }
 .section-accent a {
 	color: #444;

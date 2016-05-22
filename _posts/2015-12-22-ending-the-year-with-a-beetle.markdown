@@ -3,7 +3,7 @@ layout: post
 title: Ending the Year with a Beetle
 author: Ben Wilson
 description: "Seven months in, I'd like to share a little progress on the Beetle."
-category: VW Beetle
+category: vw-beetle
 tags: []
 photo:
   image: IMG_20150510_160943.jpg

@@ -10,7 +10,7 @@ title: Starting on the Chassis (Beetle Pt-3)
 author: Ben Wilson
 description: "After about six weeks of owning the Super Beetle, I'm finally coming to terms with the totality of this project. And, I will get back into editing novels soon."
 image: 1361002.jpg
-category: VW Beetle
+category: vw-beetle
 date: 2015-06-20 07:32
 modified_at: 2015-06-20 07:32
 created_at: 2015-06-19 20:00

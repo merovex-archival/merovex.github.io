@@ -3,7 +3,7 @@ layout: post
 published: True
 author: Ben Wilson
 title: Murder on Guna Prime
-category: "Postal Marine Series"
+category: postal-marine-series
 tags: 
   - Forbearance
 photo:

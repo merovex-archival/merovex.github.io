@@ -7,12 +7,12 @@ group: navigation
 
 <div class='row'>
   <main class='col-sm-7 col-sm-offset-1'>
-{% for category in site.categories %} 
-  <h2 id="{{ category[0] | cgi_escape }}-ref">{{ category[0] | join: "/" }}</h2>
-  <ul>
-    {% assign pages_list = category[1] %}  
-    {% include pages_list.html %}
-  </ul>
+{% for site_category in site.data['categories'] %}{% assign site_key = site_category[0] %}{% assign title = site_category[1] %}
+  <h2 id="{{ site_key }}">{{ title }}</h2>
+
+  <ul>{% for category in site.categories %}{% if category[0] == site_key or category[0] == title%}{% assign pages_list = category[1] %}
+    {% include pages_list.html %}{%endif%}
+  {% endfor %}</ul>
 {% endfor %}
   </main>
   <aside class='col-sm-4' role='complimentary'>

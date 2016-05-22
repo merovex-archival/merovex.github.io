@@ -12,8 +12,7 @@ modified_at: 2010-12-21 15:24
 published_at: 2010-12-21 15:24
 date: 2010-12-21 15:24
 author: Ben Wilson
-category: Postal Marine Series
-keywords: writing, plan, goals
+category: "postal-marine-series"
 description: Ben Wilson offers his retrospective on writing and publishing his first finished novel--Scintilla.
 tags:
 - Retrospective
