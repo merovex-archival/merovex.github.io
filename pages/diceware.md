@@ -1,6 +1,7 @@
 ---
 layout: wide
 title: Diceware
+diceware: true
 permalink: /diceware/
 ---
 
