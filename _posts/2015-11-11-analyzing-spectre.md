@@ -21,7 +21,7 @@ As I did with [Skyfall](/writing/skyfall-plot-analysis/), I wanted to offer a fe
 
 <!-- more -->
 
-Skyfall was the end of a trilogy, the interaction between the Craig/Bond and Dench/M. Spectre clearly follows that trilogy, extending into a series. The central theme explored is loyalty, with a subordinate theme of intuition. The question asked (ala *Save the Cat*) was about whether Bond should trust his owns intuition.
+Skyfall was the end of a trilogy, the interaction between the Craig/Bond and Dench/M. Spectre clearly follows that trilogy, extending into a series. The central theme explored is loyalty, with a subordinate theme of intuition. The question asked (ala *Save the Cat*) was about whether Bond should trust his own intuition.
 
 In the hero's camp, Bond asks his compatriots to trust him, to extend loyalty to him. In so doing, they are asked to risk their lives, careers and reputations. What you learn is that he had already accepted the challenge: his drive in the movie derives from his loyalty in another such that he risks life, career and reputation---even his own happiness is held captive to his loyalty.
 
