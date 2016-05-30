@@ -1,4 +1,4 @@
 ---
 layout: article_redirect
-irl: /vw%20beetle/memories-of-a-vw-bug-roadtrip
+irl: /vw-beetle/memories-of-a-vw-bug-roadtrip
 ---

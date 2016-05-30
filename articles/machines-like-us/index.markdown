@@ -1,4 +1,4 @@
 ---
 layout: article_redirect
-irl: /postal%20marine%20series/machines-like-us
+irl: /postal-marine-series/machines-like-us
 ---

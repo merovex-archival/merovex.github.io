@@ -1,4 +1,4 @@
 ---
 layout: article_redirect
-irl: /postal%20marine%20series/inspiration-for-the-postal-marines
+irl: /postal-marine-series/inspiration-for-the-postal-marines
 ---

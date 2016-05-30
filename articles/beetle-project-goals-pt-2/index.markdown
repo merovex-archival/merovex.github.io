@@ -1,4 +1,4 @@
 ---
 layout: article_redirect
-irl: /vw%20beetle/beetle-project-goals-pt-2
+irl: /vw-beetle/beetle-project-goals-pt-2
 ---
