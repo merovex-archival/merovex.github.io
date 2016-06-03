@@ -12,11 +12,11 @@ layout: default
 
 <div class='post container'>
   <div class='row'>
-    <main class='col-sm-8 offset-sm-2 col-xs-12' role='main' aria-labelledby='page-title'>
+    <main class='col s12 l8 offset-l2' role='main' aria-labelledby='page-title'>
 
       <article>
         <header>
-        <h1><small aria-hidden='true'><span class='fa fa-folder-open-o'></span> <a href='{{ site.baseurl }}/categories/#{{ page.category | replace: ' ', '+'}}-ref'>{{site.data['categories'][page.category]}}</a></small> {{ page.title }} </h1>
+        <h1><small aria-hidden='true'><i class="material-icons" aria-hidden='true'>folder_open</i> <a href='{{ site.baseurl }}/categories/#{{ page.category | replace: ' ', '+'}}'>{{site.data['categories'][page.category]}}</a></small> {{ page.title }} </h1>
           <p  class='sr-only'>Category: {{page.category | titlecase}}</p>
           {% assign fred = page %}
           {% if page.subtitle %}<p class='subtitle'>{{page.subtitle}}</p>{%endif%}
@@ -26,10 +26,10 @@ layout: default
           {{ page.content | split:"<!-- more -->" | first |markdownify }}
         </section>
           {% unless page.photo['hidden'] %}<section id='photo'><figure class="photo">
-            <img src="https://s3.amazonaws.com/dausha/images/articles/{{page.photo['image']}}" alt="{{page.photo['caption']}}" />
-            <div class="caption">{{page.photo['caption']}} (Photo: <a href="{{page.photo['url']}}">{{page.photo['creator']}}</a> {{page.photo['license']}}.)</div>
+            <img src="https://s3.amazonaws.com/dausha/images/articles/{{page.photo['image']}}" alt="{{page.photo['caption']}}" class='z-depth-2' />
+            <div>{{page.photo['caption']}} (Photo: <a href="{{page.photo['url']}}">{{page.photo['creator']}}</a> {{page.photo['license']}}.)</div>
           </figure></section>{% endunless %}
-        <section id='article-content'>
+        <section id='article-content''>
           {% if page.legal %}{% include legal-disclaimer.html %}{%endif%}
           {{ page.content | split:"<!-- more -->" | last |markdownify }}
         </section>

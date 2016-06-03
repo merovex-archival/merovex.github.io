@@ -1,0 +1,35 @@
+html {
+  font-family: "Droid Serif";
+}
+h1, h2, h3, h4, nav, footer {
+  font-family: "Droid Sans";
+}
+.card-image span { text-shadow: 2px 2px 2px black; }
+h1 small {
+	font-size: 40%;
+	display: block;
+}
+code {
+	background: #DDD;
+}
+.photo {
+  text-align: center;
+  margin: 1.3em 0;
+  img {
+    width: 100%;
+    display: inline-block;
+    height: auto;
+    margin: 10px auto;
+    max-width: 100%;
+    padding: 4px;
+    line-height: 1.42857;
+    background-color: #ffffff;
+    border: 3px solid #fff;
+    border-radius: 4px;
+  }
+  p, div {
+    font-size: 0.875em;
+    font-style: italic;
+    color: #706f72;
+  }
+}

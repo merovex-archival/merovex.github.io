@@ -12,12 +12,21 @@
         {% assign prev_post = post %}
     {% endif %}
 {% endfor %}
-<h4>Related Articles</h4>
-<div class='row next-prev'>
-	{% if next_post %}<div class='col-xs-6'>
-	<a href="{{ next_post.url }}">Next<br>{{ next_post.title }}</a></div>
+<h4><i class="fa fa-file-o" aria-hidden='true'></i> Related Articles</h4>
+<div class='row'>
+	{% if next_post %}<div class='col s6 m6 l6'>
+    <i class="material-icons md-48" aria-hidden='true'>chevron_left</i>
+	<a href="{{ next_post.url }}">
+        
+        Next<br>{{ next_post.title }}</a></div>
+        {% else %}<div class='col s6 m6 l6'>&nbsp;</div>
 	{% endif %}
-	{% if prev_post %}<div class='col-xs-6 text-xs-right'>
-	<a href="{{ prev_post.url }}">Previous<br>{{ prev_post.title }}</a></div>
+	{% if prev_post %}<div class='col s6 m6 l6 align-right'>
+	<a href="{{ prev_post.url }}">Previous
+
+    <br>{{ prev_post.title }}
+    
+    </a><i class="material-icons md-48" aria-hidden='true'>chevron_right</i></div>
+     
 	{% endif %}
 </div>
