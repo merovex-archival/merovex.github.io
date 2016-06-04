@@ -22,8 +22,9 @@ Ben lives in Arlington, Virginia with his wife and three children. Find him on t
 <h3 id="why-i-write">Why I write</h3>
 
 <blockquote>
-  My life is about telling stories.
-  <footer>Ben Wilson</footer>
+  <p>My life is about telling stories.</p>
+  
+  <span>Ben Wilson</span>
 </blockquote>
 
 <p>When friends and co-workers find that I write novels, I explain that I am a poor writer of bad Science Fiction. I don’t pretend to write the Great (Insert Nationality Here) Novel, or even the most provocative. I just write and try to improve.</p>

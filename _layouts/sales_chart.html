@@ -21,7 +21,7 @@ sidebar: false
 <script type="text/javascript">
 var chart;
 var chartData;
-$.getJSON("/sales/sales-{{ page.year }}.json", function(data) {
+$.getJSON("/pages/sales/sales-{{ page.year }}.json", function(data) {
     chartData = data["data"];
     today = data["today"];
     start = data["start"];

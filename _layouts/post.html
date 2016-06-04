@@ -1,49 +1,25 @@
 ---
-layout: default
+layout: page
 ---
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=120807331401670";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<div class='post container'>
-  <div class='row'>
-    <main class='col-sm-8 offset-sm-2 col-xs-12' role='main' aria-labelledby='page-title'>
-
-      <article>
-        <header>
-        <h1><small aria-hidden='true'><span class='fa fa-folder-open-o'></span> <a href='{{ site.baseurl }}/categories/#{{ page.category | replace: ' ', '+'}}-ref'>{{site.data['categories'][page.category]}}</a></small> {{ page.title }} </h1>
-          <p  class='sr-only'>Category: {{page.category | titlecase}}</p>
-          {% assign fred = page %}
-          {% if page.subtitle %}<p class='subtitle'>{{page.subtitle}}</p>{%endif%}
-        </header>
-        
-        <section id='introduction' class='lead'>
-          {{ page.content | split:"<!-- more -->" | first |markdownify }}
-        </section>
-          {% unless page.photo['hidden'] %}<section id='photo'><figure class="photo">
-            <img src="https://s3.amazonaws.com/dausha/images/articles/{{page.photo['image']}}" alt="{{page.photo['caption']}}" />
-            <div class="caption">{{page.photo['caption']}} (Photo: <a href="{{page.photo['url']}}">{{page.photo['creator']}}</a> {{page.photo['license']}}.)</div>
-          </figure></section>{% endunless %}
-        <section id='article-content'>
-          {% if page.legal %}{% include legal-disclaimer.html %}{%endif%}
-          {{ page.content | split:"<!-- more -->" | last |markdownify }}
-        </section>
-        <aside role='complementary' class='post-footer'>
-          {% include same.html %}
-          {% include social_networks.html %}
-
-          <div class='blog-subscribe text-sm-center'>
-            <h3>Like This Post?</h3>
-            <p>Sign up for my blog updates and never miss a post.</p>
-            {% include forms/mailchimp-full.html %}
-          </div>
-        </aside>
-      </article>      
-    </main>
-  </div>
-</div>
+<section id='introduction' class='lead'>
+    {{ page.content | split:"<!-- more -->" | first |markdownify }}
+</section>
+{% unless page.photo['hidden'] %}<section id='photo'><figure class="photo">
+      <img src="https://s3.amazonaws.com/dausha/images/articles/{{page.photo['image']}}" alt="{{page.photo['caption']}}" class='z-depth-2' />
+      <div>{{page.photo['caption']}} (Photo: <a href="{{page.photo['url']}}">{{page.photo['creator']}}</a> {{page.photo['license']}}.)</div>
+</figure></section>{% endunless %}
+<section id='article-content''>
+    {% if page.legal %}{% include legal-disclaimer.html %}{%endif%}
+    {{ page.content | split:"<!-- more -->" | last |markdownify }}
+</section>
+<aside role='complementary' class='post-footer'>
+    {% if page.series %}<hr>{%include article-series.html %}{%endif%}
+    <hr>
+    {% include social_networks.html %}
+    <hr>
+    <div class='blog-subscribe text-sm-center'>
+      <h4><i class="fa fa-thumbs-o-up" aria-hidden='true'></i> Like This Post?</h4>
+      <p>Sign up for my blog updates and never miss a post.</p>
+      {% include forms/mailchimp-full.html %}
+    </div>
+</aside>

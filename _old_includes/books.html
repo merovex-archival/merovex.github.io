@@ -1,0 +1,10 @@
+<div id='books-band' role='complimentary'>
+  <div class='container'>{% assign offset=' offset-sm-2' %}
+    <h2 class='text-center'>Books</h2>{% assign books = site.books | where:"featured",true | where:"hidden",false | where:"variant",false %}
+    <div class='row'>{% for book in books %}
+      <div class='col s3 m2{{offset}}'>
+        <a href='{{book.amazon['ebook']}}'><img src='{{site.cdn_url}}/images/covers/{{book.cover['angle']}}' alt='{{book.title}} on Amazon' /></a>
+      </div>{%assign offset='' %}{% endfor %}
+    </div>
+  </div>
+</div>

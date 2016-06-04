@@ -1,5 +1,6 @@
 ---
 layout: post
+series: Copyright
 title: "Copyright: Overview"
 author: Ben Wilson
 description: "Registered or not, an Author has a responsibility to ensure they can prove their authorship of a work."

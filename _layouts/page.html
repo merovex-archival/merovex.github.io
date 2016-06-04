@@ -1,15 +1,30 @@
 ---
 layout: default
 ---
-{% if page.landing == true and false %}
-  {% include frontpage/bellicose.html %}
-{% endif %}
-<main class='container' role='region' aria-labelledby='page-title'>
+{% if page.share %}
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=120807331401670";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+{%endif%}
+<main class='container z-depth-1' role='region' aria-labelledby='page-title'>
   <div class='row'>
-	  <div class='col-sm-8 offset-sm-2 col-sm-offset-2'>
-	    <header><h1 id='page-title'>{{page.title}}</h1></header>
+	  <article class='col l8 m10 s12 offset-l2 offset-m1'>
+	    <header>
+        <h1>{% if page.category %}{% assign category = page.category | downcase %}
+			<small aria-hidden='true'><i class="material-icons" aria-hidden='true'>folder_open</i> <a href='{{ site.baseurl }}/categories/#{{ category | replace: ' ', '+'}}'>{{site.data['categories'][category]}}</a></small>
+		{%endif%}
+		{{ page.title }}</h1>
+          <p  class='sr-only'>Category: {{category | titlecase}}</p>
+          {% assign fred = page %}
+          {% if page.subtitle %}<p class='subtitle'>{{page.subtitle}}</p>{%endif%}
+        </header>
 	    {% if page.toc == true %}{% include toc.html %}{%endif%}
-	{{ content }}
-	  </div>
+		{{ content }}
+	  </article>
   </div>
 </main>
