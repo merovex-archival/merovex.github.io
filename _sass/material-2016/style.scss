@@ -39,7 +39,7 @@ a.nav-link, .testimonial-ratings {
   font-size: 120%;
 }
 .testimonial {
-  h5, .ratings {
+  h5, .ratings span {
     @extend .red-text, .text-accent-4;
   }
 }
