@@ -46,7 +46,7 @@ Assuming *Luctation* and Ombrio are progressing, I may amend my 2016 goal to inc
 
 ### Restore
 
-I've been working on restoring a [1972 Volkswagon Super Beetle](/categories/#vw+beetle-ref) since April 2015. I've already discussed this [restoration effort](/vw-beetle/ending-the-year-with-a-beetle/) recently, so I won't belabor it. My endeavor is to finish the body by May, and perhaps have it road worthy by December 2016.
+I've been working on restoring a [1972 Volkswagon Super Beetle](/categories/#vw-beetle) since April 2015. I've already discussed this [restoration effort](/vw-beetle/ending-the-year-with-a-beetle/) recently, so I won't belabor it. My endeavor is to finish the body by May, and perhaps have it road worthy by December 2016.
 
 ### Realign
 
