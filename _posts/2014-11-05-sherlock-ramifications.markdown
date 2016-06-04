@@ -19,7 +19,7 @@ author: Ben Wilson
 tags:
 - Legal
 ---
-Sherlock Holmes the character is now in the public domain per the [US Courts](http://www.theguardian.com/books/2014/jun/16/sherlock-public-domain-court-doyle-estate-copyright). So what does that mean?
+Sherlock Holmes the character is now in the public domain per the [US Courts](http://www.bbcamerica.com/anglophenia/2014/01/arthur-conan-doyles-sherlock-holmes-public-domain-u-s). So what does that mean?
 
 <!-- more -->
 
