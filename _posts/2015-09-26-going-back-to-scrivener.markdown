@@ -28,7 +28,7 @@ When it comes to the right tool, I am a nomad. I have tried paper, wikis, Everno
 
 When it comes to [Scrivener](https://www.literatureandlatte.com/scrivener.php), I have my reservations. It doesn't give me the control that I want at the point of production. But, there are a few things it offers that merits a second look.
 
-It offers me a chance to collocate all the novels, the series bible and novel bible all in one location. If you look at the screenshot accompanying this article, you see that I am fleshing out a master project that covers everything. In the past, I stated a desire for an index, such as list of characters, etc. However, I can use internal document links, which affords the same thing. I have other desires, most of which are possible in Scrivener. I think I also gain access to [Aeon Timeline](http://www.scribblecode.com/index.html) and [Scapple](http://www.literatureandlatte.com/scapple.php).
+It offers me a chance to collocate all the novels, the series bible and novel bible all in one location. If you look at the screenshot accompanying this article, you see that I am fleshing out a master project that covers everything. In the past, I stated a desire for an index, such as list of characters, etc. However, I can use internal document links, which affords the same thing. I have other desires, most of which are possible in Scrivener. I think I also gain access to [Aeon Timeline](http://www.aeontimeline.com/) and [Scapple](http://www.literatureandlatte.com/scapple.php).
 
 I lose a few things dear to me. I am binding myself to a vendor, which I don't have with my current toolchain. I believe I lose some quality when compiling my work. But, with this I gain the metadata capabilities I'm trying to emulate via other means.
 
