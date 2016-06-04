@@ -1,4 +1,5 @@
 ---
+series: Copyright
 layout: post
 title: "Copyright: Author's Work Product"
 author: Ben Wilson

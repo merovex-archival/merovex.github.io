@@ -49,4 +49,3 @@ Having owned a pair of Beetles, I've done a lot of work on them. But, I've never
 
 Have I ever welded? No. Have I ever rebuilt an engine? I have worked on an engine, but not performed a full teardown. Have I ever painted a car? Nope. I'm also not the most patient fellow in the world. So, this will likely be the worst restoration ever performed.
 
-{% include beetle-saga.html %}

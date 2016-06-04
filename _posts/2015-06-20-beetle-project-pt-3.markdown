@@ -39,5 +39,3 @@ Welding? I've never done it before. The welder I have should be adequate for my 
 So what's my timeline? In a perfect world, I can get the chassis done by 1 August and the body done by November. Then if I rebuild the engine, that would be winter. Or, if I buy the engine, I would be on the road just before the snow.
 
 What about the novels? At some point over the next month I will be resuming editing *Luctation*. I would like to have it published by October. 
-
-{% include beetle-saga.html %}

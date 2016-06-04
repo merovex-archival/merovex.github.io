@@ -58,5 +58,3 @@ No lowering. Stock clearance is fine.
 **Stock Brakes.** The parking brake is non-serviceable&mdash;the chock-block is the give away. Looks like the cable is broken. I'll overhaul the brakes regardless.
 
 **Stock Wiring.** I plan to rewire from scratch. There amount of cutting and splicing around the engine is tragic. My zeal to get the left c-pillar open managed not to hit the main bundle, but I did neatly cut the defrost wire in two places.
-
-{% include beetle-saga.html %}

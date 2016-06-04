@@ -1,8 +1,32 @@
+$atom-blue: (
+  "base":       #2b2e3b,
+);
+svg.logo, svg.name {
+  height: 42px;
+  margin: 10px 0 0 0;
+  fill: #b2dfdb;
+}
+
 html {
   font-family: "Droid Serif";
+  background: #F0F0F0;
+  @extend .blue-grey-text, .text-darken-4;
+}
+footer {
+  @extend .blue-grey, .lighten-4;
+  @extend .blue-grey-text;
+  padding: 1em 0;
+  border-top: 1px solid;
+}
+main {
+  background: #FFF;
+  padding: 0 0 1in 0;
 }
 h1, h2, h3, h4, nav, footer {
   font-family: "Droid Sans";
+}
+a.nav-link {
+ @extend .teal-text, .text-lighten-4 
 }
 .card-image span { text-shadow: 2px 2px 2px black; }
 h1 small {

@@ -1,9 +1,6 @@
-<footer class="page-footer indigo">
-  <div class="footer-copyright">
-    <div class="container">
-       Copyright © {% if page.created_at%}{{page.created_at| date: '%Y'}}{%else%}{{ site.time | date: '%Y' }}{%endif%} Ben Wilson. All Rights reserved.<br>Expected lapse 2122 AD.
-       <a href='/privacy-statement'>Privacy Policy</a>
-     | <a href='/permissions'>My Permissions Policy</a>
-    </div>
-  </div>
+<footer valign-wrapper">
+    <div class="container valign">
+       Copyright © {% if page.created_at%}{{page.created_at| date: '%Y'}}{%else%}{{ site.time | date: '%Y' }}{%endif%} Ben Wilson. All Rights reserved. Expected lapse 2122 AD. 
+       <a href='/policies'>Policies</a>
+	</div>
 </footer>
