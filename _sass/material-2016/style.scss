@@ -1,0 +1,97 @@
+$atom-blue: (
+  "base":       #2b2e3b,
+);
+svg.logo, svg.name {
+  height: 42px;
+  margin: 10px 0 0 0;
+  fill: #d32f2f;
+}
+.minitron {
+  font-size: 20px;
+  text-align: center !important;
+}
+#hero {
+  text-shadow: 1px 1px 2px #000;
+}
+
+html {
+  font-family: "Droid Serif";
+  background: #F0F0F0;
+  @extend .blue-grey-text, .text-darken-4;
+}
+footer {
+  @extend .grey, .lighten-2;
+  @extend .grey-text, .text-lighten-1;
+  padding: 1em 0;
+  border-top: 1px solid;
+}
+main {
+  background: #FFF;
+  padding: 0 0 1in 0;
+}
+h1, h2, h3, h4, nav, footer {
+  font-family: "Droid Sans";
+}
+a.nav-link, .testimonial-ratings {
+ @extend .red-text, .text-accent-1;
+}
+.lead {
+  font-size: 120%;
+}
+.testimonial {
+  h5, .ratings {
+    @extend .red-text, .text-accent-4;
+  }
+}
+.card-image span { text-shadow: 2px 2px 2px black; }
+h1 small {
+	font-size: 40%;
+	display: block;
+}
+h2 small { display: block; }
+h1 {font-size: 2.45rem; line-height: 2.45rem; }
+h2, .footnotes:before { font-size: 2.15rem; line-height: 1.25em }
+h3 { font-size: 1.62rem; line-height: 1.25em }
+h4 { font-size: 1.2em; line-height: 1.25em }
+
+.alert { padding: 1em; border: 1px solid; border-radius: 4px;}
+.alert-danger {
+  @extend .red-text, .text-darken-4;
+  @extend .red, .lighten-4;
+}
+.alert-warning {
+  @extend .yellow-text, .text-darken-4;
+  @extend .yellow, .lighten-4;
+}
+.alert-info {
+  @extend .blue-grey-text, .text-darken-4;
+  @extend .blue-grey, .lighten-4;
+}
+.alert-success {
+  @extend .green-text, .text-darken-4;
+  @extend .green, .lighten-4;
+}
+code {
+	background: #DDD;
+}
+.photo {
+  text-align: center;
+  margin: 1.3em 0;
+  img {
+    width: 100%;
+    display: inline-block;
+    height: auto;
+    margin: 10px auto;
+    max-width: 100%;
+    padding: 4px;
+    line-height: 1.42857;
+    background-color: #ffffff;
+    border: 3px solid #fff;
+    border-radius: 4px;
+  }
+  p, div {
+    font-size: 0.875em;
+    font-style: italic;
+    color: #706f72;
+  }
+}

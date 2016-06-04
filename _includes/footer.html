@@ -1,14 +1,20 @@
-<footer>
+<div class='indigo darken-2 white-text'>
+<hr>
+
+Stuff
+
+<footer class='indigo darken-4 white-text'>
   <div class='container'>
-    <h3 class='row'>Merovex Press</h3>
-    <div class='row'>
-      <div class='col-md-7 col-sm-6 col-xs-12'>
-        <p class='copyright'>Copyright © {% if page.created_at%}{{page.created_at| date: '%Y'}}{%else%}{{ site.time | date: '%Y' }}{%endif%} Ben Wilson. All Rights reserved.</p>
-      </div>
-      <div class='col-md-5 col-sm-6 col-xs-12'>
-          <a href='/privacy-statement'>Privacy Policy</a>
-           | <a href='/permissions'>My Permissions Policy</a>
-      </div>
+    <div class='valign-wraper row'>
+      <h5 class='l12 m12 s12'>Merovex Press</h5>
+      <div class='col l7 md6 s12  valign'>
+          <p class='copyright'>Copyright © {% if page.created_at%}{{page.created_at| date: '%Y'}}{%else%}{{ site.time | date: '%Y' }}{%endif%} Ben Wilson. All Rights reserved.<br>Expected lapse 2122 AD.</p>
+        </div>
+        <div class='col l5 md6 s12 valign right-align'>
+            <a href='/privacy-statement'>Privacy Policy</a>
+             | <a href='/permissions'>My Permissions Policy</a>
+        </div>
     </div>
   </div>
 </footer>
+</div>
