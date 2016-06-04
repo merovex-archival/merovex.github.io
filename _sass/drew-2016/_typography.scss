@@ -65,7 +65,7 @@ $serif-fonts: 'Droid Serif', Domine,Merriweather,Garamond, Georgia,serif !import
   .titlecase {
     text-transform: capitalize;
   }
-
+h1 {font-size: 2.45rem !important; line-height: 2.45rem; }
   h2, .footnotes:before { font-size: 2.15rem; line-height: 1.25em }
   h3 { font-size: 1.62rem; line-height: 1.25em }
   h4 { font-size: 1.2em; line-height: 1.25em }
