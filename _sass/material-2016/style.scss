@@ -1,10 +1,22 @@
 $atom-blue: (
   "base":       #2b2e3b,
 );
-svg.logo, svg.name {
-  height: 42px;
-  margin: 10px 0 0 0;
+
+#logo-container {
   fill: #d32f2f;
+  &:hover, &:focus {
+    fill: #ffcdd2;
+  }
+  svg {
+    height: 42px;
+    margin: 10px 0 0 0;
+  }
+}
+a.nav-link, .testimonial-ratings {
+ color: #ff8a80;
+ &:hover, &:focus {
+    color: #ffcdd2;
+ }
 }
 .minitron {
   font-size: 20px;
@@ -28,13 +40,17 @@ footer {
 main {
   background: #FFF;
   padding: 0 0 1in 0;
+  p a, ul a, ol a, blockquote a {
+    text-decoration: underline;
+  }
+  a {
+    &:hover, &:focus { text-decoration: underline; }
+  }
 }
 h1, h2, h3, h4, nav, footer {
   font-family: "Droid Sans";
 }
-a.nav-link, .testimonial-ratings {
- @extend .red-text, .text-accent-1;
-}
+
 .lead {
   font-size: 120%;
 }
