@@ -46,6 +46,24 @@ main {
   a {
     &:hover, &:focus { text-decoration: underline; }
   }
+strong {
+  font-weight: bold;
+}
+  ul li {
+    list-style-type: circle;
+    list-style-type: initial;
+    margin-left: 1em;
+    ul li {
+      list-style-type: disc;
+      margin-left: 1em;
+    }
+  }
+  ol li {
+    list-style-type: decimal;
+    ol li {
+      list-style-type: lower-alpha;
+    }
+  }
 }
 h1, h2, h3, h4, nav, footer {
   font-family: "Droid Sans";
