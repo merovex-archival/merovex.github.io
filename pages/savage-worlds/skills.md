@@ -6,8 +6,9 @@ permalink: /savage-worlds/skills/
 ---
 {% include logo-contest.html %}
 
-<table id='sorted' class='table table-condensed tablesorter zebra-striped'>
-  <caption>Skill List (click on Heading to sort)</caption>
+<h2>Skill List</h2>
+<table class='bordered'>
+  
   <thead>
     <tr>
       <th>Attribute</th>
@@ -122,178 +123,180 @@ permalink: /savage-worlds/skills/
   </tbody>
 </table>
 
-<table class='table table-condensed table-bordered'>
-    <caption>Wild Card's % Chance to Hit a Target Number by Die Type</caption>
+<h2>Wild Card's % Chance to Hit a Target Number by Die Type</h2>
+<table class='bordered'>
+    
     <tr bgcolor="#FFFFCC">
-        <td bgcolor="#FFFFFF">&nbsp;</td>
-        <td class='centered'><b>2</b></td>
-        <td class='centered'><b>3</b></td>
-        <td class='centered'><b>4</b></td>
-        <td class='centered'><b>5</b></td>
-        <td class='centered'><b>6</b></td>
-        <td class='centered'><b>7</b></td>
-        <td class='centered'><b>8</b></td>
-        <td class='centered'><b>9</b></td>
-        <td class='centered'><b>10</b></td>
-        <td class='centered'><b>11</b></td>
-        <td class='centered'><b>12</b></td>
+        <th></th>
+        <th class='right-align'>2</th>
+        <th class='right-align'>3</th>
+        <th class='right-align'>4</th>
+        <th class='right-align'>5</th>
+        <th class='right-align'>6</th>
+        <th class='right-align'>7</th>
+        <th class='right-align'>8</th>
+        <th class='right-align'>9</th>
+        <th class='right-align'>10</th>
+        <th class='right-align'>11</th>
+        <th class='right-align'>12</th>
     </tr>
     <tr>
-        <td bgcolor="#EEEEEE"><b>d4</b></td>
-        <td class='right'>96</td>
-        <td class='right'>83</td>
-        <td class='right'>63</td>
-        <td class='right'>50</td>
-        <td class='right'>32</td>
-        <td class='right'>27</td>
-        <td class='right'>19</td>
-        <td class='right'>16</td>
-        <td class='right'>12</td>
-        <td class='right'>8</td>
-        <td class='right'>4</td>
+        <th>d4</th>
+        <td class='right-align'>96</td>
+        <td class='right-align'>83</td>
+        <td class='right-align'>63</td>
+        <td class='right-align'>50</td>
+        <td class='right-align'>32</td>
+        <td class='right-align'>27</td>
+        <td class='right-align'>19</td>
+        <td class='right-align'>16</td>
+        <td class='right-align'>12</td>
+        <td class='right-align'>8</td>
+        <td class='right-align'>4</td>
     </tr>
     <tr>
-        <td bgcolor="#EEEEEE"><b>d6</b></td>
-        <td class='right'>97</td>
-        <td class='right'>89</td>
-        <td class='right'>75</td>
-        <td class='right'>56</td>
-        <td class='right'>31</td>
-        <td class='right'>31</td>
-        <td class='right'>25</td>
-        <td class='right'>20</td>
-        <td class='right'>15</td>
-        <td class='right'>10</td>
-        <td class='right'>5</td>
+        <th>d6</th>
+        <td class='right-align'>97</td>
+        <td class='right-align'>89</td>
+        <td class='right-align'>75</td>
+        <td class='right-align'>56</td>
+        <td class='right-align'>31</td>
+        <td class='right-align'>31</td>
+        <td class='right-align'>25</td>
+        <td class='right-align'>20</td>
+        <td class='right-align'>15</td>
+        <td class='right-align'>10</td>
+        <td class='right-align'>5</td>
     </tr>
     <tr>
-        <td bgcolor="#EEEEEE"><b>d8</b></td>
-        <td class='right'>98</td>
-        <td class='right'>92</td>
-        <td class='right'>81</td>
-        <td class='right'>67</td>
-        <td class='right'>48</td>
-        <td class='right'>38</td>
-        <td class='right'>25</td>
-        <td class='right'>22</td>
-        <td class='right'>18</td>
-        <td class='right'>14</td>
-        <td class='right'>10</td>
+        <th>d8</th>
+        <td class='right-align'>98</td>
+        <td class='right-align'>92</td>
+        <td class='right-align'>81</td>
+        <td class='right-align'>67</td>
+        <td class='right-align'>48</td>
+        <td class='right-align'>38</td>
+        <td class='right-align'>25</td>
+        <td class='right-align'>22</td>
+        <td class='right-align'>18</td>
+        <td class='right-align'>14</td>
+        <td class='right-align'>10</td>
     </tr>
     <tr>
-        <td bgcolor="#EEEEEE"><b>d10</b></td>
-        <td class='right'>98</td>
-        <td class='right'>93</td>
-        <td class='right'>85</td>
-        <td class='right'>73</td>
-        <td class='right'>58</td>
-        <td class='right'>50</td>
-        <td class='right'>38</td>
-        <td class='right'>29</td>
-        <td class='right'>18</td>
-        <td class='right'>15</td>
-        <td class='right'>12</td>
+        <th>d10</th>
+        <td class='right-align'>98</td>
+        <td class='right-align'>93</td>
+        <td class='right-align'>85</td>
+        <td class='right-align'>73</td>
+        <td class='right-align'>58</td>
+        <td class='right-align'>50</td>
+        <td class='right-align'>38</td>
+        <td class='right-align'>29</td>
+        <td class='right-align'>18</td>
+        <td class='right-align'>15</td>
+        <td class='right-align'>12</td>
     </tr>
     <tr>
-        <td bgcolor="#EEEEEE"><b>d12</b></td>
-        <td class='right'>99</td>
-        <td class='right'>94</td>
-        <td class='right'>88</td>
-        <td class='right'>78</td>
-        <td class='right'>65</td>
-        <td class='right'>58</td>
-        <td class='right'>50</td>
-        <td class='right'>41</td>
-        <td class='right'>31</td>
-        <td class='right'>21</td>
-        <td class='right'>11</td>
+        <th>d12</th>
+        <td class='right-align'>99</td>
+        <td class='right-align'>94</td>
+        <td class='right-align'>88</td>
+        <td class='right-align'>78</td>
+        <td class='right-align'>65</td>
+        <td class='right-align'>58</td>
+        <td class='right-align'>50</td>
+        <td class='right-align'>41</td>
+        <td class='right-align'>31</td>
+        <td class='right-align'>21</td>
+        <td class='right-align'>11</td>
     </tr>
 </table>
 
-<table class='table table-condensed'>
-    <caption>Extra's % Chance to Hit a Target Number by Die Type</caption>
+<h2>Extra's % Chance to Hit a Target Number by Die Type</h2>
+<table class='bordered'>
+    
     <tr bgcolor="#FFFFCC">
-        <td bgcolor="#FFFFFF">&nbsp;</td>
-        <td class='centered'><b>2</b></td>
-        <td class='centered'><b>3</b></td>
-        <td class='centered'><b>4</b></td>
-        <td class='centered'><b>5</b></td>
-        <td class='centered'><b>6</b></td>
-        <td class='centered'><b>7</b></td>
-        <td class='centered'><b>8</b></td>
-        <td class='centered'><b>9</b></td>
-        <td class='centered'><b>10</b></td>
-        <td class='centered'><b>11</b></td>
-        <td class='centered'><b>12</b></td>
+        <th>&nbsp;</th>
+        <th class='right-align'>2</th>
+        <th class='right-align'>3</th>
+        <th class='right-align'>4</th>
+        <th class='right-align'>5</th>
+        <th class='right-align'>6</th>
+        <th class='right-align'>7</th>
+        <th class='right-align'>8</th>
+        <th class='right-align'>9</th>
+        <th class='right-align'>10</th>
+        <th class='right-align'>11</th>
+        <th class='right-align'>12</th>
     </tr>
     <tr>
-        <td bgcolor="#EEEEEE"><b>d4</b></td>
-        <td class='right'>75</td>
-        <td class='right'>50</td>
-        <td class='right'>25</td>
-        <td class='right'>25</td>
-        <td class='right'>19</td>
-        <td class='right'>13</td>
-        <td class='right'>6</td>
-        <td class='right'>6</td>
-        <td class='right'>5</td>
-        <td class='right'>3</td>
-        <td class='right'>2</td>
+        <th>d4</th>
+        <td class='right-align'>75</td>
+        <td class='right-align'>50</td>
+        <td class='right-align'>25</td>
+        <td class='right-align'>25</td>
+        <td class='right-align'>19</td>
+        <td class='right-align'>13</td>
+        <td class='right-align'>6</td>
+        <td class='right-align'>6</td>
+        <td class='right-align'>5</td>
+        <td class='right-align'>3</td>
+        <td class='right-align'>2</td>
     </tr>
     <tr>
-        <td bgcolor="#EEEEEE"><b>d6</b></td>
-        <td class='right'>83</td>
-        <td class='right'>67</td>
-        <td class='right'>50</td>
-        <td class='right'>33</td>
-        <td class='right'>17</td>
-        <td class='right'>17</td>
-        <td class='right'>14</td>
-        <td class='right'>11</td>
-        <td class='right'>8</td>
-        <td class='right'>6</td>
-        <td class='right'>3</td>
+        <th>d6</th>
+        <td class='right-align'>83</td>
+        <td class='right-align'>67</td>
+        <td class='right-align'>50</td>
+        <td class='right-align'>33</td>
+        <td class='right-align'>17</td>
+        <td class='right-align'>17</td>
+        <td class='right-align'>14</td>
+        <td class='right-align'>11</td>
+        <td class='right-align'>8</td>
+        <td class='right-align'>6</td>
+        <td class='right-align'>3</td>
     </tr>
     <tr>
-        <td bgcolor="#EEEEEE"><b>d8</b></td>
-        <td class='right'>88</td>
-        <td class='right'>75</td>
-        <td class='right'>63</td>
-        <td class='right'>50</td>
-        <td class='right'>38</td>
-        <td class='right'>25</td>
-        <td class='right'>13</td>
-        <td class='right'>13</td>
-        <td class='right'>11</td>
-        <td class='right'>9</td>
-        <td class='right'>8</td>
+        <th>d8</th>
+        <td class='right-align'>88</td>
+        <td class='right-align'>75</td>
+        <td class='right-align'>63</td>
+        <td class='right-align'>50</td>
+        <td class='right-align'>38</td>
+        <td class='right-align'>25</td>
+        <td class='right-align'>13</td>
+        <td class='right-align'>13</td>
+        <td class='right-align'>11</td>
+        <td class='right-align'>9</td>
+        <td class='right-align'>8</td>
     </tr>
     <tr>
-        <td bgcolor="#EEEEEE"><b>d10</b></td>
-        <td class='right'>90</td>
-        <td class='right'>80</td>
-        <td class='right'>70</td>
-        <td class='right'>60</td>
-        <td class='right'>50</td>
-        <td class='right'>40</td>
-        <td class='right'>30</td>
-        <td class='right'>20</td>
-        <td class='right'>10</td>
-        <td class='right'>10</td>
-        <td class='right'>9</td>
+        <th>d10</th>
+        <td class='right-align'>90</td>
+        <td class='right-align'>80</td>
+        <td class='right-align'>70</td>
+        <td class='right-align'>60</td>
+        <td class='right-align'>50</td>
+        <td class='right-align'>40</td>
+        <td class='right-align'>30</td>
+        <td class='right-align'>20</td>
+        <td class='right-align'>10</td>
+        <td class='right-align'>10</td>
+        <td class='right-align'>9</td>
     </tr>
     <tr>
-        <td bgcolor="#EEEEEE"><b>d12</b></td>
-        <td class='right'>92</td>
-        <td class='right'>83</td>
-        <td class='right'>75</td>
-        <td class='right'>67</td>
-        <td class='right'>58</td>
-        <td class='right'>50</td>
-        <td class='right'>42</td>
-        <td class='right'>33</td>
-        <td class='right'>25</td>
-        <td class='right'>17</td>
-        <td class='right'>8</td>
+        <th>d12</th>
+        <td class='right-align'>92</td>
+        <td class='right-align'>83</td>
+        <td class='right-align'>75</td>
+        <td class='right-align'>67</td>
+        <td class='right-align'>58</td>
+        <td class='right-align'>50</td>
+        <td class='right-align'>42</td>
+        <td class='right-align'>33</td>
+        <td class='right-align'>25</td>
+        <td class='right-align'>17</td>
+        <td class='right-align'>8</td>
     </tr>
 </table>

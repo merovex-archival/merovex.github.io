@@ -1,7 +1,11 @@
 $atom-blue: (
   "base":       #2b2e3b,
 );
-
+table.table-bordered {
+  td {
+    border: 1px solid red;
+  }
+}
 #logo-container {
   fill: #d32f2f;
   &:hover, &:focus {
