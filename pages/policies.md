@@ -11,7 +11,9 @@ date: 2016-06-04 08:53
 modified_at: 2016-06-04 08:53
 ---
 
+## Trademarks
 
+**Merovex**, **Merovex Press** are trade names. The planetary pin is a trade mark for Merovex Press. All are protected under US intellectual property laws.
 
 ## Copyright Terms
 

@@ -15,5 +15,10 @@ html, body {height: 100%; font-size: 16px; }
 }
 @import "materialize/materialize.scss";
 @import "material-2016/style.scss";
-.dev {border: 1px solid red; }
+.dev {border: 1px solid red; th { border: 1px solid blue; } td { border: 1px solid red; }}
 
+#scenecalculator {
+	td {
+		width: 10%;
+	}
+}

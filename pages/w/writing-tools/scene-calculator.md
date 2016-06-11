@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: wide
 title: "Scene Calculator"
 date: 2012-03-08 21:08
 permalink: /w/writing-tools/scene-calculator/
@@ -17,15 +17,16 @@ permalink: /w/writing-tools/scene-calculator/
 
 <form id='scenecalculator' method='post'>
 <table id='scenecalculator_table' class='table table-striped' ><tr>
-  <th scope="row" valign='top'>Wordcount (in thousands)</th>
-  <td valign='top'><input type='text' id='kwords' class='form-control' size='4' maxlength='3' /></td>
+  <th scope="row" valign='top'>Wordcount<br>(in 1,000s)</th>
+  <td valign='top'><input type='number' id='kwords' class='form-control' size='4' maxlength='3' /></td>
   <td colspan='4'> ,000</td>
 </tr>
 
 <tr>
   <th scope="row" valign='top'>Total Scenes</th>
   <td valign='top'><input type='text' id='scene_total' class='form-control'  size='4' /></td>
-  <td colspan='4'>&nbsp;</td>
+  <th colspan='2' class='right-align'>Pages (@330)</th>
+  <td colspan='2'><input type='text' id='pages' class='form-control'  size='4' /></td>
 </tr>
 
 <tr>
