@@ -50,9 +50,9 @@ main {
   a {
     &:hover, &:focus { text-decoration: underline; }
   }
-strong {
-  font-weight: bold;
-}
+  strong {
+    font-weight: bold;
+  }
   ul li {
     list-style-type: circle;
     list-style-type: initial;
@@ -68,6 +68,10 @@ strong {
       list-style-type: lower-alpha;
     }
   }
+}
+#markdown-toc li {
+  list-style-type: none;
+
 }
 h1, h2, h3, h4, nav, footer {
   font-family: "Droid Sans";
