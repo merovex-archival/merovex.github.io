@@ -11,9 +11,15 @@ date: 2016-06-04 08:53
 modified_at: 2016-06-04 08:53
 ---
 
+# Contents
+{:.no_toc}
+
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
+
 ## Trademarks
 
-**Merovex**, **Merovex Press** are trade names. The planetary pin is a trade mark for Merovex Press. All are protected under US intellectual property laws.
+**Merovex**, **Merovex Press** are trade names. The planetary pin is a trade mark for Merovex Press. All are protected under US intellectual property laws. Use of these properties requires prior written permission from Ben Wilson.
 
 ## Copyright Terms
 
