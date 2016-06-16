@@ -41,7 +41,8 @@ footer {
   padding: 1em 0;
   border-top: 1px solid;
 }
-section#introduction p:first-child:first-letter { float: left; font-size: 3.1em; line-height: 1.0; padding-: 0 3px; 
+section#introduction p:first-child:first-letter { float: left; font-size: 3.1em; line-height: 0.9; padding: 2px 4px 0 3px; 
+  
  @extend .red-text, .text-darken-4
 }
 main {
