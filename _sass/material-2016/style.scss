@@ -120,9 +120,7 @@ h4 { font-size: 1.2em; line-height: 1.25em }
 code {
 	background: #DDD;
 }
-.footnotes:before {
-    content: "Footnotes";
-}
+
 .photo {
   text-align: center;
   margin: 1.3em 0;
@@ -143,4 +141,7 @@ code {
     font-style: italic;
     color: #706f72;
   }
+}
+.footnotes:before {
+    content: "Footnotes";
 }
