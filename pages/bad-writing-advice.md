@@ -78,7 +78,157 @@ But if you don’t empathize with your villain, it’s very likely he’ll be a 
 
 It’s also easy to skimp on these questions for the lesser characters—the sidekicks and clowns in your story. But if you do this work, your story is going to become deeper. Because now your sidekick doesn’t exist solely to make your hero’s story come out well. Your sidekick now has his own story with his own goals, and those may come into conflict with your hero’s goals—even if they’re both the best of all friends.
 
+## Twenty-Two Steps
 
+### Develop Premise
+
+* Premise: one-sentence summary of the book. "When action, character reacts, only to learn."
+    1. **Wish/Premise List.** Visioning, Do a wish-list, compare to premise list and look for similarities
+    2. **Possibilities** Find the promise, ask "what if?"
+    3. **Story Problems/Challenges**
+    3. **Designing Principle** (Strategy), the hook, schtick.
+    4. **Best Character** identification
+    5. **Central Conflict**
+    6. **Critical Path** (Basic Action,  cause-and-effect pathway)
+    7. **Character Change** Hero's Probably character change
+        - W— weaknesses at the beginning: uptight, henpecked man
+        - A— basic action: becomes involved with a gang of outlaws
+        - C— changed person: gets a divorce
+    9. **Moral Choice** Find Hero's Probable Moral Choice
+    10. **Audience Appeal**
+
+
+**Premise / Designing Principle in Exodus.** 
+
+* **Premise** When an Egyptian prince discovers that he is a Hebrew, he leads his people out of slavery.
+* **Designing Principle** A man who does not know who he is struggles to lead his people to freedom and receives the new moral laws that will define him and his people.
+* **Theme Line** A man who takes responsibility for his people is rewarded by a vision of how to live by the word of God.
+
+### Story
+
+1. Weakness and need - psychological (hurting self) & moral (hurting others) need
+2. Desire - Specific story goal
+3. Opponent - Introduce someone seeking the same goal.
+4. Plan - Something that addresses Desire and Opponent
+5. Battle - Punch / Counter punch
+6. Self-revelation - the psychological facade is stripped away and he sees himself as he really is
+7. New equilibrium
+
+<table>
+</table>
+
+### Moral Need
+
+To give your character a moral as well as a psychological need and to make it the right one for your character, 
+
+1. Begin with the psychological weakness. 
+2. Figure out what kind of immoral action might naturally come out of that. 
+3. Identify the deep-seated moral weakness and need that are the source of this action. 
+
+A second technique for creating a good moral need is to push a strength so far that it becomes a weakness. The technique works like this:
+
+1. Identify a virtue in your character. Then make him so passionate about it that it becomes oppressive.
+2. Come up with a value the character believes in. Then find the negative version of that value.
+
+#### SAVING PRIVATE RYAN 
+
+* **Need** Hero John Miller must do his duty in spite of his fear (psychological and moral). 
+
+* **Desire** He wants to find Private Ryan and bring him back alive.
+
+### Characters
+
+#### Story Roles
+
+* Hero Clarice Starling
+* Main Opponent Buffalo Bill, the serial killer
+* Second Opponent Dr. Chilton, the warden
+* Fake-Ally Opponent None
+* Ally Jack, her boss at the FBI
+* Fake-Opponent Ally Hannibal Lecter
+* Subplot Character None
+
+#### Archtype
+
+* King Father
+* Queen Mother
+* Mentor
+* Warrior
+* Magician
+* Trickster
+* Artist / Clown
+* Lover
+* Rebel
+
+Let’s look at how to execute this crucial technique. 
+
+1. Begin by writing down what you think is the central moral problem of your story. If you worked through the techniques of the premise, you already know this.
+2. Compare your hero and all other characters on these parameters:
+    * weaknesses
+    * need— both psychological and moral
+    * desire
+    * values
+    * power, status, and ability
+    * how each faces the central moral problem in the story 
+3. When making these comparisons, start with the most important relationship in any story, that between the hero and the main opponent. In many ways, this opponent is the key to creating the story, because not only is he the most effective way of defining the hero, but he also shows you the secrets to creating a great character web.
+4. After comparing the hero to the main opponent, compare the hero to the other opponents and then to the allies. Finally, compare the opponents and allies to one another.
+
+Remember that each character should show us a different approach to the hero's central moral problem (variations on a theme).
+
+#### Change Scenarios (W.A.C.)
+
+1. Child - Adult
+2. Adult - Leader
+3. Cynic - Participant
+4. Leader - Tyrant
+5. Leader - Visionary
+6. Metamorphosis
+
+### Hero Recipe
+
+1. Minimum requirements
+    - Facinating
+    - Identifable
+    - Empathy
+    - Moral / Psychological needs
+2. Character Change (W.A.C.)
+    1. Child - Adult
+    2. Adult - Leader
+    3. Cynic - Participant
+    4. Leader - Tyrant
+    5. Leader - Visionary
+    6. Metamorphosis
+3. Desire
+4. Opponent
+    1. Necessary
+    2. Human
+    3. Opposed values to Hero
+    4. Strong, flawed moral argument
+    5. Similar to hero
+    6. Proximity
+
+### Characters as variations on theme
+
+Here is the sequence for making this technique work: 
+
+1. Look again at the final moral decision and your work on the premise line so you are clear about the central moral problem your hero must deal with in the story.
+2. Make sure each of the major characters deals with the same moral problem, but in a different way.
+3. Start by comparing the hero and the main opponent, since these characters personify the primary moral opposition you detail in the story. Then compare the hero to the other opponents.
+4. Over the course of the story, each of the major characters should make a moral argument in dialog justifying what they do to reach the goal.
+
+#### Levels of Desire
+
+1. Survive (escape) 
+2. Take revenge 
+3. Win the battle 
+4. Achieve something 
+5. Explore a world 
+6. Catch a criminal
+7. Find the truth 
+8. Gain love
+9. Bring justice and freedom
+10. Save the Republic
+11. Save the world
 
 ## Footnotes
 
