@@ -100,6 +100,8 @@ h2, .footnotes:before { font-size: 2.15rem; line-height: 1.25em }
 h3 { font-size: 1.62rem; line-height: 1.25em }
 h4 { font-size: 1.2em; line-height: 1.25em }
 
+.footnotes:before {content: "Footnotes"; }
+
 .alert { padding: 1em; border: 1px solid; border-radius: 4px;}
 .alert-danger {
   @extend .red-text, .text-darken-4;
