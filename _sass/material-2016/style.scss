@@ -120,10 +120,8 @@ h4 { font-size: 1.2em; line-height: 1.25em }
 code {
 	background: #DDD;
 }
-.footnotes {
-  &:before {
+.footnotes:before {
     content: "Footnotes";
-  }
 }
 .photo {
   text-align: center;
