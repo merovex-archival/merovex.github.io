@@ -7,6 +7,11 @@ permalink: /diceware/
 
 [Diceware](http://world.std.com/~reinhold/diceware.html) is used to create cryptographically strong passphrases. It is based on the principle that the truly random selection, based on rolls of dice, of words in a [wordlist](http://world.std.com/~reinhold/diceware.wordlist.asc) can result in easily memorable passwords that are also extremely resistant to attack by even the most powerful adversaries. Passwords that are [six words or longer](http://world.std.com/~reinhold/dicewarefaq.html#howlong) are thought to be safe for high security applications.
 
+<h3>Automatically Generated Words</h3>
+<p>
+Selecting one of these buttons will automatically generate the number of words selected.
+</p>
+
 <div class='btn-group' role='group' aria-label='Add random words group'>
   <button type='button' class='btn btn-warning genWordsButton' data-words='4' data-rolls='5' data-reset='1'>
     <span class='fa fa-random' aria-hidden='true'></span> 4 Words
@@ -37,7 +42,10 @@ permalink: /diceware/
   </button>
 </div>
 
-
+<h3>Manually Rolled Words</h3>
+<p>
+If you don't trust the Javascript randomization, you can roll your own. Just roll 5d6 to arrive at a number in the range of 11111 to 66666. Type that number into the text field below and hit enter.
+</p>
 <form id='addFiveDieRollWordForm' class='form-inline' data-toggle='validator'>
   <div class='form-group'>
     <label class='sr-only' for='addFiveDieRollWord'>Add Two or Five Die Roll</label>
