@@ -144,3 +144,20 @@ code {
     color: #706f72;
   }
 }
+@media #{$medium-and-up} {
+  .social_networks {
+
+    background-color: #fff;
+    border-radius: 6px;
+    padding: 4px;
+    position: fixed;
+    
+    margin-left:-100px; top:150px;
+    z-index: 9999995;
+    animation: a2aFadeIn .2s ease-in;
+    a {
+      display:block;
+      margin-top: 10px;
+    }
+  }
+}
