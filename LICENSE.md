@@ -19,18 +19,18 @@ modified_at: 2016-06-04 08:53
 
 ## Trademarks
 
-**Merovex**, **Merovex Press** are trade names. The planetary pin is a trade mark for Merovex Press. All are protected under US intellectual property laws. Use of these properties requires prior written permission from Ben Wilson.
+**Merovex** and **Merovex Press** are trade names. The planetary pin logo is a trade mark for Merovex Press. All are protected under US and international intellectual property laws. Use of these properties requires prior written permission from Ben Wilson.
 
 ## Copyright Terms
 
-With the exception of "guest posts" written by others (see the bottom of this page) and content of other authors duly credited, I own the content on this Web site. It is copyrighted in my name. I want to strike the appropriate balance between getting my content widely distributed while at the same time protecting my intellectual property rights. Thanks in advance for your cooperation.
+With the exception of "guest posts" written by others (see the bottom of this page) and content of other authors duly credited, I own the content on this web site. It is copyrighted in my name and periodically registered with the US Copyright office. I want to strike the appropriate balance between getting my content widely distributed while at the same time protecting my intellectual property rights. Thanks in advance for your cooperation.
 
 ### Without My Permission
 
 You are free to do the following without my permission:
 
    * Link to my site or any specific post on my site.
-   * Extract and re-post less than 200 words on any other site, provided you link back to my original post.
+   * Extract and re-post less than 200 words on any other site, provided you link back to my original post and the content of the re-post includes more than 200 words of your originally-generated content.
    * Print off my posts and photocopy up to 50 copies for internal distribution within your own company or organization.
    * Print my posts in any non-commercial publication (e.g., company newsletter, church newsletter, class syllabus, etc.), provided you include this copyright notice: “© {{ site.time | date: '%Y' }}, Benjamin C. Wilson. All rights reserved. Originally published at **{{site.title}}**.”
 
