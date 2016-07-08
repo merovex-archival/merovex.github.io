@@ -45,8 +45,15 @@ section#introduction p:first-child:first-letter { float: left; font-size: 3.1em;
   
  @extend .red-text, .text-darken-4
 }
+@media #{$medium-and-up} {
+  main {
+
+  }
+}
 main {
   background: #FFF;
+  @extend .z-depth-1;
+  @extend .container;
   padding: 0 0 1in 0;
   p a, ul a, ol a, blockquote a {
     text-decoration: underline;

@@ -386,10 +386,24 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/bwilson/Sites/merovex.github.io"
+		"/Users/bwilson/Sites/merovex.github.io",
+		"/Users/bwilson/Sites/merovex.github.io/_sass",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/materialize",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/materialize/components",
+		"/Users/bwilson/Sites/merovex.github.io/pages"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/LICENSE.md",
+		"/Users/bwilson/Sites/merovex.github.io/pages/doi.md",
+		"/Users/bwilson/Sites/merovex.github.io/pages/policies.md",
+		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016/style.scss",
+		"/Users/bwilson/Sites/merovex.github.io/pages/diceware.md",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/post.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/social_networks.html",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_style.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-06-18-unsharpening-the-axe.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/material/navigation.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/forms/mailchimp.html",
@@ -418,7 +432,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_includes/navigation.html",
 		"/Users/bwilson/Sites/merovex.github.io/news.html",
 		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
-		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_navbar.scss",
 		"/Users/bwilson/Sites/merovex.github.io/pages/about.md",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_color.scss",
@@ -437,11 +450,9 @@
 		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/post.yaml",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-03-12-bophendze-on-guna-prime.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/non-profit-business-model-canvas.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_style.scss",
 		"/Users/bwilson/Downloads/subtitles.vtt",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/categories_list.html",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-02-machines-like-us.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/post.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/same.html",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-02-06-fragile-societies-resilient-citizens.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/hero_post.html",
@@ -511,17 +522,11 @@
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-01-28-amazon-defines-novel-length.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/pages/w/million-dollar-outline.md",
 		"/Users/bwilson/Sites/merovex.github.io/logs/data-2016.json",
-		"/Users/bwilson/Sites/merovex.github.io/logs/2016-progress.md",
-		"/Users/bwilson/Sites/merovex.github.io/pages/willard/disciplines.md",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/amcharts/wpd.html",
-		"/Users/bwilson/Sites/merovex.github.io/logs/2015-progress/index.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/pages/2016-progress.md",
-		"/Users/bwilson/Sites/merovex.github.io/pages/vw/restoration.md",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/toc.html"
+		"/Users/bwilson/Sites/merovex.github.io/logs/2016-progress.md"
 	],
 	"find":
 	{
-		"height": 37.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -539,6 +544,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\n",
+			"a class",
 			"strong class='text-primary'",
 			"<a name='toc",
 			"<h3>",
@@ -664,9 +671,7 @@
 			"=",
 			"componentToHex",
 			"R",
-			" hue2rgb",
-			"strtorgb",
-			"rgb.r"
+			" hue2rgb"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -675,7 +680,7 @@
 		"replace_history":
 		[
 		],
-		"reverse": true,
+		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
@@ -749,6 +754,34 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"lic",
+				"LICENSE.md"
+			],
+			[
+				"poli",
+				"pages/policies.md"
+			],
+			[
+				"sty",
+				"_sass/2015/_style.scss"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"socia",
+				"_includes/social_networks.html"
+			],
+			[
+				"post",
+				"_layouts/post.html"
+			],
+			[
+				"dice",
+				"pages/diceware.md"
+			],
 			[
 				"unsh",
 				"_posts/2016-06-18-unsharpening-the-axe.markdown"
@@ -866,10 +899,6 @@
 				"_posts/2016-02-06-fragile-societies-resilient-citizens.markdown"
 			],
 			[
-				"post",
-				"_layouts/post.html"
-			],
-			[
 				"categories_l",
 				"_includes/categories_list.html"
 			],
@@ -924,10 +953,6 @@
 			[
 				"_con",
 				"_config.yml"
-			],
-			[
-				"gem",
-				"Gemfile"
 			],
 			[
 				"head",
@@ -1240,26 +1265,6 @@
 			[
 				"sound",
 				"_posts/2014-11-11-sound-booth-three.markdown"
-			],
-			[
-				"sou",
-				"_posts/2014-08-24-so-im-building-a-vo-sound-booth.markdown"
-			],
-			[
-				"domin",
-				"_posts/2011-07-10-questions-about-the-domino-project.markdown"
-			],
-			[
-				"domino",
-				"_posts/2011-07-09-adopt-the-domino-project-for-your-novels.markdown"
-			],
-			[
-				"may",
-				"_posts/2014-05-25-may-day-going-down.markdown"
-			],
-			[
-				"writing",
-				"_posts/2014-02-01-writing-progress-january-2014.markdown"
 			]
 		],
 		"width": 0.0
