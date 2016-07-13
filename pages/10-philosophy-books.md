@@ -11,6 +11,8 @@ date: 2015-12-26 00:36
 modified_at: 2015-12-26 00:36
 ---
 
+[file](https://dausha.s3.amazonaws.com/images/IBPL.zip)
+
 This page is shamelessly ripped from [10 Philosophy Books to Bring to a Desert Island](http://www.intellectualtakeout.org/blog/10-philosophy-books-bring-desert-island), with additional links to Audible works that are related.
 
 Total Audible listening time is about 121 hours long. As of this writing, the *Action* book is essentially out-of-print and *Formalism* lacks an audible equivalent.
