@@ -1,0 +1,59 @@
+---
+layout: page
+eraru: true
+---
+
+<p>Thanks for contributing a correction for {{page.book}}.</p>
+
+<div class="row">
+    <form class="col s12">
+      <div class="row">
+        <div class="input-field col m6 s12">
+          <input id="icon_prefix" type="text" class="validate">
+          <label for="icon_prefix">Name (optional)</label>
+        </div>
+        <div class="g-recaptcha col m6 s12" data-sitekey="6LdReyQTAAAAANSlGTjR5bKSmiU4Y3XdCuOmbuvx"></div>
+      </div>
+      <div class='row'>
+        <div class="input-field col m6 s12">
+      		<select class="browser-default">
+      			<option value="" disabled selected>Version of Book with Error</option>
+      			{% for version in page.versions %}
+      			<option value="{{version}}">{{version}}</option>
+      			{%endfor%}
+      		</select>
+      	</div>
+        <div class="input-field col m6 s12">
+          <select class="browser-default">
+            <option value="" disabled selected>Select type of correction</option>
+            <option value="TYPO">Typo</option>
+            <option value="ERROR">Technical Error</option>
+            <option value="SUGGEST">Suggestion</option>
+          </select>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col m5 s12">
+          <input id="icon_prefix" type="number" class="validate">
+          <label for="icon_prefix">Print Page number </label>
+        </div>
+        <div class='col m2 s12'>...or...</div>
+        <div class="input-field col m5 s12">
+          <input id="icon_telephone" type="number" class="validate">
+          <label for="icon_telephone">Kindle Location</label>
+        </div>
+      </div>
+      <div class="row">
+              <div class="input-field col s12">
+                <textarea id="textarea1" class="materialize-textarea" rows='10'></textarea>
+                <label for="textarea1">Textarea</label>
+              </div>
+            </div>
+      <div class="row">
+              <div class="input-field col s12">
+      <button class='btn'>Submit</button>
+      </div></div>
+    </form>
+  </div>
+
+
