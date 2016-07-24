@@ -23,7 +23,7 @@ tags:
 - Toolchain
 ---
 <!--Lead Paragraph-->
-If you haven't realized by now, I am a self-publishing author. That means I think I've got good ideas and decent talent to spend hundreds of hours writing books. I currently prefer to be primarily involved throughout the creating, publishing and distributing cycles. [Pragmatic Bookshelf](http://pragprog.com/) uses what [Sourcebook](http://www.sourcebooks.com/blog/sourcebooks-announces-agile-publishing-model.html) calls the [Agile Publishing Model](http://www.sourcebooks.com/agilepublishing/the-shift-age-news/) for producing its non-fiction technical books. [Publisher's Weekly](http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/53426-is-publishing-ready-for-agile-.html) recently asked whether the publishing industry was read for agile. I think it is, but would it work in Fiction?
+If you haven't realized by now, I am a self-publishing author. That means I think I've got good ideas and decent talent to spend hundreds of hours writing books. I currently prefer to be primarily involved throughout the creating, publishing and distributing cycles. [Pragmatic Bookshelf](http://pragprog.com/) uses what [Sourcebook](http://www.sourcebooks.com/blog/sourcebooks-announces-agile-publishing-model.html) calls the [Agile Publishing Model](http://www.sourcebooks.com/agilepublishing/the-shift-age-news/) for producing its non-fiction technical books. [Publisher's Weekly](https://web.archive.org/web/20140305064031/http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/53426-is-publishing-ready-for-agile.html) recently asked whether the publishing industry was read for agile. I think it is, but would it work in Fiction?
 
 <!-- more -->
 <!--Personal Experience-->
