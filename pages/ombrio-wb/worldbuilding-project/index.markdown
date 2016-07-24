@@ -76,7 +76,7 @@ Via Github, more to follow.
 
 ### Entry Submission
 
-**Github.** The **[Ombrio Worldbuilding Project](https://github.com/dausha-publishing/Ombrio-Worldbuilding-Project)** content will be maintained via [Github](http://github.com) repository using the [Dausha Publishing organization](https://github.com/dausha-publishing) to manage permissions. Github provides tracability and allows each team member to maintain a fork of the encyclopedia.
+**Github.** The **[Ombrio Worldbuilding Project](https://github.com/dausha-publishing/Ombrio-Worldbuilding-Project)** content will be maintained via [Github](http://github.com) repository using the Dausha Publishing organization to manage permissions. Github provides tracability and allows each team member to maintain a fork of the encyclopedia.
 
 Since Github allows direct submission, it is possible for a team member to directly enter content there. Or, the team member may opt to maintain a local copy of the project and edit locally. We recommend the local method as it ensures each team member has a full working copy of the Project content.
 
