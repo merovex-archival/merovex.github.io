@@ -7,6 +7,9 @@ category: "Diary"
 tags:
  - Scrivener
  - Toolchain
+ - GitHub as an Author
+ - LaTeX
+ - Markdown
 photo:
     license: "CC BY 2.0"
     image: 27265564416_850881998f_k.jpg

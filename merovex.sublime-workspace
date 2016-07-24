@@ -211,6 +211,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "pages/10-philosophy-books.md",
+			"settings":
+			{
+				"buffer_size": 4842,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/konspiro.md",
+			"settings":
+			{
+				"buffer_size": 10901,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -389,7 +405,9 @@
 		"/Users/bwilson/Sites/merovex.github.io",
 		"/Users/bwilson/Sites/merovex.github.io/_data",
 		"/Users/bwilson/Sites/merovex.github.io/korektu",
-		"/Users/bwilson/Sites/merovex.github.io/korektu/js"
+		"/Users/bwilson/Sites/merovex.github.io/korektu/js",
+		"/Users/bwilson/Sites/merovex.github.io/pages",
+		"/Users/bwilson/Sites/merovex.github.io/pages/uwp-translator"
 	],
 	"file_history":
 	[
@@ -687,8 +705,83 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "pages/10-philosophy-books.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4842,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								228
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 14,
+								"count": 599,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pages/konspiro.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 10901,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 1520,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],

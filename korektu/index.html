@@ -1,0 +1,25 @@
+---
+permalink: /korektu/
+---
+<!doctype html>
+<html lang="en" ng-app="korektuApp" class="no-js">
+  <head>
+    {% include material/eraru-header.html %}
+  <script src="js/korektu.js"></script>
+  </head>
+  <body ng-app="eraruApp">
+  {% include material/eraru-nav.html %}
+
+  <!-- define angular controller -->
+  <div id="main">
+    <div class='container'>
+      <div class='row'>
+        <div class='col s12' ng-controller="MyController">
+          <h1 ng-bind='title'></h1>
+        
+        </div>
+      </div>
+     </div>
+   </div>
+  </body>
+</html>
