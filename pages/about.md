@@ -4,77 +4,72 @@ title: About Ben Wilson
 permalink: /about-ben-wilson/
 ---
 <!-- vogel-harvey-novak-cp-tot-trim -->
-<h2 id="about-daushanet">About Dausha.net</h2>
 
-<p>Welcome to my site. This has been my personal site since November 1998. I used to use dausha.com, but lost control of it in 1998 and had to wait until 2002. “Dausha” is Egyptian for noise pollution, and was a nickname I picked up in school about a quarter-century ago…even though I’m WASP.</p>
+## About Dausha.net
 
-<h2 id="about-me">About Me</h2>
+Welcome to my site. This has been my personal site since November 1998. I used to use dausha.com, but lost control of it in 1998 and had to wait until 2002. “Dausha” is Egyptian for noise pollution, and was a nickname I picked up in school about a quarter-century ago…even though I’m WASP.
 
-<h3 id="ben-in-140-characters">Ben in 140 Characters</h3>
+## About Me
 
-<p>Ben Wilson is a science fiction writer, husband, father, project manager, lover of the divine, human nature student. On twitter <a href="https://twitter.com/merovex">@merovex</a>.</p>
+### Ben in 140 Characters
 
-<h3 id="ben-in-50-words">Ben in 50 Words</h3>
+Ben Wilson is a science fiction writer, husband, father, project manager, lover of the divine, human nature student. On twitter [@merovex](https://twitter.com/merovex).
 
-<p>Ben Wilson is a science fantasy writer. He’s into history, human nature and religious studies. He is the author of the <a href="/postal-marine-series">Postal Marine Series</a>, though he eventually wants to write four novel series. His books are avalable on <a href="http://www.amazon.com/Ben-Wilson/e/B001JSB9SY">Amazon</a>
-Ben lives in Arlington, Virginia with his wife and three children. Find him on twitter <a href="https://twitter.com/merovex">@merovex</a>.</p>
+### Ben in 50 Words
 
-<h3 id="why-i-write">Why I write</h3>
+Ben Wilson is a science fantasy writer. He’s into history, human nature and religious studies. He is the author of the [Postal Marine Series](/postal-marine-series), though he eventually wants to write four novel series. His books are avalable on [Amazon](http://www.amazon.com/Ben-Wilson/e/B001JSB9SY) Ben lives in Arlington, Virginia with his wife and three children. Find him on twitter [@merovex](https://twitter.com/merovex).
 
-<blockquote>
-  <p>My life is about telling stories.</p>
-  
-  <span>Ben Wilson</span>
-</blockquote>
+### Why I write
 
-<p>When friends and co-workers find that I write novels, I explain that I am a poor writer of bad Science Fiction. I don’t pretend to write the Great (Insert Nationality Here) Novel, or even the most provocative. I just write and try to improve.</p>
+> My life is about telling stories.
+> 
+> <span>Ben Wilson</span>
 
-<p>I’ve had the yen for storytelling my whole life. It started listening to my dad tell funny stories when I was a boy. I picked up his talent for oral story telling. My first career was in the military, which is a story-telling culture, where I honed my talent. I’ve yearned to write for thirty years and began to more seriously apply myself in recent years. It’s not the easiest process in the world, but I enjoy putting the words to screen. I hope you enjoy what you read. If you’d like to share with me ways you think the story could be improved, I’d love to have you in my community.</p>
+When friends and co-workers find that I write novels, I explain that I am a poor writer of bad Science Fiction. I don’t pretend to write the Great (Insert Nationality Here) Novel, or even the most provocative. I just write and try to improve.
 
-<p>The <strong>Postal Marine Series</strong> follows the careers of two Imperial Postal Marines, Bophendze and Litovio.</p>
+I’ve had the yen for storytelling my whole life. It started listening to my dad tell funny stories when I was a boy. I picked up his talent for oral story telling. My first career was in the military, which is a story-telling culture, where I honed my talent. I’ve yearned to write for thirty years and began to more seriously apply myself in recent years. It’s not the easiest process in the world, but I enjoy putting the words to screen. I hope you enjoy what you read. If you’d like to share with me ways you think the story could be improved, I’d love to have you in my community.
 
-<h2 id="what-others-say-about-my-novels">What Others Say About My Novels</h2>
+The **Postal Marine Series** follows the careers of two Imperial Postal Marines, Bophendze and Litovio.
 
-<blockquote>
-  I like Mondennio, but sometimes I want to slap some sense in him.
-  <small>Dennis about Mondennio in <em>Scintilla</em></small>
-</blockquote>
+## What Others Say About My Novels
 
-<h2 id="about-ben-wilson">About Ben Wilson</h2>
+> I like Mondennio, but sometimes I want to slap some sense in him. <small>Dennis about Mondennio in _Scintilla_</small>
 
-<p>Ben Wilson loves learning and storytelling. Writing Science Fiction novels helps him do both. He started writing in his teens, and let life get in the way through his twenties. He has a wide range of interests, all of which are represented in his novels—somehow.</p>
+## About Ben Wilson
 
-<p>He originally founded this site in 1998 to expand his technical expertise; extending an even earlier web site. Now dedicated to highlighting his literary endeavors.</p>
+Ben Wilson loves learning and storytelling. Writing Science Fiction novels helps him do both. He started writing in his teens, and let life get in the way through his twenties. He has a wide range of interests, all of which are represented in his novels—somehow.
 
-<p>Ben Wilson lives in Northern Virginia with his wife, kids and a cat.</p>
+He originally founded this site in 1998 to expand his technical expertise; extending an even earlier web site. Now dedicated to highlighting his literary endeavors.
 
-<h2 id="colophon">Colophon</h2>
+Ben Wilson lives in Northern Virginia with his wife, kids and a cat.
 
-<p><strong>The site is written in <a href="http://en.wikipedia.org/wiki/HTML5">HTML5</a> with <a href="http://en.wikipedia.org/wiki/Css">Cascading Style Sheets (CSS)</a> and delivered using <a href="http://jekyllrb.com/">Jekyll</a>.</strong></p>
+## Colophon
 
-<p><a href="http://github.com">Github</a> provides the Platform as a Service (PaaS), which lets one host for free if the traffic’s not too heavy. Hey, if <a href="http://netflix.com">Netflix</a> can be the largest consumer of public cloud infrastructure, I can use Github.</p>
+The site is written in [HTML5](http://en.wikipedia.org/wiki/HTML5)
+with [Cascading Style Sheets (CSS)](http://en.wikipedia.org/wiki/Css)
+and delivered using [Jekyll](http://jekyllrb.com/).
 
-<p>The style was designed by Ben Wilson, using <a href="http://twitter.github.com/bootstrap/">Twitter’s Bootstrap</a> as its foundation, rendered in <a href="http://sass-lang.com/">SASS</a>. Non-standard web fonts are provided courtesy of <a href="http://www.google.com/webfonts">Google</a>. The theme’s coloring was determined by varying off of <a href="http://ethanschoonover.com/solarized">Solarized</a> to soften the rough edges.</p>
+[Github](http://github.com) provides the Platform as a Service (PaaS), which lets one host for free if the traffic’s not too heavy. Hey, if [Netflix](http://netflix.com) can be the largest consumer of public cloud infrastructure, I can use Github.
 
-<p>Site content is authored on my local computer using <a href="http://www.sublimetext.com/">Sublime Text</a>. Jekyll lets me use <a href="http://daringfireball.net/projects/markdown/">Markdown</a> in all its glory. Having previously used <a href="http://pmwiki.org/">PmWiki</a> for web sites, being able to use pure Markdown is just plain fun. <a href="http://git-scm.com/">Git</a> provides the transport mechanism to deliver the code to the web server.</p>
+The style was designed by Ben Wilson, using [Google’s Material Design](http://materializecss.com/about.html) as its foundation, rendered in [SASS](http://sass-lang.com/). (I had previously used Bootstrap and even liked the pending v4 release, but this was cleaner.) Non-standard web fonts are provided courtesy of [Google](http://www.google.com/webfonts).
 
-<p>Have I established my geek creds?</p>
+Site content is authored on my local computer using [Sublime Text](http://www.sublimetext.com/). Jekyll lets me use [Markdown](http://daringfireball.net/projects/markdown/) in all its glory. Having previously used [PmWiki](http://pmwiki.org/) for web sites, being able to use pure Markdown is just plain fun. [Git](http://git-scm.com/) provides the transport mechanism to deliver the code to the web server.
 
-<h2 id="accessibility">Accessibility</h2>
+Have I established my geek creds?
 
-<p>Dausha Publishing strives to make its website accessible for all users, including people with disabilities. This website complies with best practices and standards as defined by the Web Content Accessibility Guidelines (WCAG 2.0) of the World Wide Web Consortium Web Accessibility Initiative (W3C WAI).</p>
+## Accessibility
 
-<p>Accessibility features included on the site are:</p>
+Dausha Publishing strives to make its website accessible for all users, including people with disabilities. This website complies with best practices and standards as defined by the Web Content Accessibility Guidelines (WCAG 2.0) of the World Wide Web Consortium Web Accessibility Initiative (W3C WAI).
 
-<ul>
-  <li>Skip links, ARIA landmarks and headings are defined to aid in page navigation.</li>
-  <li>Alternative text details for appropriate images and other non-text elements.</li>
-  <li>Structural markup is used appropriately to indicate headings, paragraphs and lists to aid in page comprehension and navigation.</li>
-  <li>Form labels are programmatically associated with form fields.</li>
-  <li>Data cells are associated in a data table with their headers.</li>
-  <li>JavaScript and style sheets to enhance the appearance and functionality of the site. If these technologies are not available, alternative content is provided where necessary to ensure graceful degradation.</li>
-  <li>Embedded documents and multimedia have been made accessible.</li>
-  <li>Responsive design techniques have been used to optimize the experience for users who access the site at different screen resolutions and magnification levels.</li>
-</ul>
+Accessibility features included on the site are:
 
-<p>I value your opinions. If you have comments, suggestion for improvement or questions, you can <a href='http://on.fb.me/1M3gSiz'>contact me</a>.</p>
+*   Skip links, ARIA landmarks and headings are defined to aid in page navigation.
+*   Alternative text details for appropriate images and other non-text elements.
+*   Structural markup is used appropriately to indicate headings, paragraphs and lists to aid in page comprehension and navigation.
+*   Form labels are programmatically associated with form fields.
+*   Data cells are associated in a data table with their headers.
+*   JavaScript and style sheets to enhance the appearance and functionality of the site. If these technologies are not available, alternative content is provided where necessary to ensure graceful degradation.
+*   Embedded documents and multimedia have been made accessible.
+*   Responsive design techniques have been used to optimize the experience for users who access the site at different screen resolutions and magnification levels.
+
+I value your opinions. If you have comments, suggestion for improvement or questions, you can [contact me](http://on.fb.me/1M3gSiz).
