@@ -161,7 +161,7 @@ This section provides a basic plan. I seek to follow [Randy Ingermanson's advice
     <td>Blog posting, author vanity</td>
   </tr>
   <tr>
-    <td><a href='https://www.facebook.com/pages/Ben-Wilson-Author/143743165675224'>Facebook Fan Page</a></td>
+    <td><a href='https://www.facebook.com/Ben-Wilson-Author-143743165675224/'>Facebook Fan Page</a></td>
     <td>Provides Social-Media hook, primarily fed via TwitterFeed</td>
   </tr>
   <tr>
