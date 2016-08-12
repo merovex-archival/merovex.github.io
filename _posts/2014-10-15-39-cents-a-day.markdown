@@ -23,7 +23,6 @@ Perhaps I shouldn't find this specific video so funny, but I do. It speaks to th
 
 <!-- more -->
 
-<div class='text-center'>
-<embed width="592" height="333"
-src="http://www.youtube.com/v/MEb_epsuLqA">
+<div class='center-align'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MEb_epsuLqA" frameborder="0" allowfullscreen></iframe>
 </div>
