@@ -37,8 +37,8 @@ gems:
   # - jemoji
   # - jekyll-mentions
   # - jekyll-redirect-from
-  # - jekyll-sitemap
-  # - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-feed
 
 exclude:
   - Gemfile

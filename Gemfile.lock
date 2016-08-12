@@ -179,7 +179,7 @@ DEPENDENCIES
   aws-sdk
   coderay
   fastimage
-  github-pages (~> 44)
+  github-pages
   html-proofer
   jekyll-mentions
   jekyll-redirect-from
@@ -194,4 +194,4 @@ DEPENDENCIES
   uglifier
 
 BUNDLED WITH
-   1.11.2
+   1.12.5

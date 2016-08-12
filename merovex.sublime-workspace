@@ -211,22 +211,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "pages/10-philosophy-books.md",
-			"settings":
-			{
-				"buffer_size": 4842,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/konspiro.md",
-			"settings":
-			{
-				"buffer_size": 10901,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -404,13 +388,27 @@
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
 		"/Users/bwilson/Sites/merovex.github.io/_data",
-		"/Users/bwilson/Sites/merovex.github.io/korektu",
+		"/Users/bwilson/Sites/merovex.github.io/blog",
 		"/Users/bwilson/Sites/merovex.github.io/korektu/js",
-		"/Users/bwilson/Sites/merovex.github.io/pages",
 		"/Users/bwilson/Sites/merovex.github.io/pages/uwp-translator"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
+		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
+		"/Users/bwilson/Sites/merovex.github.io/articles/building-a-brave-new-world/index.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-09-14-agile-publishing-model.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_old_includes/shared/worldbuilding_campaign.html",
+		"/Users/bwilson/Sites/merovex.github.io/pages/ombrio-wb/worldbuilding-project/index.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/pages/about.md",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-07-23-a-little-worldbuilding.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_data/categories.yml",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/a-little-worldbuilding.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2013-12-31-a-gutsy-year.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_data/tags.yml",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-12-29-building-a-brave-new-world.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-06-18-unsharpening-the-axe.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/pages/10-philosophy-books.md",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/material/eraru-header.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/material/eraru-nav.html",
 		"/Users/bwilson/Sites/merovex.github.io/korektu/index.html",
@@ -433,12 +431,10 @@
 		"/Users/bwilson/Sites/merovex.github.io/LICENSE.md",
 		"/Users/bwilson/Sites/merovex.github.io/pages/doi.md",
 		"/Users/bwilson/Sites/merovex.github.io/pages/policies.md",
-		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
 		"/Users/bwilson/Sites/merovex.github.io/pages/diceware.md",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/post.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/social_networks.html",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_style.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-06-18-unsharpening-the-axe.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/forms/mailchimp.html",
 		"/Users/bwilson/Sites/merovex.github.io/merovex.sublime-project",
 		"/Users/bwilson/Sites/merovex.github.io/pages/astro-empires/advanced-base-guide.md",
@@ -463,9 +459,7 @@
 		"/Users/bwilson/Sites/merovex.github.io/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/navigation.html",
 		"/Users/bwilson/Sites/merovex.github.io/news.html",
-		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_navbar.scss",
-		"/Users/bwilson/Sites/merovex.github.io/pages/about.md",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_color.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/after_body.html",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_intro.scss",
@@ -527,18 +521,7 @@
 		"/Users/bwilson/Sites/merovex.github.io/_sass/print.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-24-so-im-building-a-vo-sound-booth.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-11-sound-booth-three.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-31-so-im-building-a-vo-sound-booth-2.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/head/facebook_ogp.html",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-17-here-be-dragons-dictating.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/sidebar.html",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/dictate-your-book.md",
-		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_golden-ratio.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/subscribe.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/footer.html",
-		"/Users/bwilson/Sites/merovex.github.io/pages/astro-empires/small-fleet-doctrine.md",
-		"/Users/bwilson/Sites/merovex.github.io/pages/astro-empires/production-structures.md",
-		"/Users/bwilson/Sites/merovex.github.io/pages/astro-empires/pring-construction-guide.md"
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-31-so-im-building-a-vo-sound-booth-2.markdown"
 	],
 	"find":
 	{
@@ -560,6 +543,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"github",
+			"**",
+			"\\.",
+			"writing",
+			"ombre",
 			"	-",
 			"craftmap",
 			"1.4.7",
@@ -682,12 +670,7 @@
 			"tinycolor(",
 			"=",
 			"\"})",
-			"0",
-			"pf[",
-			"ratio",
-			"'lighten'",
-			"lighten",
-			"f["
+			"0"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -705,83 +688,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "pages/10-philosophy-books.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4842,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								275,
-								228
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 14,
-								"count": 599,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "pages/konspiro.md",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 10901,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 1520,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -845,6 +753,42 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"worldbuilding",
+				"pages/ombrio-wb/worldbuilding-project/index.markdown"
+			],
+			[
+				"world",
+				"_old_includes/shared/worldbuilding_campaign.html"
+			],
+			[
+				"agile",
+				"_posts/2012-09-14-agile-publishing-model.markdown"
+			],
+			[
+				"brav",
+				"articles/building-a-brave-new-world/index.markdown"
+			],
+			[
+				"abo",
+				"pages/about.md"
+			],
+			[
+				"_tag",
+				"_data/tags.yml"
+			],
+			[
+				"tag",
+				"_posts/2013-12-31-a-gutsy-year.markdown"
+			],
+			[
+				"_cat",
+				"_data/categories.yml"
+			],
+			[
+				"uns",
+				"_posts/2016-06-18-unsharpening-the-axe.markdown"
+			],
 			[
 				"er",
 				"_includes/material/eraru-header.html"
@@ -1306,10 +1250,6 @@
 				"tags/index.html"
 			],
 			[
-				"tag",
-				"_posts/2013-12-31-a-gutsy-year.markdown"
-			],
-			[
 				"zer",
 				"_posts/2014-10-11-frustration-with-zerigo.markdown"
 			],
@@ -1324,38 +1264,6 @@
 			[
 				"buggy",
 				"_posts/2015-09-06-a-buggy-summer.markdown"
-			],
-			[
-				"kick",
-				"_posts/2014-10-05-considering-kickstarter.markdown"
-			],
-			[
-				"dragon",
-				"_posts/2014-08-17-here-be-dragons-dictating.markdown"
-			],
-			[
-				"goals",
-				"_posts/2014-11-23-writing-goals-for-2015.markdown"
-			],
-			[
-				"agut",
-				"_posts/2013-12-31-a-gutsy-year.markdown"
-			],
-			[
-				"nano",
-				"_posts/2014-11-01-november-and-nanowrimo-2014.markdown"
-			],
-			[
-				"winter",
-				"_posts/2015-02-21-progress-in-winter-2015.markdown"
-			],
-			[
-				"februar",
-				"_posts/2014-03-02-summary-of-february-2014.markdown"
-			],
-			[
-				"march",
-				"_posts/2014-03-31-march-slouching-to-publication.markdown"
 			]
 		],
 		"width": 0.0
