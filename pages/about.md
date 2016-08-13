@@ -1,23 +1,25 @@
 ---
 layout: page
-title: About Ben Wilson
+title: About Merovex & Ben Wilson
 permalink: /about-ben-wilson/
 ---
 <!-- vogel-harvey-novak-cp-tot-trim -->
 
-## About Dausha.net
+## About Merovex Press
 
-Welcome to my site. This has been my personal site since November 1998. I used to use dausha.com, but lost control of it in 1998 and had to wait until 2002. “Dausha” is Egyptian for noise pollution, and was a nickname I picked up in school about a quarter-century ago…even though I’m WASP.
+Yes, the domain and site names are different. Dausha.net has been my personal site for nearly 20 years, and names are hard to change. A long time ago I had the nickname "Dausha" (which means noise pollution in Egyptian), though recently it became "Merovex" due to the vast amount of information I keep in my wee brain. Thus Merovex Press was born.
 
-## About Me
+Merovex is the imprint for some of the worst science fiction you will ever read. I'll just leave it at that.
 
-### Ben in 140 Characters
+## About Ben Wilson
+
+### Me in 140 Characters
 
 Ben Wilson is a science fiction writer, husband, father, project manager, lover of the divine, human nature student. On twitter [@merovex](https://twitter.com/merovex).
 
-### Ben in 50 Words
+### Ben in 50-ish Words
 
-Ben Wilson is a science fantasy writer. He’s into history, human nature and religious studies. He is the author of the [Postal Marine Series](/postal-marine-series), though he eventually wants to write four novel series. His books are avalable on [Amazon](http://www.amazon.com/Ben-Wilson/e/B001JSB9SY) Ben lives in Arlington, Virginia with his wife and three children. Find him on twitter [@merovex](https://twitter.com/merovex).
+Ben Wilson is a science fantasy writer. He’s into history, human nature and religious studies. He is the author of the [Postal Marine Series](/postal-marine-series), though he eventually wants to write four novel series. His books are avalable on [Amazon](http://www.amazon.com/Ben-Wilson/e/B001JSB9SY) Ben lives in Arlington, Virginia with his wife three children, and Milo the friendly cat. 
 
 ### Why I write
 
@@ -33,15 +35,15 @@ The **Postal Marine Series** follows the careers of two Imperial Postal Marines,
 
 ## What Others Say About My Novels
 
-> I like Mondennio, but sometimes I want to slap some sense in him. <small>Dennis about Mondennio in _Scintilla_</small>
+> I like Mondennio, but sometimes I want to slap some sense in him.<br><small>Dennis about Mondennio in _Scintilla_</small>
 
-## About Ben Wilson
+<!-- ## About Ben Wilson
 
 Ben Wilson loves learning and storytelling. Writing Science Fiction novels helps him do both. He started writing in his teens, and let life get in the way through his twenties. He has a wide range of interests, all of which are represented in his novels—somehow.
 
 He originally founded this site in 1998 to expand his technical expertise; extending an even earlier web site. Now dedicated to highlighting his literary endeavors.
 
-Ben Wilson lives in Northern Virginia with his wife, kids and a cat.
+Ben Wilson lives in Northern Virginia with his wife, kids and a cat. -->
 
 ## Colophon
 
@@ -59,7 +61,7 @@ Have I established my geek creds?
 
 ## Accessibility
 
-Dausha Publishing strives to make its website accessible for all users, including people with disabilities. This website complies with best practices and standards as defined by the Web Content Accessibility Guidelines (WCAG 2.0) of the World Wide Web Consortium Web Accessibility Initiative (W3C WAI).
+I strive to make this website accessible for all users, including people with disabilities. This website complies with best practices and standards as defined by the Web Content Accessibility Guidelines (WCAG 2.0) of the World Wide Web Consortium Web Accessibility Initiative (W3C WAI).
 
 Accessibility features included on the site are:
 
@@ -72,4 +74,4 @@ Accessibility features included on the site are:
 *   Embedded documents and multimedia have been made accessible.
 *   Responsive design techniques have been used to optimize the experience for users who access the site at different screen resolutions and magnification levels.
 
-I value your opinions. If you have comments, suggestion for improvement or questions, you can [contact me](http://on.fb.me/1M3gSiz).
+I value your opinions. If you have comments, suggestion for improvement or questions, you can [contact me on Facebook](http://on.fb.me/1M3gSiz).
