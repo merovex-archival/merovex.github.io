@@ -18,7 +18,7 @@ author: Ben Wilson
 tags:
 - Website
 ---
-This morning, I woke up looking forward to spending time preparing for my next novel series. Instead, I spent the past two hours trying to fix a problem with my domain name hosting. While I would like to shake my fist at the provider, Zerigo, this was an opportunity to read look at how I host.
+This morning, I woke up looking forward to spending time preparing for my next novel series. Instead, I spent the past two hours trying to fix a problem with my domain name hosting. While I would like to shake my fist at the provider, Zerigo, this was an opportunity to really look at how I host.
 
 <!-- more -->
 In the sixteen years I've had dausha.net, I've had many different hosting approaches. I've used static files, content management systems, wiki engines, and now back to static files. Octopress is my current blog engine of choice. I've been using Heroku, with Zerigo for my domain name service. Sometime in 2014, Zerigo stopped doing it's free domain name hosting for Heroku. I'm one of the customers who apparently was grandfathered in. This morning, dausha.net was no longer available. I learned this because I was using the stylesheet for dausha.net with my series Bible for my next novel series. When the style wasn't right, I knew there was a problem.

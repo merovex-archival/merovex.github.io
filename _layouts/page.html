@@ -16,7 +16,7 @@ layout: default
 	  <article class='col l8 m10 s12 offset-l2 offset-m1'>
 	    <header>
         <h1>{% if page.category %}{% assign category = page.category | downcase %}
-			<small aria-hidden='true'><i class="material-icons" aria-hidden='true'>folder_open</i> <a href='{{ site.baseurl }}/categories/#{{ category | replace: ' ', '+'}}'>{{site.data['categories'][category]}}</a></small>
+			<small aria-hidden='true' class='valign-wrapper'><i class="valign material-icons" aria-hidden='true'>folder_open</i> <a class='valign' href='{{ site.baseurl }}/categories/#{{ category | replace: ' ', '+'}}'>{{site.data['categories'][category]}}</a></small>
 		{%endif%}
 		{{ page.title }}</h1>
           <p  class='sr-only'>Category: {{category | titlecase}}</p>
@@ -24,6 +24,7 @@ layout: default
           {% if page.subtitle %}<p class='subtitle'>{{page.subtitle}}</p>{%endif%}
         </header>
 	    {% if page.toc == true %}{% include toc.html %}{%endif%}
+      {% if page.tags %}{% include page_tags.html %}{%endif%}
 		{{ content }}
 	  </article>
   </div>

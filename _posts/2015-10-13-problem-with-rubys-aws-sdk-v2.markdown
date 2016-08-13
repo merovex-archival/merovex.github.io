@@ -4,7 +4,10 @@ title: Ruby's AWS SDK v2 Solution
 author: Ben Wilson
 description: "During my transition to Jekyll, I was confronted by the AWS-SDK v2 gem update. I share my solution here."
 category: 'Technology'
-tags: [Ruby, AWS SDK]
+tags: 
+  - Ruby
+  - Amazon
+  - Jekyll
 photo:
   image: 3887934311_1476c75b17_b.jpg
   creator: SuperFantastic/Flickr

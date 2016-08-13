@@ -241,7 +241,7 @@
 		[
 			[
 				"j",
-				"Jekyll: Promote draft to post"
+				"Jekyll: Insert current datetime"
 			],
 			[
 				"jek",
@@ -387,14 +387,27 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
-		"/Users/bwilson/Sites/merovex.github.io/_data",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016",
 		"/Users/bwilson/Sites/merovex.github.io/blog",
-		"/Users/bwilson/Sites/merovex.github.io/korektu/js",
-		"/Users/bwilson/Sites/merovex.github.io/pages/uwp-translator"
+		"/Users/bwilson/Sites/merovex.github.io/pages",
+		"/Users/bwilson/Sites/merovex.github.io/pages/eraroj"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/_site/korektu/bellicose/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/pages/eraroj/bellicose.md",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/eraru.html",
+		"/Users/bwilson/Sites/merovex.github.io/korektu/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/pages/business-plan.md",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/paginator.html",
+		"/Users/bwilson/Sites/merovex.github.io/blog/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-10-15-39-cents-a-day.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-08-12-writing-on-github.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016/style.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/writing-on-github.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
 		"/Users/bwilson/Sites/merovex.github.io/articles/building-a-brave-new-world/index.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-09-14-agile-publishing-model.markdown",
@@ -411,17 +424,13 @@
 		"/Users/bwilson/Sites/merovex.github.io/pages/10-philosophy-books.md",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/material/eraru-header.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/material/eraru-nav.html",
-		"/Users/bwilson/Sites/merovex.github.io/korektu/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/korektu/js/korektu.js",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/page.html",
 		"/Users/bwilson/Sites/merovex.github.io/eraru/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/javascripts/recaptcha.html",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016/style.scss",
 		"/Users/bwilson/Sites/merovex.github.io/pages/map.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/belly-scripts.html",
 		"/Users/bwilson/Sites/merovex.github.io/eraru/pages/home.html",
-		"/Users/bwilson/Sites/merovex.github.io/pages/eraroj/bellicose.md",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/eraru.html",
 		"/Users/bwilson/Sites/merovex.github.io/_site/eraru/bellicose/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/eraru/js/eraru.js",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/material/head.html",
@@ -454,7 +463,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_includes/book-summary.html",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_style.scss",
 		"/Users/bwilson/Sites/merovex.github.io/news/index.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/paginator.html",
 		"/Users/bwilson/Sites/merovex.github.io/pages/postal-marine-series/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/navigation.html",
@@ -515,13 +523,7 @@
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-10-13-problem-with-rubys-aws-sdk-v2.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/copyright-work-product.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/copyright-response.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/copyright-authorship.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-10-15-39-cents-a-day.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-12-04-truth-about-santa-claus.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/print.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-24-so-im-building-a-vo-sound-booth.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-11-sound-booth-three.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-31-so-im-building-a-vo-sound-booth-2.markdown"
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/copyright-authorship.markdown"
 	],
 	"find":
 	{
@@ -543,6 +545,41 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"2",
+			"tabindex=\"",
+			"8",
+			"10",
+			"3",
+			"<span class=\"\">",
+			"             ",
+			"      ",
+			"field select medium",
+			"class=\"req\">*</span>",
+			"<span id=\"req_5\" class=\"req\">*</span>",
+			"notranslate",
+			"<li ",
+			"</li>",
+			"ul>",
+			"                ",
+			"\n\n\n\n\n\n\n\n\n\n\n\n",
+			"\n\n\n\n\n\n\n\n\n\n\n",
+			"\n\n\n\n\n\n\n\n\n\n",
+			"\n\n\n\n\n\n\n\n\n",
+			"\n\n\n\n\n\n\n\n",
+			"\n\n\n\n\n\n\n",
+			"\n\n\n\n\n\n",
+			"\n\n\n\n\n",
+			"\n\n\n\n",
+			"\n\n\n",
+			"\n\n",
+			"<input ",
+			"facebook",
+			"nav",
+			"class=\"page-link\"",
+			"waves-effect disabled",
+			"page-item",
+			"at:",
+			"Image of Yaktocat",
 			"github",
 			"**",
 			"\\.",
@@ -635,42 +672,7 @@
 			"%}",
 			"t }}",
 			"title",
-			" dev",
-			"sm",
-			"page",
-			"footer",
-			"aside",
-			"color: white;",
-			".yellow",
-			"#55acee",
-			"&",
-			";",
-			". ",
-			"bwilson",
-			"Bad Writing Advice",
-			"a onclick=",
-			"background",
-			"id='",
-			"Pass",
-			"sm-5",
-			"5",
-			"<td><a class='btn btn-primary' onclick=\"huey('background', 1); return false;\">Fix</a></td>",
-			"Fix",
-			"EVAL",
-			"strToRGB",
-			"colorL",
-			"',",
-			"<span class='btn",
-			"td rowspan=\"2\"",
-			"PASS/FAIL",
-			"X:",
-			"X",
-			"<td>Large Text</td>",
-			"<th",
-			"tinycolor(",
-			"=",
-			"\"})",
-			"0"
+			" dev"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -753,6 +755,30 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"kore",
+				"korektu/index.html"
+			],
+			[
+				"bellicose",
+				"pages/eraroj/bellicose.md"
+			],
+			[
+				"kor",
+				"_site/korektu/bellicose/index.html"
+			],
+			[
+				"bus",
+				"pages/business-plan.md"
+			],
+			[
+				"39-c",
+				"_posts/2014-10-15-39-cents-a-day.markdown"
+			],
+			[
+				"_con",
+				"_config.yml"
+			],
 			[
 				"worldbuilding",
 				"pages/ombrio-wb/worldbuilding-project/index.markdown"
@@ -1022,10 +1048,6 @@
 				"index.html"
 			],
 			[
-				"_con",
-				"_config.yml"
-			],
-			[
 				"head",
 				"_includes/head.html"
 			],
@@ -1244,26 +1266,6 @@
 			[
 				"belli",
 				"_posts/2014-01-21-finished-bellicose-draft.markdown"
-			],
-			[
-				"tags/",
-				"tags/index.html"
-			],
-			[
-				"zer",
-				"_posts/2014-10-11-frustration-with-zerigo.markdown"
-			],
-			[
-				"save",
-				"_posts/2015-05-04-shifting-gears-to-save-a-beetle.markdown"
-			],
-			[
-				"finished",
-				"_posts/2014-01-21-finished-bellicose-draft.markdown"
-			],
-			[
-				"buggy",
-				"_posts/2015-09-06-a-buggy-summer.markdown"
 			]
 		],
 		"width": 0.0

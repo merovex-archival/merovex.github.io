@@ -17,7 +17,6 @@ description: With nearly four novels written and two published, now is the time 
   take a step back and have them professionally edited.
 author: Ben Wilson
 tags:
-- Kickstarter
 - Publishing
 ---
 <!--Lead Paragraph-->

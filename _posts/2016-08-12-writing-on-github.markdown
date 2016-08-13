@@ -5,7 +5,8 @@ author: Ben Wilson
 title: "Writing on Github: Organizing the Series"
 category: "Writing"
 tags:
- - Github
+ - GitHub as an Author
+ - Publishing
 photo:
     license: "CC BY 2.0"
     image: 28385505785_aea1413a6a_k.jpg
