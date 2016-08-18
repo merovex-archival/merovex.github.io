@@ -11,11 +11,7 @@ date: 2016-06-04 08:53
 modified_at: 2016-06-04 08:53
 ---
 
-# Contents
-{:.no_toc}
-
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
+{% include toc.html %}
 
 ## Trademarks
 
