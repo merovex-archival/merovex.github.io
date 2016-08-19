@@ -1,5 +1,5 @@
 ---
-layout: eraru
+layout: korektu
 title: "Bellicose"
 permalink: /korektu/bellicose/
 book: "Bellicose"
