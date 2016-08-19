@@ -1,0 +1,119 @@
+---
+layout: page
+eraru: true
+---
+<div class='row'>
+	<form class="col s12" id="new_fix" action="http://whispering-taiga-70891.herokuapp.com/create" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /> 
+
+  <div class='card-panel'>
+    <input type='hidden' name='book' id='book' value='{{page.book}}' />
+    <input type='hidden' name='repo' id='repo' value='{{page.repo}}' />
+		<h3 class='row'>Where in <em>{{page.book}}</em> are you commenting on?</h3>
+		<div class='row'>
+		  <div class='input-field col m6 s12'>
+		    <select required class='browser-default' id='edition' name='edition'>
+		      <option disabled='disabled' selected='selected' value=''>Which Edition are you Reading?</option>
+		      {% for e in page.editions %}
+		        <option value='{{e}}'>{{page.book}} v.{{e}}</option>
+		      {%endfor%}
+		    </select>
+        <p class='grey-text darken-2' style='font-size: 0.8em; font-family: "Droid Sans"'>Note: The edition is found on the copyright page</p>
+		  </div>
+		</div>
+    <div class='row'>
+        <div class='input-field col m6 s12'>
+          <input required min="1" step="any" type="number" name="location" id="location" />
+          <label for='icon_prefix'>Page or Location</label>
+          <p class='grey-text darken-2' style='font-size: 0.8em; font-family: "Droid Sans"'>
+            Note: If Paperback, then you can provide the line as a decimal. (e.g. 12.21 is page 12, line 21)
+          </p>
+        </div>
+        <div class="switch col m6 s12 input-field center-align">
+          <label>
+            Kindle
+            <input type="checkbox" id='pbk' name='pbk'>
+            <span class="lever"></span>
+            Paperback
+          </label>
+        </div>
+    </div>
+	</div> <!-- /card -->
+
+  <div class='card-panel'>
+  	<h3 class='row'>What correction are you sharing?</h3>
+  	<div class='row'>
+  	  <div class='input-field col m6 s12'>
+  	    <select required class='browser-default' id='kind]' name='kind]'>
+  	      <option disabled='disabled' selected='selected' value=''>Select type of correction</option>
+  	      <optgroup label='Technical Correction'>
+  	        <option value='TYPO'>Typo</option>
+  	        <option value='SYNTAX'>Grammar</option>
+  	        <option value='ENHANCEMENT'>Suggestion</option>
+  	      </optgroup>
+  	      <optgroup label='Readability Correction'>
+  	        <option value='IMPLAUSIBILITY'>Hard to Believe</option>
+  	        <option value='CONFUSION'>Confusing</option>
+  	        <option value='DULLNESS'>Boring</option>
+  	      </optgroup>
+  	    </select>
+  	  </div>
+  	</div>
+
+    <div class="row">
+      <h4 for='textarea1'>Description</h4>
+      <div class="col s11">
+        <ul class="tabs">
+          <li class="tab col s3"><a class='active' style='text-decoration: none;' href="#fix_text">Input</a></li>
+          <li class="tab col s3"><a style='text-decoration: none;' href="#preview">Preview</a></li>
+      </div>
+  	<div class='row'>
+  	  <div class='input-field col s11'>
+  	    <textarea required class="materialize-textarea" rows="5" style='padding: 0.5em; border: 1px solid #DDD;' name="text" id="fix_text" data-ng-model="text" oninput="this.editor.update()"></textarea>
+  	   
+        <div id="preview" sd-model-to-html="text" style='padding: 0.5em; border: 1px solid #DDD; min-height: 5em;'></div>
+
+        <p class='grey-text darken-2' style='font-size: 0.8em; font-family: "Droid Sans"'>
+            Note: You can use <a href='https://guides.github.com/features/mastering-markdown/' target='_blank'>Git-Flavored Markdown</a> for formatting.
+        </p>
+  	  </div>
+  	</div>
+    </div>
+
+    <div class='card-panel blue lighten-5'>
+      <h3 class='row'>Can I contact you with questions or credit your find?</h3>
+      <div class='row'>
+        <div class='input-field col m6 s12'>
+          <input type="text" name="name" id="fix_name" />
+          <label for='icon_prefix'>Name (optional)</label>
+        </div>
+        <div class='input-field col m6 s12'>
+          <input type="email" name="email" id="fix_email" />
+          <label for='icon_prefix'>Email (optional)</label>
+        </div>
+      </div>
+    </div><!-- /card -->
+  	<div class='row'>
+  	  <div class='g-recaptcha col m6 s12' data-sitekey='6LdReyQTAAAAANSlGTjR5bKSmiU4Y3XdCuOmbuvx'></div>
+  	  <div class='input-field col m6 s12'>
+
+  	    <button id='submit' class='btn'>
+          <i class="material-icons right">send</i>
+          Submit
+        </button>
+  	  </div>
+  	</div>
+	</form>
+</div>
+<script src='https://cdn.rawgit.com/showdownjs/showdown/1.4.2/dist/showdown.min.js'></script>
+<script>
+      function Editor(input, preview) {
+        this.update = function () {
+          var conv = new showdown.Converter();
+          preview.innerHTML = conv.makeHtml(input.value);
+        };
+        input.editor = this;
+        this.update();
+      }
+      var $ = function (id) { return document.getElementById(id); };
+      new Editor($("fix_text"), $("preview"));
+</script>
