@@ -24,14 +24,21 @@ require "date"
 
 Dir.glob("#{@task_dir}/*.rake").each { |r| import r }
 require 'ra11y'
+require 'html-proofer'
 task :test do
-  require 'html-proofer'
+  
   sh "bundle exec jekyll build"
-  HTML::Proofer.new(
+  HTMLProofer.check_directory(
   	"./_site",
-	:href_ignore => ["#", "http://www.thedominoproject.com/"],
-	:empty_alt_ignore => true
+    :allow_hash_href => true,
+  	:href_ignore => ["#", "http://www.thedominoproject.com/"],
+  	:empty_alt_ignore => true
   ).run
+ #  HTML::Proofer.new(
+ #  	"./_site",
+	# :href_ignore => ["#", "http://www.thedominoproject.com/"],
+	# :empty_alt_ignore => true
+ #  ).run
   Ra11y::Site.new("./_site").run
 end
 
