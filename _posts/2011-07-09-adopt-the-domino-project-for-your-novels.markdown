@@ -54,8 +54,7 @@ this is there is no Scarcity.
 
 What remains for a new novelist is Obscurity. We authors have to focus on
 getting our name out there. Mike Hicks did that. So did John Locke, who now has
-his book ''[How I Sold 1 Million eBooks in 5 Months!]([http://www.amazon.com
-/Sold-Million-eBooks-Months-ebook/dp/B0056BMK6K)'' What Mike did was publish his
+his book ''[How I Sold 1 Million eBooks in 5 Months!]([http://www.amazon.com/Sold-Million-eBooks-Months-ebook/dp/B0056BMK6K)'' What Mike did was publish his
 first novel for free, and then write others and wait for the first book to
 attract his audience. John did something similar---he sold his books for $0.99
 and worked his social marketing. (I'll be writing another article commenting on
