@@ -43,6 +43,12 @@ Since I posted about having a [central series repository with sub-module per-nov
 
 ### How Does Korektu Work?
 
-I sort of gave this away already. As I use Jekyll, I have a layout that has most of the form...book-specific information is per-page (such as Bellicose & [Scintilla](/korektu/scintilla)). The Rails application collects the raw data and formats to my preference based off my preference as seen in [its public repository](https://github.com/Merovex/korektu). The Rails application uses the [Octokit gem](https://github.com/octokit/octokit.rb) to interact with GitHub. The OAuth secret is carried as an environment variable so it cannot be exposed via the Rails application[^try]. That's about as detailed as I think I need to get. If you're inclined to follow this same method, then I would hope you're at least as inventive as I was and perhaps more resourceful.
+I sort of gave this away already. As I use Jekyll, I have a layout that has most of the form...book-specific information is per-page (such as Bellicose & [Scintilla](/korektu/scintilla)). The form itself leverages the Material Design CSS framework's strengths (I was rather surprised to see the toggle). The Shadowdown JavaScript library encourages the reader to use Markdown (if they know the markup), which is nice since Markdown is what would display to me in the GitHub issue (as you see in the image).
+
+I use [Google's reCAPTCHA](https://www.google.com/recaptcha/intro/index.html) to discourage our robotic overlords from entering data. That includes both the client- and server-side validation. When the recaptcha fails, then the user is silently sent to the thank you page.
+
+The Rails application collects the raw data and formats to my preference based off my preference as seen in [its public repository](https://github.com/Merovex/korektu). The Rails application uses the [Octokit gem](https://github.com/octokit/octokit.rb) to interact with GitHub. The OAuth secret is carried as an environment variable so it cannot be exposed via the Rails application[^try].
+
+That's about as detailed as I think I need to get. If you're inclined to follow this same method, then I would hope you're at least as inventive as I was and perhaps more resourceful.
 
 [^try]: Try as I might, when I accidentally left the key in the code, GitHub was kind enough to detect and delete the key from my keychain.
