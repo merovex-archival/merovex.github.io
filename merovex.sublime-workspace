@@ -387,15 +387,22 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016",
 		"/Users/bwilson/Sites/merovex.github.io/blog",
 		"/Users/bwilson/Sites/merovex.github.io/pages",
-		"/Users/bwilson/Sites/merovex.github.io/pages/eraroj"
+		"/Users/bwilson/Sites/merovex.github.io/pages/postal-marine-series"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/pages/postal-marine-series/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
+		"/Users/bwilson/Sites/merovex.github.io/Rakefile",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-07-09-adopt-the-domino-project-for-your-novels.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-03-10-a-writing-standard.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/pages/hays-code.md",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/introducing-korektu.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/korektu.html",
+		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/post.yaml",
+		"/Users/bwilson/Sites/merovex.github.io/f",
 		"/Users/bwilson/Sites/merovex.github.io/_site/korektu/bellicose/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/pages/eraroj/bellicose.md",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/eraru.html",
@@ -408,7 +415,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-08-12-writing-on-github.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016/style.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/writing-on-github.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
 		"/Users/bwilson/Sites/merovex.github.io/articles/building-a-brave-new-world/index.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-09-14-agile-publishing-model.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_old_includes/shared/worldbuilding_campaign.html",
@@ -463,7 +469,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_includes/book-summary.html",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_style.scss",
 		"/Users/bwilson/Sites/merovex.github.io/news/index.html",
-		"/Users/bwilson/Sites/merovex.github.io/pages/postal-marine-series/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/navigation.html",
 		"/Users/bwilson/Sites/merovex.github.io/news.html",
@@ -480,7 +485,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_includes/shared/stuff.html",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-08-23-jonaldy-ammonett.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/murder-on-guna-prime.markdown",
-		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/post.yaml",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-03-12-bophendze-on-guna-prime.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/non-profit-business-model-canvas.markdown",
 		"/Users/bwilson/Downloads/subtitles.vtt",
@@ -516,14 +520,7 @@
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/fragile-societies-resilient-citizens.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/this-is-a-draft-title.markdown",
 		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
-		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
-		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/head.html",
-		"/Users/bwilson/Sites/merovex.github.io/tags/index.html",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-10-13-problem-with-rubys-aws-sdk-v2.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/copyright-work-product.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/copyright-response.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/copyright-authorship.markdown"
+		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings"
 	],
 	"find":
 	{
@@ -545,6 +542,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Hay'",
+			"under ",
+			"license:",
+			":",
 			"2",
 			"tabindex=\"",
 			"8",
@@ -668,11 +669,7 @@
 			"\n",
 			": ",
 			"xs-col",
-			"class",
-			"%}",
-			"t }}",
-			"title",
-			" dev"
+			"class"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -756,8 +753,32 @@
 		"selected_items":
 		[
 			[
+				"postal-ma",
+				"pages/postal-marine-series/index.html"
+			],
+			[
+				"adopt",
+				"_posts/2011-07-09-adopt-the-domino-project-for-your-novels.markdown"
+			],
+			[
+				"rake",
+				"Rakefile"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"awriting",
+				"_posts/2012-03-10-a-writing-standard.markdown"
+			],
+			[
+				"hays",
+				"pages/hays-code.md"
+			],
+			[
 				"kore",
-				"korektu/index.html"
+				"_layouts/korektu.html"
 			],
 			[
 				"bellicose",
@@ -866,10 +887,6 @@
 			[
 				"sty",
 				"_sass/2015/_style.scss"
-			],
-			[
-				"gem",
-				"Gemfile"
 			],
 			[
 				"socia",
@@ -1246,26 +1263,6 @@
 			[
 				"friends",
 				"_posts/2011-08-05-when-friends-take-a-turn-for-the-worse.markdown"
-			],
-			[
-				"three",
-				"_posts/2013-01-01-three-words-and-amazon.markdown"
-			],
-			[
-				"scintil",
-				"_posts/2010-12-21-a-retrospective-on-scintillas-first-draft.markdown"
-			],
-			[
-				"audi",
-				"_posts/2014-11-28-a-year-of-audible.markdown"
-			],
-			[
-				"retro",
-				"_posts/2014-12-20-retrospective-2014.markdown"
-			],
-			[
-				"belli",
-				"_posts/2014-01-21-finished-bellicose-draft.markdown"
 			]
 		],
 		"width": 0.0
