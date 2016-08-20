@@ -29,11 +29,11 @@ task :test do
   
   sh "bundle exec jekyll build"
   HTMLProofer.check_directory(
-  	"./_site",
-    :allow_hash_href => true,
-  	:href_ignore => ["#", "http://www.thedominoproject.com/"],
-  	:empty_alt_ignore => true
-  ).run
+  	"./_site", {
+        :allow_hash_href => true,
+        :href_ignore => ["#", "http://www.thedominoproject.com/"],
+        :empty_alt_ignore => true
+  }).run
  #  HTML::Proofer.new(
  #  	"./_site",
 	# :href_ignore => ["#", "http://www.thedominoproject.com/"],
