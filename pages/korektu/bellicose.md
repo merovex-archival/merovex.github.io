@@ -1,6 +1,6 @@
 ---
 layout: korektu
-repo: postal-marine-series.verki
+repo: "Merovex/postal-marine-series.verki"
 title: "Corrections for Bellicose"
 permalink: /korektu/bellicose/
 book: "Bellicose"

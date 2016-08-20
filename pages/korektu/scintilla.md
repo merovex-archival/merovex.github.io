@@ -1,6 +1,6 @@
 ---
 layout: korektu
-repo: postal-marine-series.verki
+repo: "Merovex/postal-marine-series.verki"
 title: "Corrections for Scintilla"
 permalink: /korektu/scintilla/
 book: "Scintilla"
