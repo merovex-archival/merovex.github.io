@@ -16,8 +16,8 @@ photo:
     url: https://www.flickr.com/photos/144965429@N03/27885942080/
     caption: "It's not chaos but creation"
 description: "While trying to work back into the Postal Marine series, Ben takes a turn at worldbuilding."
-created_at: 
-modified_at: 
+created_at: 2016-07-23 13:51:07
+modified_at: 2016-07-23 13:51:07
 ---
 
 Apparently, worldbuilding itself is a hobby, if for no other reason than to create a world. For those who consider the divine, would be interesting to think of God as a worldbuilder. I recently started tinkering with a world and wanted to share.

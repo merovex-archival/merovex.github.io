@@ -5,16 +5,18 @@ author: Ben Wilson
 title: Introducing Korektu
 category: "Technology"
 tags:
- - GitHub As An Author
+ - "GitHub as an Author"
+ - Jekyll
+ - Publishing
 photo:
     license: "Rights Reserved"
     image: korektu_screenshot.png
     creator: Ben Wilson
     url: http://dausha.net
     caption: "Screenshot of GitHub Issues List"
-description: "This goes to RSS Feed & Frontpage"
-created_at: 2016-08-19 16:06:46
-modified_at: 2016-08-19 16:06:46
+description: "Korektu helps #self-published #authors with howto get reader feedback into private #GitHub repo issues."
+created_at: 2016-09-05 06:06:46
+modified_at: 2016-09-05 06:06:46
 ---
 
 A friend of mine recently said I had a very elaborate toolchain. This is a polite way of saying it rivals [Rube Goldberg](https://www.rubegoldberg.com/artwork/automatic-blotter/?c=45)'s inventions. Be that as it may, I would like to share how I as a self-publisher can manage reader feedback when there are problems found in my books. I call it **Korektu**.

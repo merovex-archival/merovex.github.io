@@ -4,9 +4,9 @@ title: Analyzing Spectre
 category: 'Writing'
 tags: [Review]
 published: True
-created_at: 
+created_at: 2015-11-11 13:51:07
 author: Ben Wilson
-modified_at: 
+modified_at: 2015-11-11 13:51:07
 photo:
     license: Rights Reserved
     image: spectre.jpg

@@ -13,8 +13,8 @@ photo:
   license: Rights Reserved, created by Donna Murillo
   caption: Bophendze in Luctation.
 description: "On the live-fire training planet of Guna, Keius Minjen witnesses the murder of his friend. Prelude to the Forebearance Series."
-created_at: 
-modified_at: 
+created_at: 2016-03-16 13:51:07
+modified_at: 2016-03-16 13:51:07
 ---
 
 Bophendze felt nauseous not long after they landed on Guna Prime. "Angel, how long does it take to contract a local disease?"
