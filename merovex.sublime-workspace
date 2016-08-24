@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"font",
+				"font-family"
+			],
+			[
 				"aa",
 				"aa"
 			],
@@ -387,20 +391,36 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts",
 		"/Users/bwilson/Sites/merovex.github.io/blog",
-		"/Users/bwilson/Sites/merovex.github.io/pages",
 		"/Users/bwilson/Sites/merovex.github.io/pages/postal-marine-series"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/copyright-response.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/introducing-korektu.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/korektu.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/material/head.html",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016/style.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/head/favicon.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/head/facebook_ogp.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/head/twitter_card.html",
+		"/Users/bwilson/Sites/merovex.github.io/blog/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-07-23-a-little-worldbuilding.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/default.html",
+		"/Users/bwilson/Sites/merovex.github.io/tags/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-11-11-analyzing-spectre.md",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-03-12-murder-on-guna-prime.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/_old_includes/frontpage/blog.html",
+		"/Users/bwilson/Sites/merovex.github.io/pages/korektu/bellicose.md",
+		"/Users/bwilson/Sites/merovex.github.io/pages/korektu/scintilla.md",
 		"/Users/bwilson/Sites/merovex.github.io/pages/postal-marine-series/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
 		"/Users/bwilson/Sites/merovex.github.io/Rakefile",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-07-09-adopt-the-domino-project-for-your-novels.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-03-10-a-writing-standard.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/pages/hays-code.md",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/introducing-korektu.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/korektu.html",
 		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/post.yaml",
 		"/Users/bwilson/Sites/merovex.github.io/f",
 		"/Users/bwilson/Sites/merovex.github.io/_site/korektu/bellicose/index.html",
@@ -409,18 +429,15 @@
 		"/Users/bwilson/Sites/merovex.github.io/korektu/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/pages/business-plan.md",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/paginator.html",
-		"/Users/bwilson/Sites/merovex.github.io/blog/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-10-15-39-cents-a-day.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-08-12-writing-on-github.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016/style.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/writing-on-github.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/articles/building-a-brave-new-world/index.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-09-14-agile-publishing-model.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_old_includes/shared/worldbuilding_campaign.html",
 		"/Users/bwilson/Sites/merovex.github.io/pages/ombrio-wb/worldbuilding-project/index.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/pages/about.md",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-07-23-a-little-worldbuilding.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_data/categories.yml",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/a-little-worldbuilding.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2013-12-31-a-gutsy-year.markdown",
@@ -439,8 +456,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/eraru/pages/home.html",
 		"/Users/bwilson/Sites/merovex.github.io/_site/eraru/bellicose/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/eraru/js/eraru.js",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/material/head.html",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/default.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/material/navigation.html",
 		"/Users/bwilson/Sites/merovex.github.io/js/eraru.js",
 		"/Users/bwilson/Sites/merovex.github.io/LICENSE.md",
@@ -469,7 +484,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_includes/book-summary.html",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_style.scss",
 		"/Users/bwilson/Sites/merovex.github.io/news/index.html",
-		"/Users/bwilson/Sites/merovex.github.io/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/navigation.html",
 		"/Users/bwilson/Sites/merovex.github.io/news.html",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_navbar.scss",
@@ -479,7 +493,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_frontpage.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/screen.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_typography.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-03-12-murder-on-guna-prime.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/blog_cards.html",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_mixins.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/shared/stuff.html",
@@ -499,7 +512,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_blog.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/the-escalator.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-02-11-random-car-advice.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/head/twitter_card.html",
 		"/Users/bwilson/Library/Application Support/Sublime Text 3/Installed Packages/Jekyll.sublime-package",
 		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/Template.yaml",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/leviticus.markdown",
@@ -512,15 +524,7 @@
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-12-07-quiet-rituals.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/pages/contrastier.html",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/random-car-advice.markdown",
-		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/photo post.yaml",
-		"/Users/bwilson/Sites/merovex.github.io/tinycolor.js",
-		"/Users/bwilson/Sites/merovex.github.io/contrastier.js",
-		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/fragile-societies-resilient-citizens.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/this-is-a-draft-title.markdown",
-		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
-		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings"
+		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/photo post.yaml"
 	],
 	"find":
 	{
@@ -542,6 +546,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"12",
+			"meta",
+			"<link",
+			"content=",
+			"post.date",
+			"6-08-20",
+			"08-20",
+			"date",
+			"08-19 1",
+			"kind",
 			"Hay'",
 			"under ",
 			"license:",
@@ -659,17 +673,7 @@
 			"\"\n",
 			"”",
 			"“",
-			"\n\n\n",
-			"\n ",
-			"\n$-",
-			"\n ",
-			"”",
-			"\n“",
-			"\n ",
-			"\n",
-			": ",
-			"xs-col",
-			"class"
+			"\n\n\n"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -753,6 +757,82 @@
 		"selected_items":
 		[
 			[
+				"copy",
+				"_drafts/copyright-response.markdown"
+			],
+			[
+				"intr",
+				"_drafts/introducing-korektu.markdown"
+			],
+			[
+				"kore",
+				"_layouts/korektu.html"
+			],
+			[
+				"sty",
+				"_sass/material-2016/style.scss"
+			],
+			[
+				"head",
+				"_includes/material/head.html"
+			],
+			[
+				"intro",
+				"_drafts/introducing-korektu.markdown"
+			],
+			[
+				"fav",
+				"_includes/head/favicon.html"
+			],
+			[
+				"face",
+				"_includes/head/facebook_ogp.html"
+			],
+			[
+				"twitter",
+				"_includes/head/twitter_card.html"
+			],
+			[
+				"alittle",
+				"_posts/2016-07-23-a-little-worldbuilding.markdown"
+			],
+			[
+				"anal",
+				"_posts/2015-11-11-analyzing-spectre.md"
+			],
+			[
+				"murder",
+				"_posts/2016-03-12-murder-on-guna-prime.markdown"
+			],
+			[
+				"tag",
+				"tags/index.html"
+			],
+			[
+				"material/h",
+				"_includes/material/head.html"
+			],
+			[
+				"de",
+				"_layouts/default.html"
+			],
+			[
+				"blog",
+				"blog/index.html"
+			],
+			[
+				"korek",
+				"_layouts/korektu.html"
+			],
+			[
+				"scin",
+				"pages/korektu/scintilla.md"
+			],
+			[
+				"korektu/b",
+				"pages/korektu/bellicose.md"
+			],
+			[
 				"postal-ma",
 				"pages/postal-marine-series/index.html"
 			],
@@ -775,10 +855,6 @@
 			[
 				"hays",
 				"pages/hays-code.md"
-			],
-			[
-				"kore",
-				"_layouts/korektu.html"
 			],
 			[
 				"bellicose",
@@ -825,10 +901,6 @@
 				"_data/tags.yml"
 			],
 			[
-				"tag",
-				"_posts/2013-12-31-a-gutsy-year.markdown"
-			],
-			[
 				"_cat",
 				"_data/categories.yml"
 			],
@@ -857,10 +929,6 @@
 				"_site/eraru/bellicose/index.html"
 			],
 			[
-				"material/h",
-				"_includes/material/head.html"
-			],
-			[
 				"defau",
 				"_layouts/default.html"
 			],
@@ -883,10 +951,6 @@
 			[
 				"poli",
 				"pages/policies.md"
-			],
-			[
-				"sty",
-				"_sass/2015/_style.scss"
 			],
 			[
 				"socia",
@@ -993,10 +1057,6 @@
 				"_includes/navigation.html"
 			],
 			[
-				"murder",
-				"_posts/2016-03-12-murder-on-guna-prime.markdown"
-			],
-			[
 				"jonaldy",
 				"_posts/2015-08-23-jonaldy-ammonett.markdown"
 			],
@@ -1065,10 +1125,6 @@
 				"index.html"
 			],
 			[
-				"head",
-				"_includes/head.html"
-			],
-			[
 				"catego",
 				"categories.html"
 			],
@@ -1087,10 +1143,6 @@
 			[
 				"bad-w",
 				"pages/bad-writing-advice.md"
-			],
-			[
-				"copy",
-				"_drafts/copyright-work-product.markdown"
 			],
 			[
 				"copyright",
@@ -1161,10 +1213,6 @@
 				"_posts/2016-01-30-dictate-your-book.md"
 			],
 			[
-				"face",
-				"_includes/head/facebook_ogp.html"
-			],
-			[
 				"sideb",
 				"_includes/sidebar.html"
 			],
@@ -1219,50 +1267,6 @@
 			[
 				"2015-prog",
 				"logs/2015-progress/index.markdown"
-			],
-			[
-				"page.",
-				"_layouts/page.html"
-			],
-			[
-				"do-mo",
-				"pages/do-more-better.md"
-			],
-			[
-				"typogra",
-				"_sass/2015/_typography.scss"
-			],
-			[
-				"fonts",
-				"_sass/2015/_fonts.scss"
-			],
-			[
-				"build",
-				"_posts/2015-10-27-build-passing-more-perfect.markdown"
-			],
-			[
-				"heros",
-				"_posts/2011-09-17-heroes-for-more-than-one-season.markdown"
-			],
-			[
-				"spo",
-				"_posts/2015-02-28-spock.markdown"
-			],
-			[
-				"breakin",
-				"_posts/2015-04-18-breaking-the-silence.markdown"
-			],
-			[
-				"memor",
-				"_posts/2015-02-15-memories-of-a-vw-bug-roadtrip.markdown"
-			],
-			[
-				"gone",
-				"_posts/2012-02-28-not-gone.markdown"
-			],
-			[
-				"friends",
-				"_posts/2011-08-05-when-friends-take-a-turn-for-the-worse.markdown"
 			]
 		],
 		"width": 0.0

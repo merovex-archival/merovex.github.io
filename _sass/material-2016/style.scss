@@ -31,7 +31,7 @@ a.nav-link, .testimonial-ratings {
 }
 
 html {
-  font-family: "Droid Serif";
+  font-family: "Droid Serif", Serif;
   background: #F0F0F0;
   @extend .blue-grey-text, .text-darken-4;
 }
@@ -89,7 +89,7 @@ p img {
 
 }
 h1, h2, h3, h4, nav, footer, .footnotes:before {
-  font-family: "Droid Sans";
+  font-family: "Droid Sans", sans-serif;
 }
 
 .lead {

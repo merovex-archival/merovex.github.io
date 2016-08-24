@@ -19,38 +19,30 @@ created_at: 2016-09-05 06:06:46
 modified_at: 2016-09-05 06:06:46
 ---
 
-A friend of mine recently said I had a very elaborate toolchain. This is a polite way of saying it rivals [Rube Goldberg](https://www.rubegoldberg.com/artwork/automatic-blotter/?c=45)'s inventions. Be that as it may, I would like to share how I as a self-publisher can manage reader feedback when there are problems found in my books. I call it **Korektu**.
+A friend of mine recently said I had a very elaborate toolchain. This is a polite way of saying it rivals [Rube Goldberg](https://www.rubegoldberg.com/artwork/automatic-blotter/?c=45)'s inventions. Be that as it may, I would like to share how a self-publisher can manage reader feedback when there are problems found in their books using a private GitHub repository. I call it **Korektu**.
 
 <!-- more -->
 
-**Korektu** is the imperative of "[fix](https://glosbe.com/eo/en/korektu)" in Esperanto---the reader's order to the author to "fix it now!" It is the reader's way of letting me know there is a mistake. I adopted the concept from the [Pragmatic Bookshelf](https://pragprog.com/); an imprint that provides iterative writing support for technology books.
+### The Need and Problem of Reader Feedback
 
-When you buy a book from Pragmatic Bookshelf, you gain access to its errata interface. This allows you to submit defects as a reader, and to view others defect reports.
+As a self-published hobbyist author, I limitations on how much editing to do. Hiring a professional editor at over $1000 per book is not cost effective.  There will always be defects. So as a hobbyist author, I need a way to solicit reader feedback when they want to tell me about a problem.
 
-I use [GitHub](https://github.com/) for many different storage reasons, among them [novel writing](/tags/#GitHub+as+an+Author). Last year, I discussed how to [interact with your beta readers using GitHub](/technology/github-to-work-with-your-beta-readers/). The problem I cited then was the risk incurred by sharing your private repository with those beta readers so that they could interact with GitHub's issues capability.
+[Pragmatic Bookshelf](https://pragprog.com/) is an imprint that provides iterative writing support for technology books.
+PragProg releases books in Beta state and encourage readers to provide feedback
+When you buy a book from Pragmatic Bookshelf, you gain access to its errata interface.
+This allows readers to submit defects to the publisher and author, and to view others' defect reports. This model is ideal for the hobbyist author, but as a self-publisher I won't have access to Pragmatic Bookshelf.
 
-### Enter Korektu
+There are many different ways of soliciting feedback, and most of them cost. The only free way I found to be close enough to what I wanted was a Google Form feeding into a Google Sheet. The look is not professional, and does not integrate well into my Rube Goldberg tool chain.
 
-**Korektu** is my attempt to address this risk while opening up the ability to receive feedback from the readers. It uses a web form on this site (such as for *[Bellicose](/korektu/bellicose)*) that relays the reader's feedback to GitHub for you. This allows them to submit to the private repository without giving them heightened access. This article's image shows what one such entry would look like.
+I want to enable readers to submit issues to [my private GitHub repository](/tags/#GitHub+as+an+Author) since I discussed [reader interaction via GitHub](/technology/github-to-work-with-your-beta-readers/) last Winter. However, having readers interact with the private repository exposes the source text, which is something to avoid.
 
-Private repositories require either named user access, or an OAuth token. The token itself should not be available to the public. Therefore, submitting directly from the Korektu form to the repository is unsafe. I mitigated this by writing a Ruby on Rails application that only does one thing, format the reader's feedback and route it to GitHub. Okay, those are the two things it does. It also keeps the key out of the public's reach. Okay, three...three things.
+### Korektu Enables Safe Reader Interaction with Private GitHub Issues
 
-Unlike Pragmatic Programmer, Korektu does not currently allow the reader to view others' feedback. That would entail a bit more coding where it would be retrieved via the Rails intermediary and displayed via JavaScript. 
+**Korektu** is the imperative of "[fix](https://glosbe.com/eo/en/korektu)" in Esperanto---the reader's order to the author to "fix that mistake now!" It is a [Sinatra-based application](sinatrarb.com), which allows untrusted public users to submit feedback to a private repository without exposing the OAuth token that would give them greater access. The Sinatra application receives submitted form data from a this site. (See *[Korektu for Bellicose](/korektu/bellicose)*)
 
-### Variations on the Theme
+Unlike Pragmatic Programmer, Korektu does not currently allow the reader to view others' feedback. That would entail a bit more coding where it would be retrieved via the Rails intermediary and displayed via JavaScript.
 
-One could have a separate *public* repository for capturing issues. I opted not to go this route because I wanted everything in one repository.
+How does it work? I have the [source code available on GitHub](https://github.com/Merovex/korektu), with instructions on use. I released it under MIT license. I'm not competing with other authors, and this is a way to enrich the self-published author realm.
 
-Since I posted about having a [central series repository with sub-module per-novel repositories](/writing/writing-on-github/), two permutations present themselves. Reader feedback could either route to the central repository for all, or route to each novel. Both are possible.
+In a nutshell, the Korektu is installed on a free Heroku instance, and the form that feeds it is integrated into your website. Since I use Jekyll, the form base is a layout, and each page provides the book-specific information (title, editions).
 
-### How Does Korektu Work?
-
-I sort of gave this away already. As I use Jekyll, I have a layout that has most of the form...book-specific information is per-page (such as Bellicose & [Scintilla](/korektu/scintilla)). The form itself leverages the Material Design CSS framework's strengths (I was rather surprised to see the toggle). The Shadowdown JavaScript library encourages the reader to use Markdown (if they know the markup), which is nice since Markdown is what would display to me in the GitHub issue (as you see in the image).
-
-I use [Google's reCAPTCHA](https://www.google.com/recaptcha/intro/index.html) to discourage our robotic overlords from entering data. That includes both the client- and server-side validation. When the recaptcha fails, then the user is silently sent to the thank you page.
-
-The Rails application collects the raw data and formats to my preference based off my preference as seen in [its public repository](https://github.com/Merovex/korektu). The Rails application uses the [Octokit gem](https://github.com/octokit/octokit.rb) to interact with GitHub. The OAuth secret is carried as an environment variable so it cannot be exposed via the Rails application[^try].
-
-That's about as detailed as I think I need to get. If you're inclined to follow this same method, then I would hope you're at least as inventive as I was and perhaps more resourceful.
-
-[^try]: Try as I might, when I accidentally left the key in the code, GitHub was kind enough to detect and delete the key from my keychain.
