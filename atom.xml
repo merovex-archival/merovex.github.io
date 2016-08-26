@@ -22,7 +22,7 @@ layout: null
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <id>{{ site.url }}{{ post.id }}</id>
     <content type="html"><![CDATA[{{ post.description | expand_urls: site.url | cdata_escape }}]]></content>
-    <media:thumbnail xmlns:media='http://search.yahoo.com/mrss/' url='{{ site.cdn_url }}/images/articles/thumbnails/{{ post.image | XMLURL }}'/>
+    <media:thumbnail xmlns:media='http://search.yahoo.com/mrss/' url='{{ site.cdn_url }}/images/articles/thumbnails/{{ post.photo['image'] | XMLURL }}'/>
   </entry>
   {% endfor %}
 </feed>
