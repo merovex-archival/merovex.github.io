@@ -38,7 +38,7 @@ I want to enable readers to submit issues to [my private GitHub repository](/tag
 
 ### Korektu Enables Safe Reader Interaction with Private GitHub Issues
 
-**Korektu** is the imperative of "[fix](https://glosbe.com/eo/en/korektu)" in Esperanto---the reader's order to the author to "fix that mistake now!" It is a [Sinatra-based application](sinatrarb.com), which allows untrusted public users to submit feedback to a private repository without exposing the OAuth token that would give them greater access. The Sinatra application receives submitted form data from a this site. (See *[Korektu for Bellicose](/korektu/bellicose)*)
+**Korektu** is the imperative of "[fix](https://glosbe.com/eo/en/korektu)" in Esperanto---the reader's order to the author to "fix that mistake now!" It is a [Sinatra-based application](http://sinatrarb.com), which allows untrusted public users to submit feedback to a private repository without exposing the OAuth token that would give them greater access. The Sinatra application receives submitted form data from a this site. (See *[Korektu for Bellicose](/korektu/bellicose)*)
 
 Unlike Pragmatic Programmer, Korektu does not currently allow the reader to view others' feedback. That would entail a bit more coding where it would be retrieved via the Rails intermediary and displayed via JavaScript.
 
