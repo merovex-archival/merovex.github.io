@@ -49,16 +49,16 @@ The *Guide* uses a simple, six step process. Only the steps are simple.
 Books I like that add to the conversation include:
 
 * *[Kobold Guide to Worldbuilding](http://www.amazon.com/Kobold-Guide-Worldbuilding-Wolfgang-Baur/dp/1936781115?tag=daushacommuni-20)* I have books in this area stretching back to the 1980s. I picked this up as a PDF originally and just ordered the paperback. This book does a solid job of summarizing what I've picked up through the years.
-* *[World Builder's Guidebook (AD&D)](http://www.amazon.com/Builders-Guidebook-Advanced-Dungeons-Dragons/dp/0786904348?tag=daushacommuni-20)* There's a previous book by TSR that I loved. This was their attempt at a of [Creative Campaigning](http://www.amazon.com/Creative-Campaigning-Advanced-Dungeons-Supplement/dp/1560765615?tag=daushacomuni-20).
+* *[World Builder's Guidebook (AD&D)](http://www.amazon.com/Builders-Guidebook-Advanced-Dungeons-Dragons/dp/0786904348?tag=daushacommuni-20)* There's a previous book by TSR that I loved. This was their attempt at a new version of [Creative Campaigning](http://www.amazon.com/Creative-Campaigning-Advanced-Dungeons-Supplement/dp/1560765615?tag=daushacomuni-20).
 
 I would be remiss to leave out some worldbuilding websites. Some I used to use are gone (though I have the Evernote of snippets).
 
 * [Five World Building Websites](http://djordanredhawk.com/5-world-building-websites/), which includes a reference to [Seven Deadly Sins of Worldbuilding](http://io9.com/7-deadly-sins-of-worldbuilding-998817537)
 * [What is Your Favorite Worldbuilding Website? (Reddit)](https://www.reddit.com/r/worldbuilding/comments/2yhuj9/what_is_your_favorite_worldbuilding_website/) has only two comments, but leads you to the [Reddit Worldbuilding forum](https://www.reddit.com/r/worldbuilding/).
 
-**Step Four: Details.** This section is 45-pages long, which is the longest. This is all about those little flourishes that have been abused in the past. They refer to 70s Battlestar Galactica's use of "centon" and "yaran" for minute and year. More specifically, this section is about ensuring that you only add the flourishes that add.
+**Step Four: Details.** This section is 45-pages long, which is the longest. This is all about those little flourishes that have been abused in the past. They refer to 70s Battlestar Galactica's use of "centon" and "yaran" for minute and year. More specifically, this section is about ensuring that you only add the flourishes that add to the flavor of the story.
 
-For example: In the Postal Marine Series, humanity is largely in the metric system. They use metric time (10-cycle day, 100 beats to the cycle, 100 seconds to the beat). To compare to real life, there are 144 minutes to the cycle. A second in PMS is 0.86 earth seconds. Since they use the metric system, imperial terms were re-purposed. "Mile" was reused to represent relativistic distances and speeds (i.e. one mile is one percent light speed times a cycle, so a ship traveling one mile per cycle is moving at 2578km/second.)
+> For example: In the Postal Marine Series, humanity is largely in the metric system. They use metric time (10-cycle day, 100 beats to the cycle, 100 seconds to the beat). To compare to real life, there are 144 minutes to the cycle. A second in PMS is 0.86 earth seconds. Since they use the metric system, imperial terms were re-purposed. "Mile" was reused to represent relativistic distances and speeds (i.e. one mile is one percent light speed times a cycle, so a ship traveling one mile per cycle is moving at 2578km/second.)
 
 The section is long because they demonstrate rewriting bad flourishes via six iterations, which helps show why you should be judicious with details. It also points out that fantasy needs magic-like elements and science-fiction needs technology. These are speculative genres, so you need to speculate.
 
