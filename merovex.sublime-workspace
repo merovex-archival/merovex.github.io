@@ -245,7 +245,7 @@
 		[
 			[
 				"j",
-				"Jekyll: Insert current datetime"
+				"Jekyll: New draft from template"
 			],
 			[
 				"jek",
@@ -392,13 +392,18 @@
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts",
-		"/Users/bwilson/Sites/merovex.github.io/blog",
-		"/Users/bwilson/Sites/merovex.github.io/pages/postal-marine-series"
+		"/Users/bwilson/Sites/merovex.github.io/blog"
 	],
 	"file_history":
 	[
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/copyright-response.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/leviticus.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-08-26-introducing-korektu.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/writers-courage.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/atom.xml",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/introducing-korektu.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/an-afternoon-on-ancestry.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/soundcloud.html",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/copyright-response.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/korektu.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/material/head.html",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016/style.scss",
@@ -514,17 +519,11 @@
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-02-11-random-car-advice.markdown",
 		"/Users/bwilson/Library/Application Support/Sublime Text 3/Installed Packages/Jekyll.sublime-package",
 		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/Template.yaml",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/leviticus.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-02-13-test.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/test.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-02-13-template.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/sample.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-01-30-dictate-your-book.md",
-		"/Users/bwilson/Sites/merovex.github.io/pages/bad-writing-advice.md",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-12-07-quiet-rituals.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/pages/contrastier.html",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/random-car-advice.markdown",
-		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/photo post.yaml"
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-01-30-dictate-your-book.md"
 	],
 	"find":
 	{
@@ -546,6 +545,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"2016-09-05 06:06:46",
+			"%2F",
+			"\\\"",
 			"12",
 			"meta",
 			"<link",
@@ -670,10 +672,7 @@
 			"   ",
 			"—",
 			"$-",
-			"\"\n",
-			"”",
-			"“",
-			"\n\n\n"
+			"\"\n"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -756,6 +755,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"atom.",
+				"atom.xml"
+			],
 			[
 				"copy",
 				"_drafts/copyright-response.markdown"
@@ -1263,10 +1266,6 @@
 			[
 				"2016",
 				"pages/2016-progress.md"
-			],
-			[
-				"2015-prog",
-				"logs/2015-progress/index.markdown"
 			]
 		],
 		"width": 0.0

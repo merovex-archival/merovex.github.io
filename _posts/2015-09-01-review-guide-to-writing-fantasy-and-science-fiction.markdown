@@ -1,10 +1,10 @@
 ---
 photo:
-  image: guide-to-writing.jpg
-  creator: WotC
-  url: http://www.amazon.com/Guide-Writing-Fantasy-Science-Fiction/dp/1440501459
-  license: Rights Reserved
-  caption: 'Cover: Guide to Writing Fantasy & Science Fiction'
+  image: 29044558485_9a62351d12_o.jpg
+  creator: Jeffrey Camphens
+  url: https://www.flickr.com/photos/144590555@N07/29044558485/
+  license: BY-CC
+  caption: 'Enter Imagination'
 layout: post
 title: 'Review: Guide to Writing Fantasy and Science Fiction'
 author: Ben Wilson
