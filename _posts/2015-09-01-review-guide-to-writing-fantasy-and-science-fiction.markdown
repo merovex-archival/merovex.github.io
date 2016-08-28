@@ -3,7 +3,7 @@ photo:
   image: 29044558485_9a62351d12_o.jpg
   creator: Jeffrey Camphens
   url: https://www.flickr.com/photos/144590555@N07/29044558485/
-  license: BY-CC
+  license: under CC BY 2.0
   caption: 'Enter Imagination'
 layout: post
 title: 'Review: Guide to Writing Fantasy and Science Fiction'
