@@ -1,0 +1,108 @@
+$font-size-base:    15px;
+$grid-gutter-width:  30px;
+// 'compass/css3/box-shadow';
+@import '2015/mixins';
+@import '2015/golden-ratio';
+@import '2015/color';
+@import '2015/typography';
+@import '2015/footer';
+@import '2015/frontpage';
+@import '2015/navbar';
+@import '2015/blog';
+@import '2015/social-links';
+@import '2015/highlight';
+@import '2015/amchart';
+@import '2015/hero-post';
+body {  
+  background: #eeeae7 url(https://s3.amazonaws.com/dausha/images/pbg.jpg) no-repeat top left fixed;
+  background-size: cover;
+}
+
+* {
+    &::-moz-selection { 
+      color: white;
+      background: $brand-primary;
+     }
+    &::selection { 
+      color: white;
+      background: $brand-primary;
+     }
+}
+.next-prev {
+  background: $brand-primary;
+  a { 
+    color: white; 
+  }
+  div + div {border-left: 2px solid white; }
+  color: $white;
+}
+
+article > section {
+  a {
+    border-bottom:0 solid  $blue;
+    box-shadow:inset 0 -2px 0  $blue;
+    color: $default-text-color;
+    &:hover, &:active, &:focus {
+      background: $blue;
+      color: white;
+      text-decoration: none;
+    }
+  }
+}
+#sidebar {
+}
+#books-band {
+	.row {
+		img {
+			width: 80% !important;
+		}
+	}
+}
+/* On the flex container */
+.flexcontainer {
+   display: -webkit-flex;
+   display: flex;
+   /* You can set flex-wrap and flex-direction individually */
+   -webkit-flex-direction: row;
+   flex-direction: row;
+   -webkit-flex-wrap: wrap;
+   flex-wrap: wrap;
+   /* Or do it all in one line with flex flow */
+   -webkit-flex-flow: row wrap;
+   flex-flow: row wrap;
+   /* tweak the where items line up on the row */
+   /* valid values are: flex-start, flex-start, space-between, space-around, stretch */
+   -webkit-align-content: flex-start;
+   align-content: flex-start;   
+}
+.table {
+  .row {
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: no-wrap;
+  }
+  thead th {
+    border-bottom: 2px solid #AE9B8D !important;
+  }
+  th, td {
+    border-top: 1px solid #AE9B8D !important;
+  }
+}
+.table-bordered {
+  th, td {
+    border: 1px solid #AE9B8D !important;
+  }
+}
+.nailthumb-portrait {
+	img {width: 80%;}
+}
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid darken($brand-primary, 5%);
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+  p {display: inline; }
+  footer {display: block; font-size: 80%; line-height: 1.4; color: #777; }
+  &:before {color: $brand-primary; content: open-quote; font-size: 4em; line-height: 0.1em; margin-right: 0.25em; vertical-align: -0.4em; }
+}

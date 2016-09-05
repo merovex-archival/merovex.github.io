@@ -1,0 +1,35 @@
+
+.jumbotron {
+  height: 94vh;
+  text-align: center;
+  margin: 0;
+  background: $background-color url(https://s3.amazonaws.com/dausha/images/pbg.jpg) no-repeat top left fixed;
+  background-size: cover;
+  h1 {
+    margin-top: 15%;
+    font-size: 3em;
+    span {
+      display: block;
+      font-size: 70%;
+      margin-top: 2%;
+    }
+  }
+  ul {
+    margin-top: 10%;
+  }
+}
+#landing {
+  padding: 1in 0;
+}
+.dark {
+  color: #f8f8f8;
+  xbackground: url(https://s3.amazonaws.com/dausha/images/esback.jpg) no-repeat center center;
+  background: $base03 url(https://s3.amazonaws.com/dausha/images/footer.jpg) no-repeat top left fixed;
+  background-size: cover;
+  h1, h2, h3, h4, h5, h6 {
+    color: $yellow !important;
+    text-shadow: 2px 1px 2px #000 !important;
+  }
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+}

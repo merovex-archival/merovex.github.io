@@ -1,0 +1,8 @@
+.amchart {
+  border: 1px solid $base00;
+  background: rgba(240,235,231,0.6);
+  height: 400px;
+}
+.amchart + .amchart {
+  border-left: none;
+}

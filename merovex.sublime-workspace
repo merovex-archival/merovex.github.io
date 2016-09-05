@@ -391,11 +391,15 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts",
+		"/Users/bwilson/Sites/merovex.github.io/_posts",
+		"/Users/bwilson/Sites/merovex.github.io/articles/a-geekier-side-of-me-and-pmwiki",
+		"/Users/bwilson/Sites/merovex.github.io/articles/april-progress-its-not-my-fault",
 		"/Users/bwilson/Sites/merovex.github.io/blog"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-09-01-review-guide-to-writing-fantasy-and-science-fiction.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-01-26-automating-scrivener-wordcount-log.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/leviticus.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-08-26-introducing-korektu.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/writers-courage.markdown",
@@ -521,9 +525,7 @@
 		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/Template.yaml",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-02-13-test.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/test.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-02-13-template.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/sample.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-01-30-dictate-your-book.md"
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-02-13-template.markdown"
 	],
 	"find":
 	{
@@ -755,6 +757,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"fantas",
+				"_posts/2015-09-01-review-guide-to-writing-fantasy-and-science-fiction.markdown"
+			],
+			[
+				"snow",
+				"_posts/2016-01-26-automating-scrivener-wordcount-log.markdown"
+			],
 			[
 				"atom.",
 				"atom.xml"
@@ -1258,14 +1268,6 @@
 			[
 				"willard",
 				"pages/willard/disciplines.md"
-			],
-			[
-				"progres",
-				"logs/2016-progress.md"
-			],
-			[
-				"2016",
-				"pages/2016-progress.md"
 			]
 		],
 		"width": 0.0

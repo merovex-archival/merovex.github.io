@@ -13,6 +13,8 @@ category_dir: /
 permalink: /:categories/:title/
 subscribe_rss: /atom.xml
 
+# theme: merovex
+
 location:
   city: Arlington
   state: Virginia

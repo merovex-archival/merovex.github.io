@@ -1,0 +1,10 @@
+      <!-- Blog Post -->{% assign content = post.content %}
+      <div class='media post'>
+        <div class="pull-left">
+          <img src='{{ site.cdn_url }}/images/articles/squares/{{post.photo['image']}}' alt="Article: {{ post.title | titlecase }}" class='img-thumbnail' />
+        </div>
+        <div class="media-body">
+          <h3><a href='{{ root_url }}{{ post.url }}' alt="Article: {{ post.title | titlecase }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h3>
+          <p>{{ post.description }}</p>
+        </div>
+      </div>

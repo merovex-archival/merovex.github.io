@@ -21,3 +21,5 @@ gem 'ra11y'
 gem 'kramdown'
 gem 'jekyll-mentions'
 gem 'jekyll-redirect-from'
+
+# gem 'merovex'

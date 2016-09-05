@@ -1,0 +1,80 @@
+/* Cursive Fonts */
+@import url(https://fonts.googleapis.com/css?family=Sansita+One);
+/* Sans-Serif Fonts */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Droid+Sans|Source+Sans+Pro|Montserrat);
+/* Serif Fonts */
+@import url(https://fonts.googleapis.com/css?family=Merriweather|Domine|Droid+Serif);
+
+$brand-fonts: 'Sansita One',"Helvetica Neue",Helvetica,Arial,cursive;
+$navbar-fonts: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+$sans-fonts: 'Droid Sans','Open Sans','Source Sans Pro',"Helvetica Neue",Helvetica,Arial,Sans-Serif !important;
+$serif-fonts: 'Droid Serif', Domine,Merriweather,Garamond, Georgia,serif !important;
+
+#skiptocontent a {
+  padding:6px;
+  position: absolute;
+  top:-90px;
+  left:0px;
+  color:white;
+  border-right:1px solid white;
+  border-bottom:1px solid white;
+  border-bottom-right-radius:8px;
+  background:transparent;
+  -webkit-transition: top 1s ease-out, background 1s linear;
+  transition: top 1s ease-out, background 1s linear;
+  z-index: 8000;
+  &:focus {
+    position:absolute;
+    left:0px;
+    top:0px;
+    z-index: 8000;
+    background:#BF1722;
+    outline:0;  
+    -webkit-transition: top .1s ease-in, background .5s linear;
+    transition: top .1s ease-in, background .5s linear;
+	}
+}
+  h1 {
+    font-family: $serif-fonts;
+    font-family: $serif-fonts;
+    color: #9D3821;
+    text-shadow: 2px 1px 2px #BBB;
+  }
+  strong, b {color: #9D3821;}
+
+  h1, h2, h3, .footnotes:before {
+    text-shadow: 2px 1px 2px #BBB;
+  }
+  h1 small {
+      font-family: $sans-fonts;
+      font-size: 50%;
+      display: block;
+    }
+  section > p + p {
+    margin-top: -1rem;
+    text-indent: 2em;
+  }
+  h2, h3, h4, .progress, .footnotes:before {
+      font-family: $navbar-fonts;
+      font-weight: 500 !important;
+      text-transform:capitalize;
+  }
+  h6 {
+    font-family: $navbar-fonts;
+  }
+  .titlecase {
+    text-transform: capitalize;
+  }
+h1 {font-size: 2.45rem !important; line-height: 2.45rem; }
+  h2, .footnotes:before { font-size: 2.15rem; line-height: 1.25em }
+  h3 { font-size: 1.62rem; line-height: 1.25em }
+  h4 { font-size: 1.2em; line-height: 1.25em }
+  
+  .progress { font-weight: bold; text-shadow: 1px 1px 2px #333;}
+  .footnotes{
+     &:before {
+      content: "Footnotes";
+      display: block;
+      margin-bottom: 0.5em;
+    }
+  }

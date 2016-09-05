@@ -1,0 +1,41 @@
+//== GOLD variables
+
+$gold-ratio:				    1.618;
+
+$gold-ratio-2:          (1 / $gold-ratio);  // 0.618
+$gold-ratio-1:          1 - $gold-ratio-2; // 0.382
+$gold-ratio-3:          ($gold-ratio / 2); // 0.809
+$gold-ratio-4:          ($gold-ratio * $gold-ratio); // 2.617924
+$gold-ratio-5:          ($gold-ratio-4 * $gold-ratio); // 4.23580103
+
+//== GOLD line-height
+
+$line-height-base:        $gold-ratio; // 1.618
+$line-height-computed:    floor(($font-size-base * $line-height-base)); // ~23px
+
+//== GOLD headings
+
+$font-size-h1:  2.6rem;
+$font-size-h2:  1.6rem;
+$font-size-h3:  1.25rem;
+$font-size-h4:  1.0rem; // 14px Bootstrap default
+
+//== GOLD grid
+@media (min-width: 992px) { 
+	.col-gold-sm {
+	  float: left;
+	  position: relative;
+	  min-height: 1px;
+	  padding-left: ($grid-gutter-width / 2);
+	  padding-right: ($grid-gutter-width / 2);
+	  width: percentage($gold-ratio-1);
+	}
+	.col-gold-lg {
+	  float: left;
+	  position: relative;
+	  min-height: 1px;
+	  padding-left: ($grid-gutter-width / 2);
+	  padding-right: ($grid-gutter-width / 2);
+	  width: percentage($gold-ratio-2);
+	}
+}
