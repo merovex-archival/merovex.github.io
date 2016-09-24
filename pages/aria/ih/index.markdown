@@ -11,8 +11,6 @@ modified_at: 2015-09-13 09:20
 created_at: 2015-09-13 09:20
 ---
 
-![God's World](http://www.bdhls.org/wp-content/uploads/2013/01/G-dWorld.jpg)
-
 ## Overview
 
 This is a weak attempt to retell the [Aria Interactive History](http://www.amazon.com/Aria-Worlds-Series-Canticle-Monomyth/dp/096459031X/) concept using Savage rules. "Aria is principally a game of epic narrative interaction and mythmaking." Aria's focus is on mythmaking, meta-design, and playable realism. Savage World's goal is "Fast, Furious & Fun."
