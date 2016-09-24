@@ -4,9 +4,9 @@ title: An Afternoon on Ancestry
 category: 'Diary'
 tags: []
 published: True
-created_at: 
+created_at:  2016-09-23 20:04:08 
 author: Ben Wilson
-modified_at: 
+modified_at:  2016-09-23 20:04:08 
 photo:
     license: BY-SA
     image: 2759119765_2e63897d20_o.jpg

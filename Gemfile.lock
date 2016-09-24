@@ -130,7 +130,6 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
     mercenary (0.3.6)
-    merovex (0.1.5)
     mini_portile2 (2.1.0)
     minima (1.0.1)
     minitest (5.9.0)
@@ -197,7 +196,6 @@ DEPENDENCIES
   jekyll-mentions
   jekyll-redirect-from
   kramdown
-  merovex
   ra11y
   rack-rewrite
   rake

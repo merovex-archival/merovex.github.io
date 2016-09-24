@@ -4,7 +4,7 @@ title: Who Shall Ascend the Mountain
 category: "BookSummary"
 tags: []
 published: True
-modified_at: 
+modified_at:  2016-09-23 20:04:08 
 description: This goes to RSS Feed & Frontpage
 photo:
   license: CC BY-SA
@@ -12,7 +12,7 @@ photo:
   url: https://www.flickr.com/photos/10630381@N03/2085668361/
   caption: Evening view from Poonhill
   image: 2085668361_8caafeeaa0_o.jpg
-created_at: 
+created_at:  2016-09-23 20:04:08 
 author: Ben Wilson
 
 ---

@@ -14,8 +14,8 @@ photo:
     url: https://www.flickr.com/photos/93922433@N02/23936747223/
     caption: "Lighthouse Anse aux Meadows, Newfoundland"
 description: "This goes to RSS Feed & Frontpage"
-created_at: 
-modified_at: 
+created_at: 2016-09-23 20:04:08 
+modified_at: 2016-09-23 20:04:08 
 ---
 
 Above the fold

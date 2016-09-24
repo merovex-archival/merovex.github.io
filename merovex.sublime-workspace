@@ -391,13 +391,18 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
-		"/Users/bwilson/Sites/merovex.github.io/_posts",
-		"/Users/bwilson/Sites/merovex.github.io/articles/a-geekier-side-of-me-and-pmwiki",
-		"/Users/bwilson/Sites/merovex.github.io/articles/april-progress-its-not-my-fault",
-		"/Users/bwilson/Sites/merovex.github.io/blog"
+		"/Users/bwilson/Sites/merovex.github.io/_includes",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts",
+		"/Users/bwilson/Sites/merovex.github.io/_sass",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/materialize",
+		"/Users/bwilson/Sites/merovex.github.io/blog",
+		"/Users/bwilson/Sites/merovex.github.io/css"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
+		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-09-01-review-guide-to-writing-fantasy-and-science-fiction.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-01-26-automating-scrivener-wordcount-log.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/leviticus.markdown",
@@ -425,7 +430,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/pages/korektu/bellicose.md",
 		"/Users/bwilson/Sites/merovex.github.io/pages/korektu/scintilla.md",
 		"/Users/bwilson/Sites/merovex.github.io/pages/postal-marine-series/index.html",
-		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
 		"/Users/bwilson/Sites/merovex.github.io/Rakefile",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-07-09-adopt-the-domino-project-for-your-novels.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-03-10-a-writing-standard.markdown",
@@ -438,7 +442,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/korektu/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/pages/business-plan.md",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/paginator.html",
-		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-10-15-39-cents-a-day.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-08-12-writing-on-github.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/writing-on-github.markdown",
