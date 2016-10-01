@@ -19,6 +19,7 @@ layout: default
 			<small aria-hidden='true' class='valign-wrapper'><i class="valign material-icons" aria-hidden='true'>folder_open</i> <a class='valign' href='{{ site.baseurl }}/categories/#{{ category | replace: ' ', '+'}}'>{{site.data['categories'][category]}}</a></small>
 		{%endif%}
 		{{ page.title }}</h1>
+    <span class='grey-text sans h3'>{% if page.description != "" %}{{ page.description }}{%endif%}</span>
           <p  class='sr-only'>Category: {{category | titlecase}}</p>
           {% assign fred = page %}
           {% if page.subtitle %}<p class='subtitle'>{{page.subtitle}}</p>{%endif%}

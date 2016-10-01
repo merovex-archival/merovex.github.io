@@ -18,7 +18,7 @@ description: 'An archive of posts sorted by tag.'
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
   <h2 id='{{ this_word | cgi_escape }}'>{{ this_word }}</h2>
   <div class='collection'>
-    {% for post in site.tags[this_word] |reverse %}{% if post.title != null %}
+    {% for post in site.tags[this_word] reversed %}{% if post.title != null %}
     <div class='collection-item'>
     {% assign pdate = post.created_at %}{% if pdate == ""%}{% assign pdate = post.date %}{%endif%}
     <span class='entry-date'><time datetime='{{ pdate | date_to_xmlschema }}' itemprop='datePublished'>{{ pdate | date: '%-d %B %Y' }}</time></span> &raquo; {% if post.category == 'speaking' %}<i class='fa fa-microphone'></i> {% endif %}<a href='{{ post.url }}'>{{ post.title }}</a></div>
