@@ -42,7 +42,7 @@ I remain a fan of the [Snowflake Method](http://www.advancedfictionwriting.com/a
 : Snowflake 3, 5 and 7 focus on Character development. I created a folder for the characters and one file for each one named character. From the README.md, I linked to the (/characters/character-name.md). If you have other aspects of your novel (settings, etc.) that you want to track, you can do it this way as well.
 
 **Issues**
-: As I said above, I used the Issues to track my TODOs. I created Milestones for each of the major phases of the project (design, first & subsequent drafts). I created an issue for each of the Snowflake plot steps (1,2,4,6,8), and three steps for each of character steps (3,5,7). In a future article, I will reveal how to track reader feedback via issues.
+: As I said above, I used the Issues to track my TODOs. I created Milestones for each of the major phases of the project (design, first & subsequent drafts). I created an issue for each of the Snowflake plot steps (1,2,4,6,8), and three steps for each of character steps (3,5,7). I previously discussed [Korektu](/technology/introducing-korektu/), my way of soliciting feedback from readers. This all dovetails together.
 
 ## README.md
 
