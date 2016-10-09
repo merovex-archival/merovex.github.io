@@ -30,7 +30,7 @@ I have previously discussed [GitHub for organizing a novel series](/writing/writ
 
 GitHub's best practices provides me as an author all I need to organize my project. I started with the Verku project structure, then added a few folders outside the project's content (/text) file. To keep track of my TODOs, I used the project's Issues.
 
-I remain a fan of the [Snowflake Method](http://www.advancedfictionwriting.com/art/snowflake.php), and this will be revealed in this post. I also break my stories into [four acts](/writing/its-not-really-three-acts/).
+I remain a fan of the [Snowflake Method](http://www.advancedfictionwriting.com/art/snowflake.php), and this will be revealed in this post. I also break my stories into [four acts](/writing/its-not-really-three-acts/). Beyond showing how I'm organizing this book, there's not much more to say. Let me know if you find this helpful.
 
 **README.md**
 : GitHub has built-in features that are designed for organization. The basic one is the README.md file. If you look at any GitHub repository, you will see that the README.md file is displayed right below the file listing. This is intended to be the summary of the entire project. It's written in Markdown and compiled into HTML. I won't explain this file as there are many who have done a better job than I can. Below I provide a sample of what I'm using for my book. 
@@ -39,7 +39,7 @@ I remain a fan of the [Snowflake Method](http://www.advancedfictionwriting.com/a
 : Snowflake 1, 2, 4, and 6 cover the plot. I chose to keep this content on the README.md.
 
 **Characters**
-: Snowflake 3, 5 and 7 focus on Character development. I created a folder for the characters and one file for each one named character. From the README.md, I linked to the (/characters/character-name.md). 
+: Snowflake 3, 5 and 7 focus on Character development. I created a folder for the characters and one file for each one named character. From the README.md, I linked to the (/characters/character-name.md). If you have other aspects of your novel (settings, etc.) that you want to track, you can do it this way as well.
 
 **Issues**
 : As I said above, I used the Issues to track my TODOs. I created Milestones for each of the major phases of the project (design, first & subsequent drafts). I created an issue for each of the Snowflake plot steps (1,2,4,6,8), and three steps for each of character steps (3,5,7). In a future article, I will reveal how to track reader feedback via issues.
