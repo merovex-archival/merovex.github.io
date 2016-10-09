@@ -18,10 +18,7 @@ tags:
 - Amazon
 ---
 
-Read Write Web had article discussing Amazon's Short Story Collection (link defunct as-of 2016), which targets the electronic publishing
-medium. In a nutshell, this collection is defined as 5,000 to 30,000 words.
-That's not a short story. According to [Wikipedia](http://bit.ly/i0yODm) (source
-of all true knowledge), a short story has a maximum word count of 7,000--9,000
+Read Write Web had article discussing [Amazon's Short Story Collection](http://web.archive.org/web/20160312160849/http://readwrite.com/2011/01/26/amazon_launches_its_digital_short_story_collection), which targets the electronic publishing medium. In a nutshell, this collection, called an Amazon Single, is defined as 5,000 to 30,000 words. That's not a short story. According to [Wikipedia](http://bit.ly/i0yODm) (source of all true knowledge), a short story has a maximum word count of 7,000--9,000
 words. So, has Amazon extended the size of the Short Story?
 
 <!-- more -->
@@ -37,4 +34,4 @@ audience in electronic publishing. I recently read about a man who was rejected
 by 100 publishing houses, sold 10 paper copies, but now has sold thousands of
 copies electronically.
 
-My point? You now have the standard for novella lengths ala Amazon. Enjoy.
+My point? You now have the standard for novella lengths ala Amazon---5,000 to 30,000 words. Enjoy.

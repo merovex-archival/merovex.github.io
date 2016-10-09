@@ -1,0 +1,12 @@
+<div class="card medium">
+	<div class="card-image">
+	  <img src='{{ site.cdn_url }}/images/articles/{{card.photo['image']}}' alt='{{card.photo['caption']}}'>
+	  <span class="card-title shadow" style='width: 100%'>{{card.title}}</span>
+	</div>
+	<div class="card-content">
+	  <p>{{ card.description | remove:'#'}}</p>
+	</div>
+	<div class="card-action">
+	  <a href="{{ root_url }}{{ card.url }}" class='blue-text text-accent-4'>Read on...</a>
+	</div>
+</div>
