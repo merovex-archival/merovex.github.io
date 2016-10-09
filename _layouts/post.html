@@ -30,7 +30,11 @@ layout: default
       <div>{{page.photo['caption']}} (Photo: <a href="{{page.photo['url']}}">{{page.photo['creator']}}</a> {{page.photo['license']}}.)</div>
     </figure>
       {% if page.toc == true %}{% include toc.html %}{%endif%}
-    {{ content }}
+    <section id='introduction' class='lead'>
+    {{ page.content | split:"<!-- more -->" | first |markdownify }}
+    </section>
+    {% if page.legal %}{% include legal-disclaimer.html %}{%endif%}
+    {{ page.content | split:"<!-- more -->" | last |markdownify }}
     </article>
     <section class='col l8 m10 s12 offset-l2 offset-m1'>
     <aside role='complementary' class='post-footer'>

@@ -22,7 +22,7 @@ tags:
 - Plot Analysis
 ---
 <!-- Opening -->
-Authors are told in countless novel writing books that there are three acts. They are told to add the midpoint to avoid the sagging middle of Act 2, because the act is twice as bit as others. In reality, it's not really three acts in the first place.
+Authors are told in countless novel writing books that there are three acts. They are told to add the midpoint to avoid the sagging middle of Act 2, because the act is twice as big as others. In reality, it's not really three acts in the first place. It's Four.
 
 <!-- more -->
 <!-- Theme Stated -->
