@@ -114,21 +114,11 @@ title: ""
     <section class='container'>
     <hr>
       <h2>Read the Latest Posts</h2>
-      <div class='row'>{% for post in site.posts limit:3 %}
-            <div class='col l4 m6 s12'><div class="card medium">
-      <div class="card-image">
-        <img src='{{ site.cdn_url }}/images/articles/{{post.photo['image']}}' alt='{{post.photo['caption']}}'>
-        <span class="card-title">{{post.title}}</span>
+      <div class='row'>{% for card in site.posts limit:3 %}
+        <div class="col s12 m12 l4">
+        {% include article_card.html %}
+        </div>{% endfor %}
       </div>
-      <div class="card-content">
-        <p>{{ post.description | remove:'#'}}</p>
-      </div>
-      <div class="card-action">
-        <a href="{{ root_url }}{{ post.url }}" class='red-text text-accent-4'>Read on...</a>
-      </div>
-    </div>
-            </div>{% endfor %}
-          </div>
     </section>
 
   <script>
