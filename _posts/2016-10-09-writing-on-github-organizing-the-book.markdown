@@ -14,7 +14,7 @@ photo:
     creator: Public Domain
     url: https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov#/media/File:Rimsky-Korsakov_Serow_crop.png
     caption: "Portrait of Nikolai Rimsky-Korsakov in 1898"
-description: "GitHub best practices work perfectly for organizing a novel. #amwriting #nanowrimo"
+description: "GitHub best practices work perfectly for organizing a novel."
 created_at: 2016-10-09 13:49:00
 modified_at: 2016-10-09 13:49:00
 ---
