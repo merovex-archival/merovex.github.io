@@ -5,12 +5,12 @@ layout: default
 <div class="parallax-container valign-bottom">
   <div class="container z-depth-2 faded-grey" style="margin-bottom: 0;">
     <div class='row'>
-    <header class='xblack-text col l8 m10 s12 offset-l2 offset-m1' >
+    <header class='col l8 m10 s12 offset-l2 offset-m1' >
       <h1>{% if page.category %}{% assign category = page.category | downcase %}
       <small aria-hidden='true' class='valign-wrapper'><i class="valign material-icons" aria-hidden='true'>folder_open</i> <a class='valign' href='{{ site.baseurl }}/categories/#{{ category | replace: ' ', '+'}}'>{{site.data['categories'][category]}}</a></small>
       {%endif%}
       {{ page.title }}</h1>
-      <span class='xgrey-text darker-3 sans h3'>{% if page.description != "" %}{{ page.description }}{%endif%}</span>
+      <span class='darker-3 sans h3'>{% if page.description != "" %}{{ page.description }}{%endif%}</span>
       <p  class='sr-only'>Category: {{category | titlecase}}</p>
       {% assign fred = page %}
       {% if page.subtitle %}<p class='subtitle'>{{page.subtitle}}</p>{%endif%}
