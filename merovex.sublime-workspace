@@ -244,12 +244,12 @@
 		"selected_items":
 		[
 			[
-				"j",
+				"jek",
 				"Jekyll: Insert current datetime"
 			],
 			[
-				"jek",
-				"Jekyll: Remove template"
+				"j",
+				"Jekyll: Insert current datetime"
 			],
 			[
 				"je",
@@ -392,8 +392,8 @@
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts",
 		"/Users/bwilson/Sites/merovex.github.io/_sass",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016",
 		"/Users/bwilson/Sites/merovex.github.io/blog",
 		"/Users/bwilson/Sites/merovex.github.io/css",
@@ -401,9 +401,13 @@
 	],
 	"file_history":
 	[
-		"/Users/bwilson/Sites/merovex.github.io/_sass/screen.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-10-09-writing-on-github-organizing-the-book.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016/style.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/page.html",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/post.html",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-07-03-its-not-really-three-acts.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-08-12-writing-on-github.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/screen.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-01-28-amazon-defines-novel-length.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/forms/mailchimp-full.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/social_networks.html",
@@ -458,7 +462,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/pages/business-plan.md",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/paginator.html",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-10-15-39-cents-a-day.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-08-12-writing-on-github.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/writing-on-github.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/articles/building-a-brave-new-world/index.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-09-14-agile-publishing-model.markdown",
@@ -474,7 +477,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_includes/material/eraru-header.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/material/eraru-nav.html",
 		"/Users/bwilson/Sites/merovex.github.io/korektu/js/korektu.js",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/page.html",
 		"/Users/bwilson/Sites/merovex.github.io/eraru/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/javascripts/recaptcha.html",
 		"/Users/bwilson/Sites/merovex.github.io/pages/map.html",
@@ -526,9 +528,7 @@
 		"/Users/bwilson/Sites/merovex.github.io/_includes/same.html",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-02-06-fragile-societies-resilient-citizens.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/hero_post.html",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_hero-post.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_typography.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/post_meta.html"
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_hero-post.scss"
 	],
 	"find":
 	{
@@ -551,6 +551,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Readme",
+			"###",
+			"[",
+			"/characters",
+			"highlighter",
+			"highlighter-rouge",
+			"\n",
+			"`",
+			"```",
+			"at: ",
 			"255",
 			"240",
 			"64",
@@ -668,17 +678,7 @@
 			"'/'",
 			"paginate",
 			"<div>",
-			"%} {%",
-			"X: ",
-			"page",
-			"'/>",
-			"3",
-			"\n    text-align: center;",
-			"background: $background-color url(https://s3.amazonaws.com/dausha/images/pbg.jpg) no-repeat top left fixed;\n\t\t\t\tbackground-size: cover;\n",
-			".3",
-			".navbar ",
-			"navbar-custom",
-			"{{ site.color.primary-dark }}"
+			"%} {%"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -762,8 +762,24 @@
 		"selected_items":
 		[
 			[
+				"github",
+				"_posts/2016-10-09-writing-on-github-organizing-the-book.markdown"
+			],
+			[
 				"post",
 				"_layouts/post.html"
+			],
+			[
+				"nott",
+				"_posts/2012-07-03-its-not-really-three-acts.markdown"
+			],
+			[
+				"page",
+				"_layouts/page.html"
+			],
+			[
+				"writing",
+				"_posts/2016-08-12-writing-on-github.markdown"
 			],
 			[
 				"sty",
@@ -1256,22 +1272,6 @@
 			[
 				"print.",
 				"_sass/print.scss"
-			],
-			[
-				"hereb",
-				"_posts/2014-08-17-here-be-dragons-dictating.markdown"
-			],
-			[
-				"dict",
-				"_posts/2016-01-30-dictate-your-book.md"
-			],
-			[
-				"sideb",
-				"_includes/sidebar.html"
-			],
-			[
-				"astro",
-				"_includes/shared/astro_empire_header.html"
 			]
 		],
 		"width": 0.0
@@ -1302,7 +1302,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 334.0,
+	"side_bar_width": 283.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
