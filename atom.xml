@@ -24,6 +24,7 @@ layout: null
     <content type="html"><![CDATA[{{ post.description | expand_urls: site.url | cdata_escape }}]]></content>
     <category term="{{ post.category }}" />
     <media:thumbnail xmlns:media='http://search.yahoo.com/mrss/' url='{{ site.cdn_url }}/images/articles/thumbnails/{{ post.photo['image'] | XMLURL }}'/>
+    <media:content url='{{ site.cdn_url }}/images/articles/thumbnails/{{ post.photo['image'] | XMLURL }}'/>
   </entry>
   {% endfor %}
 </feed>
