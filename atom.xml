@@ -13,7 +13,8 @@ layout: null
     <name><![CDATA[{{ site.author | strip_html }}]]></name>
     {% if site.email %}<email><![CDATA[{{ site.email }}]]></email>{% endif %}
   </author>
-  <generator uri="http://jekyllrb.org/">Jekyll</generator>
+  <generator uri="http://jekyllrb.com" version="{{ jekyll.version }}">Jekyll</generator>
+  <subtitle>{{ site.description | xml_escape }}</subtitle>
 
   {% for post in site.posts limit: 20 %}
   <entry>
@@ -23,8 +24,9 @@ layout: null
     <id>{{ site.url }}{{ post.id }}</id>
     <content type="html"><![CDATA[{{ post.description | expand_urls: site.url | cdata_escape }}]]></content>
     <category term="{{ post.category }}" />
+    {% for tag in post.tags %}<category term="{{ tag | xml_escape }}" />{% endfor %}
     <media:thumbnail xmlns:media='http://search.yahoo.com/mrss/' url='{{ site.cdn_url }}/images/articles/thumbnails/{{ post.photo['image'] | XMLURL }}'/>
-    <media:content url='{{ site.cdn_url }}/images/articles/{{ post.photo['image'] | XMLURL }}'/>
+    <media:content xmlns:media='http://search.yahoo.com/mrss/' url='{{ site.cdn_url }}/images/articles/{{ post.photo['image'] | XMLURL }}'/>
   </entry>
   {% endfor %}
 </feed>
