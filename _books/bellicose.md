@@ -1,8 +1,9 @@
 ---
 title: Bellicose
+link: bellicose
 full-title: "Book 1: Bellicose"
 release: 2014
-series: 1
+series: pms-1
 featured: true
 released: true
 hidden: false
