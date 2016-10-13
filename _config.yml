@@ -60,7 +60,7 @@ cdn_url: http://d1czp97ry8if6j.cloudfront.net
 collections:
   books:
     output: true
-    permalink: /books/:path/
+    permalink: /korektu/:path/
 
 summary:
   writing: "Writing describes my thoughts about the craft of writing."
@@ -75,10 +75,14 @@ defaults:
       path: ""
       type: "books"
     values:
-      layout: book
+      layout: korektu
       featured: false
       hidden: false
       variant: false
+      recaptcha: true
+      editions:
+        - Alpha
+        - Beta
   -
     scope:
       path: ""

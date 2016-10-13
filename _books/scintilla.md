@@ -7,6 +7,7 @@ series: pms-4
 featured: true
 released: true
 hidden: false
+repo: "Merovex/postal-marine-series.verki"
 amazon:
   ebook: http://amzn.to/1hAocWl
   pback: http://amzn.to/1PpTr3Z
