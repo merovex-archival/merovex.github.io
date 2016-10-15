@@ -2,7 +2,7 @@
 layout: post
 title: "Copyright: Author's Response"
 author: Ben Wilson
-description: "How should an author respond in a legal landscape that expects action? Github"
+description: "How should an author respond in a legal landscape that expects action?"
 category: 'Writing'
 tags: [Copyright, Legal, Scrivener]
 photo:
