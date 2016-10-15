@@ -57,9 +57,11 @@ layout: default
         {% include article_card.html %}
       </div>
       <div class='col m6 s12'>
+      {% if page.next %}
         <h3>Next Article</h3>
         {% assign card=page.next %}
         {% include article_card.html %}
+      {% endif %}
       </div>
     </aside>
     </section>
