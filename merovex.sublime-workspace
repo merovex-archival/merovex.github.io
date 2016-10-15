@@ -391,20 +391,38 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
+		"/Users/bwilson/Sites/merovex.github.io/_books",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts",
 		"/Users/bwilson/Sites/merovex.github.io/_sass",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016",
 		"/Users/bwilson/Sites/merovex.github.io/blog",
-		"/Users/bwilson/Sites/merovex.github.io/css",
+		"/Users/bwilson/Sites/merovex.github.io/pages",
+		"/Users/bwilson/Sites/merovex.github.io/pages/postal-marine-series",
 		"/Users/bwilson/Sites/merovex.github.io/tags"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/post.html",
+		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
+		"/Users/bwilson/Sites/merovex.github.io/pages/books.md",
+		"/Users/bwilson/Sites/merovex.github.io/_books/scintilla.md",
+		"/Users/bwilson/Sites/merovex.github.io/_books/luctation.md",
+		"/Users/bwilson/Sites/merovex.github.io/_books/imbroglio.md",
+		"/Users/bwilson/Sites/merovex.github.io/_books/bellicose.md",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/korektu.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/book-summary.html",
+		"/Users/bwilson/Sites/merovex.github.io/pages/korektu/thanks.md",
+		"/Users/bwilson/Sites/merovex.github.io/pages/korektu/bellicose.md",
+		"/Users/bwilson/Sites/merovex.github.io/pages/korektu/scintilla.md",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/book.html",
+		"/Users/bwilson/Sites/merovex.github.io/pages/postal-marine-series/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/booklink_group.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/material/navigation.html",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-10-09-writing-on-github-organizing-the-book.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016/style.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/page.html",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/post.html",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-07-03-its-not-really-three-acts.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-08-12-writing-on-github.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/screen.scss",
@@ -415,7 +433,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/article_card.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/belly-scripts.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/material/navigation.html",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/default.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/archive_post.html",
 		"/Users/bwilson/Sites/merovex.github.io/404.md",
@@ -426,7 +443,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/tags/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_data/tags.yml",
 		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
-		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-09-01-review-guide-to-writing-fantasy-and-science-fiction.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-01-26-automating-scrivener-wordcount-log.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/leviticus.markdown",
@@ -436,7 +452,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/introducing-korektu.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/soundcloud.html",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/copyright-response.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/korektu.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/material/head.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/head/favicon.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/head/facebook_ogp.html",
@@ -446,9 +461,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-11-11-analyzing-spectre.md",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-03-12-murder-on-guna-prime.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_old_includes/frontpage/blog.html",
-		"/Users/bwilson/Sites/merovex.github.io/pages/korektu/bellicose.md",
-		"/Users/bwilson/Sites/merovex.github.io/pages/korektu/scintilla.md",
-		"/Users/bwilson/Sites/merovex.github.io/pages/postal-marine-series/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/Rakefile",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-07-09-adopt-the-domino-project-for-your-novels.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-03-10-a-writing-standard.markdown",
@@ -504,7 +516,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_includes/frontpage/about.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/books.html",
 		"/Users/bwilson/Sites/merovex.github.io/categories.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/book-summary.html",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_style.scss",
 		"/Users/bwilson/Sites/merovex.github.io/news/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/navigation.html",
@@ -520,15 +531,7 @@
 		"/Users/bwilson/Sites/merovex.github.io/_includes/shared/stuff.html",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-08-23-jonaldy-ammonett.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/murder-on-guna-prime.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-03-12-bophendze-on-guna-prime.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/non-profit-business-model-canvas.markdown",
-		"/Users/bwilson/Downloads/subtitles.vtt",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/categories_list.html",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-02-machines-like-us.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/same.html",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-02-06-fragile-societies-resilient-citizens.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/hero_post.html",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_hero-post.scss"
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-03-12-bophendze-on-guna-prime.markdown"
 	],
 	"find":
 	{
@@ -551,6 +554,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"book.path",
+			"postal-marine-series",
+			"book['",
 			"Readme",
 			"###",
 			"[",
@@ -675,10 +681,7 @@
 			"dev ",
 			"class='",
 			"Home",
-			"'/'",
-			"paginate",
-			"<div>",
-			"%} {%"
+			"'/'"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -762,12 +765,48 @@
 		"selected_items":
 		[
 			[
-				"github",
-				"_posts/2016-10-09-writing-on-github-organizing-the-book.markdown"
-			],
-			[
 				"post",
 				"_layouts/post.html"
+			],
+			[
+				"layouts/kor",
+				"_layouts/korektu.html"
+			],
+			[
+				"book-sum",
+				"_includes/book-summary.html"
+			],
+			[
+				"books",
+				"pages/books.md"
+			],
+			[
+				"_con",
+				"_config.yml"
+			],
+			[
+				"korec",
+				"pages/korektu/scintilla.md"
+			],
+			[
+				"nav",
+				"_includes/material/navigation.html"
+			],
+			[
+				"booklin",
+				"_includes/booklink_group.html"
+			],
+			[
+				"postal",
+				"pages/postal-marine-series/index.html"
+			],
+			[
+				"_",
+				"_config.yml"
+			],
+			[
+				"github",
+				"_posts/2016-10-09-writing-on-github-organizing-the-book.markdown"
 			],
 			[
 				"nott",
@@ -796,10 +835,6 @@
 			[
 				"amaz",
 				"_posts/2011-01-28-amazon-defines-novel-length.markdown"
-			],
-			[
-				"nav",
-				"_includes/material/navigation.html"
 			],
 			[
 				"defau",
@@ -968,10 +1003,6 @@
 			[
 				"39-c",
 				"_posts/2014-10-15-39-cents-a-day.markdown"
-			],
-			[
-				"_con",
-				"_config.yml"
 			],
 			[
 				"worldbuilding",
@@ -1243,34 +1274,6 @@
 			],
 			[
 				"print",
-				"_sass/print.scss"
-			],
-			[
-				"cator",
-				"categories.html"
-			],
-			[
-				"sound-bo",
-				"_posts/2014-11-11-sound-booth-three.markdown"
-			],
-			[
-				"vo",
-				"_posts/2014-08-31-so-im-building-a-vo-sound-booth-2.markdown"
-			],
-			[
-				"config",
-				"_config.yml"
-			],
-			[
-				"tags",
-				"tags/index.html"
-			],
-			[
-				"sidebar",
-				"_includes/sidebar.html"
-			],
-			[
-				"print.",
 				"_sass/print.scss"
 			]
 		],

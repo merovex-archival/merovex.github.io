@@ -16,9 +16,9 @@ legal: true
 sharing: true
 footer: true
 sidebar: true
-date: 2015-09-29 19:29
-modified_at: 2015-09-29 19:29
-created_at: 2015-09-29 18:03
+date: 2016-10-15 11:29
+modified_at: 2016-10-15 11:29
+created_at: 2016-10-15 11:03
 ---
 
 In the first article in this series, I provided a [copyright overview](/writing/copyright-overview/) that states that "Registered or not, an Author has a responsibility to ensure they can prove their authorship of a work." In the second article, I discuss what [copyright means in the 9th Circuit](/writing/copyright-overview/) as it pertains to proving authorship. In the last article, I discussed the [value of the author's work product](/writing-copyright-work-product). In this article, I share how I think we as authors should respond to this legal landscape.
