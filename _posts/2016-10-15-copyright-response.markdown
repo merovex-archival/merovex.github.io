@@ -4,7 +4,7 @@ title: "Copyright: Author's Response"
 author: Ben Wilson
 description: "How should an author respond in a legal landscape that expects action?"
 category: 'Writing'
-tags: [Copyright, Legal, Scrivener]
+tags: [Copyright, Legal, Scrivener, GitHub as an Author]
 photo:
   image: 18906750538_69c6f2c5a8_b.jpg
   creator: 'JLaw45/Flickr '
