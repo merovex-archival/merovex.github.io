@@ -7,7 +7,7 @@ description: "How should an author respond in a legal landscape that expects act
 category: 'Writing'
 tags: [Copyright, Legal]
 photo:
-  image: 6991234167_f026a96005_o.jpg
+  image: 6991234167_f026a96005_o-1.jpg
   creator: 'fabola/Flickr'
   url: 'https://www.flickr.com/photos/44124339301@N01/6991234167/'
   license: CC BY-SA 2.0
