@@ -4,10 +4,17 @@
       <a id="logo-container" href="/" class="brand-logo">
         {% include merovex-nav.html %}
       </a>
+      <!-- Dropdown Structure -->
+      <ul id='dropdown1' class='dropdown-content'>
+        <li><a href="/blog/">Latest</a></li>
+        <li><a href="/categories/">By Category</a></li>
+        <li><a href="/tags/">By Tag</a></li>
+      </ul>
       <ul class="right hide-on-med-and-down">
           <li><a class='nav-link' href='/about-ben-wilson/'>About</a></li>
           <li><a class='nav-link' href='/books/'>Books</a></li>
           <li><a class='nav-link' href='/blog/'>Blog</a></li>
+          <li><a class='dropdown-link' href='#' data-activates='dropdown1'><i class="material-icons left">keyboard_arrow_down</i>Blog</a></li>
           <li><a class='btn' href='/follow/'>Follow</a></li>
       </ul>
 
@@ -16,7 +23,7 @@
         <li><a class='nav-link' href='/books/'>Books</a></li>
         <li><a class='nav-link' href='/blog/'>Blog</a></li>
       </ul>
-      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons right">menu</i></a>
     </div>
   </nav>
 </div>

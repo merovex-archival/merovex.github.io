@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://www.dausha.net
 author: Ben Wilson
 twitter_username: merovex
-github_username:  merovex
+# github_username:  merovex
 google_plus_id: BenWilsonAuthor
 category_dir: /
 permalink: /:categories/:title/
