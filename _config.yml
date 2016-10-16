@@ -23,8 +23,10 @@ location:
 # Build settings
 markdown: kramdown
 kramdown:
-  # enable_coderay: true
-  syntax_highlighter: rouge
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter_opts:
+    disable: true
 
 paginate: 12          # Posts per page on the blog index
 paginate_path: "/blog/page:num"
@@ -34,7 +36,7 @@ sass:
     sass_dir: _sass
 gems:
   - jekyll-sitemap
-  - coderay
+  # - coderay
   - jekyll-paginate
   # - jemoji
   # - jekyll-mentions
@@ -115,6 +117,6 @@ protocols:
 
     twitter_image: "assets/logo.png"
 
-    os_repo: "https://github.com/RichardLitt/wordhoardpress.com"
-    os_rcs_type: "git"
-    os_src: "git@github.com:RichardLitt/wordhoardpress.com.git"
+    # os_repo: "https://github.com/RichardLitt/wordhoardpress.com"
+    # os_rcs_type: "git"
+    # os_src: "git@github.com:RichardLitt/wordhoardpress.com.git"

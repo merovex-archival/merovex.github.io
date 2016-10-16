@@ -239,10 +239,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 27.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"jeky",
+				"Jekyll: Promote draft to post"
+			],
+			[
+				"dra",
+				"Jekyll: New draft from template"
+			],
 			[
 				"jek",
 				"Jekyll: Insert current datetime"
@@ -278,10 +286,6 @@
 			[
 				"git",
 				"Git: Push"
-			],
-			[
-				"jeky",
-				"Jekyll: Promote draft to post..."
 			],
 			[
 				"markdo",
@@ -391,12 +395,8 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
-		"/Users/bwilson/Sites/merovex.github.io/_books",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts",
-		"/Users/bwilson/Sites/merovex.github.io/_sass",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2015",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016",
+		"/Users/bwilson/Sites/merovex.github.io/_posts",
 		"/Users/bwilson/Sites/merovex.github.io/blog",
 		"/Users/bwilson/Sites/merovex.github.io/pages",
 		"/Users/bwilson/Sites/merovex.github.io/pages/postal-marine-series",
@@ -404,7 +404,13 @@
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/pages/k-law-checklist.md",
+		"/Users/bwilson/Sites/merovex.github.io/blog/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/post.html",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/github-or-bitbucket.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-10-15-copyright-response.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-05-21-copyright-work-product.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
 		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
 		"/Users/bwilson/Sites/merovex.github.io/pages/books.md",
 		"/Users/bwilson/Sites/merovex.github.io/_books/scintilla.md",
@@ -442,7 +448,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/audible-2016.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/tags/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_data/tags.yml",
-		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-09-01-review-guide-to-writing-fantasy-and-science-fiction.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-01-26-automating-scrivener-wordcount-log.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/leviticus.markdown",
@@ -456,7 +461,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_includes/head/favicon.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/head/facebook_ogp.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/head/twitter_card.html",
-		"/Users/bwilson/Sites/merovex.github.io/blog/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-07-23-a-little-worldbuilding.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-11-11-analyzing-spectre.md",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-03-12-murder-on-guna-prime.markdown",
@@ -527,11 +531,7 @@
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_frontpage.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_typography.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/blog_cards.html",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_mixins.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/shared/stuff.html",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-08-23-jonaldy-ammonett.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/murder-on-guna-prime.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-03-12-bophendze-on-guna-prime.markdown"
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_mixins.scss"
 	],
 	"find":
 	{
@@ -554,6 +554,55 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Confirmax",
+			"confirmax",
+			"Confirmax",
+			"confirmax",
+			"Confirmax",
+			"confirmax",
+			"Confirmax",
+			"confirmax",
+			"Confirmax",
+			"confirmax",
+			"Confirmax",
+			"confirmax",
+			"Confirmax",
+			"#.",
+			"considerax",
+			"Considerax",
+			"revokax",
+			"Revokax",
+			"revokax",
+			"Revokax",
+			"revocax",
+			"Revocax",
+			"revocax",
+			"relaxs",
+			"intenx",
+			"manifestax",
+			"Manifestax",
+			"Construx",
+			"Interpretax",
+			"interpretax",
+			"Interpretax",
+			"negotiax",
+			"formax",
+			"Formax",
+			"  (1)",
+			"Negox",
+			"considerax",
+			"Considerax",
+			"considerax",
+			"Considerax",
+			"opx",
+			"Opx",
+			"opx",
+			"Opx",
+			"opx",
+			"Opx",
+			"15",
+			".\n",
+			"_at: ",
 			"book.path",
 			"postal-marine-series",
 			"book['",
@@ -632,61 +681,12 @@
 			"github",
 			"**",
 			"\\.",
-			"writing",
-			"ombre",
-			"\t-",
-			"craftmap",
-			"1.4.7",
-			"scotchApp",
-			"col s",
-			"<i class=\"material-icons",
-			"\n",
-			"a class",
-			"strong class='text-primary'",
-			"<a name='toc",
-			"<h3>",
-			"</h2>",
-			"<h2>",
-			"<sup",
-			"<td align='left'><strong>",
-			" align='center'",
-			"<tr>",
-			"<th>",
-			"td align='center'><strong>",
-			"\n\n\n",
-			"><tr>",
-			"\n#### ",
-			"\n### ",
-			"### ",
-			"####",
-			"###",
-			">\n\n</tr>",
-			"\n\n\n",
-			"></tr>",
-			"<h4>",
-			"<h3>",
-			"<h3'>",
-			"<h4'>",
-			"h4 id='toc",
-			"h3 id='toc",
-			" id='toc",
-			"col-sm-offset",
-			"---",
-			"col-xs-offset",
-			"offset-",
-			"/news/{{",
-			"href='",
-			"href='/page",
-			"post",
-			"dev ",
-			"class='",
-			"Home",
-			"'/'"
+			"writing"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
 		],
@@ -764,6 +764,22 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"k-l",
+				"pages/k-law-checklist.md"
+			],
+			[
+				"blog",
+				"blog/index.html"
+			],
+			[
+				"po",
+				"_layouts/post.html"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
 			[
 				"post",
 				"_layouts/post.html"
@@ -949,10 +965,6 @@
 				"_layouts/default.html"
 			],
 			[
-				"blog",
-				"blog/index.html"
-			],
-			[
 				"korek",
 				"_layouts/korektu.html"
 			],
@@ -975,10 +987,6 @@
 			[
 				"rake",
 				"Rakefile"
-			],
-			[
-				"gem",
-				"Gemfile"
 			],
 			[
 				"awriting",
@@ -1267,14 +1275,6 @@
 			[
 				"typography",
 				"_sass/2015/_typography.scss"
-			],
-			[
-				"categories_list",
-				"_includes/categories_list.html"
-			],
-			[
-				"print",
-				"_sass/print.scss"
 			]
 		],
 		"width": 0.0
@@ -1305,7 +1305,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 283.0,
+	"side_bar_width": 457.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
