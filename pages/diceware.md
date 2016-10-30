@@ -5,7 +5,7 @@ diceware: true
 permalink: /diceware/
 ---
 
-[Diceware](http://world.std.com/~reinhold/diceware.html) is used to create cryptographically strong passphrases. It is based on the principle that the truly random selection, based on rolls of dice, of words in a [wordlist](http://world.std.com/~reinhold/diceware.wordlist.asc) can result in easily memorable passwords that are also extremely resistant to attack by even the most powerful adversaries. Passwords that are [six words or longer](http://world.std.com/~reinhold/dicewarefaq.html#howlong) are thought to be safe for high security applications.
+[Diceware](https://web.archive.org/web/20161025134230/http://world.std.com/~reinhold/diceware.html) is used to create cryptographically strong passphrases. It is based on the principle that the truly random selection, based on rolls of dice, of words in a [wordlist](https://web.archive.org/web/20161025134230/http://world.std.com/~reinhold/diceware.wordlist.asc) can result in easily memorable passwords that are also extremely resistant to attack by even the most powerful adversaries. Passwords that are [six words or longer](https://web.archive.org/web/20161025134230/http://world.std.com/~reinhold/dicewarefaq.html#howlong) are thought to be safe for high security applications.
 
 <h3>Automatically Generated Words</h3>
 <p>
@@ -94,5 +94,5 @@ If you don't trust the Javascript randomization, you can roll your own. Just rol
     <li>~<code id='crackTimeResultsMillenia'></code> millenia</li>
     <li>~<code id='crackTimeResultsUniverseLifetimes'></code> x age Universe</li>
   </ul>
-  <a href='http://world.std.com/~reinhold/dicewarefaq.html#calculatingentropy' target='_blank'>Learn more about calculating entropy</a>
+  <a href='https://web.archive.org/web/20161025134230/http://world.std.com/~reinhold/dicewarefaq.html#calculatingentropy' target='_blank'>Learn more about calculating entropy</a>
 </div>
