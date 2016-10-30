@@ -9,6 +9,7 @@ gem 'rake'
 	gem 'rb-fsevent', '~> 0.9'
 	gem 'rb-inotify'
 # end
+# gem 'jekyll-tagging-related_posts'
 gem 'uglifier'
 gem 'stringex'
 gem 'sinatra'

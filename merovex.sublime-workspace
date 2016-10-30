@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"nav",
+				"nav-link"
+			],
+			[
 				"font",
 				"font-family"
 			],
@@ -239,10 +243,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 27.0,
-		"last_filter": "",
+		"height": 392.0,
+		"last_filter": "je",
 		"selected_items":
 		[
+			[
+				"je",
+				"Jekyll: New draft from template"
+			],
 			[
 				"jeky",
 				"Jekyll: Promote draft to post"
@@ -258,10 +266,6 @@
 			[
 				"j",
 				"Jekyll: Insert current datetime"
-			],
-			[
-				"je",
-				"Jekyll: Browse templates..."
 			],
 			[
 				"date",
@@ -395,23 +399,38 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts",
-		"/Users/bwilson/Sites/merovex.github.io/_posts",
-		"/Users/bwilson/Sites/merovex.github.io/blog",
-		"/Users/bwilson/Sites/merovex.github.io/pages",
-		"/Users/bwilson/Sites/merovex.github.io/pages/postal-marine-series",
-		"/Users/bwilson/Sites/merovex.github.io/tags"
+		"/Users/bwilson/Sites/merovex.github.io/css"
 	],
 	"file_history":
 	[
-		"/Users/bwilson/Sites/merovex.github.io/pages/k-law-checklist.md",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/footer.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/belly-scripts.html",
 		"/Users/bwilson/Sites/merovex.github.io/blog/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/material/head.html",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/screen.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/post.html",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/_headers.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/material/navigation.html",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/default.html",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016/style.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_data/members.yml",
+		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/javascripts/highlighting.html",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-10-09-writing-on-github-organizing-the-book.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/materialize/highlight.scss",
+		"/Users/bwilson/Sites/merovex.github.io/assets/js/merovex.coffee",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-08-12-writing-on-github.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/assets/images/mero-logo.svg",
+		"/Users/bwilson/Sites/merovex.github.io/assets/images/merovex.svg",
+		"/Users/bwilson/Sites/merovex.github.io/_site/assets/images/merovex.svg",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/merovex-nav.html",
+		"/Users/bwilson/Sites/merovex.github.io/_site/assets/images/mero-logo.svg",
+		"/Users/bwilson/Sites/merovex.github.io/pages/k-law-checklist.md",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/github-or-bitbucket.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-10-15-copyright-response.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-05-21-copyright-work-product.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
-		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
 		"/Users/bwilson/Sites/merovex.github.io/pages/books.md",
 		"/Users/bwilson/Sites/merovex.github.io/_books/scintilla.md",
 		"/Users/bwilson/Sites/merovex.github.io/_books/luctation.md",
@@ -425,21 +444,13 @@
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/book.html",
 		"/Users/bwilson/Sites/merovex.github.io/pages/postal-marine-series/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/booklink_group.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/material/navigation.html",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-10-09-writing-on-github-organizing-the-book.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016/style.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/page.html",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-07-03-its-not-really-three-acts.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-08-12-writing-on-github.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/screen.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-01-28-amazon-defines-novel-length.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/forms/mailchimp-full.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/social_networks.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/post_header.html",
-		"/Users/bwilson/Sites/merovex.github.io/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/article_card.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/belly-scripts.html",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/default.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/archive_post.html",
 		"/Users/bwilson/Sites/merovex.github.io/404.md",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/audible-2016.md",
@@ -457,7 +468,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/introducing-korektu.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/soundcloud.html",
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/copyright-response.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/material/head.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/head/favicon.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/head/facebook_ogp.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/head/twitter_card.html",
@@ -520,18 +530,7 @@
 		"/Users/bwilson/Sites/merovex.github.io/_includes/frontpage/about.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/books.html",
 		"/Users/bwilson/Sites/merovex.github.io/categories.html",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_style.scss",
-		"/Users/bwilson/Sites/merovex.github.io/news/index.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/navigation.html",
-		"/Users/bwilson/Sites/merovex.github.io/news.html",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_navbar.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_color.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/after_body.html",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_intro.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2015/_frontpage.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_typography.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/blog_cards.html",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_mixins.scss"
+		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_style.scss"
 	],
 	"find":
 	{
@@ -554,6 +553,20 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"article",
+			"href",
+			"github",
+			"api",
+			"repo",
+			".codehilite",
+			"˝",
+			".codehilite",
+			"highlight",
+			"rouge",
+			"8.8",
+			"github",
+			"{{site.url}}",
+			"'/",
 			"Confirmax",
 			"confirmax",
 			"Confirmax",
@@ -667,21 +680,7 @@
 			"\n\n\n\n\n\n\n",
 			"\n\n\n\n\n\n",
 			"\n\n\n\n\n",
-			"\n\n\n\n",
-			"\n\n\n",
-			"\n\n",
-			"<input ",
-			"facebook",
-			"nav",
-			"class=\"page-link\"",
-			"waves-effect disabled",
-			"page-item",
-			"at:",
-			"Image of Yaktocat",
-			"github",
-			"**",
-			"\\.",
-			"writing"
+			"\n\n\n\n"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -706,7 +705,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 34.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -755,7 +754,7 @@
 	"project": "merovex.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -765,20 +764,80 @@
 		"selected_items":
 		[
 			[
-				"k-l",
-				"pages/k-law-checklist.md"
+				"foo",
+				"_includes/footer.html"
+			],
+			[
+				"inde",
+				"index.html"
 			],
 			[
 				"blog",
 				"blog/index.html"
 			],
 			[
-				"po",
+				"bell",
+				"_includes/belly-scripts.html"
+			],
+			[
+				"screen",
+				"_sass/screen.scss"
+			],
+			[
+				"pos",
 				"_layouts/post.html"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"defa",
+				"_layouts/default.html"
+			],
+			[
+				"nav",
+				"_includes/material/navigation.html"
+			],
+			[
+				"st",
+				"_sass/material-2016/style.scss"
 			],
 			[
 				"gem",
 				"Gemfile"
+			],
+			[
+				"_con",
+				"_config.yml"
+			],
+			[
+				"org",
+				"_posts/2016-10-09-writing-on-github-organizing-the-book.markdown"
+			],
+			[
+				"high",
+				"_includes/javascripts/highlighting.html"
+			],
+			[
+				"organ",
+				"_posts/2016-10-09-writing-on-github-organizing-the-book.markdown"
+			],
+			[
+				"writing",
+				"_posts/2016-08-12-writing-on-github.markdown"
+			],
+			[
+				"head",
+				"_includes/material/head.html"
+			],
+			[
+				"k-l",
+				"pages/k-law-checklist.md"
+			],
+			[
+				"po",
+				"_layouts/post.html"
 			],
 			[
 				"post",
@@ -797,16 +856,8 @@
 				"pages/books.md"
 			],
 			[
-				"_con",
-				"_config.yml"
-			],
-			[
 				"korec",
 				"pages/korektu/scintilla.md"
-			],
-			[
-				"nav",
-				"_includes/material/navigation.html"
 			],
 			[
 				"booklin",
@@ -833,10 +884,6 @@
 				"_layouts/page.html"
 			],
 			[
-				"writing",
-				"_posts/2016-08-12-writing-on-github.markdown"
-			],
-			[
 				"sty",
 				"_sass/material-2016/style.scss"
 			],
@@ -855,14 +902,6 @@
 			[
 				"defau",
 				"_layouts/default.html"
-			],
-			[
-				"inde",
-				"index.html"
-			],
-			[
-				"bell",
-				"_includes/belly-scripts.html"
 			],
 			[
 				"ancestry",
@@ -923,10 +962,6 @@
 			[
 				"kore",
 				"_layouts/korektu.html"
-			],
-			[
-				"head",
-				"_includes/material/head.html"
 			],
 			[
 				"intro",
@@ -1239,42 +1274,6 @@
 			[
 				"style.sc",
 				"_sass/2015/_style.scss"
-			],
-			[
-				"tags.h",
-				"tags/index.html"
-			],
-			[
-				"_config",
-				"_config.yml"
-			],
-			[
-				"bad-w",
-				"pages/bad-writing-advice.md"
-			],
-			[
-				"copyright",
-				"_drafts/copyright-response.markdown"
-			],
-			[
-				"santa",
-				"_posts/2015-12-04-truth-about-santa-claus.markdown"
-			],
-			[
-				"39cents",
-				"_posts/2014-10-15-39-cents-a-day.markdown"
-			],
-			[
-				"ruby",
-				"_posts/2015-10-13-problem-with-rubys-aws-sdk-v2.markdown"
-			],
-			[
-				"dictat",
-				"_posts/2016-01-30-dictate-your-book.md"
-			],
-			[
-				"typography",
-				"_sass/2015/_typography.scss"
 			]
 		],
 		"width": 0.0
@@ -1305,7 +1304,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 457.0,
+	"side_bar_width": 485.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

@@ -51,9 +51,6 @@ section#introduction p:first-child:first-letter { float: left; font-size: 3.1em;
   }
 }
 main {
-  background: #FFF;
-  @extend .z-depth-1;
-  @extend .container;
   padding: 0 0 1in 0;
   p a, ul a, ol a, blockquote a {
     text-decoration: underline;
@@ -177,4 +174,18 @@ h2 {
 }
 .highlighter-rouge {
   background: #DDD;
+}
+#post {
+  margin-top: -10%;
+  position: relative;;
+  article {
+
+    border-radius: 0.3em;
+    border: 1px solid #FFF
+    li {
+      margin-left: 1em;
+      list-style: disc;
+    }
+    header { padding: 0;}
+  }
 }

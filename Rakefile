@@ -25,6 +25,13 @@ require "date"
 Dir.glob("#{@task_dir}/*.rake").each { |r| import r }
 require 'ra11y'
 require 'html-proofer'
+task :deploy do 
+  Rake::Task["test"].execute
+  Rake::Task["firebird"].execute
+end
+task :firebase do
+  sh "firebase deploy"
+end
 task :test do
   
   sh "bundle exec jekyll build"
@@ -34,11 +41,6 @@ task :test do
         :href_ignore => ["#", "http://www.thedominoproject.com/"],
         :empty_alt_ignore => true
   }).run
- #  HTML::Proofer.new(
- #  	"./_site",
-	# :href_ignore => ["#", "http://www.thedominoproject.com/"],
-	# :empty_alt_ignore => true
- #  ).run
   Ra11y::Site.new("./_site").run
 end
 
