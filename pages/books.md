@@ -1,8 +1,9 @@
 ---
 permalink: /books/
-layout: wide
+layout: page
 title: 'Postal Marine Series'
 date: 2012-07-15 12:33
+main_nav: true
 ---
 
 {% assign books = site.books | sort: 'series' %}

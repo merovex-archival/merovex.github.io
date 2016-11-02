@@ -1,19 +1,46 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 title: Merovex Press
 email: dausha@gmail.com
-description: "Merovex Press is the website for Ben Wilson, author of the Postal Marine Series."
-baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://dausha.net" # the base hostname & protocol for your site
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+
+cdn_url: http://d1czp97ry8if6j.cloudfront.net
+
+theme: merovex
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
 url: http://www.dausha.net
 author: Ben Wilson
 twitter_username: merovex
-# github_username:  merovex
 google_plus_id: BenWilsonAuthor
 category_dir: /
 permalink: /:categories/:title/
 subscribe_rss: /atom.xml
-
-# theme: merovex
 
 location:
   city: Arlington
@@ -28,36 +55,7 @@ kramdown:
   syntax_highlighter_opts:
     disable: true
 
-paginate: 12          # Posts per page on the blog index
-paginate_path: "/blog/page:num"
-recent_posts: 9       # Posts in the sidebar Recent Posts section
-popular_posts_count: 9
-sass:
-    sass_dir: _sass
-gems:
-  - jekyll-sitemap
-  # - coderay
-  - jekyll-paginate
-  # - jemoji
-  # - jekyll-mentions
-  # - jekyll-redirect-from
-  - jekyll-sitemap
-  - jekyll-feed
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - Rakefile
-  - _config.yml
-  - _site
-  - _data
-  - config.ru
-  - vendor
-  - .sublime-workspace
-
-## Site Specific
-# cdn_url: https://s3.amazonaws.com/dausha
-cdn_url: http://d1czp97ry8if6j.cloudfront.net
 
 collections:
   books:
@@ -99,24 +97,3 @@ defaults:
     values:
       layout: post
       author: Ben Wilson
-
-social_amazon: http://amzn.to/1VwV58V
-social_facebook: http://on.fb.me/1M3gSiz
-social_feed: http://bit.ly/1Lrbjf0
-
-# Social sharing protocols
-# These are for automatically generating sharing metadata for FB and Twitter
-# OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
-protocols:
-    fb_page: "Ben-Wilson-Author-143743165675224"
-    fb_image: "https://s3.amazonaws.com/dausha/images/apple-touch-icon-120x120.png"
-    fb_app_id: "974042092652489"
-    fb_image_width: 300
-    fb_image_height: 300
-    fb_image_type: "image/jpg"
-
-    twitter_image: "assets/logo.png"
-
-    # os_repo: "https://github.com/RichardLitt/wordhoardpress.com"
-    # os_rcs_type: "git"
-    # os_src: "git@github.com:RichardLitt/wordhoardpress.com.git"
