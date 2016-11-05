@@ -44,3 +44,8 @@ blockquote {
     margin: 10px 0 0 0;
   }
 }
+.card {
+	&.large {
+		height: 618px;
+	}
+}
