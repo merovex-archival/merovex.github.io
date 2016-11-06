@@ -1,0 +1,88 @@
+---
+permalink: /term-term/
+layout: page
+title: Term Term
+comments: true
+sharing: true
+footer: true
+sidebar: true
+date: 2015-09-13 10:06
+modified_at: 2015-09-13 10:06
+created_at: 2015-09-13 10:06
+---
+
+<p>The <b>Term-Term</b> dictionary used to create this list comprises 
+<span id='aLen'>?????</span> adjectives and
+<span id='nLen'>?????</span> nouns; 
+<span id='tLen'>?????</span> possible permutations. Its source is Webster's Dictionary, 1913 edition.
+
+On page load, it shuffles both set of adjectives and nouns (deck of terms) using Fisher-Yates Shuffle methodology.
+Each list generation action takes the next set of terms off the top of the term deck, ensuring no term is repeated until the next page load.
+</p>
+
+<button class='btn' id='generate'>Generate</button>
+
+<p>There are <span id='r'>?????</span> Term-Terms left.</p>
+
+<div class='row'>
+  <div class='col s12 m6'>
+	<ol id='term-term'></ol>
+  </div>
+  <div class='col s12 m6' id='definitions'>
+  </div>
+
+</div>
+
+<script>
+	function commaed(x) {
+	    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+	}
+	var dictionary = {}
+	var nouns = [];
+	var adjs = [];
+	function shuffle (array) {
+	  var i = 0
+	    , j = 0
+	    , temp = null
+
+	  for (i = array.length - 1; i > 0; i -= 1) {
+	    j = Math.floor(Math.random() * (i + 1))
+	    temp = array[i]
+	    array[i] = array[j]
+	    array[j] = temp
+	  }
+	  return array;
+	}
+	function pize(d) {
+		return "<p>" + d.split("\n\n").join("</p><p>") + "</p>"
+	}
+	function definition(id) {
+	  $('.definition').hide();
+	  $(id).show();
+	}
+	function makeList() {
+		var list = ""
+		$('.tooltipped').tooltip({delay: 50, tooltip:"new",position:"right"});
+		definitions = "";
+		for (i=0; i<13; i++ ){
+			noun = nouns.shift()
+			adjective = adjs.shift()
+			list = list + "<li><a onclick=\"definition('#defn-"+i+"')\" href='#'>" + adjective["term"] +" "+ noun["term"] +"</a></li>"
+			definitions = definitions + "<div class='definition' id='defn-"+i+"'><div><b>"+adjective["term"]+"</b><p>"+pize(adjective['defn'])+"</p></div>"
+			definitions = definitions + "<div><b>"+noun["term"] +"</b><p>"+pize(noun['defn'])+"</p></div></div>"
+		}
+		$('#term-term').html(list)
+		$('#definitions').html(definitions)
+		$('#r').html(commaed(adjs.length))
+		$('.definition').hide();
+	}
+	$.getJSON('/dictionary.json').done(function(data) {
+		$('#nLen').html(commaed(data['nouns'].length))
+		$('#aLen').html(commaed(data['adjs'].length))
+		$('#tLen').html(commaed(data['nouns'].length * data['adjs'].length))
+        nouns = shuffle(data['nouns']);
+        adjs  = shuffle(data['adjs']);
+        makeList();
+    });
+    $('#generate').click(function(){ makeList(); })
+  </script>

@@ -1,0 +1,103 @@
+---
+layout: page
+title: "Contrastier: Color Contrast Analyzer"
+created_at: 2015-12-26 00:36
+permalink: /contrastier/
+comments: true
+sharing: true
+footer: true
+sidebar: true
+date: 2015-12-26 00:36
+modified_at: 2015-12-26 00:36
+---
+
+<h2>Color Form</h2>
+
+<form id='contrastier'>
+  <div class="form-group row">
+    <label for="foreground" class="col-sm-2 form-control-label">Foreground</label>
+    <div class="col-sm-3">
+      <input type="text" class="form-control" id="foreground" placeholder="(#000000)">
+    </div>
+    <div id='fBox' class='col-sm-1' style='border: 2px solid #444'>
+      &nbsp;
+    </div>
+    <div class='col-sm-6 btn-group'>
+      <a href='#' onclick="huey('foreground', 1); return false;" class='btn btn-info' id='lF'>Lighten</a>
+      <a href='#' onclick="huey('foreground', -1); return false;" class='btn btn-primary' id='dF'>Darken</a>
+      <a href='#' onclick="duey('foreground', 0); return false;" class='btn btn-warning'>AA</a>
+      <a href='#' onclick="duey('foreground', 1); return false;" class='btn btn-success'>AAA</a>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="background" class="col-sm-2 form-control-label">Background</label>
+    <div class="col-sm-3">
+      <input type="text" class="form-control" id="background" placeholder="(#FFDEAD)">
+    </div>
+    <div id='bBox' class='col-sm-1' style='border: 2px solid #444'>
+      &nbsp;
+    </div>
+    <div class='col-sm-6 btn-group'>
+      <a href='#' onclick="huey('background', 1); return false;" class='btn btn-info'>Lighten</a>
+      <a href='#' onclick="huey('background', -1); return false;" class='btn btn-primary'>Darken</a>
+      <a href='#' onclick="duey('background', 0); return false;" class='btn btn-warning'>AA</a>
+      <a href='#' onclick="duey('background', 1); return false;" class='btn btn-success'>AAA</a>
+    </div>
+  </div>
+    <div class="form-group row">
+    <label for="background" class="col-sm-3 form-control-label">Contrast Ratio</label>
+    <div class="col-sm-2">
+      <div class='input-group'>
+	      <input type="text" class="form-control" id="ratio" readonly aria-described-by='ratio-addon'>
+	      <span class="input-group-addon" id="ratio-addon">:1</span>
+      </div>
+    </div>
+  </div>
+</form>
+
+<h2>Results</h2>
+
+<table class='table'>
+	<thead>
+		<tr>
+			<th>Std</th>
+			<th>Text Size</th>
+			<th>Ratio</th>
+			<th>Pass/Fail</th>
+			<th>Text Samples</th>
+		</tr>
+	</thead>
+  <tbody>
+	<tr>
+	  <th rowspan="2" scope='col'>AA</th>
+	  <td>Large Text</td>
+	  <td>3:1</td>
+	  <td><span id='AA-large' class='btn btn-secondary'>EVAL</span></td>
+	  <td id='rSample' rowspan="2" width='50%'>
+		  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+	  </td>
+  </tr>
+  <tr>
+  	<td>Small Text</td>
+  	<td>4.5:1</td>
+  	<td><span id='AA-small' class='btn btn-secondary'>EVAL</span></td>
+	</tr>
+	<tr>
+	  <th rowspan="2" scope='col'>AAA</th>
+	  <td>Large Text</td>
+	  <td>4.5:1</td>
+	  <td><span id='AAA-large' class='btn btn-secondary'>EVAL</span></td>
+	  <td id='lSample' rowspan="2" width='50%' class='lead'>
+		  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+	  </td>
+  </tr>
+  <tr>
+  	<td>Small Text</td>
+  	<td>7:1</td>
+  	<td><span id='AAA-small' class='btn btn-secondary'>EVAL</span></td>
+	</tr>
+	</tbody>
+</table>
+
+<script src='/tinycolor.js'></script>
+<script src='/contrastier.js'></script>
