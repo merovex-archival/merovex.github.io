@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Merovex & Ben Wilson
-permalink: /about-ben-wilson/
+title: About
+permalink: /about/
 
 ---
 <!-- vogel-harvey-novak-cp-tot-trim -->

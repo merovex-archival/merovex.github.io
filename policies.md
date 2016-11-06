@@ -2,7 +2,7 @@
 layout: page
 title: "Permissions Policy"
 date: 2012-07-15 19:49
-permalink: /permissions/
+permalink: /policies/
 ---
 
 With the exception of "guest posts" written by others (see the bottom of this page) and content of other authors duly credited, I own the content on this Web site. It is copyrighted in my name. I want to strike the appropriate balance between getting my content widely distributed while at the same time protecting my intellectual property rights. Thanks in advance for your cooperation.

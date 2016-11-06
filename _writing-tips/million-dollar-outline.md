@@ -1,8 +1,6 @@
 ---
 title: Million Dollar Outlines
-created_at: 2015-01-14 21:00
 date: 2015-01-14 21:00
-modified_at: 2015-01-14 21:00
 ---
 
 These are my notes regarding the book *Million Dollar Outlines*, by David Farland.

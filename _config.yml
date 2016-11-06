@@ -55,6 +55,12 @@ collections:
   writing-tips:
     output: true
     permalink: /writing-tips/:path/
+  writing-a-novel-series:
+    output: false
+    permalink: /wans/:path/
+  writing-a-novel-series:
+    output: false
+    permalink: /sales/:path/
 
 summary:
   writing: "Writing describes my thoughts about the craft of writing."
@@ -77,6 +83,12 @@ defaults:
       editions:
         - Alpha
         - Beta
+  -
+    scope:
+      path: ""
+      type: "writing-a-novel-series"
+    values:
+      layout: page
   -
     scope:
       path: ""

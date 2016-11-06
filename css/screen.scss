@@ -27,6 +27,7 @@ $theme-colors: (
 #introduction p:first-child:first-letter { @extend .accent-color-text; }
 @import "screen";
 
+
 body {
 	background: #E0E0E0;
 }
@@ -54,5 +55,15 @@ h2 {
 .card {
 	&.large {
 		height: 618px;
+	}
+}
+#markdown-toc {
+	margin-left: 1em;
+	li {
+		list-style-type: disc;
+		margin-left: 1em;
+		ul, ol {
+			li { list-style-type: circle; }
+		}
 	}
 }

@@ -1,8 +1,6 @@
 ---
-layout: wide
 title: "Scene Calculator"
 date: 2012-03-08 21:08
-permalink: /w/writing-tools/scene-calculator/
 ---
 
 ## Contents
