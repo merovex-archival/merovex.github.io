@@ -1,1 +1,9 @@
-sales.md
+---
+title: "Sales Charts"
+permalink: /sales/
+layout: page
+---
+
+{% assign posts = site.sales-charts | sort: 'date' %}
+{% for post in posts %}
+1. [{{post.title}}]({{post.url}}){%endfor%}

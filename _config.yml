@@ -58,8 +58,8 @@ collections:
   writing-a-novel-series:
     output: false
     permalink: /wans/:path/
-  writing-a-novel-series:
-    output: false
+  sales-charts:
+    output: true
     permalink: /sales/:path/
 
 summary:
@@ -95,6 +95,12 @@ defaults:
       type: "writing-tips"
     values:
       layout: page
+  -
+    scope:
+      path: ""
+      type: "sales-charts"
+    values:
+      layout: sales-chart
   -
     scope:
       path: ""
