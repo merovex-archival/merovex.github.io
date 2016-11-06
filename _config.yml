@@ -16,7 +16,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 
-cdn_url: http://d1czp97ry8if6j.cloudfront.net
+cdn_url: https://d1czp97ry8if6j.cloudfront.net
 
 theme: merovex
 gems:

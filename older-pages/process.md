@@ -2,7 +2,7 @@
 layout: page
 title: "Book Production Process"
 date: 2014-11-29 10:14
-permalink: /book-production-process
+permalink: /book-production-process/
 ---
 
 ## Introduction
