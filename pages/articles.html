@@ -18,7 +18,7 @@ main_nav: true
           <h2>{{post.title}}</h2>
           <p>{{ post.content | split:"<!-- more -->" | first |markdownify }}</p>
           <div class="card-action white-text">
-            <a href="{{post.url}}" class='blue-text text-lighten-4'>Read more...</a>
+            <a href="{{post.url}}" class='btn waves-effect waves-light'>Read more...</a>
           </div>
         </div>
       </div>
@@ -32,7 +32,7 @@ main_nav: true
           <h3 class='white-text'>{{post.title}}</h3>
         </div>
         <div class="card-action white-text">
-          <a href="{{post.url}}" class='blue-text text-lighten-4'>Read more...</a>
+          <a href="{{post.url}}" class='btn waves-effect waves-light'>Read more...</a>
         </div>
       </div>{%endfor%}
     </div>

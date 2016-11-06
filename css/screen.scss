@@ -33,7 +33,9 @@ body {
 blockquote {
 	border-color: $accent-color;
 }
-
+.testimonial .card-content {
+	height: 3in;
+}
 #logo-container {
   fill: #d32f2f;
   &:hover, &:focus {
