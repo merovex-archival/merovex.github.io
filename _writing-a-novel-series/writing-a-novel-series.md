@@ -1,14 +1,6 @@
 ---
-permalink: /w/writing-a-novel-series/
-layout: page
 title: Writing a Novel Series
-comments: true
-sharing: true
-footer: true
-sidebar: true
 date: 2015-04-11 11:14
-modified_at: 2015-04-11 11:14
-created_at: 2015-04-11 11:14
 ---
 
 ## Contents

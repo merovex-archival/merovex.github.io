@@ -52,6 +52,9 @@ collections:
   books:
     output: true
     permalink: /korektu/:path/
+  writing-tips:
+    output: true
+    permalink: /writing-tips/:path/
 
 summary:
   writing: "Writing describes my thoughts about the craft of writing."
@@ -74,6 +77,12 @@ defaults:
       editions:
         - Alpha
         - Beta
+  -
+    scope:
+      path: ""
+      type: "writing-tips"
+    values:
+      layout: page
   -
     scope:
       path: ""
