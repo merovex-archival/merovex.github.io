@@ -61,6 +61,9 @@ collections:
   sales-charts:
     output: true
     permalink: /sales/:path/
+  writing-logs:
+    output: true
+    permalink: /writing-logs/:path/
 
 summary:
   writing: "Writing describes my thoughts about the craft of writing."
@@ -101,6 +104,12 @@ defaults:
       type: "sales-charts"
     values:
       layout: sales-chart
+  -
+    scope:
+      path: ""
+      type: "writing-logs"
+    values:
+      layout: writing-progress-chart
   -
     scope:
       path: ""
