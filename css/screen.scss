@@ -3,13 +3,16 @@
 # only Main files contain this front matter, not partials.
 ---
 @import "materialize-color";
-$primary-color: color("grey", "darken-4");
-$primary-color-light: lighten($primary-color, 15%);
-$primary-color-dark: darken($primary-color, 15%);
-$secondary-color: color("red", "lighten-1");
-$accent-color: #d32f2f;
+/*$primary-color: color("grey", "darken-4");*/
+$primary-color: #1b1a1d;
+$primary-color-light: lighten($primary-color, 50%);
+$primary-color-dark: #000;
+/*$secondary-color: color("red", "lighten-1");*/
+$secondary-color: #9D2235; 
+$secondary-color: #cc2d45;
+$accent-color: #cc4a2d;
 
-$success-color: color("green", "base");
+$success-color: #2b811c;
 $error-color: #d18c9d;
 $link-color: color("blue", "darken-1");
 
@@ -18,7 +21,9 @@ $theme-colors: (
 	"primary-color-light": 	$primary-color-light,
 	"primary-color-dark": 	$primary-color-dark,
 	"secondary-color": 		$secondary-color,
-	"accent-color": 		$accent-color
+	"accent-color": 		$accent-color,
+	'success-color':		$success-color,
+	'error-color':			$error-color
 );
 @each $color_name, $color_value in $theme-colors {
 	.#{$color_name} {background-color: $color_value !important; }
@@ -39,6 +44,7 @@ blockquote {
 }
 #logo-container {
   fill: #d32f2f;
+  fill: #cc2d45;
   &:hover, &:focus {
     fill: #ffcdd2;
   }
@@ -64,6 +70,14 @@ h2 {
 		margin-left: 1em;
 		ul, ol {
 			li { list-style-type: circle; }
+		}
+	}
+}
+main {
+	a {
+		text-decoration: underline;
+		&:hover {
+			background-color: color('yellow','lighten-1');
 		}
 	}
 }
