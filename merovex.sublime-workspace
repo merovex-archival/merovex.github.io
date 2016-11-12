@@ -411,25 +411,40 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
-		"/Users/bwilson/Sites/merovex.github.io/_includes",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/amcharts",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/amcharts/writing",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/email-campaign",
-		"/Users/bwilson/Sites/merovex.github.io/_sass",
-		"/Users/bwilson/Sites/merovex.github.io/_site/assets/js",
-		"/Users/bwilson/Sites/merovex.github.io/_site/sales",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-logs",
-		"/Users/bwilson/Sites/merovex.github.io/assets",
-		"/Users/bwilson/Sites/merovex.github.io/assets/js",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/layout",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_layouts",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_sass/materialize",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_sass/materialize/components",
-		"/Users/bwilson/Sites/merovex.github.io/older-pages/writing"
+		"/Users/bwilson/Sites/merovex.github.io/_old-pages/aria/ih",
+		"/Users/bwilson/Sites/merovex.github.io/_old-pages/aria/ih/actions",
+		"/Users/bwilson/Sites/merovex.github.io/_old-pages/aria/ih/tables",
+		"/Users/bwilson/Sites/merovex.github.io/_pages",
+		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_layouts"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/_pages/books.md",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/term-term.html",
+		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
+		"/Users/bwilson/Sites/merovex.github.io/data/uwp-translator.json",
+		"/Users/bwilson/Sites/merovex.github.io/wans.md",
+		"/Users/bwilson/Sites/merovex.github.io/_old-pages/aria/ih/index.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/uwp-translator.html",
+		"/Users/bwilson/Sites/merovex.github.io/writing-tips.md",
+		"/Users/bwilson/Sites/merovex.github.io/policies.md",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/astro-empires/small-fleet-doctrine.md",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/astro-empires/seven-ten-guide.md",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/astro-empires/production-structures.md",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/astro-empires/pring-construction-guide.md",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/astro-empires/napkin-combat.md",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/page.html",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/astro-empires/advanced-base-guide.md",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/astro-empires/base-defense-guide.md",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/astro-empires/index.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_layouts/single.html",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/sales.md",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/about.md",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/404.md",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/bullet-journal.md",
+		"/Users/bwilson/Sites/merovex.github.io/pages/bullet-journal.md",
+		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
+		"/Users/bwilson/Sites/merovex.github.io/f.rb",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/home.html",
 		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/layout/nav-menu.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/email-campaign/inline.html",
@@ -438,7 +453,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_writing-logs/2015-progress.md",
 		"/Users/bwilson/Sites/merovex.github.io/assets/js/writing-progress.amchart.js",
 		"/Users/bwilson/Sites/merovex.github.io/_writing-logs/2014-progress.md",
-		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/writing-progress-chart.html",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/sales-chart.html",
 		"/Users/bwilson/Sites/merovex.github.io/assets/js/sales-chart.amchart.js",
@@ -464,7 +478,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/pages/sitemap.md",
 		"/Users/bwilson/Sites/merovex.github.io/pages/permissions.md",
 		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/developing-characters.md",
-		"/Users/bwilson/Sites/merovex.github.io/wans.md",
 		"/Users/bwilson/Sites/merovex.github.io/index.md",
 		"/Users/bwilson/Sites/merovex.github.io/pages/about.md",
 		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/writing-a-novel-series.md",
@@ -480,7 +493,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/drafting-the-novel.md",
 		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/scene-calculator.md",
 		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/save-the-cat-tips.html",
-		"/Users/bwilson/Sites/merovex.github.io/writing-tips.md",
 		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/writing-standards.md",
 		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/million-dollar-outline.md",
 		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/snowflake-method.md",
@@ -496,7 +508,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/card/vertical.html",
 		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/card/sticky.html",
 		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/card/horizontal.html",
-		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
 		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/layout/footer.html",
 		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/js/footer.html",
 		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_sass/materialize/components/_modal.scss",
@@ -535,33 +546,11 @@
 		"/Users/bwilson/Sites/merovex.github.io/_drafts/github-or-bitbucket.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-10-15-copyright-response.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-05-21-copyright-work-product.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_books/scintilla.md",
-		"/Users/bwilson/Sites/merovex.github.io/_books/luctation.md",
-		"/Users/bwilson/Sites/merovex.github.io/_books/imbroglio.md",
-		"/Users/bwilson/Sites/merovex.github.io/_books/bellicose.md",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/korektu.html",
-		"/Users/bwilson/Sites/merovex.github.io/pages/korektu/thanks.md",
-		"/Users/bwilson/Sites/merovex.github.io/pages/korektu/bellicose.md",
-		"/Users/bwilson/Sites/merovex.github.io/pages/korektu/scintilla.md",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/book.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/booklink_group.html",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/page.html",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-07-03-its-not-really-three-acts.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-01-28-amazon-defines-novel-length.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/forms/mailchimp-full.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/social_networks.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/post_header.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/article_card.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/archive_post.html",
-		"/Users/bwilson/Sites/merovex.github.io/404.md",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/audible-2016.md",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/an-afternoon-on-ancestry.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-11-29-audible-2015.md",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/audible-2016.markdown"
+		"/Users/bwilson/Sites/merovex.github.io/_books/scintilla.md"
 	],
 	"find":
 	{
-		"height": 52.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -580,6 +569,28 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"m4",
+			"</div>\n    <div class='col s12 m8'>",
+			"form-group ",
+			"col-md-8",
+			"col-md-4",
+			"layout: page",
+			"Page",
+			"page",
+			" :",
+			"lsi",
+			" :",
+			":",
+			" :",
+			": ",
+			":",
+			"new_contents",
+			"bits[0]",
+			"40",
+			" # ",
+			":",
+			"shit",
+			":",
 			"}\n",
 			"col s12 m6",
 			"col-md-12",
@@ -685,29 +696,7 @@
 			"book.path",
 			"postal-marine-series",
 			"book['",
-			"Readme",
-			"###",
-			"[",
-			"/characters",
-			"highlighter",
-			"highlighter-rouge",
-			"\n",
-			"`",
-			"```",
-			"at: ",
-			"255",
-			"240",
-			"64",
-			"header",
-			"0",
-			".",
-			"15",
-			"_at: ",
-			"created_at: ",
-			", \ntag",
-			"2016-09-05 06:06:46",
-			"%2F",
-			"\\\""
+			"Readme"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -791,6 +780,34 @@
 		"selected_items":
 		[
 			[
+				"term",
+				"_pages/term-term.html"
+			],
+			[
+				"wans",
+				"wans.md"
+			],
+			[
+				"writing-ti",
+				"writing-tips.md"
+			],
+			[
+				"pol",
+				"policies.md"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"f",
+				"f.rb"
+			],
+			[
+				"config",
+				"_config.yml"
+			],
+			[
 				"home",
 				"_layouts/home.html"
 			],
@@ -815,10 +832,6 @@
 				"_config.yml"
 			],
 			[
-				"wans",
-				"wans.md"
-			],
-			[
 				"save",
 				"pages/writing/writing-tools/save-the-cat-tips.html"
 			],
@@ -837,10 +850,6 @@
 			[
 				"follow",
 				"pages/follow.md"
-			],
-			[
-				"gem",
-				"Gemfile"
 			],
 			[
 				"arti",
@@ -1281,26 +1290,6 @@
 			[
 				"postal-",
 				"pages/postal-marine-series/index.html"
-			],
-			[
-				"navigation",
-				"_includes/navigation.html"
-			],
-			[
-				"jonaldy",
-				"_posts/2015-08-23-jonaldy-ammonett.markdown"
-			],
-			[
-				"style",
-				"_sass/2015/_style.scss"
-			],
-			[
-				"machines",
-				"_posts/2014-11-02-machines-like-us.markdown"
-			],
-			[
-				"frag",
-				"_posts/2016-02-06-fragile-societies-resilient-citizens.markdown"
 			]
 		],
 		"width": 0.0
@@ -1331,7 +1320,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 468.0,
+	"side_bar_width": 348.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
