@@ -1,10 +1,13 @@
+---
+layout: null
+---
 { "data" : {
   "port" : {
     "A" : "has an Excellent Starport with shipyards able of handling Starships up to the Overhaul level, and provides <b>Refined</b> fuel",
     "B" : "has a Good Starport with shipyards able of handling Spacecraft up to the Overhaul level, and provides <b>Refined</b> fuel",
     "C" : "has a Routine Starport without shipyards, can perform Major repairs, and provides <b>Unrefined</b> fuel",
     "D" : "has a Poor Starport without shipyards, can perform Major repairs, and provides <b>Unrefined</b> fuel",
-    "E" : "has a frontier Starport without shipyards or repair facilities, and provides no fuel",
+    "E" : "has a Frontier Starport without shipyards or repair facilities, and provides no fuel",
     "F" : "has a Good Spaceport without shipyards, can perform Minor repairs, and provides <b>Unrefined</b> fuel",
     "G" : "has a Good Spaceport without shipyards, can perform Superficial repairs, and provides <b>Unrefined</b> fuel",
     "H" : "has a Primitive Spaceport without shipyards or repair facilities, and provides no fuel",
