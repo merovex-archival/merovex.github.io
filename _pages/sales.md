@@ -1,7 +1,6 @@
 ---
 title: "Sales Charts"
 permalink: /sales/
-layout: page
 ---
 
 {% assign posts = site.sales-charts | sort: 'date' %}

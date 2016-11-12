@@ -1,60 +1,109 @@
+#----------------------------------------
 # Site settings
-title: Merovex Press
-email: dausha@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Merovex Press is the website for Ben Wilson, author of the Postal Marine Series.
-description: ""
-baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://dausha.net" # the base hostname & protocol for your site
-url: http://www.dausha.net
-author: Ben Wilson
-twitter_username: merovex
+#----------------------------------------
+theme                     : merovex
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+title                     : Merovex Press
+description               : Merovex Press is the website for Ben Wilson, author of the Postal Marine Series.
+baseurl                   : "" 
+url                       : http://www.dausha.net
+cdn_url                   : https://d1czp97ry8if6j.cloudfront.net
 
-include: ["_pages"]
-cdn_url: https://d1czp97ry8if6j.cloudfront.net
+#----------------------------------------
+# Site Author
+#----------------------------------------
+author:
+  name                    : "Ben Wilson"
+  avatar                  : "/assets/images/bio-photo.jpg"
+  bio                     : "I am an amazing person."
+  location                : "Somewhere"
+  email                   : "dausha@gmail.com"
+  uri                     :
+  bitbucket               :
+  codepen                 :
+  dribbble                :
+  flickr                  :
+  facebook                :
+  foursquare              :
+  github                  :
+  google_plus             : BenWilsonAuthor
+  keybase                 :
+  instagram               :
+  lastfm                  :
+  linkedin                :
+  pinterest               :
+  soundcloud              :
+  stackoverflow           : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam                   :
+  tumblr                  :
+  twitter                 : merovex
+  vine                    :
+  weibo                   :
+  xing                    :
+  youtube                 :
 
-theme: merovex
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+subscribe_rss             : /atom.xml
 
-url: http://www.dausha.net
-author: Ben Wilson
-twitter_username: merovex
-google_plus_id: BenWilsonAuthor
-category_dir: /
-permalink: /:categories/:title/
-subscribe_rss: /atom.xml
+#----------------------------------------
+# Blog Category
+#----------------------------------------
+category_dir              : /
+permalink                 : /:categories/:title/
 
-location:
-  city: Arlington
-  state: Virginia
-  country: United States of America
+#----------------------------------------
+# Social Sharing
+#----------------------------------------
 
+#----------------------------------------
+# SEO Related
+#----------------------------------------
+google_site_verification  :
+bing_site_verification    :
+alexa_site_verification   :
+yandex_site_verification  :
+
+#----------------------------------------
 # Build settings
-markdown: kramdown
+# - Conversion
+# - Markdown Processing
+#----------------------------------------
+
+# highlighter               : rouge
+markdown                  : kramdown
+lsi                       : false
+excerpt_separator         : "\n\n"
+incremental               : false
+
+# Markdown Processing
 kramdown:
-  input: GFM
-  hard_wrap: false
+  input                   : GFM
+  hard_wrap               : false
+  auto_ids                : true
+  footnote_nr             : 1
+  entity_output           : as_char
+  toc_levels              : 2..4
+  smart_quotes            : lsquo,rsquo,ldquo,rdquo
   syntax_highlighter_opts:
-    disable: true
+    disable               : true
 
+#----------------------------------------
+# Analytics
+#----------------------------------------
+analytics:
+  provider                : false # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id           :
 
-
+#----------------------------------------
+# Collections
+#----------------------------------------
 collections:
   books:
     output: true
     permalink: /korektu/:path/
   writing-tips:
     output: true
-    permalink: /writing-tips/:path/
+    permalink: /:collection/:path/
   writing-a-novel-series:
     output: false
     permalink: /wans/:path/
@@ -63,16 +112,26 @@ collections:
     permalink: /sales/:path/
   writing-logs:
     output: true
-    permalink: /writing-logs/:path/
-
-summary:
-  writing: "Writing describes my thoughts about the craft of writing."
-  diary: "The Diary are things going on in my writing or life that I just felt like sharing."
-  postal marine series: "Stuff."
-  technology: "Technology covers my thoughts on technology, either writing or otherwise."
-  vw beetle: "The VW Beetle category covers my personal interest in an iconic automobile."
+    permalink: /:collection/:path/
 
 defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      author_profile: true
   -
     scope:
       path: ""
@@ -124,3 +183,57 @@ defaults:
     values:
       layout: post
       author: Ben Wilson
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - "*.json"
+  - .travis.yml
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+#----------------------------------------
+# Plugins
+#----------------------------------------
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
