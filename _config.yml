@@ -15,7 +15,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-
+include: ["_pages"]
 cdn_url: https://d1czp97ry8if6j.cloudfront.net
 
 theme: merovex
