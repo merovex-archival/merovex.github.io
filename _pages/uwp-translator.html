@@ -1,10 +1,7 @@
 ---
-layout: page
+permalink: "/tools/uwp"
 title: "Universal World Profile (UWP) Translator"
 date: 2014-02-15 15:36
-comments: true
-sharing: true
-footer: true
 ---
 
 <form id='uwp-translator' method='post'>
@@ -35,7 +32,7 @@ footer: true
 <script type='text/javascript'>
 
   var uData;
-  $.getJSON("/pages/uwp-translator/data.json", function(data) {uData = data["data"]; });
+  $.getJSON("/data/uwp-translator.json", function(data) {uData = data["data"]; });
   $("#uwp").focus();
   $('#uwp').keyup(function(event){ translateUWP(); }); translateUWP();
 

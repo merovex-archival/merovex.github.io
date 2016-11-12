@@ -54,7 +54,7 @@ There are six aspects (
   Prevention,
   Tradition,
   Stagnation, and
-  Revolution/),
+  Revolution),
 which are specifically associated with a goal (e.g. Acquisition: Wealth/).[^Aspects]
 
 A Society's **Interaction** describes its diplomatic economic, military, scientific or social interaction with other societies.[^Interaction] By contrast, a Society's **Isolation** describes how difficult it is for other Societies (and people/) to access its physical territory.[^Isolation] Barriers may be natural or artificial. A highly Interactive Society may work hard to overcome its high Isolation, or a low Isolation, low Interactive Society may work to increase its isolation by adding artificial barriers (e.g. Great Wall of China/).

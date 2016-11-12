@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Permissions Policy"
 date: 2012-07-15 19:49
 permalink: /policies/

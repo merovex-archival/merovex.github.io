@@ -130,7 +130,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: page
+      layout: single
       author_profile: true
   -
     scope:
@@ -150,13 +150,13 @@ defaults:
       path: ""
       type: "writing-a-novel-series"
     values:
-      layout: page
+      layout: single
   -
     scope:
       path: ""
       type: "writing-tips"
     values:
-      layout: page
+      layout: single
   -
     scope:
       path: ""
@@ -188,6 +188,7 @@ defaults:
 include:
   - .htaccess
   - _pages
+  - data
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

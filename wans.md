@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Writing a Novel Series"
 date: 2016-11-06 15:44:40
 permalink: /wans/

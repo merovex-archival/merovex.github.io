@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Writing Tips"
 date: 2016-11-06 15:36:31
 permalink: /writing-tips/
