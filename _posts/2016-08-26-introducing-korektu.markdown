@@ -19,7 +19,7 @@ created_at: 2016-08-26 10:31:07
 modified_at: 2016-08-26 10:31:07
 ---
 
-A friend of mine recently said I had a very elaborate toolchain. This is a polite way of saying it rivals [Rube Goldberg](https://www.rubegoldberg.com/artwork/automatic-blotter/?c=45)'s inventions. Be that as it may, I would like to share how a self-publisher can manage reader feedback when there are problems found in their books using a private GitHub repository. I call it **Korektu**.
+A friend of mine recently said I had a very elaborate toolchain. This is a polite way of saying it rivals Rube Goldberg's inventions. Be that as it may, I would like to share how a self-publisher can manage reader feedback when there are problems found in their books using a private GitHub repository. I call it **Korektu**.
 
 <!-- more -->
 

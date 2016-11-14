@@ -10,8 +10,7 @@ title: Looking Back on 2014
 created_at: 2014-12-20 13:05
 modified_at: 2014-12-20 13:05
 published_at: 2014-12-20 13:05
-date: 2014-12-20 13:05:05.000000000 -05:00
-image: 6222335233_351df8ec41_b.jpg
+date: 2014-12-20 13:05:05
 category: Diary
 keywords: writing, plan, goals
 description: When the day is at its shortest, it's time to look back at last year's progress. I accomplished more than I thought, but less than I had hoped.
@@ -24,7 +23,7 @@ When the day is at its shortest, it's time to look back at last year's progress.
 
 ## Progress in 2014
 
-In my [Gutsy Year](/articles/a-gutsy-year) article, I observed that I posted once in 2013. I've posted over twenty times in 2014. One article every three weeks seemed to make sense, and yet I pulled out nearly one every-other week.
+In my [Gutsy Year](/diary/a-gutsy-year) article, I observed that I posted once in 2013. I've posted over twenty times in 2014. One article every three weeks seemed to make sense, and yet I pulled out nearly one every-other week.
 
 The table below shows the change in progress in 2014.
 
@@ -49,4 +48,4 @@ The table below shows the change in progress in 2014.
 
 ## Plans for 2015?
 
-I started writing this article in November, when I started putting together my [2015 writing goals](/articles/writing-goals-for-2015/). I set it at 100 <abbr title='kilowords or thousand words'>kwords</abbr>. However, while looking over my past year, I ran across my article on [revising my 2014 writing goal](/articles/july-lessons-in-transition/). In that article, I mentioned setting a three-year goal of four books. That goal requires a writing pace of about 110 kwords, or 300 <abbr title='Words per Day'>wpd</abbr>. Since I stated a four-in-three goal earlier, and the difference is a scant 10 kwords, I will try to stick to that goal.
+I started writing this article in November, when I started putting together my [2015 writing goals](/diary/writing-goals-for-2015/). I set it at 100 <abbr title='kilowords or thousand words'>kwords</abbr>. However, while looking over my past year, I ran across my article on [revising my 2014 writing goal](/diary/july-lessons-in-transition/). In that article, I mentioned setting a three-year goal of four books. That goal requires a writing pace of about 110 kwords, or 300 <abbr title='Words per Day'>wpd</abbr>. Since I stated a four-in-three goal earlier, and the difference is a scant 10 kwords, I will try to stick to that goal.

@@ -43,7 +43,7 @@ What is an author's work product? Examples of your work product would include th
 * Earlier drafts
 * Electronic correspondance with editors, beta readers, etc. (FB, Twitter, email)
 
-This list is not exhaustive but meant to help you as an author realize that all you do to support creating your publishable work help establish your original, creative role in that work. All of these materials are things a normal author produces in the normal course of creating a novel. For me, the byproducts of the [Snowflake Method](/w/writing-tools/snowflake-method/) seems to lend itself naturally to an author's work product. An interesting wrinkle is even these work products are covered by your copyright under US Federal Copyright Law.
+This list is not exhaustive but meant to help you as an author realize that all you do to support creating your publishable work help establish your original, creative role in that work. All of these materials are things a normal author produces in the normal course of creating a novel. For me, the byproducts of the [Snowflake Method](/writing-tips/snowflake-method/) seems to lend itself naturally to an author's work product. An interesting wrinkle is even these work products are covered by your copyright under US Federal Copyright Law.
 
 As an author, you should always be in a better position to demonstrate an author's work product than the infringer. It stands to reason that if you had to stack your work product against another's, it should it show how you developed an idea and crafted a work. You've put work into it and the infringer had not.
 

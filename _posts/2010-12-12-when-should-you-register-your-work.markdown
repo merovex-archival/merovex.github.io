@@ -57,6 +57,6 @@ I have been told some publishers will steer clear of authors who register the wo
 
 My perspective is: *your work is already protected*. Registration is applied to a *finished* work---which won't happen until the very end of a time consuming effort with a publisher (even if you're self-publishing, draft to proof is no fewer hours). If you're still looking for an agent or publisher, the book is far from finished. Understand? In my opinion, it's putting the cart before the horse in the eyes of a publishing professional.
 
-Registered copyright also helps with takedown requests. When an infringer publishes your site on the Internet, then you can request the web host provider to take down the content. To do so, you may be required to prove you were the copyright holder. Registration makes this easier. In a follow-up article, I will share [how I protect my copyright](/articles/how-i-protect-my-copyright/).
+Registered copyright also helps with takedown requests. When an infringer publishes your site on the Internet, then you can request the web host provider to take down the content. To do so, you may be required to prove you were the copyright holder. Registration makes this easier. In a follow-up article, I will share [how I protect my copyright](/writing/how-i-protect-my-copyright/).
 
 When to register your copyright is a matter to be discussed between you and your attorney. I personally think we authors rush to register too soon. What do you think?

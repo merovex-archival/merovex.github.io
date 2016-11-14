@@ -1,8 +1,7 @@
 ---
-layout: page
 title: "Hays Code"
 date: 2012-03-10 13:25
-permalink: /xresources/hays-code/
+permalink: /hays-code/
 ---
 On their part, they ask from the public and from public leaders a sympathetic understanding of their purposes and problems and a spirit of cooperation that will allow them the freedom and opportunity necessary to bring the motion picture to a still higher level of wholesome entertainment for all the people.
 

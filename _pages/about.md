@@ -18,7 +18,7 @@ Ben Wilson is a science fiction writer, husband, father, project manager, lover 
 
 ### Ben in 50-ish Words
 
-Ben Wilson is a science fantasy writer. He’s into history, human nature and religious studies. He is the author of the [Postal Marine Series](/postal-marine-series), though he eventually wants to write four novel series. His books are avalable on [Amazon](http://www.amazon.com/Ben-Wilson/e/B001JSB9SY) Ben lives in Arlington, Virginia with his wife three children, and Milo the friendly cat. 
+Ben Wilson is a science fantasy writer. He’s into history, human nature and religious studies. He is the author of the [Postal Marine Series](/books), though he eventually wants to write four novel series. His books are available on [Amazon](http://www.amazon.com/Ben-Wilson/e/B001JSB9SY) Ben lives in Arlington, Virginia with his wife three children, and Milo the friendly cat. 
 
 ### Why I write
 

@@ -24,7 +24,7 @@ A few months back I talked about building a Voice-Over booth. After much researc
 
 <!-- more -->
 
-It started with an ambitious plan to [add audio recordings](/articles/so-im-building-a-vo-sound-booth/) to my novels. Then I [whittled the plan back](/articles/so-im-building-a-vo-sound-booth-2/) a bit in late August. Why would I do such a thing? Because there are many people who lack time for reading (I'm one of them). There are also many people who are visually impaired such that they cannot read. So Audible sounded like a great idea.
+It started with an ambitious plan to [add audio recordings](/technology/so-im-building-a-vo-sound-booth/) to my novels. Then I [whittled the plan back](/technology/so-im-building-a-vo-sound-booth-2/) a bit in late August. Why would I do such a thing? Because there are many people who lack time for reading (I'm one of them). There are also many people who are visually impaired such that they cannot read. So Audible sounded like a great idea.
 
 Hubris set in, and I thought I could build my own booth. I figured, "Heck, I can learn this. After all, it's just talking, right?" Over the past two weeks, I had three encounters that had me think differently. I'll list them in reverse order of importance.
 

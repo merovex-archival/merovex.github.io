@@ -10,7 +10,7 @@ All authors have delusions. We believe our writing is better or worse than it is
 
 ## Hays Code
 
-The general purpose of the *[Hays Code](/resources/hays-code)* was to ensure that cinema would not debase the moral standards of its audience. The sympathy of the audience should never side with crime, wrongdoing, evil or sin. Correct standards of life and lawful behavior should be lauded. Wrong behavior and lawlessness should have consequences.
+The general purpose of the *[Hays Code](/hays-code/)* was to ensure that cinema would not debase the moral standards of its audience. The sympathy of the audience should never side with crime, wrongdoing, evil or sin. Correct standards of life and lawful behavior should be lauded. Wrong behavior and lawlessness should have consequences.
 
 ## Dove Content Standards
 

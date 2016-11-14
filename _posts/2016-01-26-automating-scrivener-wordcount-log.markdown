@@ -26,7 +26,7 @@ Recently, Jamie Rubin talked about [using GitHub as an author](http://www.jamier
 
 A lot of people think of GitHub as a tool for geeks. While that may be true, there are a lot of things you can do that are not technologically related. For example, the [Github Services team uses GitHub](https://github.com/blog/2093-how-the-services-team-uses-github). As an organization, GitHub is committed to keeping all relevant organizational learning in their own tool.
 
-Authors don't have to be technology geeks, but it helps. As I [abandon my old toolchain](/diary/going-back-to-scrivener/), I found myself wondering how I was going to maintain my [online progress logs](/logs/2016-progress/)...or as [2015 showed](/logs/2015-progress/), lack of progress.
+Authors don't have to be technology geeks, but it helps. As I [abandon my old toolchain](/diary/going-back-to-scrivener/), I found myself wondering how I was going to maintain my online progress logs...or as [2015 showed](/writing-logs/2015-progress/), lack of progress.
 
 My [old toolchain](/technology/toolchain/) comprised a self-authored Ruby gem I called Bookmaker, which ultimately reflects that you can waste more time tinkering with your tools than you can crafting. I started to re-engineer Bookmaker before the challenge. It was "easy" to get the data: I would iterate over the LaTeX files in the target directory, run `detex` on each file and pipe to `wc`, and sum the total. Then I would add that data to a JSON file that feeds my progress logs. The next time I committed a change to this website, those logs would be published.
 

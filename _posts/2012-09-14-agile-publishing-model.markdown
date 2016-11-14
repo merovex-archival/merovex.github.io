@@ -34,7 +34,7 @@ The Agile Publishing Model is a fast-to-market publishing model, which allows fo
 
 Pragmatic Bookshelf involves the reader as soon as there's something to read, and develops from there. Fiction might involve readers after the first draft, or preferably after the first rewrite. Readers could offer errata and comment on problems in the book the author might miss. Thanks to epublishing, this benefit can extend beyond the initial publication, errata can be addressed and pushed to readers past and future.
 
-My novel [Scintilla](/postal-marine-series/#Scintilla) was published Fall 2011. I'm still receiving primary readership from my acquaintance-base. I've received positive feedback about the story (for the most part) but not so positive feedback on the editing. After three re-writes and friends helping copy-edit, the work is still riddled with errors. Perhaps the Agile Publishing Model might help? I've been told Eragon was initially created under a similar approach.
+My novel [Scintilla](/books/#Scintilla) was published Fall 2011. I'm still receiving primary readership from my acquaintance-base. I've received positive feedback about the story (for the most part) but not so positive feedback on the editing. After three re-writes and friends helping copy-edit, the work is still riddled with errors. Perhaps the Agile Publishing Model might help? I've been told Eragon was initially created under a similar approach.
 
 The question is whether the author is a mooch for asking his readers to help? It enables passionate reader involvement, perhaps a positive comment in acknowledgments. An author might offer the book for less, as a way of showing appreciation, or by giving that reader a later novel gratis.
 

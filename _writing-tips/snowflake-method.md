@@ -3,7 +3,7 @@ title: "Snowflake Method for Series Development"
 date: 2014-01-21 12:57
 ---
 
-Let me start by saying I did not create the Snowflake Method. It was developed by [Randy Ingermanson](http://www.advancedfictionwriting.com/articles/snowflake-method/) as a way to iteratively develop a novel from the top down. It's a narrative outline approach. It has ten steps for design, which I have adapted to [writing a larger series](/articles/heroes-for-more-than-one-season). I list a summary of the steps below, but really think you should check out Randy's site for his portion.
+Let me start by saying I did not create the Snowflake Method. It was developed by [Randy Ingermanson](http://www.advancedfictionwriting.com/articles/snowflake-method/) as a way to iteratively develop a novel from the top down. It's a narrative outline approach. It has ten steps for design, which I have adapted to [writing a larger series](/writing/heroes-for-more-than-one-season). I list a summary of the steps below, but really think you should check out Randy's site for his portion.
 
 ## Snowflake Applied to a Series
 
@@ -19,7 +19,7 @@ A few steps are all that changes Snowflake from a novel-writing approach to a se
 
 This is an iterative process with a feedback loop. You start on at the first step then progress. When you find you need to go back to an earlier step, then do it, and iterate back through.
 
-1. **Tagline.** Write a one-sentence tagline of your story. Twenty words or less, generic. Check out the [New York Times Best Seller List](http://www.nytimes.com/best-sellers-books/hardcover-fiction/list.html), even if it's a rigged system. (1 Hour)
+1. **Tagline.** Write a one-sentence tagline of your story. Twenty words or less, generic. Check out the [New York Times Best Seller List](http://www.nytimes.com/books/best-sellers/hardcover-fiction/), even if it's a rigged system. (1 Hour)
 2. **Story Summary.** Expand that one sentence to a paragraph using the "three disasters plus ending" as your guide. That is, write a four-sentence paragraph. Each sentence corresponds to an act (since I favor the four-act structure). (1 Hour)
 3. **Character Sketch.** One-page summary of your character, showing the inner quality. I like to think of an actor for the physical description, though any actor famous today would unlikely be in anything I write. It's just helpful. (1 Hour each)
 4. **Story Synopsis.** Expand the paragraph in #2 above by turning each sentence into its own paragraph. This will get you to a one-page summary. (1 Hour)

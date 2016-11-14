@@ -1,4 +1,5 @@
 ---
+title: Bullet Journal
 permalink: /bullet-journal/
 date: 2016-11-08 20:26:50
 ---
