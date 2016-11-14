@@ -1,11 +1,8 @@
 ---
-layout: page
-title: moral premise
-sidebar: true
+title: Moral Premise
 date: 2015-02-16 13:46
 modified_at: 2015-02-16 13:46
 created_at: 2015-02-16 13:46
-permalink: /moral-premise/
 ---
 
 These are my notes regarding the book *Moral Premise*, by Stan Williams. The story of a novel is the inner conflict between two conflicting values, such as:
@@ -13,7 +10,9 @@ These are my notes regarding the book *Moral Premise*, by Stan Williams. The sto
 * Self-respect v. self-destruction
 * Independence v. Dependence
 
-**General Form of the Moral Premise**
+## Moral Premise Forms
+
+### General Form of the Moral Premise
         
 (In Comedy)
 
@@ -28,7 +27,7 @@ These are my notes regarding the book *Moral Premise*, by Stan Williams. The sto
 > Although the Bond character may not journey through a redemptive arc, the movies still communicate a clear theme that could be stated this way: **The pursuit of power leads to death and defeat; while The pursuit of justice leads to life and success.**
 
 
-**Formal Structure of a Moral Premise**
+### Formal Structure of a Moral Premise
 
 * [Vice] leads to [defeat], but [Virtue] leads to [success].
 
@@ -40,38 +39,44 @@ These are my notes regarding the book *Moral Premise*, by Stan Williams. The sto
 
 In essence, that is what this book is attempting to do — to explain one of the natural laws of storytelling — the natural law of the Moral Premise. With that, let me introduce the form of the Moral Premise, its natural law, and three corollaries. When applied together they give a work the best possible foundation for box office success.
 
-<table class='table'>
+<table>
+    <thead>
+      <tr>
+        <th scope='col'>Rule</th>
+        <th scope='col'>Impact</th>
+      </tr>
+    </thead>
+    <tbody>
     <tr>
-        <td><strong>Natural Law of the Moral Premise</strong></td>
+        <th scope='row'>Natural Law of the Moral Premise</th>
         <td>A story’s consistent application of a true Moral Premise improves success.</td>
     </tr>
     <tr>
-        <td><strong>Corollary A</strong></td>
+        <th scope='row'>Corollary A</th>
         <td>A story’s inconsistent application of a true Moral Premise will lead to a work’s demise.</td>
     </tr>
     <tr>
-        <td><strong>Corollary B</strong></td>
+        <th scope='row'>Corollary B</th>
         <td>Any application of a false Moral Premise will lead to a work’s demise.</td>
     </tr>
     <tr>
-        <td><strong>Corollary C</strong></td>
+        <th scope='row'>Corollary C</th>
         <td>The target audience determines the truth of the Moral Premise.</td>
     </tr>
+    </tbody>
 </table>
 
 Comedy v. tragedy. In comedy, the hero uses the Moment of Grace to accept the truth of the Moral Premise. In tragedy, the hero refuses the truth presented in the Moment of Grace.
 
-## Identification Pattern
+### Identification Pattern
 
 1. Audience recognizes that natural law contains a system of moral absolutes
 2. Moral choices have a consequence consistent with natural law.
 3. Suffering, which is a consequence of natural law, can lead to purpose and hope.
 
- 
+## Format for stating the Moral Premise
 
-## Format for stating the Moral Premise:
-
-The Moral Premise comprises four parts: a virtue, a vice, desirable consequences (success), and undesirable consequences (defeat). These four parts can be used to create a statement that describes precisely what a movie is really about, on both physical and psychological levels. The Theme is the shorthand descriptionof the Moral Premise.
+The Moral Premise comprises four parts: a virtue, a vice, desirable consequences (success), and undesirable consequences (defeat). These four parts can be used to create a statement that describes precisely what a movie is really about, on both physical and psychological levels. The Theme is the shorthand description of the Moral Premise.
 
 This is the formal structure of a Moral Premise:
 
@@ -111,12 +116,16 @@ The Moral Premise statement must be a natural law, an absolute truth. It must be
 **Step 8. Sequence the Dramatic Beats.**  If you have completed the Arc Plots for seven characters, and each character has three goals (one major, and two minor), you will have described no less than 63 major dramatic beats. 103 That will probably be too much to cram into a 90-minute or even two-hour movie. You might want to consider giving your "lesser" main characters only one goal at first. (p. 137)
 
 ## Plot
-<table class='table'>
+
+<table>
+    <thead>
     <tr>
-        <th>#</th>
-        <th class='col-md-4'>Scene</th>
-        <th>What's Happening</th>
+        <th scope='col'>#</th>
+        <th scope='col' class='col m4'>Scene</th>
+        <th scope='col'>What's Happening</th>
     </tr>
+    </thead>
+    <tbody>
     <tr>
         <td>1.</td>
         <td>1A</td>
@@ -171,18 +180,22 @@ The Moral Premise statement must be a natural law, an absolute truth. It must be
         <td>Tie together the loose ends, and find a way to state the Moral Premise visually and, if necessary, in succinct dialog. This is where you can tell the audience what the movie was really all about.
         </td>
     </tr>
+    </tbody>
 </table>
 
 ## Tables
 
 ### Good Guy Arc Plots
 <table class='table'>
+    <thead>
     <tr>
         <th>A<br />Character Name</th>
         <th>B<br />Behavior Before<br />(Vice Practiced Before)</th>
         <th>C<br />Change Event<br />(Moment of Grace)</th>
         <th>D<br />Behavior After<br />(Virtue Practiced)</th>
     </tr>
+    </thead>
+    <tbody>
     <tr>
         <td>Career Goal (Describe)</td>
         <td>In striving toward a career goal (character) practices (vice) and experiences (defeat).</td>
@@ -196,45 +209,51 @@ The Moral Premise statement must be a natural law, an absolute truth. It must be
         <td>In striving toward family goal, (character) practices (virtue) and experiences (success).</td>
     </tr>
     <tr>
-        <td>Career Goal (Describe)</td>
+        <td>Personal Goal (Describe)</td>
         <td>In striving toward a personal goal (character) practices (vice) and experiences (defeat).</td>
         <td>In the personal subplot, describe how (character) is offered a choice between (vice) and (virtue) and embraces (virtue).</td>
         <td>In striving toward personal goal, (character) practices (virtue) and experiences (success).</td>
     </tr>
+    </tbody>
 </table>
 
 ### Bad Guy Arc Plots
 <table class='table'>
+    <thead>
     <tr>
-        <th>A<br />Character Name</th>
-        <th>B<br />Behavior Before<br />(Vice Practiced Before)</th>
-        <th>C<br />Change Event<br />(Moment of Grace)</th>
-        <th>D<br />Behavior After<br />(Virtue Practiced)</th>
+        <th scope='col'>A<br />Character Name</th>
+        <th scope='col'>B<br />Behavior Before<br />(Vice Practiced Before)</th>
+        <th scope='col'>C<br />Change Event<br />(Moment of Grace)</th>
+        <th scope='col'>D<br />Behavior After<br />(Virtue Practiced)</th>
     </tr>
-    <tr>
+    </thead>
+    <tbody>
+    <tr class='row'>
         <td>Career Goal (Describe)</td>
         <td>In striving toward a career goal (character) practices (vice) and experiences (defeat).</td>
         <td>In the career subplot, describe how (character) is offered a choice between (vice) and (virtue) and embraces (vice).</td>
         <td>In striving toward career goal, (character) practices (greater vice) and experiences (defeat).</td>
     </tr>
-    <tr>
+    <tr class='row'>
         <td>Family Goal (Describe)</td>
         <td>In striving toward a career goal (character) practices (vice) and experiences (defeat).</td>
         <td>In the family/group subplot, describe how (character) is offered a choice between (vice) and (virtue) and embraces (vice).</td>
         <td>In striving toward family goal, (character) practices (greater vice) and experiences (defeat).</td>
     </tr>
-    <tr>
-        <td>Career Goal (Describe)</td>
+    <tr class='row'>
+        <td>Personal Goal (Describe)</td>
         <td>In striving toward a personal goal (character) practices (vice) and experiences (defeat).</td>
         <td>In the personal subplot, describe how (character) is offered a choice between (vice) and (virtue) and embraces (vice).</td>
         <td>In striving toward personal goal, (character) practices (greater vice) and experiences (defeat).</td>
     </tr>
+    </tbody>
 </table>
 
 ### Virtue-Vice Pairs
 
 <table class='table table-condensed'>
-    <tr><th>Virtues</th><th>Vices</th></tr>
+    <thead><tr><th scope='col'>Virtues</th><th scope='col'>Vices</th></tr></thead>
+    <tbody>
     <tr><td>Friendship</td><td>Betrayal</td></tr>
     <tr><td>Loyalty</td><td>Abandonment</td></tr>
     <tr><td>Fidelity</td><td>Unfaithfulness</td></tr>
@@ -252,6 +271,7 @@ The Moral Premise statement must be a natural law, an absolute truth. It must be
     <tr><td>Cleverness</td><td>Rashness</td></tr>
     <tr><td>Unity</td><td>Division</td></tr>
     <tr><td>Freedom</td><td>Imprisonment</td></tr>
+    </tbody>
 </table>
 
 ### George Polti’s 36 Dramatic Situations
