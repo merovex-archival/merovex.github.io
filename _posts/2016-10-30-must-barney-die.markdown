@@ -17,7 +17,7 @@ created_at: 2016-10-30 09:14:29
 modified_at: 2016-10-30 09:14:29
 ---
 
-I've had a lot of stressful situations in my life. On of the more stressful was the finals period for the first semester of law school. What I love about most of law school is the lack of *real* homework, and the entire grade riding on the final. But nothing is more stressful than being left to your own devices. The first-semester Legal Research professor was a smart ass, and my break point was on the paper that was due in his class. I decided to give him a dose of his own medicine.
+I've had a lot of stressful situations in my life. One of the more stressful was the finals period for the first semester of law school. What I love about most of law school is the lack of *real* homework, and the entire grade riding on the final. But nothing is more stressful than being left to your own devices. The first-semester Legal Research professor was a smart ass, and my break point was on the paper that was due in his class. I decided to give him a dose of his own medicine.
 
 <!-- more -->
 

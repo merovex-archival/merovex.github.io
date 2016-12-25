@@ -1,7 +1,0 @@
-<section id='introduction' class='flow-text col s12 m10 offset-m1 l8 offset-l2'>
-{{ page.content | split:"<!-- more -->" | first |markdownify }}
-</section>
-<section id='body' class='col s12 m10 offset-m1 l8 offset-l2'>
-{% if page.legal %}{% include legal-disclaimer.html %}{%endif%}
-{{ page.content | split:"<!-- more -->" | last |markdownify }}
-</section>

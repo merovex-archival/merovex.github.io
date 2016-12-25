@@ -1,0 +1,43 @@
+---
+layout: page
+comments: false
+sharing: false
+footer: false
+sidebar: false
+---
+{% include amcharts/scripts.html %}
+
+{{ content }}
+
+
+<div class='row'>
+    <div class='col s12'>
+        <h2>Daily Chart</h2>
+        <p>This chart shows the daily progress (bars) and the running daily average</p>
+    </div>
+</div>
+<div class='row'> <div id="chart-daily" style="height: 500px;" class='col s12'></div> </div>
+
+<div class='row'>
+    <div class='col s12'>
+        <h2>Cumulative Chart</h2>
+        <p>This chart shows the cumulative sales through the year.</p>
+    </div>
+</div>
+<div class='row'> <div id='chart-cumulative' style='height: 500px'></div></div>
+
+<script src='/assets/js/sales-chart.amchart.js' type='text/javascript'></script>
+<script type="text/javascript">
+var chart;
+var chartData;
+var arrow;
+var axis;
+$.getJSON("/data/sales-{{page.date| date: '%Y'}}.json", function(data) {
+    chartData = data["data"];
+    today = data["today"];
+    start = data["start"];
+    average = data["average"];
+    max = data["max"];
+    period = data["period"];
+});
+</script>

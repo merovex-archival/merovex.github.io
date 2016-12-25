@@ -23,7 +23,7 @@ One of my favorite quotes is "Life is what happens while you're busy making othe
 
 <!-- more -->
 
-I [mentioned before](/articles/memories-of-a-vw-bug-roadtrip/) that I've owned a couple VW Beetles: a 1972 Super Beetle and a 1969 Beetle. I gave away the Beetle in 1999. Ever since then, I've wished I had not. There was an older Beetle in the neighborhood that was slowly rusting away. I never had the courage to ask the owner if they would part with it.
+I [mentioned before](/vw-beetle/memories-of-a-vw-bug-roadtrip/) that I've owned a couple VW Beetles: a 1972 Super Beetle and a 1969 Beetle. I gave away the Beetle in 1999. Ever since then, I've wished I had not. There was an older Beetle in the neighborhood that was slowly rusting away. I never had the courage to ask the owner if they would part with it.
 
 On 20 April, I saw a 1972 Super Beetle up for sale. It seemed like a good opportunity to try again. I asked my wife and she said "sure" without batting an eye. I anticipated some resistance, but there was none to be had. 
 I found my old [Muir book on Beetles](http://www.amazon.com/dp/1566913101) and refreshed my memory on what to look for. Muir wasn't considering a restoration purchase, so I figured I could give on a few of his points.

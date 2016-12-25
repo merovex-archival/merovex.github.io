@@ -22,7 +22,7 @@ tags:
 <!--Lead Paragraph-->
 
 It is a well-known proverb that
-"[t]he road to Washington is paved with good intentions." This year my goal was to deliver an average of 420 words per day, which is 500 words per day, six days per week. Right now [my average is 375 days](/w/writing-progress-2014).
+"[t]he road to Washington is paved with good intentions." This year my goal was to deliver an average of 420 words per day, which is 500 words per day, six days per week. Right now [my average is 375 days](/writing-logs/2014-progress).
 
 <!-- more -->
 In April, I had only five days of actual writing. In those days, I delivered 6,500 words, averaging just over 1,300 words each of those days. So to what do I throw out as a lame excuse for not writing?
