@@ -56,4 +56,4 @@ gem 'kramdown'
 
 # gem 'merovex'
 
-gem 'merovex', :path => "/Users/bwilson/Projects/merovex-theme"
+gem 'merovex'#, :path => "/Users/bwilson/Projects/merovex-theme"
