@@ -248,10 +248,33 @@
 	"buffers":
 	[
 		{
-			"file": "merovex-theme/_includes/js/header.html",
 			"settings":
 			{
-				"buffer_size": 973,
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2015-11-29-audible-2015.md",
+			"settings":
+			{
+				"buffer_size": 5831,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1475,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 5493,
 				"line_ending": "Unix"
 			}
 		}
@@ -280,12 +303,12 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "",
+		"last_filter": "je",
 		"selected_items":
 		[
 			[
 				"je",
-				"Jekyll: Insert current datetime"
+				"Jekyll: Promote draft to post"
 			],
 			[
 				"jek",
@@ -435,14 +458,13 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/js",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_layouts",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_sass"
+		"/Users/bwilson/Sites/merovex.github.io/_includes"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/_old-pages/business-plan.md",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-12-25-audible-2016.md",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/audible-2016.md",
 		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_sass/merovex/_post.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
 		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/moral-premise.md",
@@ -567,10 +589,7 @@
 		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/publishing.md",
 		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/series-plot.md",
 		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/drafting-the-novel.md",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/scene-calculator.md",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/save-the-cat-tips.html",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/million-dollar-outline.md",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/step-1.md"
+		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/scene-calculator.md"
 	],
 	"find":
 	{
@@ -740,30 +759,152 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "merovex-theme/_includes/js/header.html",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 973,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								284,
-								181
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 0,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2015-11-29-audible-2015.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 549,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2197.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1424,
+								1424
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 1,
+								"count": 200,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 367.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 4,
+								"count": 329,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -835,6 +976,18 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"audi",
+				"_posts/2015-11-29-audible-2015.md"
+			],
+			[
+				"audib",
+				"_drafts/audible-2016.md"
+			],
+			[
+				"business",
+				"_old-pages/business-plan.md"
+			],
 			[
 				"_con",
 				"_config.yml"
@@ -1334,18 +1487,6 @@
 			[
 				"postal-ma",
 				"pages/postal-marine-series/index.html"
-			],
-			[
-				"adopt",
-				"_posts/2011-07-09-adopt-the-domino-project-for-your-novels.markdown"
-			],
-			[
-				"awriting",
-				"_posts/2012-03-10-a-writing-standard.markdown"
-			],
-			[
-				"bellicose",
-				"pages/eraroj/bellicose.md"
 			]
 		],
 		"width": 0.0
