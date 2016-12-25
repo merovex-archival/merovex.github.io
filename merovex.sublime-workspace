@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"obje",
+				"object-fit"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"comp",
+				"complement-color"
+			],
+			[
 				"list",
 				"list-style-type"
 			],
@@ -231,6 +247,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "merovex-theme/_includes/js/header.html",
+			"settings":
+			{
+				"buffer_size": 973,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -256,7 +280,7 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "je",
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -411,17 +435,76 @@
 	"expanded_folders":
 	[
 		"/Users/bwilson/Sites/merovex.github.io",
-		"/Users/bwilson/Sites/merovex.github.io/_old-pages/aria/ih",
-		"/Users/bwilson/Sites/merovex.github.io/_old-pages/aria/ih/actions",
-		"/Users/bwilson/Sites/merovex.github.io/_old-pages/aria/ih/tables",
-		"/Users/bwilson/Sites/merovex.github.io/_pages",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_layouts"
+		"/Users/bwilson/Sites/merovex.github.io/merovex-theme",
+		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes",
+		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/js",
+		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_layouts",
+		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_sass"
 	],
 	"file_history":
 	[
-		"/Users/bwilson/Sites/merovex.github.io/_pages/books.md",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/term-term.html",
+		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_sass/merovex/_post.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
+		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/moral-premise.md",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/404.md",
+		"/Users/bwilson/Sites/merovex.github.io/_data/footer-links.yml",
+		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/layout/footer.html",
+		"/Users/bwilson/Sites/merovex.github.io/Rakefile",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/tools/uwp-translator.html",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/categories.html",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-01-26-automating-scrivener-wordcount-log.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/snowflake-method.md",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-02-01-writing-progress-january-2014.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_site/tags/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/tags.html",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-12-30-writing-goals-for-2016.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/tags.md",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-10-03-slothful-september.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-23-writing-goals-for-2015.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-02-15-memories-of-a-vw-bug-roadtrip.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-05-04-shifting-gears-to-save-a-beetle.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-02-machines-like-us.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-03-31-march-slouching-to-publication.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-12-20-retrospective-2014.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-01-21-finished-bellicose-draft.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-06-21-june-a-naughty-boy.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-08-23-jonaldy-ammonett.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-04-29-april-progress-its-not-my-fault.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/books.md",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/book-summary.html",
+		"/Users/bwilson/Sites/merovex.github.io/_books/imbroglio.md",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-08-26-introducing-korektu.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-16-inspiration-for-the-postal-marines.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-07-15-work-in-progress-bellicose.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-05-21-copyright-work-product.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-11-sound-booth-three.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-31-so-im-building-a-vo-sound-booth-2.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-06-28-a-geekier-side-of-me-and-pmwiki.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/writing-standards.md",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/bullet-journal.md",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/hays-code.md",
+		"/Users/bwilson/Sites/merovex.github.io/_old-pages/hays-code.md",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-09-14-agile-publishing-model.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_site/articles/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2010-12-12-when-should-you-register-your-work.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-02-12-additional-progress-tracking.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_writing-logs/2015-progress.md",
+		"/Users/bwilson/Sites/merovex.github.io/_writing-logs/2014-progress.md",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2013-12-31-a-gutsy-year.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2010-12-18-how-i-protect-my-copyright.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/about.md",
+		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_sass/merovex/_variables.scss",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/articles.html",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/home.html",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-10-30-must-barney-die.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-12-23-life-lessons-from-a-seal.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/post-entry-original.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/post-entry.html",
+		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_layouts/default.html",
+		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_sass/_merovex.scss",
+		"/Users/bwilson/Projects/merovex-theme/_sass/merovex/_color-theme.scss",
+		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/card/horizontal.html",
+		"/Users/bwilson/Sites/merovex.github.io/_pages/term-term.html",
 		"/Users/bwilson/Sites/merovex.github.io/data/uwp-translator.json",
 		"/Users/bwilson/Sites/merovex.github.io/wans.md",
 		"/Users/bwilson/Sites/merovex.github.io/_old-pages/aria/ih/index.markdown",
@@ -439,20 +522,14 @@
 		"/Users/bwilson/Sites/merovex.github.io/_pages/astro-empires/index.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_layouts/single.html",
 		"/Users/bwilson/Sites/merovex.github.io/_pages/sales.md",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/about.md",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/404.md",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/bullet-journal.md",
 		"/Users/bwilson/Sites/merovex.github.io/pages/bullet-journal.md",
 		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
 		"/Users/bwilson/Sites/merovex.github.io/f.rb",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/home.html",
 		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/layout/nav-menu.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/email-campaign/inline.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/amcharts/writing/wpd.html",
 		"/Users/bwilson/Sites/merovex.github.io/css/screen.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-logs/2015-progress.md",
 		"/Users/bwilson/Sites/merovex.github.io/assets/js/writing-progress.amchart.js",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-logs/2014-progress.md",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/writing-progress-chart.html",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/sales-chart.html",
 		"/Users/bwilson/Sites/merovex.github.io/assets/js/sales-chart.amchart.js",
@@ -485,7 +562,6 @@
 		"/Users/bwilson/Sites/merovex.github.io/css/print.scss",
 		"/Users/bwilson/Sites/merovex.github.io/css/ie.scss",
 		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_sass/materialize/components/_global.scss",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_layouts/default.html",
 		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/business-plan.md",
 		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/novel-plot.md",
 		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/publishing.md",
@@ -493,60 +569,8 @@
 		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/drafting-the-novel.md",
 		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/scene-calculator.md",
 		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/save-the-cat-tips.html",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/writing-standards.md",
 		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/million-dollar-outline.md",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/snowflake-method.md",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/step-1.md",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/writing-a-novel-series.md",
-		"/Users/bwilson/Sites/merovex.github.io/pages/writing/writing-tools/save-the-cat-tips.html",
-		"/Users/bwilson/Sites/merovex.github.io/pages/savage-worlds/skills.md",
-		"/Users/bwilson/Sites/merovex.github.io/pages/series-fiction-signup.md",
-		"/Users/bwilson/Projects/merovex-theme/_layouts/wide.html",
-		"/Users/bwilson/Sites/merovex.github.io/pages/follow.md",
-		"/Users/bwilson/Sites/merovex.github.io/pages/postal-marine-series/index.html",
-		"/Users/bwilson/Sites/merovex.github.io/pages/articles.html",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/card/vertical.html",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/card/sticky.html",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/card/horizontal.html",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/layout/footer.html",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/js/footer.html",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_sass/materialize/components/_modal.scss",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/js/header.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/email-campaign/modal.html",
-		"/Users/bwilson/Sites/merovex.github.io/.gitignore",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/pullquote.html",
-		"/Users/bwilson/Sites/merovex.github.io/pages/books.md",
-		"/Users/bwilson/Sites/merovex.github.io/_data/navbar-links.yml",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/post/related.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/post/related.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/book-summary.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/footer.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/belly-scripts.html",
-		"/Users/bwilson/Sites/merovex.github.io/blog/index.html",
-		"/Users/bwilson/Sites/merovex.github.io/index.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/material/head.html",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/screen.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/post.html",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/_headers.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/material/navigation.html",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/default.html",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016/style.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_data/members.yml",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/javascripts/highlighting.html",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-10-09-writing-on-github-organizing-the-book.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/materialize/highlight.scss",
-		"/Users/bwilson/Sites/merovex.github.io/assets/js/merovex.coffee",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-08-12-writing-on-github.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/assets/images/mero-logo.svg",
-		"/Users/bwilson/Sites/merovex.github.io/assets/images/merovex.svg",
-		"/Users/bwilson/Sites/merovex.github.io/_site/assets/images/merovex.svg",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/merovex-nav.html",
-		"/Users/bwilson/Sites/merovex.github.io/_site/assets/images/mero-logo.svg",
-		"/Users/bwilson/Sites/merovex.github.io/pages/k-law-checklist.md",
-		"/Users/bwilson/Sites/merovex.github.io/_drafts/github-or-bitbucket.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-10-15-copyright-response.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-05-21-copyright-work-product.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_books/scintilla.md"
+		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/step-1.md"
 	],
 	"find":
 	{
@@ -557,6 +581,8 @@
 		"height": 93.0,
 		"where_history":
 		[
+			"",
+			"*md",
 			"*scss",
 			"-_site",
 			"",
@@ -569,6 +595,57 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"5",
+			"site.data.footer-links['title']['center']",
+			"white-text",
+			"<tr scope='row'>",
+			"<th>",
+			"<tr>",
+			"<th>",
+			"<tr>",
+			"<th>",
+			"td><strong>",
+			"<th",
+			"/postal-marine-series",
+			"/articles",
+			"/postal-marine-series/",
+			"postal-marine-series",
+			"/articles/",
+			"postal",
+			"article",
+			"articles",
+			"/w/writing-tips",
+			"dausha.net",
+			"/articles/when-should-you-register-your-work",
+			"when-should-you-register-your-work",
+			"/postal-marine-series",
+			"#!",
+			"m4",
+			"Don't Ring the Bell:",
+			"m6",
+			"m6 l",
+			" de",
+			"dev",
+			"5",
+			"/>",
+			" title='Beautiful Views Cathedral Cove Beach Sunrise'",
+			"a class='button ",
+			"</div>",
+			"h2",
+			"><div",
+			"http://duosmag-bt9.blogspot.in/2014/04/beautiful-views-cathedral-cove-beach.html",
+			");",
+			" !important",
+			"adjust_hue($brand-color, -120)",
+			"$adjust_hue($brand-color, 120)",
+			"$adjust_hue($brand-color, 180)",
+			"180",
+			"18",
+			"color_value",
+			"#{",
+			"secondary",
+			"complement-color",
+			"{$color}",
 			"m4",
 			"</div>\n    <div class='col s12 m8'>",
 			"form-group ",
@@ -645,58 +722,7 @@
 			"{{site.url}}",
 			"'/",
 			"Confirmax",
-			"confirmax",
-			"Confirmax",
-			"confirmax",
-			"Confirmax",
-			"confirmax",
-			"Confirmax",
-			"confirmax",
-			"Confirmax",
-			"confirmax",
-			"Confirmax",
-			"confirmax",
-			"Confirmax",
-			"#.",
-			"considerax",
-			"Considerax",
-			"revokax",
-			"Revokax",
-			"revokax",
-			"Revokax",
-			"revocax",
-			"Revocax",
-			"revocax",
-			"relaxs",
-			"intenx",
-			"manifestax",
-			"Manifestax",
-			"Construx",
-			"Interpretax",
-			"interpretax",
-			"Interpretax",
-			"negotiax",
-			"formax",
-			"Formax",
-			"  (1)",
-			"Negox",
-			"considerax",
-			"Considerax",
-			"considerax",
-			"Considerax",
-			"opx",
-			"Opx",
-			"opx",
-			"Opx",
-			"opx",
-			"Opx",
-			"15",
-			".\n",
-			"_at: ",
-			"book.path",
-			"postal-marine-series",
-			"book['",
-			"Readme"
+			"confirmax"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -714,8 +740,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "merovex-theme/_includes/js/header.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 973,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -780,6 +836,194 @@
 		"selected_items":
 		[
 			[
+				"_con",
+				"_config.yml"
+			],
+			[
+				"404.",
+				"_pages/404.md"
+			],
+			[
+				"moral",
+				"_writing-tips/moral-premise.md"
+			],
+			[
+				"rake",
+				"Rakefile"
+			],
+			[
+				"uwp",
+				"_pages/tools/uwp-translator.html"
+			],
+			[
+				"snowflake",
+				"_writing-tips/snowflake-method.md"
+			],
+			[
+				"january",
+				"_posts/2014-02-01-writing-progress-january-2014.markdown"
+			],
+			[
+				"autom",
+				"_posts/2016-01-26-automating-scrivener-wordcount-log.markdown"
+			],
+			[
+				"catego",
+				"_pages/categories.html"
+			],
+			[
+				"writing-goals",
+				"_posts/2015-12-30-writing-goals-for-2016.markdown"
+			],
+			[
+				"slothful-september",
+				"_posts/2014-10-03-slothful-september.markdown"
+			],
+			[
+				"memories",
+				"_posts/2015-02-15-memories-of-a-vw-bug-roadtrip.markdown"
+			],
+			[
+				"shifting-gears-to-save-a-beetle",
+				"_posts/2015-05-04-shifting-gears-to-save-a-beetle.markdown"
+			],
+			[
+				"machines",
+				"_posts/2014-11-02-machines-like-us.markdown"
+			],
+			[
+				"finished",
+				"_posts/2014-01-21-finished-bellicose-draft.markdown"
+			],
+			[
+				"retro",
+				"_posts/2014-12-20-retrospective-2014.markdown"
+			],
+			[
+				"slouchin",
+				"_posts/2014-03-31-march-slouching-to-publication.markdown"
+			],
+			[
+				"june",
+				"_posts/2014-06-21-june-a-naughty-boy.markdown"
+			],
+			[
+				"april-progress-its-not-my-fault",
+				"_posts/2014-04-29-april-progress-its-not-my-fault.markdown"
+			],
+			[
+				"jonaldy-ammonett",
+				"_posts/2015-08-23-jonaldy-ammonett.markdown"
+			],
+			[
+				"book-sum",
+				"_includes/book-summary.html"
+			],
+			[
+				"book",
+				"_pages/books.md"
+			],
+			[
+				"introduc",
+				"_posts/2016-08-26-introducing-korektu.markdown"
+			],
+			[
+				"inspiration-for-the-postal-marines",
+				"_posts/2014-11-16-inspiration-for-the-postal-marines.markdown"
+			],
+			[
+				"automating",
+				"_posts/2016-01-26-automating-scrivener-wordcount-log.markdown"
+			],
+			[
+				"work-in-progress-bellicose",
+				"_posts/2012-07-15-work-in-progress-bellicose.markdown"
+			],
+			[
+				"work-pro",
+				"_posts/2016-05-21-copyright-work-product.markdown"
+			],
+			[
+				"a-gee",
+				"_posts/2015-06-28-a-geekier-side-of-me-and-pmwiki.markdown"
+			],
+			[
+				"sound",
+				"_posts/2014-08-31-so-im-building-a-vo-sound-booth-2.markdown"
+			],
+			[
+				"copyright-wor",
+				"_posts/2016-05-21-copyright-work-product.markdown"
+			],
+			[
+				"hays",
+				"_old-pages/hays-code.md"
+			],
+			[
+				"snowfl",
+				"_writing-tips/snowflake-method.md"
+			],
+			[
+				"writing-stan",
+				"_writing-tips/writing-standards.md"
+			],
+			[
+				"agile-pub",
+				"_posts/2012-09-14-agile-publishing-model.markdown"
+			],
+			[
+				"when-should-you-register-your-work",
+				"_posts/2010-12-12-when-should-you-register-your-work.markdown"
+			],
+			[
+				"addition",
+				"_posts/2014-02-12-additional-progress-tracking.markdown"
+			],
+			[
+				"a-gu",
+				"_posts/2013-12-31-a-gutsy-year.markdown"
+			],
+			[
+				"_co",
+				"_config.yml"
+			],
+			[
+				"hay",
+				"_old-pages/hays-code.md"
+			],
+			[
+				"how",
+				"_posts/2010-12-18-how-i-protect-my-copyright.markdown"
+			],
+			[
+				"about",
+				"_pages/about.md"
+			],
+			[
+				"home",
+				"_layouts/home.html"
+			],
+			[
+				"barne",
+				"_posts/2016-10-30-must-barney-die.markdown"
+			],
+			[
+				"art",
+				"_pages/articles.html"
+			],
+			[
+				"seal",
+				"_posts/2015-12-23-life-lessons-from-a-seal.markdown"
+			],
+			[
+				"life",
+				"_posts/2015-12-23-life-lessons-from-a-seal.markdown"
+			],
+			[
+				"arti",
+				"_pages/articles.html"
+			],
+			[
 				"term",
 				"_pages/term-term.html"
 			],
@@ -808,10 +1052,6 @@
 				"_config.yml"
 			],
 			[
-				"home",
-				"_layouts/home.html"
-			],
-			[
 				"writing-progress-201",
 				"older-pages/writing/writing-progress-2014/index.html"
 			],
@@ -822,10 +1062,6 @@
 			[
 				"page.md",
 				"older-pages/astro-empires/advanced-base-guide.md"
-			],
-			[
-				"_con",
-				"_config.yml"
 			],
 			[
 				"_conf",
@@ -850,10 +1086,6 @@
 			[
 				"follow",
 				"pages/follow.md"
-			],
-			[
-				"arti",
-				"pages/articles.html"
 			],
 			[
 				"modal",
@@ -942,10 +1174,6 @@
 			[
 				"layouts/kor",
 				"_layouts/korektu.html"
-			],
-			[
-				"book-sum",
-				"_includes/book-summary.html"
 			],
 			[
 				"korec",
@@ -1112,184 +1340,12 @@
 				"_posts/2011-07-09-adopt-the-domino-project-for-your-novels.markdown"
 			],
 			[
-				"rake",
-				"Rakefile"
-			],
-			[
 				"awriting",
 				"_posts/2012-03-10-a-writing-standard.markdown"
 			],
 			[
-				"hays",
-				"pages/hays-code.md"
-			],
-			[
 				"bellicose",
 				"pages/eraroj/bellicose.md"
-			],
-			[
-				"kor",
-				"_site/korektu/bellicose/index.html"
-			],
-			[
-				"bus",
-				"pages/business-plan.md"
-			],
-			[
-				"39-c",
-				"_posts/2014-10-15-39-cents-a-day.markdown"
-			],
-			[
-				"worldbuilding",
-				"pages/ombrio-wb/worldbuilding-project/index.markdown"
-			],
-			[
-				"world",
-				"_old_includes/shared/worldbuilding_campaign.html"
-			],
-			[
-				"agile",
-				"_posts/2012-09-14-agile-publishing-model.markdown"
-			],
-			[
-				"brav",
-				"articles/building-a-brave-new-world/index.markdown"
-			],
-			[
-				"abo",
-				"pages/about.md"
-			],
-			[
-				"_tag",
-				"_data/tags.yml"
-			],
-			[
-				"_cat",
-				"_data/categories.yml"
-			],
-			[
-				"uns",
-				"_posts/2016-06-18-unsharpening-the-axe.markdown"
-			],
-			[
-				"er",
-				"_includes/material/eraru-header.html"
-			],
-			[
-				"eraru",
-				"_includes/material/eraru-nav.html"
-			],
-			[
-				"pag",
-				"_layouts/page.html"
-			],
-			[
-				"eraru/b",
-				"_site/eraru/bellicose/index.html"
-			],
-			[
-				"eraru/in",
-				"eraru/index.html"
-			],
-			[
-				"belly",
-				"_includes/belly-scripts.html"
-			],
-			[
-				"lic",
-				"LICENSE.md"
-			],
-			[
-				"poli",
-				"pages/policies.md"
-			],
-			[
-				"dice",
-				"pages/diceware.md"
-			],
-			[
-				"unsh",
-				"_posts/2016-06-18-unsharpening-the-axe.markdown"
-			],
-			[
-				"chim",
-				"_includes/forms/mailchimp.html"
-			],
-			[
-				"for",
-				"_includes/forbearance_signup.html"
-			],
-			[
-				"shared",
-				"_includes/shared/astro_empire_header.html"
-			],
-			[
-				"seven-",
-				"pages/astro-empires/seven-ten-guide.md"
-			],
-			[
-				"vw/eng",
-				"pages/vw/engine-build.md"
-			],
-			[
-				"advance",
-				"pages/astro-empires/advanced-base-guide.md"
-			],
-			[
-				"pms.",
-				"_includes/frontpage/pms.html"
-			],
-			[
-				"bellico",
-				"_includes/frontpage/bellicose.html"
-			],
-			[
-				"about",
-				"_includes/frontpage/about.html"
-			],
-			[
-				"books.h",
-				"_includes/books.html"
-			],
-			[
-				"categor",
-				"categories.html"
-			],
-			[
-				"book-su",
-				"_includes/book-summary.html"
-			],
-			[
-				"paginator",
-				"_includes/paginator.html"
-			],
-			[
-				"news/",
-				"news/index.html"
-			],
-			[
-				"new",
-				"news.html"
-			],
-			[
-				"navig",
-				"_includes/navigation.html"
-			],
-			[
-				"index",
-				"index.html"
-			],
-			[
-				"postal-m",
-				"pages/postal-marine-series/index.html"
-			],
-			[
-				"naviga",
-				"_includes/navigation.html"
-			],
-			[
-				"postal-",
-				"pages/postal-marine-series/index.html"
 			]
 		],
 		"width": 0.0
@@ -1320,7 +1376,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 348.0,
+	"side_bar_width": 443.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
