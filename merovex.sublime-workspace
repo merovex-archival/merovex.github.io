@@ -219,6 +219,21 @@
 	},
 	"buffers":
 	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 474,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -249,7 +264,7 @@
 		[
 			[
 				"je",
-				"Jekyll: New draft from template"
+				"Jekyll: Promote draft to post"
 			],
 			[
 				"jeky",
@@ -398,11 +413,11 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/bwilson/Sites/merovex.github.io",
-		"/Users/bwilson/Sites/merovex.github.io/css"
+		"/Users/bwilson/Sites/merovex.github.io"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-12-25-audible-2016.md",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/footer.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/belly-scripts.html",
 		"/Users/bwilson/Sites/merovex.github.io/blog/index.html",
@@ -529,8 +544,7 @@
 		"/Users/bwilson/Sites/merovex.github.io/_includes/frontpage/bellicose.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/frontpage/about.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/books.html",
-		"/Users/bwilson/Sites/merovex.github.io/categories.html",
-		"/Users/bwilson/Sites/merovex.github.io/_sass/2016/_style.scss"
+		"/Users/bwilson/Sites/merovex.github.io/categories.html"
 	],
 	"find":
 	{
@@ -698,8 +712,82 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 0,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Gemfile",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 60,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
