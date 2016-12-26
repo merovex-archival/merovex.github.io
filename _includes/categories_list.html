@@ -1,6 +1,0 @@
-{% for site_category in site.data['categories'] %}{% assign site_key = site_category[0] %}{% assign title = site_category[1] %}{% for category in categories_list %}{% if category[0] == site_key or category[0] == title%}{% assign pages_list = category[1] %}{% assign size = category[1].size %}{%endif%}{%endfor%}
- 	<a class='titlecase collection-item' href='/categories/#{{ site_key }}'>
-		{{title}}
-		<span class='badge'>{{ size }}</span>
-	</a>{% endfor %}
-{% assign categories_list = nil %}

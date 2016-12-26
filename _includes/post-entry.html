@@ -1,0 +1,22 @@
+<div class='row'>
+  <div class="col s12">
+    <div class="card horizontal row hide-on-small-only">
+      <div class="card-image col m6 l4" style="background: url('{{ site.cdn_url }}/images/articles/{{card.photo['image']}}') center / cover">
+        <!-- <img src="" class='valign'> -->
+      </div>
+      <div class="card-stacked col m6 l8">
+        <div class="card-content">
+          <span>
+            <time datetime="{{card.date| date_to_xmlschema }}">{{card.date| date_to_string | upcase}}</time>
+            &mdash;
+            <span>{{card.category| upcase}}</span>
+          </span>
+          <h3 class="card-title activator grey-text text-darken-4">{{card.title}}</h3>
+          <p>{{ card.description | remove:'#'}}</p>
+        </div>
+        <div class="card-action"><a href="{{card.url}}" class='btn'>Read More...</a></div>
+      </div>
+    </div>
+  </div>
+</div>
+

@@ -2,4 +2,82 @@
 # this ensures Jekyll reads the file to be transformed into CSS later
 # only Main files contain this front matter, not partials.
 ---
+@import "materialize-color";
+/*$primary-color: color("grey", "darken-4");*/
+$primary-color: #1b1a1d;
+$primary-color-light: lighten($primary-color, 50%);
+$primary-color-dark: #000;
+/*$secondary-color: color("red", "lighten-1");*/
+$secondary-color: #9D2235; 
+$secondary-color: #cc2d45;
+$accent-color: #cc4a2d;
+
+$success-color: #2b811c;
+$error-color: #d18c9d;
+$link-color: color("blue", "darken-1");
+
+$theme-colors: (
+	"primary-color": 		$primary-color,
+	"primary-color-light": 	$primary-color-light,
+	"primary-color-dark": 	$primary-color-dark,
+	"secondary-color": 		$secondary-color,
+	"accent-color": 		$accent-color,
+	'success-color':		$success-color,
+	'error-color':			$error-color
+);
+@each $color_name, $color_value in $theme-colors {
+	.#{$color_name} {background-color: $color_value !important; }
+	.#{$color_name}-text {color: $color_value !important; }
+}
+#introduction p:first-child:first-letter { @extend .accent-color-text; }
 @import "screen";
+
+
+body {
+	background: #E0E0E0;
+}
+blockquote {
+	border-color: $accent-color;
+}
+.testimonial .card-content {
+	height: 3in;
+}
+#logo-container {
+  fill: #d32f2f;
+  fill: #cc2d45;
+  &:hover, &:focus {
+    fill: #ffcdd2;
+  }
+  svg {
+    height: 42px;
+    margin: 10px 0 0 0;
+  }
+}
+h2 {
+	small {
+		display: block;
+}
+}
+.card {
+	&.large {
+		height: 618px;
+	}
+}
+#markdown-toc {
+	margin-left: 1em;
+	li {
+		list-style-type: disc;
+		margin-left: 1em;
+		ul, ol {
+			li { list-style-type: circle; }
+		}
+	}
+}
+main {
+	a {
+		text-decoration: underline;
+		&:hover {
+			background-color: color('yellow','lighten-1');
+		}
+	}
+}

@@ -23,7 +23,7 @@ tags:
 - Legal
 - Copyright
 ---
-Last week I offered my perspective on [when you should copyright your work](/articles/when-should-you-register-your-work/). After being asked several times how I protect my pre-publication works, I thought I'd offer my approach for your consideration. I defend my works by demonstrating an evolving work.
+Last week I offered my perspective on [when you should copyright your work](/writing/when-should-you-register-your-work/). After being asked several times how I protect my pre-publication works, I thought I'd offer my approach for your consideration. I defend my works by demonstrating an evolving work.
 
 <!-- more -->
 

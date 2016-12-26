@@ -25,13 +25,16 @@ require "date"
 Dir.glob("#{@task_dir}/*.rake").each { |r| import r }
 require 'ra11y'
 require 'html-proofer'
+desc "Test and Release"
 task :deploy do 
   Rake::Task["test"].execute
   Rake::Task["firebird"].execute
 end
+desc "Only send to Firebase"
 task :firebase do
   sh "firebase deploy"
 end
+desc "Test the build"
 task :test do
   
   sh "bundle exec jekyll build"
@@ -44,6 +47,7 @@ task :test do
   Ra11y::Site.new("./_site").run
 end
 
+desc "Check only accessibility."
 task :ra11y do
 	sh "bundle exec jekyll build"
 	Ra11y::Site.new("./_site").run

@@ -1,0 +1,54 @@
+---
+layout: default
+title: "Articles"
+permalink: /articles/
+main_nav: true
+---
+
+{% assign post = site.posts.first %}
+<section class='container'>
+  <div class='row'>
+    <h2 class='col s12'>Top Stories</h2>
+    <div class='col s12 m8'>{% assign post = site.posts.first %}
+      <div class="card large" style="background: radial-gradient(ellipse farthest-corner at center center, rgba(0,0,0,0.3) 20%, rgba(0,0,0,0.6) 100%),url({{ post.photo['image'] | prepend: '/images/articles/' | prepend: site.cdn_url }}) center center no-repeat; background-size: cover;">
+        <div class="card-content white-text">
+          <h2>{{post.title}}</h2>
+          <p>{{ post.content | split:"<!-- more -->" | first |markdownify }}</p>
+          <div class="card-action white-text">
+            <a href="{{post.url}}" class='btn waves-effect waves-light'>Read more...</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='col s12 m4'>{% for post in site.posts limit: 2 offset:1%}
+      <div class="card small" style="background: linear-gradient(
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.6)
+    ),url({{ post.photo['image'] | prepend: '/images/articles/' | prepend: site.cdn_url }}) center center no-repeat; background-size: cover;">
+        <div class="card-content">
+          <h3 class='white-text'>{{post.title}}</h3>
+        </div>
+        <div class="card-action white-text">
+          <a href="{{post.url}}" class='btn waves-effect waves-light'>Read more...</a>
+        </div>
+      </div>{%endfor%}
+    </div>
+  </div>
+</section>
+
+
+
+<!-- Top 3 articles -->
+
+<section id='other-news'>
+  <div class='container'>
+    <div class='row'>
+      <h2 class='col s12'>All the Latest</h2>
+    </div>
+    <div class='row'>{% for card in site.posts offset:4%}
+	  <div class='col s12 m6 l4'>
+	    {% include card/vertical.html %}
+	  </div>{%endfor%}
+    </div>
+  </div>
+</section>
