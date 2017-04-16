@@ -12,6 +12,7 @@ permalink: /tags/
 <!-- site_tags: {{ site_tags }} -->
 {% assign tag_words = site_tags | split:',' | sort %}
 <!-- tag_words: {{ tag_words }} -->
+
 <div class='container z-depth-1'>
   <div class='row'>
   <main class='col l8 m6 s12'>
@@ -22,7 +23,10 @@ permalink: /tags/
     {% for post in site.tags[this_word] reversed %}{% if post.title != null %}
     <div class='collection-item'>
     {% assign pdate = post.created_at %}{% if pdate == ""%}{% assign pdate = post.date %}{%endif%}
-    <span class='entry-date'><time datetime='{{ pdate | date_to_xmlschema }}' itemprop='datePublished'>{{ pdate | date: '%-d %B %Y' }}</time></span> &raquo; {% if post.category == 'speaking' %}<i class='fa fa-microphone'></i> {% endif %}<a href='{{ post.url }}'>{{ post.title }}</a></div>
+    {% unless pdate == blank %}
+    <span class='entry-date'><time datetime='{{ pdate | date_to_xmlschema }}' itemprop='datePublished'>{{ pdate | date: '%-d %B %Y' }}</time></span>
+    {% endunless %}
+    &raquo; {% if post.category == 'speaking' %}<i class='fa fa-microphone'></i> {% endif %}<a href='{{ post.url }}'>{{ post.title }}</a></div>
     {% endif %}{% endfor %}
   </div>
   {% endunless %}{% endfor %}

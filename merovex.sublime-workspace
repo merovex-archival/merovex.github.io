@@ -4,34 +4,6 @@
 		"selected_items":
 		[
 			[
-				"obje",
-				"object-fit"
-			],
-			[
-				"border",
-				"border-radius"
-			],
-			[
-				"wid",
-				"width"
-			],
-			[
-				"comp",
-				"complement-color"
-			],
-			[
-				"list",
-				"list-style-type"
-			],
-			[
-				"padd",
-				"padding-bottom"
-			],
-			[
-				"pad",
-				"padding-bottom"
-			],
-			[
 				"nav",
 				"nav-link"
 			],
@@ -248,7 +220,6 @@
 	"buffers":
 	[
 		{
-<<<<<<< HEAD
 			"settings":
 			{
 				"buffer_size": 0,
@@ -259,13 +230,54 @@
 			"file": "Gemfile",
 			"settings":
 			{
-				"buffer_size": 474,
-=======
-			"file": "merovex-theme/_includes/js/header.html",
+				"buffer_size": 1474,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_drafts/this-is-how-i-work.markdown",
 			"settings":
 			{
-				"buffer_size": 973,
->>>>>>> 16e60a72707b7e937b51da60e4ed59a038438a89
+				"buffer_size": 1344,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_pages/about.md",
+			"settings":
+			{
+				"buffer_size": 5517,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "policies.md",
+			"settings":
+			{
+				"buffer_size": 2673,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "---\ntitle: \"Editorial Standards\"\ndate: 2012-03-10 13:28\npermalink: /standards/\n---\n\n## Overview\n\nAll writings convey a message. Stories have themes and espouse a point of view; typically the author's world view. Many of us aspire to high art, while others just don't care. I'd like to think my writing is decent, though I will readily admit I'm a poor writer of bad Science-Fiction.\n\nMerovex Press reviewed the external standards below in developing its editorial standards. Each of the three harmonize both in worldview and attitude, and Merovex Press seeks to harmonize with these as well. Additionally, Merovex Press seeks to ensure its stories maintain a composite score of 4.0 when measured against the PULS-V Standards Scale described below.\n\n## PULS-V Standards Scale\n\nThe PULS-V Standards Scale measures written content on a five-point Likert scale considering (P)ropriety, Chemical (U)se, (L)anguage, (S)exuality/Nudity and (V)iolence. A five fully meets the ideal for a given standard. One may consider a given standard or average the sum of them for a composite score from 1.0 to 5.0.\n\nPULS-V Standards are described as in the order given with the composite following after a slash. For example: 5432-1/3.0 describes a story with Propriety-5, Chemical Use-4, Language-3, Sexuality-2 and Violence-1 and a composite of 3.0.\n\nA four or five score for a given standard is considered \"acceptable.\" When considering the work via its composite score, a score of 4.5 or higher is deemed suitable for all ages. This denotes either two standards with a four or one standard with a three. A score of 4.0 or higher is suitable for teenagers and adults. Please note that a story could have a standard scored as one and still have a composite 4.2 score if all other standards are five (5555-1/4.2).\n\n#### Propriety\n\nPropriety describes behavior that conforms to established biblical standards of good or proper behavior & manners. This includes lawful and moral behavior, and respect for authority, conviction and religion. Impropriety describes illegal or immoral behavior (not covered elsewhere); includes exploitation of supernatural or paranormal forces. Christian biblical values and world view govern.\n\n* **5 - Propriety shown in positive light**\n* **4 - Mild to moderate impropriety with consequences**\n* 3 - Moderate impropriety without consequences\n* 2 - Moderate impropriety condoned or excused\n* 1 - Extreme portrayals of impropriety condoned or excused\n\n#### Chemical Use (Drugs & Alcohol)\n\n* **5 - None**\n* **4 - Occasional use of legal chemical use by non viewpoint characters**\n* 3 - Historically accurate use of legal chemical use (alcohol, tobacco)\n* 2 - Frequent chemical use (legal or not) with consequences\n* 1 - Frequent chemical use without consequences\n\n#### Language\n\n* **5 - None**\n* **4 - Limited, mildly crude**\n* 3 - Crude language used throughout\n* 2 - Gross sexual language\n* 1 - Biblical profanity \n\n#### Sexuality/Nudity\n\n* **5 - No Sex or Romance**\n* **4 - Romance but no sex**\n* 3 - Inappropriate sexual behavior with consequences; sexual descriptions of characters\n* 2 - Inappropriate sexual behavior without consequences; graphic sexual descriptions of characters\n* 1 - Graphic sexual activity\n\n#### Violence\n\nGratuitous violence is violence for the sake of being violent. Usually associated with low budget movies and cult video games. Given without need or cause, or given disproportional to the cause.\n\n* **5 - None**\n* **4 - Mild, non-gratuitous or comic violence**\n* 3 - Gratuitous violence\n* 2 - Grossly described gratuitous violence\n* 1 - Grossly described gratuitous violence leading to death, dismemberment, \n\n## External Standards\n\nThe following three standards (WestBow Press, Hays, Dove) informed the creation of the PULS-V Standard. They are provided in some detail below to help show the relationship.\n\n* WestBow Press seeks to ensure its authors are committed, active Christians who will avoid undue violence, sex or pro-occult writing; and encourages redemptive living.\n* Hays Code sought to encourage content that did not sympathize with with immorality with appropriate reward or punishment for one's actions\n* Dove provides a numerical standard on six axis [Sex, Language, Violence, Drug use, Nudity and Other (honesty, authority, magic)].\n\n### WestBow Press\n\nTo [publish with WestBow](http://web.archive.org/web/20160404220022/http://www.westbowpress.com/AboutUs/EditorialStandards.aspx), an author must profess a personal faith in Christ, embrace the central tenants of Christianity (as described in the Apostles' and Nicene Creeds) and seek to live according to the standards of biblical morality.\n\nWestBow eschews acts of violence against individuals & institutions; hate speech; detailed descriptions of witchcraft, horror, or magic; profanity; gratuitous violence or sexual content; intellectual property theft; or content that might injure a reader or third party. When there is violence, WestBow expects the description to be minimized.\n\n### Hays Code\n\nThe general purpose of the *[Hays Code](/hays-code/)* was to ensure that cinema would not debase the moral standards of its audience. The sympathy of the audience should never side with crime, wrongdoing, evil or sin. Correct standards of life and lawful behavior should be lauded. Wrong behavior and lawlessness should have consequences.\n\n### Dove Content Rating Standards\n\nThese are the [S,L,V,D,N,O ratings](http://www.dove.org/external/ajax-post.php?p=13080) from [The Dove Foundation](http://www.dove.org/). If any category has less than 3, it is **Approved**. A **Family-Approved Seal** is given when all categories are under 3. If all categories are 0 or 1, then it is considered suitable for all ages.\n\nThe Dove Foundation has **Faith-Friendly Seals**. Movies with this seal are judged according to the same criteria as Family-Approved, except the Christian faith is depicted somewhere in the storyline. A **Faith-Based** seal may be provided to a movie that is considered objectionable except there is a strong Christian theme of redemption.\n\n#### Sex\n\n* **0:\t  none**\n* **1:\t  on-screen acts of romance**\n* **2:\t  infidelity; implied pre-marital sex or secondary lead characters with consequences**\n* 3:\t  inappropriate sexual relations without consequences\n* 4-5:\tgraphic sexual activity is heard and/or seen\n\n#### Language\n\n* **0:\t none**\n* **1:\t few utterances of mild crude language**\n* **2:\tfew utterances of mild obscenity**\n* 3:\t crude and obscene language used throughout the story\n* 4-5:\t any Biblical profanity (GD, Jesus, Jesus Christ) and any uses of gross sexual language\n\n#### Violence\n\n* **0:\t none**\n* **1:\t mild non-graphic violence or comic violence; characters involved in mildly violent situations**\n* **2:\t non-gratuitous violence involving fighting or weapons**\n* 3:\t  gratuitous violence involving weapons such as guns, knives, bombs, etc.\n* 4-5:\t extreme graphic violence, humans are killed in a bloody way, decapitation, bludgeoning, etc.\n\n#### Drugs\n\n* **0:\t none**\n* **1:\t occasional drinking by secondary characters (i.e., man in bar)**\n* **2:\t historically accurate use of alcohol and tobacco products**\n* 3:\t continuous drinking and drug use common throughout\n* 4-5:\t drug/alcohol used many times by main character(s) shown in a positive light\n\n#### Nudity\n\n* **0:\t none**\n* **1:\t baby's behind; shirtless men, low cut shirts, short skirts seen occasionally on women**\n* **2:\t rear nudity that is not suggestive such as skinny dipping from a distance; cleavage**\n* 3:\t sexually suggestive and revealing clothing or underwear is common throughout\n* 4-5:\t frontal nudity\n\n#### Other\n\nLead characters that exhibit disrespect for authority, lying, cheating, stealing, illegal activity, witchcraft or sorcery\n\n* **0:\t none**\n* **1:\t mild-moderate with consequences**\n* **2:\t moderate poor behavior**\n* 3:\t moderate-heavy behavior with no consequences\n* 4-5:\t extreme portrayals, condoned or excused\n\n{% include amcharts/scripts.html %}\n<!-- Chart code -->\n<script>\nvar chart = AmCharts.makeChart( \"chartdiv\", {\n  \"type\": \"radar\",\n  \"theme\": \"light\",\n  \"dataProvider\": [ {\n    \"standard\": \"Propriety\",\n    \"score\": 4\n  }, {\n    \"standard\": \"ChemUse\",\n    \"score\": 4\n  }, {\n    \"standard\": \"Language\",\n    \"score\": 5\n  }, {\n    \"standard\": \"Sex/Nudity\",\n    \"score\": 5\n  }, {\n    \"standard\": \"Violence\",\n    \"score\": 3\n  }],\n  \"valueAxes\": [ {\n    \"gridType\": \"circles\",\n    \"maximum\": 5,\n    \"axisTitleOffset\": 20,\n    \"minimum\": 1,\n    \"axisAlpha\": 0.15\n  } ],\n  \"startDuration\": 2,\n  \"graphs\": [ {\n    \"balloonText\": \"[[value]] score of beer per year\",\n    \"bullet\": \"round\",\n    \"lineThickness\": 2,\n    \"valueField\": \"score\"\n  } ],\n  \"categoryField\": \"standard\",\n  \"export\": {\n    \"enabled\": true\n  }\n} );\n</script>\n\n<!-- HTML -->\n<div id=\"chartdiv\" style=\"\nheight: 600px;\nwidth: 600px;\n\"></div>\n\n* Parochialism—created for the safely defined boundaries of a certain community.\n* Promote strong values.\n* Teach a lesson\n* Happy Ending, Good prevails over evil\n* Adhere to a code of decency--this is changing & some are getting edgier (especially in terms of violence & blood & gore), but there are still boundaries that won’t be crossed, especially in regards to\nsexuality and language.\n* Typical remarks from readers: Christian books leave me feeling hopeful, I enjoy getting a lesson about how to live out",
+			"file": "_writing-tips/writing-standards.md",
+			"file_size": 9358,
+			"file_write_time": 131278791060000000,
+			"settings":
+			{
+				"buffer_size": 9357,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/amcharts/scripts.html",
+			"settings":
+			{
+				"buffer_size": 279,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -299,15 +311,7 @@
 		[
 			[
 				"je",
-<<<<<<< HEAD
-				"Jekyll: Promote draft to post"
-=======
-				"Jekyll: Insert current datetime"
-			],
-			[
-				"jek",
-				"Jekyll: Insert current datetime"
->>>>>>> 16e60a72707b7e937b51da60e4ed59a038438a89
+				"Jekyll: New draft from template"
 			],
 			[
 				"jeky",
@@ -316,6 +320,10 @@
 			[
 				"dra",
 				"Jekyll: New draft from template"
+			],
+			[
+				"jek",
+				"Jekyll: Insert current datetime"
 			],
 			[
 				"j",
@@ -452,17 +460,25 @@
 	},
 	"expanded_folders":
 	[
-<<<<<<< HEAD
-		"/Users/bwilson/Sites/merovex.github.io"
+		"/Users/bwilson/Sites/merovex.github.io",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts",
+		"/Users/bwilson/Sites/merovex.github.io/_includes",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/amcharts",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts",
+		"/Users/bwilson/Sites/merovex.github.io/_sales-charts",
+		"/Users/bwilson/Sites/merovex.github.io/amcharts"
 	],
 	"file_history":
 	[
+		"/Users/bwilson/Sites/merovex.github.io/_pages/tags.html",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/.keep",
+		"/Users/bwilson/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/post.yaml",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/material/head.html",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-12-25-audible-2016.md",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/footer.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/belly-scripts.html",
 		"/Users/bwilson/Sites/merovex.github.io/blog/index.html",
 		"/Users/bwilson/Sites/merovex.github.io/index.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/material/head.html",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/screen.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/post.html",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/_headers.scss",
@@ -470,66 +486,87 @@
 		"/Users/bwilson/Sites/merovex.github.io/_layouts/default.html",
 		"/Users/bwilson/Sites/merovex.github.io/_sass/material-2016/style.scss",
 		"/Users/bwilson/Sites/merovex.github.io/_data/members.yml",
-=======
-		"/Users/bwilson/Sites/merovex.github.io",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/js",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_layouts",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_sass"
-	],
-	"file_history":
-	[
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_sass/merovex/_post.scss",
->>>>>>> 16e60a72707b7e937b51da60e4ed59a038438a89
 		"/Users/bwilson/Sites/merovex.github.io/_config.yml",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/moral-premise.md",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/404.md",
-		"/Users/bwilson/Sites/merovex.github.io/_data/footer-links.yml",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/layout/footer.html",
-		"/Users/bwilson/Sites/merovex.github.io/Rakefile",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/tools/uwp-translator.html",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/categories.html",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-01-26-automating-scrivener-wordcount-log.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/snowflake-method.md",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-02-01-writing-progress-january-2014.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_site/tags/index.html",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/tags.html",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-12-30-writing-goals-for-2016.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/tags.md",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-10-03-slothful-september.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-23-writing-goals-for-2015.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-02-15-memories-of-a-vw-bug-roadtrip.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-05-04-shifting-gears-to-save-a-beetle.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-02-machines-like-us.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-03-31-march-slouching-to-publication.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-12-20-retrospective-2014.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-01-21-finished-bellicose-draft.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-06-21-june-a-naughty-boy.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-08-23-jonaldy-ammonett.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-04-29-april-progress-its-not-my-fault.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/books.md",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/book-summary.html",
-		"/Users/bwilson/Sites/merovex.github.io/_books/imbroglio.md",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-08-26-introducing-korektu.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-16-inspiration-for-the-postal-marines.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-07-15-work-in-progress-bellicose.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/javascripts/highlighting.html",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-10-09-writing-on-github-organizing-the-book.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
+		"/Users/bwilson/Sites/merovex.github.io/_sass/materialize/highlight.scss",
+		"/Users/bwilson/Sites/merovex.github.io/assets/js/merovex.coffee",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-08-12-writing-on-github.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/assets/images/mero-logo.svg",
+		"/Users/bwilson/Sites/merovex.github.io/assets/images/merovex.svg",
+		"/Users/bwilson/Sites/merovex.github.io/_site/assets/images/merovex.svg",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/merovex-nav.html",
+		"/Users/bwilson/Sites/merovex.github.io/_site/assets/images/mero-logo.svg",
+		"/Users/bwilson/Sites/merovex.github.io/pages/k-law-checklist.md",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/github-or-bitbucket.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-10-15-copyright-response.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-05-21-copyright-work-product.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-11-11-sound-booth-three.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-08-31-so-im-building-a-vo-sound-booth-2.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-06-28-a-geekier-side-of-me-and-pmwiki.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/writing-standards.md",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/bullet-journal.md",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/hays-code.md",
-		"/Users/bwilson/Sites/merovex.github.io/_old-pages/hays-code.md",
+		"/Users/bwilson/Sites/merovex.github.io/pages/books.md",
+		"/Users/bwilson/Sites/merovex.github.io/_books/scintilla.md",
+		"/Users/bwilson/Sites/merovex.github.io/_books/luctation.md",
+		"/Users/bwilson/Sites/merovex.github.io/_books/imbroglio.md",
+		"/Users/bwilson/Sites/merovex.github.io/_books/bellicose.md",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/korektu.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/book-summary.html",
+		"/Users/bwilson/Sites/merovex.github.io/pages/korektu/thanks.md",
+		"/Users/bwilson/Sites/merovex.github.io/pages/korektu/bellicose.md",
+		"/Users/bwilson/Sites/merovex.github.io/pages/korektu/scintilla.md",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/book.html",
+		"/Users/bwilson/Sites/merovex.github.io/pages/postal-marine-series/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/booklink_group.html",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/page.html",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-07-03-its-not-really-three-acts.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-01-28-amazon-defines-novel-length.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/forms/mailchimp-full.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/social_networks.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/post_header.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/article_card.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/archive_post.html",
+		"/Users/bwilson/Sites/merovex.github.io/404.md",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/audible-2016.md",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/an-afternoon-on-ancestry.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-11-29-audible-2015.md",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/audible-2016.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/tags/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/_data/tags.yml",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-09-01-review-guide-to-writing-fantasy-and-science-fiction.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-01-26-automating-scrivener-wordcount-log.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/leviticus.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-08-26-introducing-korektu.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/writers-courage.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/atom.xml",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/introducing-korektu.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/soundcloud.html",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/copyright-response.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/head/favicon.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/head/facebook_ogp.html",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/head/twitter_card.html",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-07-23-a-little-worldbuilding.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-11-11-analyzing-spectre.md",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-03-12-murder-on-guna-prime.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_old_includes/frontpage/blog.html",
+		"/Users/bwilson/Sites/merovex.github.io/Rakefile",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2011-07-09-adopt-the-domino-project-for-your-novels.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-03-10-a-writing-standard.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/pages/hays-code.md",
+		"/Users/bwilson/Sites/merovex.github.io/f",
+		"/Users/bwilson/Sites/merovex.github.io/_site/korektu/bellicose/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/pages/eraroj/bellicose.md",
+		"/Users/bwilson/Sites/merovex.github.io/_layouts/eraru.html",
+		"/Users/bwilson/Sites/merovex.github.io/korektu/index.html",
+		"/Users/bwilson/Sites/merovex.github.io/pages/business-plan.md",
+		"/Users/bwilson/Sites/merovex.github.io/_includes/paginator.html",
+		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-10-15-39-cents-a-day.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/writing-on-github.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/articles/building-a-brave-new-world/index.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2012-09-14-agile-publishing-model.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_site/articles/index.html",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2010-12-12-when-should-you-register-your-work.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-02-12-additional-progress-tracking.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-logs/2015-progress.md",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-logs/2014-progress.md",
+		"/Users/bwilson/Sites/merovex.github.io/_old_includes/shared/worldbuilding_campaign.html",
+		"/Users/bwilson/Sites/merovex.github.io/pages/ombrio-wb/worldbuilding-project/index.markdown",
+		"/Users/bwilson/Sites/merovex.github.io/pages/about.md",
+		"/Users/bwilson/Sites/merovex.github.io/_data/categories.yml",
+		"/Users/bwilson/Sites/merovex.github.io/_drafts/a-little-worldbuilding.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2013-12-31-a-gutsy-year.markdown",
-<<<<<<< HEAD
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2014-12-29-building-a-brave-new-world.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-06-18-unsharpening-the-axe.markdown",
 		"/Users/bwilson/Sites/merovex.github.io/pages/10-philosophy-books.md",
@@ -560,91 +597,7 @@
 		"/Users/bwilson/Sites/merovex.github.io/_includes/shared/astro_empire_header.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/frontpage/pms.html",
 		"/Users/bwilson/Sites/merovex.github.io/_includes/frontpage/bellicose.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/frontpage/about.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/books.html",
-		"/Users/bwilson/Sites/merovex.github.io/categories.html"
-=======
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2010-12-18-how-i-protect-my-copyright.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/about.md",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_sass/merovex/_variables.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/articles.html",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/home.html",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2016-10-30-must-barney-die.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_posts/2015-12-23-life-lessons-from-a-seal.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/post-entry-original.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/post-entry.html",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_layouts/default.html",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_sass/_merovex.scss",
-		"/Users/bwilson/Projects/merovex-theme/_sass/merovex/_color-theme.scss",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/card/horizontal.html",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/term-term.html",
-		"/Users/bwilson/Sites/merovex.github.io/data/uwp-translator.json",
-		"/Users/bwilson/Sites/merovex.github.io/wans.md",
-		"/Users/bwilson/Sites/merovex.github.io/_old-pages/aria/ih/index.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/uwp-translator.html",
-		"/Users/bwilson/Sites/merovex.github.io/writing-tips.md",
-		"/Users/bwilson/Sites/merovex.github.io/policies.md",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/astro-empires/small-fleet-doctrine.md",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/astro-empires/seven-ten-guide.md",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/astro-empires/production-structures.md",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/astro-empires/pring-construction-guide.md",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/astro-empires/napkin-combat.md",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/page.html",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/astro-empires/advanced-base-guide.md",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/astro-empires/base-defense-guide.md",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/astro-empires/index.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_layouts/single.html",
-		"/Users/bwilson/Sites/merovex.github.io/_pages/sales.md",
-		"/Users/bwilson/Sites/merovex.github.io/pages/bullet-journal.md",
-		"/Users/bwilson/Sites/merovex.github.io/Gemfile",
-		"/Users/bwilson/Sites/merovex.github.io/f.rb",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/layout/nav-menu.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/email-campaign/inline.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/amcharts/writing/wpd.html",
-		"/Users/bwilson/Sites/merovex.github.io/css/screen.scss",
-		"/Users/bwilson/Sites/merovex.github.io/assets/js/writing-progress.amchart.js",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/writing-progress-chart.html",
-		"/Users/bwilson/Sites/merovex.github.io/_layouts/sales-chart.html",
-		"/Users/bwilson/Sites/merovex.github.io/assets/js/sales-chart.amchart.js",
-		"/Users/bwilson/Sites/merovex.github.io/older-pages/writing/writing-progress-2014/index.html",
-		"/Users/bwilson/Sites/merovex.github.io/2015-progress.md",
-		"/Users/bwilson/Sites/merovex.github.io/2014-progress.md",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/amcharts/writing/daily.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/amcharts/scripts.html",
-		"/Users/bwilson/Sites/merovex.github.io/older-pages/articles.html",
-		"/Users/bwilson/Sites/merovex.github.io/_includes/amcharts/writing/cumulative.html",
-		"/Users/bwilson/Sites/merovex.github.io/pages/sales.md",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_includes/layout/head.html",
-		"/Users/bwilson/Sites/merovex.github.io/older-pages/process.md",
-		"/Users/bwilson/Sites/merovex.github.io/older-pages/astro-empires/advanced-base-guide.md",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_layouts/page.html",
-		"/Users/bwilson/Sites/merovex.github.io/older-pages/sales/index.markdown",
-		"/Users/bwilson/Sites/merovex.github.io/_sales-charts/2015-sales.md",
-		"/Users/bwilson/Sites/merovex.github.io/_sales-charts/2014-sales.md",
-		"/Users/bwilson/Sites/merovex.github.io/older-pages/sales/2014-sales.md",
-		"/Users/bwilson/Sites/merovex.github.io/older-pages/sales/2015-sales.md",
-		"/Users/bwilson/Sites/merovex.github.io/older-pages/map.html",
-		"/Users/bwilson/Sites/merovex.github.io/sitemap.xml",
-		"/Users/bwilson/Sites/merovex.github.io/pages/sitemap.md",
-		"/Users/bwilson/Sites/merovex.github.io/pages/permissions.md",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/developing-characters.md",
-		"/Users/bwilson/Sites/merovex.github.io/index.md",
-		"/Users/bwilson/Sites/merovex.github.io/pages/about.md",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/writing-a-novel-series.md",
-		"/Users/bwilson/Sites/merovex.github.io/css/custom.scss",
-		"/Users/bwilson/Sites/merovex.github.io/css/print.scss",
-		"/Users/bwilson/Sites/merovex.github.io/css/ie.scss",
-		"/Users/bwilson/Sites/merovex.github.io/merovex-theme/_sass/materialize/components/_global.scss",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/business-plan.md",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/novel-plot.md",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/publishing.md",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/series-plot.md",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/drafting-the-novel.md",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/scene-calculator.md",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/save-the-cat-tips.html",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-tips/million-dollar-outline.md",
-		"/Users/bwilson/Sites/merovex.github.io/_writing-a-novel-series/step-1.md"
->>>>>>> 16e60a72707b7e937b51da60e4ed59a038438a89
+		"/Users/bwilson/Sites/merovex.github.io/_includes/frontpage/about.html"
 	],
 	"find":
 	{
@@ -655,8 +608,6 @@
 		"height": 93.0,
 		"where_history":
 		[
-			"",
-			"*md",
 			"*scss",
 			"-_site",
 			"",
@@ -669,118 +620,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"5",
-			"site.data.footer-links['title']['center']",
-			"white-text",
-			"<tr scope='row'>",
-			"<th>",
-			"<tr>",
-			"<th>",
-			"<tr>",
-			"<th>",
-			"td><strong>",
-			"<th",
-			"/postal-marine-series",
-			"/articles",
-			"/postal-marine-series/",
-			"postal-marine-series",
-			"/articles/",
-			"postal",
-			"article",
-			"articles",
-			"/w/writing-tips",
-			"dausha.net",
-			"/articles/when-should-you-register-your-work",
-			"when-should-you-register-your-work",
-			"/postal-marine-series",
-			"#!",
-			"m4",
-			"Don't Ring the Bell:",
-			"m6",
-			"m6 l",
-			" de",
-			"dev",
-			"5",
-			"/>",
-			" title='Beautiful Views Cathedral Cove Beach Sunrise'",
-			"a class='button ",
-			"</div>",
-			"h2",
-			"><div",
-			"http://duosmag-bt9.blogspot.in/2014/04/beautiful-views-cathedral-cove-beach.html",
-			");",
-			" !important",
-			"adjust_hue($brand-color, -120)",
-			"$adjust_hue($brand-color, 120)",
-			"$adjust_hue($brand-color, 180)",
-			"180",
-			"18",
-			"color_value",
-			"#{",
-			"secondary",
-			"complement-color",
-			"{$color}",
-			"m4",
-			"</div>\n    <div class='col s12 m8'>",
-			"form-group ",
-			"col-md-8",
-			"col-md-4",
-			"layout: page",
-			"Page",
-			"page",
-			" :",
-			"lsi",
-			" :",
-			":",
-			" :",
-			": ",
-			":",
-			"new_contents",
-			"bits[0]",
-			"40",
-			" # ",
-			":",
-			"shit",
-			":",
-			"}\n",
-			"col s12 m6",
-			"col-md-12",
-			"https://dausha.s3.amazonaws.com",
-			"col-md-12",
-			"\"breadcrumb\"",
-			"breadcrumb",
-			"navx",
+			" *",
+			"2",
+			"\"score\":",
+			"country",
+			"litres",
+			"## ",
 			"### ",
-			"###",
-			"page",
-			"tip",
-			"testimonial",
-			"20vh",
-			"10vh",
-			"red-text sans",
-			"ratings",
-			"primary",
-			"class=\"cite\"",
-			"h5 class=\"center",
-			"btn",
-			"on...",
-			"on",
-			"#",
-			"card-action",
-			"{{post.title}}",
-			"background-size: cover",
-			"card-title ",
-			"h3",
-			"<h3>",
-			"card",
-			"vertical",
-			"'}}",
-			"{{assign",
-			"='",
-			" = ",
-			"post.photo.image",
-			"<h2>",
-			"s12",
+			"##",
+			",",
+			"created_at",
 			"article",
 			"href",
 			"github",
@@ -796,7 +645,109 @@
 			"{{site.url}}",
 			"'/",
 			"Confirmax",
-			"confirmax"
+			"confirmax",
+			"Confirmax",
+			"confirmax",
+			"Confirmax",
+			"confirmax",
+			"Confirmax",
+			"confirmax",
+			"Confirmax",
+			"confirmax",
+			"Confirmax",
+			"confirmax",
+			"Confirmax",
+			"#.",
+			"considerax",
+			"Considerax",
+			"revokax",
+			"Revokax",
+			"revokax",
+			"Revokax",
+			"revocax",
+			"Revocax",
+			"revocax",
+			"relaxs",
+			"intenx",
+			"manifestax",
+			"Manifestax",
+			"Construx",
+			"Interpretax",
+			"interpretax",
+			"Interpretax",
+			"negotiax",
+			"formax",
+			"Formax",
+			"  (1)",
+			"Negox",
+			"considerax",
+			"Considerax",
+			"considerax",
+			"Considerax",
+			"opx",
+			"Opx",
+			"opx",
+			"Opx",
+			"opx",
+			"Opx",
+			"15",
+			".\n",
+			"_at: ",
+			"book.path",
+			"postal-marine-series",
+			"book['",
+			"Readme",
+			"###",
+			"[",
+			"/characters",
+			"highlighter",
+			"highlighter-rouge",
+			"\n",
+			"`",
+			"```",
+			"at: ",
+			"255",
+			"240",
+			"64",
+			"header",
+			"0",
+			".",
+			"15",
+			"_at: ",
+			"created_at: ",
+			", \ntag",
+			"2016-09-05 06:06:46",
+			"%2F",
+			"\\\"",
+			"12",
+			"meta",
+			"<link",
+			"content=",
+			"post.date",
+			"6-08-20",
+			"08-20",
+			"date",
+			"08-19 1",
+			"kind",
+			"Hay'",
+			"under ",
+			"license:",
+			":",
+			"2",
+			"tabindex=\"",
+			"8",
+			"10",
+			"3",
+			"<span class=\"\">",
+			"             ",
+			"      ",
+			"field select medium",
+			"class=\"req\">*</span>",
+			"<span id=\"req_5\" class=\"req\">*</span>",
+			"notranslate",
+			"<li ",
+			"</li>",
+			"ul>"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -814,16 +765,11 @@
 	"groups":
 	[
 		{
-<<<<<<< HEAD
-			"selected": 1,
-=======
-			"selected": 0,
->>>>>>> 16e60a72707b7e937b51da60e4ed59a038438a89
+			"selected": 5,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-<<<<<<< HEAD
 					"semi_transient": false,
 					"settings":
 					{
@@ -840,16 +786,190 @@
 						],
 						"settings":
 						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_drafts/this-is-how-i-work.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								359
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_pages/about.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5517,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "policies.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2324,
+								2324
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 636.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_writing-tips/writing-standards.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9336,
+								9336
+							]
+						],
+						"settings":
+						{
 							"WordCount":
 							{
 								"changes": 0,
-								"count": 0,
+								"count": 1197,
 								"modified": false,
 								"selection": false,
 								"status": -1,
 								"syntax": "plain text"
 							},
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4540.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_includes/amcharts/scripts.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -857,67 +977,13 @@
 					},
 					"stack_index": 1,
 					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Gemfile",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 474,
-=======
-					"file": "merovex-theme/_includes/js/header.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 973,
->>>>>>> 16e60a72707b7e937b51da60e4ed59a038438a89
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-<<<<<<< HEAD
-								0,
-								0
-=======
-								284,
-								181
->>>>>>> 16e60a72707b7e937b51da60e4ed59a038438a89
-							]
-						],
-						"settings":
-						{
-<<<<<<< HEAD
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 60,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
-=======
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
->>>>>>> 16e60a72707b7e937b51da60e4ed59a038438a89
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
 				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 52.0
+		"height": 25.0
 	},
 	"input":
 	{
@@ -966,7 +1032,7 @@
 	"project": "merovex.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -976,268 +1042,24 @@
 		"selected_items":
 		[
 			[
-				"_con",
-				"_config.yml"
+				"tags",
+				"_pages/tags.html"
 			],
 			[
-				"404.",
-				"_pages/404.md"
-			],
-			[
-				"moral",
-				"_writing-tips/moral-premise.md"
-			],
-			[
-				"rake",
-				"Rakefile"
-			],
-			[
-				"uwp",
-				"_pages/tools/uwp-translator.html"
-			],
-			[
-				"snowflake",
-				"_writing-tips/snowflake-method.md"
-			],
-			[
-				"january",
-				"_posts/2014-02-01-writing-progress-january-2014.markdown"
-			],
-			[
-				"autom",
-				"_posts/2016-01-26-automating-scrivener-wordcount-log.markdown"
-			],
-			[
-				"catego",
-				"_pages/categories.html"
-			],
-			[
-				"writing-goals",
-				"_posts/2015-12-30-writing-goals-for-2016.markdown"
-			],
-			[
-				"slothful-september",
-				"_posts/2014-10-03-slothful-september.markdown"
-			],
-			[
-				"memories",
-				"_posts/2015-02-15-memories-of-a-vw-bug-roadtrip.markdown"
-			],
-			[
-				"shifting-gears-to-save-a-beetle",
-				"_posts/2015-05-04-shifting-gears-to-save-a-beetle.markdown"
-			],
-			[
-				"machines",
-				"_posts/2014-11-02-machines-like-us.markdown"
-			],
-			[
-				"finished",
-				"_posts/2014-01-21-finished-bellicose-draft.markdown"
-			],
-			[
-				"retro",
-				"_posts/2014-12-20-retrospective-2014.markdown"
-			],
-			[
-				"slouchin",
-				"_posts/2014-03-31-march-slouching-to-publication.markdown"
-			],
-			[
-				"june",
-				"_posts/2014-06-21-june-a-naughty-boy.markdown"
-			],
-			[
-				"april-progress-its-not-my-fault",
-				"_posts/2014-04-29-april-progress-its-not-my-fault.markdown"
-			],
-			[
-				"jonaldy-ammonett",
-				"_posts/2015-08-23-jonaldy-ammonett.markdown"
-			],
-			[
-				"book-sum",
-				"_includes/book-summary.html"
-			],
-			[
-				"book",
-				"_pages/books.md"
-			],
-			[
-				"introduc",
-				"_posts/2016-08-26-introducing-korektu.markdown"
-			],
-			[
-				"inspiration-for-the-postal-marines",
-				"_posts/2014-11-16-inspiration-for-the-postal-marines.markdown"
-			],
-			[
-				"automating",
-				"_posts/2016-01-26-automating-scrivener-wordcount-log.markdown"
-			],
-			[
-				"work-in-progress-bellicose",
-				"_posts/2012-07-15-work-in-progress-bellicose.markdown"
-			],
-			[
-				"work-pro",
-				"_posts/2016-05-21-copyright-work-product.markdown"
-			],
-			[
-				"a-gee",
-				"_posts/2015-06-28-a-geekier-side-of-me-and-pmwiki.markdown"
-			],
-			[
-				"sound",
-				"_posts/2014-08-31-so-im-building-a-vo-sound-booth-2.markdown"
-			],
-			[
-				"copyright-wor",
-				"_posts/2016-05-21-copyright-work-product.markdown"
-			],
-			[
-				"hays",
-				"_old-pages/hays-code.md"
-			],
-			[
-				"snowfl",
-				"_writing-tips/snowflake-method.md"
-			],
-			[
-				"writing-stan",
+				"standards",
 				"_writing-tips/writing-standards.md"
-			],
-			[
-				"agile-pub",
-				"_posts/2012-09-14-agile-publishing-model.markdown"
-			],
-			[
-				"when-should-you-register-your-work",
-				"_posts/2010-12-12-when-should-you-register-your-work.markdown"
-			],
-			[
-				"addition",
-				"_posts/2014-02-12-additional-progress-tracking.markdown"
-			],
-			[
-				"a-gu",
-				"_posts/2013-12-31-a-gutsy-year.markdown"
-			],
-			[
-				"_co",
-				"_config.yml"
-			],
-			[
-				"hay",
-				"_old-pages/hays-code.md"
-			],
-			[
-				"how",
-				"_posts/2010-12-18-how-i-protect-my-copyright.markdown"
-			],
-			[
-				"about",
-				"_pages/about.md"
-			],
-			[
-				"home",
-				"_layouts/home.html"
-			],
-			[
-				"barne",
-				"_posts/2016-10-30-must-barney-die.markdown"
-			],
-			[
-				"art",
-				"_pages/articles.html"
-			],
-			[
-				"seal",
-				"_posts/2015-12-23-life-lessons-from-a-seal.markdown"
-			],
-			[
-				"life",
-				"_posts/2015-12-23-life-lessons-from-a-seal.markdown"
-			],
-			[
-				"arti",
-				"_pages/articles.html"
-			],
-			[
-				"term",
-				"_pages/term-term.html"
-			],
-			[
-				"wans",
-				"wans.md"
-			],
-			[
-				"writing-ti",
-				"writing-tips.md"
 			],
 			[
 				"pol",
 				"policies.md"
 			],
 			[
-				"gem",
-				"Gemfile"
+				"about",
+				"_pages/about.md"
 			],
 			[
-				"f",
-				"f.rb"
-			],
-			[
-				"config",
-				"_config.yml"
-			],
-			[
-				"writing-progress-201",
-				"older-pages/writing/writing-progress-2014/index.html"
-			],
-			[
-				"article",
-				"older-pages/articles.html"
-			],
-			[
-				"page.md",
-				"older-pages/astro-empires/advanced-base-guide.md"
-			],
-			[
-				"_conf",
-				"_config.yml"
-			],
-			[
-				"save",
-				"pages/writing/writing-tools/save-the-cat-tips.html"
-			],
-			[
-				"skills",
-				"pages/savage-worlds/skills.md"
-			],
-			[
-				"series-",
-				"pages/series-fiction-signup.md"
-			],
-			[
-				"postal-marines",
-				"pages/postal-marine-series/index.html"
-			],
-			[
-				"follow",
-				"pages/follow.md"
-			],
-			[
-				"modal",
-				"_includes/email-campaign/modal.html"
-			],
-			[
-				"book-summ",
-				"_includes/book-summary.html"
-			],
-			[
-				"books",
-				"pages/books.md"
+				"head",
+				"_includes/material/head.html"
 			],
 			[
 				"foo",
@@ -1280,6 +1102,14 @@
 				"_sass/material-2016/style.scss"
 			],
 			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"_con",
+				"_config.yml"
+			],
+			[
 				"org",
 				"_posts/2016-10-09-writing-on-github-organizing-the-book.markdown"
 			],
@@ -1296,10 +1126,6 @@
 				"_posts/2016-08-12-writing-on-github.markdown"
 			],
 			[
-				"head",
-				"_includes/material/head.html"
-			],
-			[
 				"k-l",
 				"pages/k-law-checklist.md"
 			],
@@ -1314,6 +1140,14 @@
 			[
 				"layouts/kor",
 				"_layouts/korektu.html"
+			],
+			[
+				"book-sum",
+				"_includes/book-summary.html"
+			],
+			[
+				"books",
+				"pages/books.md"
 			],
 			[
 				"korec",
@@ -1480,12 +1314,244 @@
 				"_posts/2011-07-09-adopt-the-domino-project-for-your-novels.markdown"
 			],
 			[
+				"rake",
+				"Rakefile"
+			],
+			[
 				"awriting",
 				"_posts/2012-03-10-a-writing-standard.markdown"
 			],
 			[
+				"hays",
+				"pages/hays-code.md"
+			],
+			[
 				"bellicose",
 				"pages/eraroj/bellicose.md"
+			],
+			[
+				"kor",
+				"_site/korektu/bellicose/index.html"
+			],
+			[
+				"bus",
+				"pages/business-plan.md"
+			],
+			[
+				"39-c",
+				"_posts/2014-10-15-39-cents-a-day.markdown"
+			],
+			[
+				"worldbuilding",
+				"pages/ombrio-wb/worldbuilding-project/index.markdown"
+			],
+			[
+				"world",
+				"_old_includes/shared/worldbuilding_campaign.html"
+			],
+			[
+				"agile",
+				"_posts/2012-09-14-agile-publishing-model.markdown"
+			],
+			[
+				"brav",
+				"articles/building-a-brave-new-world/index.markdown"
+			],
+			[
+				"abo",
+				"pages/about.md"
+			],
+			[
+				"_tag",
+				"_data/tags.yml"
+			],
+			[
+				"_cat",
+				"_data/categories.yml"
+			],
+			[
+				"uns",
+				"_posts/2016-06-18-unsharpening-the-axe.markdown"
+			],
+			[
+				"er",
+				"_includes/material/eraru-header.html"
+			],
+			[
+				"eraru",
+				"_includes/material/eraru-nav.html"
+			],
+			[
+				"pag",
+				"_layouts/page.html"
+			],
+			[
+				"eraru/b",
+				"_site/eraru/bellicose/index.html"
+			],
+			[
+				"eraru/in",
+				"eraru/index.html"
+			],
+			[
+				"belly",
+				"_includes/belly-scripts.html"
+			],
+			[
+				"lic",
+				"LICENSE.md"
+			],
+			[
+				"poli",
+				"pages/policies.md"
+			],
+			[
+				"dice",
+				"pages/diceware.md"
+			],
+			[
+				"unsh",
+				"_posts/2016-06-18-unsharpening-the-axe.markdown"
+			],
+			[
+				"chim",
+				"_includes/forms/mailchimp.html"
+			],
+			[
+				"for",
+				"_includes/forbearance_signup.html"
+			],
+			[
+				"shared",
+				"_includes/shared/astro_empire_header.html"
+			],
+			[
+				"seven-",
+				"pages/astro-empires/seven-ten-guide.md"
+			],
+			[
+				"vw/eng",
+				"pages/vw/engine-build.md"
+			],
+			[
+				"advance",
+				"pages/astro-empires/advanced-base-guide.md"
+			],
+			[
+				"pms.",
+				"_includes/frontpage/pms.html"
+			],
+			[
+				"bellico",
+				"_includes/frontpage/bellicose.html"
+			],
+			[
+				"books.h",
+				"_includes/books.html"
+			],
+			[
+				"categor",
+				"categories.html"
+			],
+			[
+				"book-su",
+				"_includes/book-summary.html"
+			],
+			[
+				"paginator",
+				"_includes/paginator.html"
+			],
+			[
+				"news/",
+				"news/index.html"
+			],
+			[
+				"new",
+				"news.html"
+			],
+			[
+				"navig",
+				"_includes/navigation.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"postal-m",
+				"pages/postal-marine-series/index.html"
+			],
+			[
+				"naviga",
+				"_includes/navigation.html"
+			],
+			[
+				"postal-",
+				"pages/postal-marine-series/index.html"
+			],
+			[
+				"navigation",
+				"_includes/navigation.html"
+			],
+			[
+				"jonaldy",
+				"_posts/2015-08-23-jonaldy-ammonett.markdown"
+			],
+			[
+				"style",
+				"_sass/2015/_style.scss"
+			],
+			[
+				"machines",
+				"_posts/2014-11-02-machines-like-us.markdown"
+			],
+			[
+				"frag",
+				"_posts/2016-02-06-fragile-societies-resilient-citizens.markdown"
+			],
+			[
+				"categories_l",
+				"_includes/categories_list.html"
+			],
+			[
+				"cate",
+				"categories.html"
+			],
+			[
+				"fragil",
+				"_posts/2016-02-06-fragile-societies-resilient-citizens.markdown"
+			],
+			[
+				"typ",
+				"_sass/2015/_typography.scss"
+			],
+			[
+				"post_meta",
+				"_includes/post_meta.html"
+			],
+			[
+				"random",
+				"_posts/2016-02-11-random-car-advice.markdown"
+			],
+			[
+				"car",
+				"_includes/head/twitter_card.html"
+			],
+			[
+				"dictate",
+				"_posts/2016-01-30-dictate-your-book.md"
+			],
+			[
+				"badw",
+				"pages/bad-writing-advice.md"
+			],
+			[
+				"quiet",
+				"_posts/2014-12-07-quiet-rituals.markdown"
+			],
+			[
+				"contras",
+				"pages/contrastier.html"
 			]
 		],
 		"width": 0.0
@@ -1516,7 +1582,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 443.0,
+	"side_bar_width": 485.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

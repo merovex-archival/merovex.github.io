@@ -27,6 +27,7 @@ require 'ra11y'
 require 'html-proofer'
 desc "Test and Release"
 task :deploy do 
+  Rake::Task["build"].execute
   Rake::Task["test"].execute
   Rake::Task["firebird"].execute
 end
@@ -34,21 +35,26 @@ desc "Only send to Firebase"
 task :firebase do
   sh "firebase deploy"
 end
+desc "Just Build the release"
+task :build do
+  sh "bundle exec jekyll build"
+end
 desc "Test the build"
 task :test do
   
-  sh "bundle exec jekyll build"
+  # sh "bundle exec jekyll build"
   HTMLProofer.check_directory(
   	"./_site", {
         :allow_hash_href => true,
         :href_ignore => ["#", "http://www.thedominoproject.com/"],
-        :empty_alt_ignore => true
+        :empty_alt_ignore => true,
+        :only_4xx => true
   }).run
   Ra11y::Site.new("./_site").run
 end
 
 desc "Check only accessibility."
 task :ra11y do
-	sh "bundle exec jekyll build"
+	# sh "bundle exec jekyll build"
 	Ra11y::Site.new("./_site").run
 end
